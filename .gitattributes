@@ -1,0 +1,4 @@
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+worlds/beastshield-reforged/original/images/main-story/** filter=lfs diff=lfs merge=lfs -text
+worlds/beastshield/original/images/main-story** filter=lfs diff=lfs merge=lfs -text
