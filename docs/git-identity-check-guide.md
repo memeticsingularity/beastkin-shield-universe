@@ -8,18 +8,23 @@
 
 欢迎参与 **Beastkin Shield Universe** 项目！为了确保项目协作顺利进行，正确设置Git用户信息至关重要。
 
-Welcome to the **Beastkin Shield Universe** project! To ensure smooth project collaboration, correctly setting your Git
+Welcome to the **Beastkin Shield Universe** project! To ensure smooth project collaboration,
+correctly setting your Git
 user information is crucial.
 
 当你在项目中进行提交时，Git会记录你的姓名和邮箱，这些信息会永久保存在提交历史中。如果设置错误，可能会导致提交者身份混乱，影响项目管理的清晰度。
 
-When you make commits in the project, Git records your name and email, which are permanently stored in the commit
-history. Incorrect settings can lead to confusion about commit authorship, affecting the clarity of project management.
+When you make commits in the project, Git records your name and email, which are permanently stored
+in the commit
+history. Incorrect settings can lead to confusion about commit authorship, affecting the clarity of
+project management.
 
 本指南将详细解释如何检查、设置和修正Git用户信息，特别适合Git新手使用。我们假设你对Git有一定了解，但可能对配置管理不太熟悉。
 
-This guide will explain in detail how to check, set, and correct Git user information, especially suitable for Git
-beginners. We assume you have some understanding of Git but may not be familiar with configuration management.
+This guide will explain in detail how to check, set, and correct Git user information, especially
+suitable for Git
+beginners. We assume you have some understanding of Git but may not be familiar with configuration
+management.
 
 ---
 
@@ -29,7 +34,8 @@ beginners. We assume you have some understanding of Git but may not be familiar 
 
 **简单来说**：确保每次提交都正确地标注你的身份，让其他协作者知道是谁做了哪些修改。
 
-**In simple terms**: Ensure every commit correctly identifies you, so other collaborators know who made which changes.
+**In simple terms**: Ensure every commit correctly identifies you, so other collaborators know who
+made which changes.
 
 **可能出现的问题**：
 
@@ -133,7 +139,8 @@ git config --list --show-origin
 
 这个命令会显示每个配置项来自哪个文件，让你知道哪些设置覆盖了其他设置。
 
-This command shows which file each configuration item comes from, letting you know which settings override others.
+This command shows which file each configuration item comes from, letting you know which settings
+override others.
 
 **重要提示**：Git配置有优先级：
 
@@ -159,7 +166,8 @@ This command shows which file each configuration item comes from, letting you kn
 
 如果你希望在整个 **Beastkin Shield Universe** 项目中使用相同的用户信息：
 
-If you want to use the same user information throughout the entire **Beastkin Shield Universe** project:
+If you want to use the same user information throughout the entire **Beastkin Shield Universe**
+project:
 
 ```bash
 # 进入项目根目录
@@ -183,7 +191,8 @@ git config user.email "your.email@example.com"
 
 如果你需要在不同的子项目中使用不同的身份，可以进入相应目录设置：
 
-If you need to use different identities in different sub-projects, you can enter the corresponding directory to set:
+If you need to use different identities in different sub-projects, you can enter the corresponding
+directory to set:
 
 ```bash
 # 进入子项目目录，例如兽盾新纪元
@@ -207,7 +216,8 @@ git config user.email "subproject.email@example.com"
 
 如果你希望在所有Git项目中使用相同的用户信息（注意：这会覆盖项目特定设置）：
 
-If you want to use the same user information in all Git projects (Note: this will override project-specific settings):
+If you want to use the same user information in all Git projects (Note: this will override
+project-specific settings):
 
 ```bash
 # 设置全局用户名
@@ -227,7 +237,8 @@ git config --global user.email "your.email@example.com"
 
 某些情况下，系统可能有默认设置，你可以检查并覆盖（需要管理员权限）：
 
-In some cases, the system may have default settings that you can check and override (requires admin privileges):
+In some cases, the system may have default settings that you can check and override (requires admin
+privileges):
 
 ```bash
 # 查看系统级配置
@@ -251,7 +262,8 @@ git config --system user.name "Default User Name"
 ### Problem 1: Commits Show Wrong Name or Email
 
 **原因**：可能是你在不同的电脑或项目中使用了不同的配置，或者全局配置覆盖了本地配置。
-**Cause**: You may have used different configurations on different computers or projects, or global configuration
+**Cause**: You may have used different configurations on different computers or projects, or global
+configuration
 overrides local configuration.
 
 **解决方案**：
@@ -309,7 +321,8 @@ git config user.email "1234567+username@users.noreply.github.com"
 
 **解决方案**：为每个项目或子项目单独设置配置，而不是使用全局配置。
 
-**Solution**: Set configuration separately for each project or sub-project, rather than using global configuration.
+**Solution**: Set configuration separately for each project or sub-project, rather than using global
+configuration.
 
 ```bash
 # 进入项目根目录设置主配置
@@ -384,7 +397,8 @@ In IntelliJ IDEA, you can configure Git user information separately for each pro
 
 创建一个检查脚本，快速获取完整信息。将以下内容保存为 `check-git-identity.sh`：
 
-Create a check script to quickly get complete information. Save the following content as `check-git-identity.sh`:
+Create a check script to quickly get complete information. Save the following content as
+`check-git-identity.sh`:
 
 ```bash
 #!/bin/bash
@@ -465,13 +479,18 @@ git config --global --list 2>nul | findstr /r /c:"user\.name" /c:"user\.email" |
 4. **文档化配置**：将你的Git配置记录下来，便于恢复或在新设备上快速设置
 5. **子项目独立配置**：如果参与多个子项目，考虑为每个子项目设置独立的身份
 
-1. **Set dedicated identity for projects**: Especially when participating in open source projects, use project-specific
+1. **Set dedicated identity for projects**: Especially when participating in open source projects,
+   use project-specific
    usernames and emails
-2. **Use consistent naming**: Ensure using the same username across all platforms for easy identification
-3. **Check regularly**: Especially after switching computers or reinstalling the system, check if Git configuration is
+2. **Use consistent naming**: Ensure using the same username across all platforms for easy
+   identification
+3. **Check regularly**: Especially after switching computers or reinstalling the system, check if
+   Git configuration is
    correct
-4. **Document configuration**: Record your Git configuration for easy recovery or quick setup on new devices
-5. **Independent configuration for sub-projects**: If participating in multiple sub-projects, consider setting
+4. **Document configuration**: Record your Git configuration for easy recovery or quick setup on new
+   devices
+5. **Independent configuration for sub-projects**: If participating in multiple sub-projects,
+   consider setting
    independent identities for each sub-project
 
 ---
@@ -488,7 +507,8 @@ git config --global --list 2>nul | findstr /r /c:"user\.name" /c:"user\.email" |
 
 现在你可以自信地进行提交，确保你的贡献被正确记录了！
 
-Properly setting Git user information is fundamental to collaborative development. Through this guide, you should be
+Properly setting Git user information is fundamental to collaborative development. Through this
+guide, you should be
 able to:
 
 1. Check current Git configuration, understand configuration sources and priorities
@@ -519,5 +539,6 @@ If you still have problems after following this guide, you can:
 
 **记住**：正确的Git配置是顺利协作的第一步！花几分钟确保配置正确，可以避免后续的许多问题。
 
-**Remember**: Correct Git configuration is the first step to smooth collaboration! Taking a few minutes to ensure
+**Remember**: Correct Git configuration is the first step to smooth collaboration! Taking a few
+minutes to ensure
 correct configuration can avoid many problems later.

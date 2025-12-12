@@ -10,8 +10,10 @@
 
 Git LFS（Large File Storage）是Git的一个扩展，用于管理大型文件。它会将大文件（如图像、音频、视频等）存储在单独的服务器上，而在Git仓库中只存储指向这些文件的指针。
 
-Git LFS (Large File Storage) is an extension to Git for managing large files. It stores large files (such as images,
-audio, video, etc.) on a separate server, while only storing pointers to these files in the Git repository.
+Git LFS (Large File Storage) is an extension to Git for managing large files. It stores large
+files (such as images,
+audio, video, etc.) on a separate server, while only storing pointers to these files in the Git
+repository.
 
 **为什么我们需要Git LFS？**
 
@@ -35,7 +37,8 @@ audio, video, etc.) on a separate server, while only storing pointers to these f
 
 项目已经配置了 `.gitattributes` 文件，指定了哪些文件类型使用Git LFS管理：
 
-The project already has a `.gitattributes` file configured, specifying which file types are managed by Git LFS:
+The project already has a `.gitattributes` file configured, specifying which file types are managed
+by Git LFS:
 
 ```
 *.png filter=lfs diff=lfs merge=lfs -text
@@ -252,7 +255,8 @@ git lfs pull
 
 项目已经通过 `.gitattributes` 文件配置了哪些文件由Git LFS管理。你可以检查当前跟踪的文件类型：
 
-The project already configures which files are managed by Git LFS through the `.gitattributes` file. You can check
+The project already configures which files are managed by Git LFS through the `.gitattributes` file.
+You can check
 currently tracked file types:
 
 ```bash
@@ -460,7 +464,8 @@ git lfs pull
 ### Problem 1: LFS Files Appear as Pointer Files
 
 **现象**：LFS文件在Git仓库中显示为小文本文件（约130字节），而不是实际的大文件。
-**Symptom**: LFS files appear as small text files (about 130 bytes) in the Git repository instead of actual large files.
+**Symptom**: LFS files appear as small text files (about 130 bytes) in the Git repository instead of
+actual large files.
 
 **原因**：Git LFS过滤器未正确安装或未启用。
 **Cause**: Git LFS filter is not correctly installed or enabled.
@@ -629,7 +634,8 @@ git lfs prune
 
 由于LFS文件存储在单独的服务器上，建议定期备份重要的大文件：
 
-Since LFS files are stored on a separate server, it is recommended to regularly back up important large files:
+Since LFS files are stored on a separate server, it is recommended to regularly back up important
+large files:
 
 ```bash
 # 导出所有LFS对象到本地目录
@@ -808,7 +814,8 @@ Git LFS是管理大型二进制文件的强大工具。通过正确配置和使�
 
 现在你已经掌握了Git LFS的完整知识，可以愉快地管理项目中的大文件了！
 
-Git LFS is a powerful tool for managing large binary files. By properly configuring and using Git LFS, you can:
+Git LFS is a powerful tool for managing large binary files. By properly configuring and using Git
+LFS, you can:
 
 1. Keep Git repositories small and efficient
 2. Easily manage large files like images, audio, video, etc.
