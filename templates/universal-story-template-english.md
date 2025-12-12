@@ -232,6 +232,44 @@
 
 {{Chapter End Mark}}
 
+> *{{Chapter ending words/Story ending words}}*
+
+[//]: # (=== Chapter Ending Words/Story Ending Words Writing Guide ===)
+
+[//]: # (**Position and Function:**)
+
+[//]: # (- **Summarization and Elevation**: After the story concludes, use a concise, evocative sentence to summarize and elevate the story's theme, emotion, or fate.)
+
+[//]: # (- **Leave Room for Imagination**: Provide space for the reader to reflect, prompting thoughts about the story's deeper meaning, character destinies, or world-building.)
+
+[//]: # (- **Continuity and Implication**: In serialized stories, this can hint at future developments or connections to other stories, enhancing overall narrative coherence.)
+
+[//]: # (- **Style Consistency**: Maintain a language style consistent with the story's tone to reinforce the overall atmosphere and emotional impact.)
+
+[//]: # ()
+
+[//]: # (**Writing Suggestions:**)
+
+[//]: # (- **Concise and Powerful**: Usually one to two sentences, avoid being verbose.)
+
+[//]: # (- **Focus on Ambiance**: Emphasize emotion, imagery, or philosophical reflection rather than plot summary.)
+
+[//]: # (- **Bilingual Coordination**: The Chinese and English versions should align in meaning and emotional tone. The English version can be adjusted appropriately to suit linguistic conventions.)
+
+[//]: # (- **Avoid Spoilers**: Do not reveal subsequent plot points or definitive outcomes; maintain openness.)
+
+[//]: # ()
+
+[//]: # (**Format Examples:**)
+
+[//]: # (1.  **Philosophical Type**: *The delivery of desire signed for a life, but will the seed of pity sprout in the darkness?*)
+
+[//]: # (2.  **Open-ended Type**: *The hunt in the darkness continues. Whose cry will be next?*)
+
+[//]: # (3.  **Summarizing Type**: *The gears of fate begin to turn, and an ordinary office worker steps into a dark cycle.*)
+
+[//]: # (4.  **Atmospheric Type**: *The midnight hunt is silent, but the bounty hunter's footsteps
+never cease.*)
 ---
 
 ## Story Commentary and Reflection
