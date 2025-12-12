@@ -7,118 +7,200 @@
 ---
 
 > *Beast Shield Farmhouse*  
-> A burnt-out cattle beastman inherits his grandfather's mysterious experimental farm, only to discover he must use the
-> semen of Beast Shield Company soldiers as "special fertilizer" to grow peculiar crops. Facing a turning point in life
-> and a moral dilemma, he embarks on this dark and absurd path to riches.
+> A salaryman **Bull Beastman Xiao Gu** inherits his grandfather's mysterious experimental farm,
+> only to discover that planting special crops requires the semen of **Beast Shield Company**
+> soldiers
+> as fertilizer. Faced with a turn in his life and a moral dilemma, he embarks on this dark and
+> absurd
+> path to wealth.
 
 ---
 
-My name is **Xiao Gu**, a burnt-out cattle beastman whose career has been going nowhere. Just as I was exhausted and
-ready to give up, my grandfather passed away and left me a farm to inherit.
+My name is **Xiao Gu**, a salaryman **Bull Beastman**. My career has been stagnant. Just as I was
+exhausted and ready to give up, my grandfather conveniently passed away, leaving me a farm to
+inherit.
 
-The farm was in complete disrepair. Behind a dilapidated wooden hut lay a vast field overrun with weeds, where all the
-crops had long since withered.
+The farm is quite dilapidated. Behind a run-down wooden hut lies a whole field overgrown with weeds;
+the crops inside have long since withered.
 
-"Hello, I was your grandfather's friend and colleague. You can call me **Dr. Gu**." Greeting me was an elderly schnauzer
-dog beastman. His attire made him look completely like a farmer, with nothing about him suggesting he was a doctor.
+"Hello, I'm your grandfather's friend and colleague. You can call me **Dr. Gu**." The one who
+received me is an elderly **Schnauzer Dog Beastman**. Looking at his attire, he looks just like a
+farmer, nothing like a doctor.
 
-"Wasn't my grandfather a biochemist? Why would he have a farm?" I voiced the doubt that had been lingering in my mind.
+"Wasn't my grandfather a biochemist? How could he have a farm?" I voiced the question that had been
+lingering in my mind.
 
-"This is an **Experimental Farm**. Naturally, what's planted here aren't ordinary crops. Enough chit-chat, let me test
-you first." With that, **Dr. Gu** tossed me a bag of seeds and a guidebook. "These are the simplest **Brute Force Radish
-** seeds. Grow them for me following the instructions in the book. The materials you need are in the basement of the
-hut. I'll come to collect the goods tomorrow." After saying this, **Dr. Gu** turned and left.
+"This is an **experimental farm**. What's planted here naturally isn't ordinary crops. Enough small
+talk, let me test you first." After saying this, **Dr. Gu** threw me a bag of seeds and a
+guidebook. "These are the simplest **Brute Force Radish** seeds. Plant them according to the
+instructions in the book. The basement in the hut has the materials you need. I'll be back tomorrow
+to collect." **Dr. Gu** then turned and left.
 
-Although utterly confused, I had nothing else to do at the moment, so I started planting this never-before-heard-of
-radish according to the guide's instructions.
+Although confused, I currently had nothing else to do, so I started planting this
+never-before-heard-of radish according to the guidebook.
 
-The initial steps were no different from planting ordinary crops: plowing, sowing, watering, irrigating. However, I
-froze when I reached the fertilization step, which stated that fresh beastman semen was required.
+The initial steps were no different from planting ordinary crops: plowing, sowing, watering,
+irrigating. However, when I saw the fertilization step, I suddenly froze. It said fresh **Beastman**
+semen was needed for fertilization.
 
-Fresh semen? Where could I get that! I couldn't possibly use my own, could I? Was planting a vegetable really worth
-risking my life? That seemed way too cost-ineffective.
+Fresh semen? Where do I get that! I can't use my own! Planting a vegetable shouldn't cost me my
+life, right? That would be far too costly.
 
-Suddenly, I remembered **Dr. Gu** mentioning that the materials I needed were in the basement. Skeptically, I entered
-the wooden hut, searched for over ten minutes, and finally found a hidden panel. Below it was the basement **Dr. Gu**
-had mentioned.
+Suddenly, I remembered **Dr. Gu** saying the basement had the materials I needed. Hesitantly, I
+walked into the hut. After searching for about ten minutes, I finally found a hidden panel.
+Underneath it was the **basement** mentioned by **Dr. Gu**.
 
-As soon as I opened the panel, a series of muffled "mmph mmph" sounds came from inside. I turned on the wall light and
-saw, lying on its side, a bound bear beastman. He was burly and muscular, his eyes blindfolded with black cloth, wearing
-a military green bodysuit. The emblem on his clothes instantly identified him as an employee of the **Beast Shield
-Company**. His two thick calves were bound and stretched across the floor. Only one of his fleshy feet was wearing a
-long white sock; the other white sock was stuffed into his mouth, preventing him from making any sound.
+As soon as I opened the panel, a muffled "Umm..." sound came from inside. I turned on the wall light
+and saw a bound **Bear Beastman** lying on his side inside. He had a stocky, burly build, a black
+cloth covering his eyes, and was wearing a **military-green bodysuit**. The emblem on the suit
+clearly identified him as an employee of the **Beast Shield Company**. His two thick calves were
+tied together, lying horizontally on the floor. Only one of his meaty feet was wearing a long *
+*white sock**; the other **white sock** was stuffed into his mouth, preventing him from making any
+sound.
 
-Seeing it was someone from the **Beast Shield Company**, I didn't hesitate and immediately kicked him, making him grunt
-in pain. The **Beast Shield Company** was notorious, and its employees were no good—just a bunch of bullies who preyed
-on the weak. I had often been harassed by them during my odd jobs.
+Seeing he was from the **Beast Shield Company**, I didn't hesitate and immediately gave him a kick,
+causing him to groan in pain. The **Beast Shield Company** is notorious, and its employees are
+nothing but good-for-nothing bullies who pick on the weak. I was often harassed by them when I was
+working odd jobs.
 
-After venting my anger by beating him up a bit, I hauled the bear beastman to the field. I kicked the back of his knee,
-forcing him to kneel before the plot I had sown. Then, I pulled down his tight shorts and extracted his slightly erect
-bear dick. Immediately, a faint, musky odor wafted out. This bear had been holding his urine for hours, and a few drops
-had probably leaked out when I kicked him earlier.
+After beating him up to vent my anger, I hauled the **Bear Beastman** to the field. I kicked him
+behind the knee, making him kneel before the plot I had sown. Then, I pulled down his **bodysuit
+shorts** and took out his semi-hard **bear cock**. Immediately, a faint, stuffy, sweaty smell wafted
+out. This **bear** had been holding his urine for the several hours he was locked up, and he
+probably leaked a few drops after the kicks I gave him.
 
-Without another word, I gripped the bear dick and started jerking it off. The foreskin was repeatedly pulled back and
-forth, making wet, squelching sounds. Before long, the bear beastman's penis was fully engorged and erect, pushing the
-foreskin all the way back. The bear beastman knew he couldn't hold out much longer and shook his head frantically,
-struggling, his panting growing heavier. I ignored him and continued stroking his rod. Not long after, he suddenly
-stiffened, ceasing his struggles, his brows furrowing tightly together. I knew he had reached his limit. I pulled the
-sock out of his mouth to let him utter his final words.
+Without another word, I grabbed his **bear cock** and started stroking. The foreskin was repeatedly
+pulled back and forth, making a squelching sound. Before long, the **Bear Beastman**'s **meat rod**
+was fully erect, pushing the foreskin back completely. The **Bear Beastman** knew he couldn't hold
+out much longer and shook his head desperately, struggling. His breathing grew heavier and heavier.
+Ignoring him, I continued stroking his **meat rod**. Not long after, he suddenly stiffened and
+stopped struggling, his eyebrows tightly furrowed together. I knew he had reached his limit, so I
+pulled out the **sock** from his mouth, allowing him to utter his last words.
 
-"If you... kill me... the **Beast Shield Company** won't... let you get away with this...!"
+"If you... kill me... the **Beast Shield Company** won't... let you off...!"
 
-Hmph. Even his last words were a threat. He was truly beyond saving.
+Hmph, even his last words are threats. Truly hopeless.
 
-I stuffed the sock back into his mouth, then spat on my palm, grasped the bear beastman's glans, and began twisting and
-rubbing it in a spiral motion, completely disregarding his pleading eyes.
+I stuffed the **sock** back in, then spat on my palm, gripped the **Bear Beastman**'s **glans**, and
+started rubbing it in a circular motion, completely ignoring his pleading eyes.
 
-"Mmgh...!" After a few strokes, the bear beastman arched his back with a loud groan. Then, his bear dick twitched, and a
-thick stream of semen shot out from the tip, flying over two meters away. I immediately pressed his dick downward,
-aiming the urethral opening at the field. With his dick pressed down, the bear beastman's burly body leaned forward
-accordingly. His whole body jerked in rhythm with the pulsations of his ejaculation. One spurt... two spurts... He shot
-over a dozen spurts in a row before exhausting all his semen. After finishing, his soulless body went limp and began
-toppling forward. Quick as lightning, I grabbed the scruff of his neck, lifted him, and slowly laid him backward on the
-ground to prevent his heavy corpse from crushing the crops.
+"Ugh...!" After a few strokes, the **Bear Beastman** arched his back with a loud groan. Then, his *
+*bear cock** twitched, and a thick stream of **semen** shot out from the tip of his **meat rod**,
+flying over two meters away. I immediately pressed his **meat rod** downwards, aiming his **urethral
+opening** at the field. With his **meat rod** pressed, the **Bear Beastman**'s burly body leaned
+forward as well. His entire body twitched in rhythm with his ejaculation. One spurt... two spurts...
+After spurting over a dozen times in a row, he finally shot out all his semen. After ejaculating,
+the **Bear Beastman**'s soulless body went limp and started to topple forward. I was quick to react
+and immediately grabbed the scruff of his neck to lift him, then slowly laid him back on the ground
+to prevent his heavy corpse from crushing the crops.
 
-After all that work, I was panting heavily. I plopped down to rest on the bear beastman's thick leg. I had to admit,
-sitting on this guy's fleshy leg was quite comfortable.
+After all that work, I was panting heavily and plopped down on the **Bear Beastman**'s thick legs to
+catch my breath. I have to say, sitting on this guy's fleshy legs was quite comfortable.
 
-The seeds irrigated with semen began to sprout at a visible rate. At this speed, they would mature by tomorrow. It
-seemed delivering the goods wouldn't be a problem. Happily, I patted the bear beastman's firm buttocks, praising him for
-being qualified fertilizer. The bear beastman merely rolled his eyes and swayed slightly, offering no other response.
+The seeds, irrigated with semen, began to sprout at a visible rate. At this speed, they would mature
+by tomorrow, so delivery shouldn't be a problem. Happily, I patted the **Bear Beastman**'s plump
+buttocks, praising him as a qualified fertilizer. Apart from rolling his eyes and trembling
+slightly, the **Bear Beastman** showed no other reaction.
 
-The next day, **Dr. Gu** arrived as promised. He was very satisfied with the radish I had grown and then paid me my
-reward: one thousand Rubles.
+The next day, **Dr. Gu** arrived as promised. He was very satisfied with the **Radishes** I grew and
+then paid me my reward: a total of one thousand **Lu Bi**.
 
-"My goodness, so much money! I earned in one day what usually takes me a month!"
+"My god, so much money! I earned in one day what I usually make in a month!"
 
-"Haha, this is just the tip of the iceberg. Here, these are the seeds for the next planting. But this time, there's no
-free fertilizer. You'll have to figure it out on your own."
+"Haha, that's just the tip of the iceberg. Here are the seeds for the next batch to plant. However,
+this time, there's no free fertilizer. You'll have to figure it out on your own."
 
-"Ah? That's going to be tough for me," I worried.
+"Ah? That stumps me." I said, worried.
 
-"I believe in you. You are Old Gu's grandson, after all. Oh, I left one **Brute Force Radish** for you. Have a good
-taste of it."
+"I believe in you. You are Old Gu's grandson, after all. Also, I left you one **Brute Force Radish
+**. Give it a good taste."
 
-That night, I sliced the radish into shreds and stir-fried it with some meat I bought. As I ate, I pondered how to
-obtain more beastman semen.
+That night, I shredded the **Radish**, stir-fried it with some bought meat, and ate it while
+pondering how to continue obtaining **Beastman** semen.
 
-Looking at the food before me and the small wooden hut, I suddenly smacked my forehead. Right! I could use this hut as a
-storefront to open a restaurant. Wasn't there a **Beast Shield Company** branch office nearby? I could just drug the
-food and specifically target those **Beast Shield Company** scumbags. Then I wouldn't have to worry about a semen
-source!
+Looking at the food in front of me and the small wooden hut, I suddenly had an idea. That's right! I
+could use this hut as a front to open a restaurant. There happens to be a **Beast Shield Company**
+branch nearby. I'll just drug the food and specifically target those scumbags from the **Beast
+Shield Company**. Then I won't have to worry about a source of semen.
 
-I decided to act immediately. After hurriedly finishing my meal, I began tidying up the wooden hut, completely unaware
-that after eating the radish, my strength had increased several times over!
+Action follows thought. I quickly finished my meal and began cleaning up the hut, not even realizing
+that after eating the **Radish**, my strength had increased several times over compared to before!
 
 ---
 
 **End**
 
-> *The gears of fate begin to turn. An ordinary office worker steps into a dark cycle, and the seed of power has already
-silently sprouted within him.*
+> *The gears of fate begin to turn, and an ordinary office worker steps into a dark cycle, while the
+seeds of power quietly sprout within him.*
+
+---
+
+## Story Commentary and Reflection
+
+> *The following commentary is based on this chapter's story content, written in casual emotional
+language.*
+
+### Their Final Stories
+
+【**Green Uniform Bear Beastman Fertilizer**】
+
+This unlucky **Bear Soldier**, in his green uniform, was probably just a low-level grunt. He was
+tied up by **Dr. Gu** as "start-up material," blindfolded, his own white sock stuffed in his mouth,
+lying on his side in the dark basement for several hours.
+
+Maybe before being delivered, he was boasting to his buddies about where to go drinking after work.
+In the end, he was dragged out by **Xiao Gu**, forced to kneel on the field ridge, unable to even
+see what his opponent looked like before his **bear cock** was grabbed.
+
+His last words were still threats, truly sticking to that **Beast Shield Company** attitude until
+death. That thick **bear dick** shot over a dozen spurts, wetting a patch of the field ridge. When
+he died, his eyes rolled back, his thick legs went limp and floppy, all his strength useless. Those
+plump bear breasts, their outline visible even through the bodysuit, went untouched until death,
+cooling along with his body.
+
+### The People Still Alive
+
+【**Dr. Gu**】
+
+This mysterious **Schnauzer Old Beastman** looks like an old farmer but has quite dark methods. He
+casually procured a **Beast Shield Company** soldier as fertilizer, nonchalantly taught **Xiao Gu**
+how to "dispose" of him, and reminded him there wouldn't be a next time. He certainly knows many
+secrets about this **Experimental Farm** and the **Special Crops**. He is an inscrutable guide. The
+**Brute Force Radish** he gave subtly changed **Xiao Gu**'s physique, pushing this honest bull down
+a path of power he himself hasn't yet realized.
+
+【**Bull Beastman Xiao Gu**】
+
+The protagonist, at first glance, is truly pitiable. A salaryman crushed by life, suddenly inherits
+this bloody business. His hatred for the **Beast Shield Company** is real, so when he dealt with
+that **Bear Soldier**, anger masked his initial fear. Sitting on the **Bear Corpse**'s thick legs
+catching his breath, he might not have fully realized he had taken a life. More crucially, his mind
+works fast. He immediately thought of opening a shady restaurant, drugging food, and sourcing "
+sustainable fertilizer." Kindness and bottom lines begin to waver in the face of survival and "
+business opportunities." He hasn't yet noticed his increased strength after eating the radish. The
+story's foreshadowing is already laid—will he become the kind of guy he once despised, relying on掠夺
+other **male beastmen**'s lives (and semen) to gain power?
+
+### Story Reflection
+
+After reading **Xiao Gu**'s first day, my feelings are mixed.
+
+In this world full of **male beastmen**, he was just a bullied salaryman, but by chance inherited
+this deadly farm. In this male-only world, death and desire are bound too tightly.
+
+A grunt bear becomes fertilizer for radishes, dying in a ridiculous and humiliating way.
+
+A salaryman bull tastes "power" and "money," his eyes starting to gleam in the dark.
+
+The hand that pushes open the door to a new world just twisted the neck of his own kind.
+
+I don't know whether to hope for his success or fear it.
+
+**Dr. Gu** smiles behind the scenes. What kind of "fruit" does he want to cultivate?
+
+The first **Brute Force Radish** is already digested. **Xiao Gu**'s future is probably no longer his
+own to decide.
 
 ---
 
 [Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
-
----

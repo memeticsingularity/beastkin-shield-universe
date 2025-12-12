@@ -2,245 +2,355 @@
 
 ---
 
-[Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
+[Back to Directory](README.md) | [Back to Project Home](../../../../../README.md)
 
 ---
 
 > *Captive Delivery*  
-> An introverted customer receives a special delivery — a **Beast Shield Company** captive. Intending to enjoy the
-> pleasure of execution, he unexpectedly finds himself in an unforeseen interaction that stirs a sense of pity.
+> A reclusive customer receives a special delivery—a **Beast Shield Company** captive. Intending to
+> enjoy the pleasure of execution, he unexpectedly finds himself developing unexpected interactions
+> and pity during the process.
 
 ---
 
-A large wooden crate sits beside my bed. This **Beast Shield** captive cost me a month's wages, a painful purchase. The
-shop's reminder: Customers are advised to execute the captive promptly. **Beast Shield** employees are notoriously
-ferocious; do not attempt to release them.
+A large wooden crate sat beside my bedroom bed—a **Beast Shield Company** captive I had
+painstakingly purchased with a month's salary. The store reminded me: customers are advised to
+execute the captive as soon as possible. Since most **Beast Shield Company** employees are
+inherently fierce and cruel, never attempt to release them.
 
-That's right, this shop essentially sells the *experience* of executing a captive!
+That's right—this store essentially sells the right to enjoy executing captives!
 
-I've been so excited I could barely sleep or eat. I prepared meticulously: showered, changed clothes, even sprayed on
-cologne. Of course, it's not to make a good impression on *him* — that's unnecessary. It's just to create a ritualistic
-atmosphere that excites me more.
+I had been too excited to eat or sleep properly in anticipation of this moment. I bathed, changed
+clothes, and even sprayed on perfume. Of course, this wasn't to make a good impression on the other
+party—that was entirely unnecessary—but to create a ceremonial atmosphere that would arouse me even
+more.
 
-Everything ready, I carefully open the crate like unboxing a mystery prize. A **Tiger Beastman** in dark green **Beast
-Shield** uniform lies quietly inside. His hands are bound behind his back, his legs slightly bent. His boots are off,
-leaving only his **white socks**. His bulky body is curled up, crammed into the box.
+With everything ready, I carefully opened the wooden crate like unboxing a mystery. A **tiger
+beastman** wearing a deep green **Beast Shield Company** uniform lay quietly inside. His hands were
+bound behind his back, his legs slightly bent, his boots removed, leaving only white socks. His
+burly body was curled up, stuffed into the crate.
 
-His eyes are slightly open, whites showing. No breath comes from his gagged mouth. Something feels off. I push him, but
-he doesn't react. I immediately pull down his pants and find the crotch area soaked in thick, white stickiness. Judging
-by the volume, he's probably beyond saving.
+His eyes were slightly open, rolled back, and his gagged mouth showed no breath—this made me feel
+something was off. I tried nudging him, but he showed no reaction. So I immediately pulled open his
+crotch and found it was filled with sticky white fluid. Judging by the amount, he was probably
+beyond saving.
 
-Furious, I call the after-sales number and send a photo to customer service!
+Furious, I dialed the after-sales phone number and sent a photo to customer service!
 
-"What's going on? Why is the captive I bought already dead?"
+"What's going on? Why is the captive I bought already dead!?"
 
-"Dear customer, here's the situation. To prevent the goods from escaping during transport, we insert a *
-*Strength-Draining Rod** into their rear. However, a common occurrence is that the goods can't withstand the journey's
-bumps and... release prematurely during transit. We sincerely apologize. We'll immediately send you a higher-grade
-replacement. Is that acceptable?"
+"Dear customer, it's like this: to prevent the goods from escaping, we always insert a *
+*power-draining rod** into their back hole. Of course, a common situation occurs during transport:
+the goods can't endure the bumps and... discharge on their own. We sincerely apologize. We will
+immediately send you a higher-grade replacement. Is that acceptable?"
 
-I reach between the **Tiger Beastman**'s legs and feel his rear. Sure enough, there's something hard at the opening.
+I reached through the **tiger beastman's** legs and felt around his back hole, finding a hard,
+rod-like object indeed protruding there.
 
-"Fine. Do I need to send this one back?"
+"Alright. Do I need to send this one back to you?"
 
-"No need, dear customer. Once scrapped, it's useless. You may dispose of it yourself~"
+"No need, dear. Since it's already scrapped, it's useless. You can dispose of it yourself~"
 
-I hang up.
+I hung up.
 
-The new delivery will take a while. Might as well have some fun with this one first.
+Since the new delivery would take some time, I might as well get some practice with this one first.
 
-I tip the crate over. The **Tiger Beastman**'s body rolls out, face down on the floor. With no threat, I untie the
-ropes, letting his limbs go limp and free.
+I tipped the wooden crate over, and the **tiger beastman's** body tumbled out, landing face down on
+the floor. Since he posed no threat now, I untied the ropes, letting the **tiger beastman's** limbs
+sprawl freely.
 
-I must say, the shop's quality control is decent. This **Tiger** has broad back muscles and full, round buttocks — rare
-quality even in host clubs.
+Admittedly, the store's quality control was quite good. This **tiger beastman** had broad back
+muscles and full, rounded buttocks—a rare find even in host clubs.
 
-I tickle the sole of his **white-socked** foot. As expected, no reaction. I sniff my finger — a faint sweat smell, not
-unpleasant, even arousing.
+I tickled the soles of his white-socked feet. As expected, no reaction. I sniffed my fingers—only a
+faint trace of sweat, not unpleasant, and even somewhat stimulating.
 
-Then I pull down his army-green **tights**, revealing his plump rear. Two firm buttock muscles tightly clamp a black
-cylinder — must be the **Suppressor** the merchant mentioned. I grip the end and pull. It's stuck tight, coming out
-slowly with a sticky, dry-lubricant sound. Finally, with a *pop*, the **Suppressor** comes out completely. The **Tiger
-**'s puckered hole visibly tightens, closing back to its original form.
+Then I pulled down his military green tights, revealing his plump, upturned buttocks. Two firm
+gluteal muscles tightly clamped a black cylindrical object—likely the **suppressor** the merchant
+mentioned. I gripped the end of the cylinder and pulled. Because it was clamped so tightly,
+extraction was slow, accompanied by sticky sounds from the dried-up lubricant. Finally, with a
+*pop*, the **suppressor** was fully extracted. The wrinkled back hole of the **tiger beastman**
+visibly contracted slowly, closing back to its original form.
 
-I squeeze his buttocks, confirm the doors and windows are locked, then press my face against them, feeling the springy
-texture. The pungent, stale scent of dried semen on his pants filled my nostrils.
+I squeezed the **tiger beastman's** firm buttocks, confirmed that doors and windows were securely
+closed, then pressed my face against them, savoring the resilient texture. Simultaneously, the
+pungent scent of semen from the **tiger beastman's** pants assaulted my nostrils.
 
-I bury my face between his cheeks, nuzzling, while my hands knead his **white-socked** soles. I'm so excited I lose
-myself.
+I buried my face between the **tiger beastman's** thighs, rubbing and moving, while my hands kneaded
+the soles of his white-socked feet. The excitement made me lose myself.
 
-A sudden knock on the door makes me jump up!
+Suddenly, a knock at the door startled me upright!
 
-"Sir, your expedited delivery is here. Please sign."
+"Sir, your expedited delivery has arrived. Please sign for it."
 
-The compensation item has arrived. After signing, I eagerly open the new crate. A burly **Bull Beastman** in
-blue-and-white **singlet wrestling gear** and long **white socks** lies inside, panting heavily.
+The store's compensation had arrived. After signing, I eagerly opened the new wooden crate. Inside
+lay a burly **ox beastman** wearing a blue-and-white wrestling singlet and long white socks, panting
+heavily.
 
-My God, a **Wrestling Soldier**! This is premium goods usually only seen in underground fighting rings! Even a defeated
-corpse is hard to come by!
+My god—it was a **Wrestling Soldier**! A high-grade item usually only seen in underground fighting
+arenas! Even a defeated corpse was hard to come by!
 
-Fresh from the box, the **Bull**'s eyes adjust to the light. He squints, surveying his surroundings. I roll him out.
-When he sees the **Tiger**'s body nearby, he immediately recoils in fear, struggling.
+The **ox beastman**'s eyes hadn't adjusted to the light yet; he squinted, surveying the outside. I
+flipped him out of the crate. When he saw the **tiger beastman's** corpse nearby, he immediately
+panicked, struggling and shrinking back.
 
-"Hey... I didn't kill him." I don't know why I explain.
+"That... I didn't kill him." I don't know why I felt the need to explain.
 
-But the **Bull** clearly doesn't believe me, shaking his head in terror, struggling, making loud thumps on the floor.
+But the **ox beastman** clearly didn't believe me. He shook his head in terror, struggling
+frantically, causing loud thumps on the floor.
 
-"Stop moving! You'll disturb the neighbors!" I'm flustered. I see the discarded **Suppressor** and get an idea.
+"Stop struggling! You'll disturb the neighbors!" I was momentarily at a loss. I spotted the
+discarded **suppressor** nearby and thought of a method.
 
-I squat down, slide my hand up the smooth leg of his wrestling singlet to his rear opening. Sure enough, there's a hard
-object inside. I give it a gentle press.
+I crouched down, slid my hand along the smooth wrestling-singlet fabric at his thigh, felt around
+his back hole, and sure enough, found something hard. I gave it a gentle press.
 
-"Mmph!" The **Bull**'s mountain-like body jolts as if electrocuted. All his muscles lock rigid. He stops struggling. His
-thick **white-socked** legs tremble uncontrollably, toes splayed. Seems like quite a shock.
+"Mmph!" The **ox beastman**'s mountain-like, burly body instantly trembled as if electrocuted. All
+his muscles tensed and locked, ceasing all struggle. His thick white-socked legs trembled
+uncontrollably, toes splayed—apparently quite stimulated.
 
-"Sorry, did I hurt you?" I say anxiously, pulling the **Suppressor** out a bit.
+"Sorry, did I hurt you?" I panicked and apologized while slightly pulling out the **suppressor**.
 
-This doesn't make it better. Instead, he lets out a long, pained moan.
+But this didn't make him feel better; instead, he let out a long whimper.
 
-"You seem so uncomfortable. Should I take it out for you?"
+"You seem so uncomfortable. Should I help you take it out?"
 
-I realize it's not that simple. He's wearing a one-piece wrestling singlet, not like the **Tiger** whose pants could be
-pulled down.
+After saying it, I realized it wasn't that simple. He was wearing a full-body wrestling singlet,
+unlike the previous **tiger beastman**, whose pants could be removed.
 
-So I press my hand against the back of his thigh, reach in through the leg opening, glide over his round, full buttocks,
-and grip the end of the **Suppressor**.
+So, I pressed my hand against the back of his thigh, reached in from the leg opening, glided over
+his round, plump buttocks, and gripped the end of the **suppressor**.
 
-The **Bull** immediately tenses up!
+The **ox beastman** immediately stiffened!
 
-I pull it out bit by bit, careful not to overstimulate him and cause an immediate... release.
+I pulled it out bit by bit, careful not to overstimulate him and make him discharge immediately.
 
-The **Bull** shudders as if enduring immense pain, shaking his head and whimpering. I pause to let him rest.
+The **ox beastman** endured what seemed like immense pain, his whole body shaking incessantly,
+occasionally shaking his head and whimpering. I would pause to let him rest.
 
-Finally, after persistent effort, I extract the **Suppressor**. This one is thirty centimeters long — a whole section
-longer than the **Tiger**'s.
+Finally, after my persistent efforts, I extracted the **suppressor**. This **suppressor** was thirty
+centimeters long—a whole segment longer than the **tiger beastman**'s.
 
-"Top-grade soldier indeed, needs a thicker, longer **Suppressor**!" I stroke his buttocks soothingly, praising him.
+"Truly a high-grade soldier type—even the **suppressor** is thicker and longer!" I patted the **ox
+beastman**'s buttocks in praise and comfort.
 
-The **Bull** doesn't seem proud, just lowers his head in further shame and anger.
+The **ox beastman** didn't seem to take pride in this; he just lowered his head in further shame and
+anger.
 
-With the **Suppressor** out, I eagerly flip the **Bull** onto his back.
+With the **suppressor** removed, I eagerly flipped the **ox beastman** over, face up.
 
-After all that exertion, his **bull cock** is already fully erect, tenting the wrestling singlet into a peak. Pre-cum
-has thoroughly soaked the tip.
+After the earlier ordeal, the **ox beastman**'s ox cock was already standing tall, tenting the
+wrestling singlet into a prominent peak. Pre-cum had already soaked the peak wet.
 
-"Alright, time for the main event." I gently place my palm against the base of his cock, clearly feeling the ridges of
-its veins.
+"Alright, time to get down to business." I gently placed my palm beneath the ox cock, clearly
+feeling the veins and texture.
 
-The **Bull** seems to sense his fate, shaking his head in terror, whimpering incessantly. His cock twitches a few times
-from fright. This mix of fear and lewdness makes me even more uncontrollably aroused.
+The **ox beastman** seemed to foresee his fate, shaking his head in panic, whimpering continuously.
+His cock twitched up and down a few times from fright. This mixture of fear and lewdness made me
+even more uncontrollably aroused.
 
-Seeing him like this, I pity him and remove the gag from his mouth. After all, whatever he says might be his last words.
+Seeing him like this, I pitifully removed the cloth gag from his mouth—after all, whatever he said
+next might be his last words.
 
-"You little punk, I'm warning you, let me go! Or I'll fuck you to death! No, I'll fuck your whole family to death!"
-Though his words are tough, his body trembles violently — clearly a bluff to scare me.
+"You little punk, I'm warning you—let me go, or I'll fuck you to death! No, I'll fuck your whole
+family to death!" Despite the tough talk, his body trembled nonstop—clearly a bluff to intimidate
+me.
 
-Though I'm introverted and timid, I'm not scared by such threats.
+Although I'm introverted and timid, I wasn't scared by such threats.
 
-"Is that so? Then for my family's safety, I really can't let you go." I reply regretfully.
+"Is that so? Then for my family's safety, I really can't let you go." I replied regretfully.
 
-I place my other hand on his massive chest, fingers casually resting on his black-and-pink **nipple**.
+After saying that, I placed my other hand on his massive chest, fingers "accidentally" resting on
+his black-and-pink nipples.
 
-"Ah!" The **Bull** can't help but let out a moan. The stimulation causes his pectoral muscles to contract, making his
-whole chest quiver like it has a tiny motor.
+"Ah!" The **ox beastman** couldn't help but let out a moan. The stimulation caused his pectoral
+muscles to contract, making his entire chest quiver gently like it had a little motor.
 
-"S-sorry, I was talking nonsense just now! Spare me... please!" The **Bull** gives up the tough act when he sees I'm not
-scared.
+"I... I'm sorry! I was talking nonsense earlier! Spare... spare me!" The **ox beastman**, seeing he
+couldn't scare me, became honest.
 
-"Mmm~ That's more like it. Behaving is more likable." I release his nipple, sit cross-legged, drape one of his thick
-legs over my thigh so his calf presses against my already erect cock. I play with his leg — one hand strokes the hem of
-his tight singlet, the other wanders around the cuff of his **white sock**, occasionally slipping inside to pinch his
-calf muscle.
+"Mmm~ That's more like it. Being obedient makes you more likable." I released his nipple, sat
+cross-legged, placed one of his thick legs over my thigh so his calf pressed against my already
+erect cock. My hands played with his thick leg: one hand rubbed back and forth at the opening of his
+tights, the other wandered around the opening of his white sock, occasionally reaching in to pinch
+his calf muscle.
 
-The **Bull** is tormented by this slow, drawn-out "execution," writhing helplessly. His thick bull cock strains against
-the wrestling singlet, rising again and again, only to be frustratingly pressed down each time by the fabric's
-constraint.
+The **ox beastman** was tormented by this drawn-out "death by a thousand cuts," torn between
+resistance and pleasure. His thick ox cock strained upward inside the tight wrestling singlet but
+was repeatedly suppressed, unable to break free.
 
-"Hah... Hah..." The **Bull** pants heavily, face flushed.
+"Huff... huff..." The **ox beastman** panted heavily, face flushed.
 
-I reach in and grip the scorching bull cock.
+I reached in and grasped the scorching ox cock.
 
-"So? Changed your mind? Ready to cum?"
+"Well? Changed your mind and want to cum?"
 
-"N-no... Don't..." The **Bull** mutters "no" in a daze, but his head is nodding.
+"No... don't..." The **ox beastman**, mind foggy, said "no" but nodded.
 
-"Such a liar." I lightly scratch his frenulum as punishment for dishonesty.
+"So dishonest." I lightly scraped his frenulum as punishment.
 
-The **Bull** convulses! His head jerks back, all muscles tense, as if fighting something desperately!
+The **ox beastman** suddenly shuddered, head thrown back, all muscles tightened, as if desperately
+holding back something!
 
-"Is he about to cum already?! I'm not done playing!" I immediately pinch the base of his cock tightly. I can clearly
-feel it has swollen rock-hard.
+"Are you about to cum already?! I haven't had enough fun!" I immediately tightly pinched the base of
+his cock, clearly feeling it had swollen to rigid hardness.
 
-The **Bull** grits his teeth, face扭曲. His hips slowly arch upward. At the highest point, a gasp escapes: "Hah!" A
-stream of pre-cum flows from the tip. But he miraculously holds on!
+The **ox beastman** gritted his teeth, face contorted, hips slowly arching upward. When they reached
+their peak, I heard a gasp: "Hah!" A good amount of pre-cum flowed from the tip of his cock, but he
+miraculously held back!
 
-This seems to drain his energy. He breaks into a cold sweat, panting heavily.
+This seemed to drain a lot of his strength. He broke out in a cold sweat, panting heavily.
 
-His struggle to resist is unbearably tempting. I pretend to reward him by stroking his nipple. Sure enough, not yet
-recovered, he immediately reaches the edge again. He glares at me angrily but lacks the strength to curse, immediately
-focusing all effort on resisting climax!
+His struggle to resist ejaculation drove me wild. So I pretended to reward him by touching his
+nipple. Sure enough, not yet rested, he immediately reached the edge of orgasm again. He glared at
+me angrily but lacked the energy for insults, immediately focusing all effort on resisting
+ejaculation!
 
-He tenses his body, trembling cautiously. His cock is at its limit, veins visibly crisscrossing. He keeps making
-whimpering, almost coquettish sounds. Toes curl into claws inside his **white socks**. He actually succeeds in resisting
-again!
+He tensed his body, trembling cautiously. His cock had swollen to its limit, veins visibly
+crisscrossing. He continuously emitted pleading-like moans, toes in his white socks curled into
+claws. He actually succeeded in resisting ejaculation once more.
 
-Just as I'm about to push him to the edge once more, he finally breaks down and begs.
+Just as I was about to push him to the edge again, he finally couldn't take it and begged for mercy.
 
-"Pl-please stop... I can't take it... One more time... and I'll cum..." His voice even carries a sob.
+"Please... please stop! I can't take it anymore! One more time... I'll cum..." His tone even carried
+a sob.
 
-Seeing his pitiful state, my heart softens. Killing him by making him cum today seems too extravagant. Better keep him
-for slow, extended play.
+Seeing his pitiful appearance, my heart softened instantly. Thinking it would be too extravagant to
+make him cum today, I decided to keep him for slow play.
 
-I reluctantly stroke the massive bull cock, now standing like a leaning tower, and watch with satisfaction as the **Bull
-** shudders.
+I reluctantly stroked the already towering, leaning tower-like giant ox cock, satisfied to see the *
+*ox beastman** shudder.
 
-"Alright, we'll stop here for today. Turn over. I need to insert the **Suppressor**."
+"Alright, that's enough for today. Turn over. I need to reinsert the **suppressor**."
 
-"W-wait!" The **Bull** urgently, shyly cries out. "If I turn over now... I'll... crush myself and cum..."
+"W... wait!" The **ox beastman** urgently and shyly shouted. "Turning over now... I'll... I'll cum
+from my own weight..."
 
-"Fine, fine. We'll do it lying down then. So fussy." I teasingly pinch his cheek.
+"Fine, fine. Then I'll insert it while you're lying down. So fussy." I teasingly pinched his cheek.
 
-The **Bull** turns his head away, biting his lip in羞忿, probably cursing me inwardly.
+The **ox beastman** turned his head away, biting his teeth in shame and anger—probably cursing me
+endlessly in his heart.
 
-I untie the restraints on his ankles, letting him lift his legs and raise his rear himself.
+I untied the restraint on the **ox beastman**'s ankles, letting him lift his legs and raise his
+buttocks himself.
 
-He hesitates, unwilling to make such a羞耻 pose. I have to pinch his glans to make him comply.
+At first, he was reluctant to assume such a humiliating position. I had to pinch his glans before he
+reluctantly complied.
 
-Inserting the **Suppressor** is troublesome. The wrestling singlet blocks the view; I have to blindly feel my way from
-the leg opening. I occasionally brush his prostate, making him moan and beg me to stop, his bull cock twitching wildly.
-Once, he almost cums. His raised **white-socked** legs go stiff, holding the pose desperately, barely managing to hold
-on and save his life.
+Inserting the **suppressor** was not smooth. With the wrestling singlet blocking the view, I
+couldn't see the opening. I could only reach in through the leg opening, relying on feel to blindly
+insert it bit by bit. Occasionally, I'd hit the **ox beastman**'s prostate, making him moan and
+repeatedly shout "stop!" Once, he almost came. His two raised, thick white-socked legs straightened
+stiffly. Holding this position, he struggled desperately, finally managing to hold back and save his
+life.
 
-It takes ten exhausting minutes to get the **Suppressor** in — more tiring than making him cum.
+It took a strenuous ten minutes to insert the **suppressor**—more exhausting than making him cum.
 
-I carefully lower his thick legs and carry him to the bed.
+I carefully lowered his thick legs and carried him to the bed.
 
-"From today, you're my body pillow. No snoring, no moving at night. Understood?"
+"From today on, you're my body pillow. No snoring, no moving at night. Understood?"
 
-The **Bull** nods helplessly. To prevent noise, I stuff one of the **Tiger**'s **white socks** into his mouth. He gags
-twice but dares not resist.
+The **ox beastman** nodded helplessly. To prevent him from making noise, I stuffed the **tiger
+beastman**'s white sock from the floor into his mouth. He gagged twice but didn't dare resist.
 
-Satisfied, I turn off the light, hug the **Bull**'s bulky body, and lie sideways beside him, one leg draped over his
-hard bull cock. The smooth, silky texture of the wrestling singlet rubbing against me is very comfortable. I soon fall
-asleep.
+Satisfied, I turned off the lights and lay beside the **ox beastman**, hugging his burly body, one
+leg draped over his stiff ox cock. The icy silk material of the wrestling singlet felt wonderfully
+smooth and comfortable against my skin. Soon, I drifted into dreamland.
 
-I dream that during the night, my calf keeps rubbing against his bull cock. The **Bull** endures at first but soon
-panics, trying to call for help. Gagged, he can only make muffled "mmph" sounds. Before long, his body goes rigid, and
-then falls silent.
+I dreamed that in the middle of the night, my calf kept rubbing against the ox cock. The **ox
+beastman** could endure at first, but soon panicked and tried to call for help. With his mouth
+gagged, he could only emit muffled "mmph" sounds. Before long, the **ox beastman** stiffened all
+over, then fell silent.
 
-Still asleep, blurring dream and reality, I only feel the massive rod under my knee convulse violently over a dozen
-times. Then a warm, wet stickiness spreads, flowing from my knee down to my toes.
+Still in my dream, unable to distinguish dream from reality, I only felt the giant rod pressed
+against my knee violently convulse over a dozen times. Then, a warm, sticky, slippery sensation
+spread out, flowing from my knee slowly down to my toes.
 
-The **Tiger**, the sole spectator, just lies quietly on the cold floor, staring blankly, unable to say anything.
+The **tiger beastman**, as the sole spectator, simply lay quietly on the cold floor, eyes glazed
+over, watching everything, unable to say a word.
 
 ---
 
 **End**
 
-> *The delivery of desire signs for a life, yet in the darkness, does the seed of pity quietly begin to sprout?*
+> *Desire's delivery signs for a life, but does the seed of pity quietly sprout in the darkness?*
 
 ---
 
-[Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
+## Story Commentary and Reflection
+
+> *The following commentary is based on this chapter's story content, written in casual emotional
+language.*
+
+### Their Final Stories
+
+**【Green Uniform Tiger Beastman Captive】**
+This first tiger was truly unlucky. Probably when **Beast Shield Company** packed and shipped him, a
+thick, hard **power-draining rod** was inserted into his back hole. Bumpy journey the whole way, he
+couldn't endure and ended up rubbing himself to orgasm. By the time he reached the customer, he was
+already a warm corpse flooded with semen. He never even saw the buyer's face, didn't leave a single
+last word—just died miserably in the crate. His muscular tiger body in that green uniform, with full
+buttocks, should have been a premium "plaything," but ended up "scrap." When the protagonist messed
+with his corpse for gratification, he just lay there with rolled-back eyes, letting the other bury
+his face in his semen-soaked crotch and lick and play with his white-socked feet. He knew nothing
+anymore. Those full tiger breasts, that thick tiger cock—all became props for someone else's
+fantasy. Died silently, died inexplicably, without even a name.
+
+**【Blue-White Wrestling Singlet Ox Beastman Captive】**
+This ox brother was probably the most pitiable character in the whole story. Wearing a high-grade *
+*Wrestling Soldier** uniform, body built like a mountain—probably a tough guy in the fighting
+arenas. Ended up a captive, sent over with a longer **suppressor** inserted. He genuinely thought he
+was going to die. Played with by the protagonist, scared and aroused, almost made to cum several
+times, barely holding back each time through sheer will to survive. Touching his nipples made him
+tremble, squeezing his ox cock made him whimper, begging with a sob in his voice. In the end, afraid
+that his own weight would make him cum, he didn't even dare turn over. Yet he still didn't escape.
+Used as a body pillow, hugged while sleeping, unconsciously rubbed against his ox cock in the middle
+of the night, shooting his load in terror and despair, semen flowing down his leg. By daybreak, he'd
+become like that tiger—a cold, semen-drained corpse. He struggled so hard, held back for so long,
+still died. And died more miserably than the tiger—in his sleep, killed by a "kind" customer's most
+unintentional action. Under that icy silk wrestling singlet, he must have had the firmest muscles
+and fullest ox breasts. Pity no one got to properly appreciate them before death, just cooling
+slowly in the smell of semen.
+
+### The People Still Alive
+
+**【Protagonist (I)】**
+This introverted, somewhat perverted customer is such a contradiction. He spent big money on a
+captive, originally to enjoy the thrill of execution, creating all sorts of ceremony, yet got
+aroused even by a dead tiger's corpse. Toward the living **ox beastman**, he had a strange "mercy"
+and "pity"—apologizing, softening, thinking "keep him for slow play." But this "mercy" was the
+cruelest. Making the ox a body pillow, reinserting the **suppressor**, letting him live one more
+night—yet ultimately, unconsciously, killed him in his sleep. He thought he felt "pity," but
+actually just prolonged the death process, making the prey die in deeper fear and more hopeless
+endurance. He probably will never know that his leg-rubbing motion while asleep already took that
+ox's life. Waking up the next day, he'll just have two corpses. He thinks he "softened," but
+actually just was "slow." In this cruel game, he's both consumer and executioner—he just hasn't
+fully realized it yet.
+
+### Story Reflection
+
+After reading this story, my heart feels heavy.
+In this twisted world where money can buy a life to play with, the **protagonist** thinks he's an
+exception—he "softened," he "couldn't bear" to kill that ox immediately.
+But that's precisely the most ironic part.
+His "reluctance" became the cruelest torment for that ox. Making the ox repeatedly edge toward
+orgasm, making him suffer repeatedly between fear and pleasure, finally giving a false hope ("keep
+for slow play"), then snuffing it out in the most inadvertent way.
+That ox, until death, probably still clung to the fantasy of "maybe I can survive."
+And that tiger didn't even have the qualification to fantasize—died directly during transport.
+There are no winners in this story.
+The **protagonist** bought two corpses and a night of twisted pleasure.
+The **tiger** and the **ox**, in different ways, both became semen-drained ghosts.
+That captive-selling store casually handles "after-sales"—a life, in their words, is just "scrapped
+goods."
+In this world, life is clearly priced, death packaged as entertainment, even "pity" becomes a tool
+to prolong suffering.
+That ox's final tremble and whimper, the protagonist's unconscious rubbing in his dream, the
+long-dried white fluid on the tiger's corpse... Pieced together, this isn't some steamy story, but a
+delicate, cruel, end-of-the-world ukiyo-e painting.
+Desire's delivery always signs for death.
+And that self-proclaimed sprouting "seed of pity"—it never truly existed.
 
 ---
+
+[Back to Directory](README.md) | [Back to Project Home](../../../../../README.md)

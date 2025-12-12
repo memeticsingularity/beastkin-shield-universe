@@ -7,359 +7,427 @@
 ---
 
 > *Blackstone*  
-> A black-skinned bull bounty hunter infiltrates a hotel used by a Beast Shield Company squad, systematically
-> eliminating its members while navigating the company's brutal and chaotic internal culture.
+> Bounty hunter **Blackstone** is tasked with hunting down a **Beast Shield Company** squad. He
+> infiltrates the inn where the squad is resting, utilizing disguise and strength to eliminate
+> targets
+> one by one within the chaotic and indulgent enemy ranks.
 
 ---
 
-On the outskirts of a mountain forest inn, a pure black-skinned **Bull Beastman** was lying in wait. His codename was *
-*Blackstone**, a criminal bounty hunter.
-
-Today, a small **Beast Shield Company** squad had booked this inn, resting inside to recuperate. **Blackstone**'s target
-was precisely this **Beast Shield Company** squad.
-
-The inn door opened, and a green-uniformed **Brown Bear Guard** walked out, lighting a cigarette under a streetlight. *
-*Blackstone** knew his chance had come and stealthily crept up behind the bear guard.
-
-This **Bear Beastman** was stout and broad-shouldered, with a fierce-looking face—clearly not someone to be trifled
-with. **Blackstone** seized the moment, striking from behind, wrapping an arm around the bear's throat in a chokehold.
-The bear's newly lit cigarette, having taken only one drag, fell to the ground. Before he could utter a sound, he was
-tightly controlled by **Blackstone**, whose physique was even more robust. **Blackstone** had no special skills; his
-only advantage was his immense strength.
-
-"Cough... Cough... Who... cough..." The choked bear struggled desperately, but it was useless against **Blackstone**'s
-grip. His face flushed red from lack of oxygen, and his two thick legs, clad in white socks, kicked and thrashed on the
-ground.
-
-**Blackstone** was in no hurry to execute him. He only needed one arm to lock the **Bear Beastman**'s throat, rendering
-him unable to escape. With his other hand, he felt for and tossed away the walkie-talkie on the bear's waist, then
-calmly waited for the **Bear Beastman** to suffocate.
-
-It didn't take long. The bear's struggles grew weaker, his eyes gradually glazing over. His body transitioned from
-struggling to twitching. His lower body slowly hardened, tenting his dark green tights and erecting a majestic peak,
-from which a faint, fleshy pink hue could be glimpsed. Prostatic fluid seeped from the tip, gathering into a glistening,
-sticky bead at the peak.
-
-Seeing the timing was ripe, **Blackstone** gently pulled down the **Bear Beastman**'s tights, letting the thick-veined,
-swollen-red **Bear Cock** emerge. The newly exposed **Bear Cock** steamed with heat, eagerly nodding. A silvery strand
-of pre-cum impatiently flowed from the slit.
-
-**Blackstone** wasted no words, gripping the **Bear Cock** and starting to stroke.
-
-The moment his own flesh was enveloped by **Blackstone**'s palm, the semi-conscious **Bear Beastman** shuddered all
-over. Stimulated by the warmth of **Blackstone**'s palm, his already limp white-socked meaty legs kicked reflexively a
-few more times. His cock, pushed to its limit, couldn't withstand much handling. After just a few strokes from *
-*Blackstone**, the **Bear Beastman**'s lower body jerked, and he gurgled as he shot his load. Thick jets of cum
-accompanied the bear's dry coughs, splattering with wet *plops* onto the grass, adding a hint of musky scent to the
-forest air.
-
-After seven or eight spurts, the **Bear Beastman** stopped twitching. His body went limp, collapsing into **Blackstone
-**'s arms. The experienced **Blackstone**, taking no chances, forcefully stroked the **Bear Cock** a few more times,
-squeezing out all remaining semen to prevent any feigned death and sudden attack. Only after confirming the **Bear
-Beastman** was truly dead did **Blackstone** release the arm choking the bear's throat, letting the corpse slide to the
-ground. He then lifted the bear's arm, dragging him into nearby bushes.
-
-After dragging him dozens of meters, **Blackstone** propped the **Bear Beastman**'s corpse against a tree trunk. Lifting
-the bear's chin, he took out his phone and snapped a picture of his lifeless, wide-eyed expression. Unlike his fierce
-appearance in life, the dead **Bear Beastman**'s eyes were glazed, his face full of terror, like a child who had done
-something wrong awaiting punishment.
-
-"How cute," **Blackstone** muttered, putting away his phone and pinching the bear's wooden face. He then stripped the
-bear of all his clothes.
-
-According to the bounty collection rules, two steps were required to claim the reward: first, kill a **Beast Shield
-Company** member and photograph their death pose; second, take one of their socks imprinted with their ID number as
-proof of the kill. The **Special Agent Bureau** would then cross-reference the member list obtained by hacking the *
-*Beast Shield Company** personnel network to verify the ID number before issuing the bounty. **Blackstone** had
-completed step one, but his target was the entire squad. So, he put on all of the **Bear Beastman**'s uniform, intending
-to infiltrate the inn for further action—including those white socks with the ID number.
-
-Most **Beast Shield Company** members were criminals and ruffians. Their recruitment process was crude, and members
-often went missing or died, leading to frequent turnover. Colleagues mostly didn't know each other, especially these
-lowly green-uniformed guard grunts. Likely, until this naked **Bear Beastman** corpse decomposed, the **Beast Shield
-Company** wouldn't even notice his disappearance.
+On the outskirts of the **Mountain Forest Inn**, a pure black-skinned **Bull Beastman** was lying in
+wait. His code name was **Blackstone**, a bounty hunter specializing in criminals.
+
+Today, a **Beast Shield Company** squad had booked the entire inn and was resting inside, awaiting
+orders. **Blackstone**'s target was this **Beast Shield Company** squad.
+
+The inn door opened, and a green-uniformed **Brown Bear Guard** walked out, lighting a cigarette
+under a streetlamp. **Blackstone** knew his opportunity had come and stealthily approached from
+behind the **Brown Bear Guard**.
+
+This **Brown Bear** had a burly, muscular build with a fierce expression, clearly not an easy mark.
+**Blackstone** seized the moment, striking from behind and locking an arm around his throat. The *
+*Brown Bear**'s freshly lit cigarette, having only been inhaled once, fell to the ground. Before he
+could even make a sound, he was completely subdued by **Blackstone**, who was even more robust than
+him. **Blackstone** had no special skills; his immense strength was his only advantage.
+
+"Cough... cough... Who are you... cough..." The choked **Brown Bear** struggled desperately, but it
+was useless against **Blackstone**'s restraint. His face flushed red from lack of oxygen, and his
+thick legs clad in **white socks** kicked and thrashed wildly on the ground.
+
+**Blackstone** was in no rush to finish him off. With just one arm locking the **Bear Beastman**'s
+neck, the target couldn't break free. His other hand searched for the **walkie-talkie** on the *
+*Beastman**'s waist, tossing it aside, then calmly waited for the **Beastman** to suffocate.
+
+Soon, the **Bear Beastman**'s struggles weakened, his eyes growing vacant. His body shifted from
+struggling to twitching. His lower body slowly began to harden, straining the dark green **tights**
+and raising a majestic peak, from which a faint, meaty pink hue could be discerned. Prostatic fluid
+seeped from the tip, condensing into a glistening, sticky bead at the summit.
+
+Seeing the time was ripe, **Blackstone** gently pulled down the **Bear Beastman**'s **tights**,
+letting the thick-veined, engorged red **bear cock** emerge. The newly exposed **bear cock** emitted
+steam and eagerly nodded, a silvery thread of pre-cum eagerly leaking from the slit.
+
+Without a word, **Blackstone** grasped the **bear cock** and began to stroke.
+
+The moment his **meat rod** was enveloped by **Blackstone**'s palm, the dazed **Bear Beastman**
+trembled all over. Stimulated by the warmth of **Blackstone**'s palm, his already spent, *
+*white-socked** fleshy legs briefly revived, kicking a few more times. The **meat rod**, pushed to
+its limit, couldn't withstand much handling. After just a few strokes from **Blackstone**, the *
+*Bear Beastman** thrust his hips forward and spurted **semen** with muffled grunts. Gush after gush
+of thick cum shot from the slit with the **Beastman**'s dry coughs, making soft *splat* sounds as it
+landed on the grass, adding a hint of musky scent to the forest air.
+
+After about seven or eight spurts, the **Bear Beastman** stopped twitching. His body went limp and
+slumped into **Blackstone**'s arms. The experienced **Blackstone** didn't let his guard down,
+vigorously pumping the **bear cock** a few more times to squeeze out all the remaining **semen**,
+preventing any possibility of the **Bear Beastman** feigning death and retaliating. Only after
+confirming the **Bear Beastman** was truly dead did **Blackstone** release his hold on the throat,
+letting the corpse slide to the ground. He then hoisted the body under the arms and dragged it into
+nearby bushes.
+
+After dragging it several dozen meters, **Blackstone** propped the **Bear Beastman**'s corpse
+against a tree trunk. Lifting the **Bear Beastman**'s chin, he took out his **phone** and snapped a
+photo of his lifeless, staring expression. Unlike his fierce appearance in life, the dead **Bear
+Beastman** had vacant eyes and a face full of terror, like a child awaiting punishment for misdeeds.
+
+"Truly adorable," **Blackstone** murmured, putting away the **phone** and pinching the **Bear
+Beastman**'s numb cheek. He then stripped the **Bear Beastman** of all his clothes.
+
+According to bounty claim rules, collecting the **bounty** required two steps: first, killing the *
+*Beast Shield Company** member and photographing his death state; second, taking one of his numbered
+**socks** as proof of the kill. Subsequently, the **Special Agent Bureau** would cross-check the
+member list obtained by hacking into the **Beast Shield Company** personnel network against the
+number and issue the bounty. **Blackstone** had completed the first step, but his target was the
+entire squad. So, he put on all of the **Bear Beastman**'s **uniform**, planning to infiltrate the
+inn for further action, including those numbered **white socks**.
+
+Most **Beast Shield Company** members were criminals and thugs. Their recruitment process was crude
+and brutal, and members frequently went missing or died, leading to high turnover. As a result,
+colleagues often didn't know each other, especially these green-uniformed **grunt guards**. It was
+likely that this naked **Bear Beastman** corpse would decompose and rot before the **Beast Shield
+Company** even noticed his disappearance.
+
+**Blackstone** was a size larger than the **Bear Beastman**, so the **uniform** fit him extremely
+tightly, stretching over his thick chest muscles, making them appear round, firm, and perky. His two
+**nipples** also stood out prominently, giving **Blackstone** a strange sense of excitement.
+
+Entering the inn, the **Beast Shield Company** guards indeed didn't recognize him, though they
+occasionally stared appreciatively at his enormous chest.
+
+"Hey, can you take me to the **storage room**? I need to find some tools," **Blackstone** asked a *
+*Tiger Beastman Guard** who was currently eyeing his chest.
+
+"Sure, follow me. But you gotta let me squeeze those huge tits of yours as payment later," the *
+*Tiger Beastman** teased with ill intent.
+
+The **Tiger Beastman** led **Blackstone** to a secluded room on the second floor, pointing at the
+door. "Here it is. Okay, time to pay up." Without waiting for **Blackstone**'s consent, he reached
+out with both paws, grabbing and kneading **Blackstone**'s full chest muscles.
+
+"Good, this is indeed a good place to hide things. By the way, just squeezing is boring. Let's play
+something more exciting~" With that, **Blackstone** smiled. Before the **Tiger Beastman** could
+react, he grabbed the back of the **Tiger Beastman**'s head and pressed his face into his own *
+*cleavage**.
+
+"Oh... wow~ Good... feels amazing. Didn't know you were such an eager little slut," the **Tiger
+Beastman** initially didn't grasp the severity of the situation, simply enjoying the pleasure. He
+even wrapped his arms around **Blackstone**'s waist, occasionally kneading **Blackstone**'s firm *
+*buttocks**, made prominent by the tight **tights**.
+
+**Blackstone** didn't mind the impolite behavior, instead pressing the **tiger head** even tighter
+and deeper.
+
+Before long, the **Tiger Beastman** began to feel uncomfortable, mumbling into **Blackstone**'s *
+*cleavage**, "Okay... okay, baby, let go a bit. I'm having trouble breathing."
+
+But **Blackstone** paid no heed, continuing to press the **tiger head**, and even flexed his **chest
+muscles** to clamp down harder.
+
+"Mmph... cough... Let go!.. I'm... gonna suffocate... cough..." The **Tiger Beastman** started to
+realize something was wrong, struggling and pushing, occasionally kicking **Blackstone** with his
+thick legs. But his strength couldn't budge **Blackstone** an inch.
+
+"Hel... help... hel..." The **Tiger Beastman**'s cries for help grew weaker, his struggles more
+feeble. His hands shifted from pushing to weak punches. His flailing legs slowly lost their
+supporting strength, beginning to sag into a kneeling position, but with his head trapped, his knees
+couldn't touch the ground. His two thick, **white-socked** legs hung in mid-air, twitching
+occasionally. In this state of suffocation, like the previous **Bear Beastman**, the **Tiger
+Beastman**'s lower body began to slowly engorge and harden. Soon, it was erect like an iron rod and
+began to leak.
+
+"What's wrong? Can't handle it anymore? You were the one who wanted to play something exciting.
+We've only just begun," **Blackstone** said, seeing the optimal execution moment had arrived. He
+spread his own sturdy legs, placed the **Tiger Beastman**'s swollen **meat rod** between his thighs,
+then clamped down hard. With his left hand pressing the **tiger head**, his right hand reached
+around the **Tiger Beastman**'s back, grabbed his **tail**, and repeatedly lifted and pressed down,
+forcing him into a thrusting motion, making his **meat rod** rub and squeeze against the inside of *
+*Blackstone**'s thighs through the **tights**.
+
+"Stop... stop it... stop... uh... ah... ah... ah!" The **Tiger Beastman** couldn't withstand such
+stimulation. Before he could finish his plea, he let out a wretched howl and began to ejaculate in a
+daze.
+
+Seeing the **Tiger Beastman** start to cum, **Blackstone** stopped torturing him. Instead, he
+forcefully pressed down on the **Tiger Beastman**'s hips, shoving the **meat rod** deep between his
+thighs, then clamped tight, not allowing it to withdraw. He only used his **thigh muscles** to rub
+and knead side to side, making the **meat rod** be repeatedly pressed and massaged by his inner
+thigh muscles. Under this unparalleled stimulation, the **Tiger Beastman** was driven nearly mad.
+Even while being held in place, his body convulsed and trembled uncontrollably. Every last drop of *
+*tiger cum** was mercilessly squeezed out, splattering entirely inside his own **tights**, with a
+few drops even seeping through the fabric onto **Blackstone**'s thighs!
+
+After about ten seconds, **Blackstone** felt the scorching little iron rod deep between his thighs
+stop twitching. The **Tiger Beastman**'s body had gone completely limp. So, he released his hands.
+The **Tiger Beastman**'s corpse slowly slid down along **Blackstone**'s abs, knees hitting the
+ground, head resting against **Blackstone**'s already raised **bulge**.
+
+**Blackstone** looked down at the **Tiger Beastman**'s expression of ecstatic death, swallowing
+hard. After all, this method of execution had gotten him a bit aroused too.
+
+"Fuck, can't take it anymore. Just one minute of fun, okay!" **Blackstone** ultimately couldn't
+resist. He pulled out his own dark red, engorged, thick **meat rod** from the **army-green tights**,
+lifted the **tiger head**, and ruthlessly thrust his **meat rod** into the **Tiger Beastman**'s
+throat, beginning to thrust. If the **Tiger Beastman** were still alive, he'd definitely be gagging
+violently.
+
+"Whew... whew... Feels so good." After thrusting for a few minutes, **Blackstone** felt close to
+cumming and immediately stopped, reluctantly pulling out his **meat rod** and stuffing it back into
+the **tights**. After all, he didn't want to die yet either. **Blackstone** patted the **tiger head
+**, calmed down a bit, and then got back to business.
+
+First, he took out his **phone** and photographed the **Tiger Beastman**'s ecstatic, dead face.
+Then, he removed one of his **sneakers**, took off the yellowed **white sock** with the serial
+number, habitually sniffed it, and frowned. "A bit smelly, probably hasn't been changed for two
+days." After this evaluation, he stuffed the **sock** into his pocket. Finally, he picked up the *
+*Tiger Beastman**'s corpse and stuffed it into the **storage room**, beginning to deal with the next
+target.
+
+The inn's lobby was filled with **Beast Shield Company** employees. **Blackstone** searched for a
+while before spotting an empty seat at a round table. On the other side of the table, a
+blue-uniformed **Bull Beastman** was drinking gloomily. Just as **Blackstone** was about to approach
+and strike up a conversation, a black-uniformed **Tiger Beastman** beat him to it.
+
+The **Tiger Beastman** shoved the seated **Bull Beastman** and said arrogantly, "Get up and move!
+Can't you see we're standing here!" He pointed at a white-uniformed **Bear Beastman** beside him.
+
+"Why should I? I'm the same rank as you!" The **Bull Beastman** stood up, glaring at the **Tiger
+Beastman** defiantly.
+
+Both were about equally tall and large, but clearly the **Bull Beastman** was bulkier, while the *
+*Tiger Beastman**'s muscles were tighter, fuller, and exuded power.
+
+"Hmph! Same rank?" The **Tiger Beastman** sneered. "Everyone knows you blue-uniformed types are
+trash who can't make it into the combat division. Giving you a high-rank guard title is just to save
+face, and you have the nerve to act up? Don't make me laugh." The **Bear Beastman** beside him also
+chuckled coldly.
 
-**Blackstone**'s physique was a size larger than the bear's, making the uniform exceptionally tight on him. His thick
-pectoral muscles were tightly bound, appearing round, full, and perky, his two nipples particularly prominent—giving *
-*Blackstone** a strange sense of excitement.
+"You bastard! Say that again!" The **Bull Beastman**, humiliated and enraged, threw a punch at the *
+*Tiger Beastman**'s face.
 
-Entering the inn, the **Beast Shield Company** guards indeed didn't recognize him, though they occasionally stared
-appreciatively at his massive chest.
+The **Tiger Beastman** raised his left hand, easily catching the **Bull Beastman**'s wrist and
+deflecting the punch. Then, his right hand formed a claw and grabbed the **Bull Beastman**'s blue *
+*bulge**.
 
-"Hey, can you take me to the storage room? I want to look for some tools," **Blackstone** asked a **Tiger Beastman**
-guard who was staring at his chest.
+"Whoa!" The **Bull Beastman** groaned in pain.
 
-"No problem, follow me. But you'll have to let me grope those massive pecs as repayment," the tiger said teasingly with
-ill intent.
+Then, the **Tiger Beastman** leaned close to the **Bull Beastman**'s ear and whispered, "Be more
+observant in your next life." With that, he squeezed hard, crushing the **Bull Beastman**'s
+testicles and forcing out all the **semen**!
 
-The tiger led **Blackstone** to a remote room on the second floor, pointing at the door. "Right here. Okay, time to pay
-up." Without waiting for **Blackstone**'s agreement, he reached out, his paws grabbing and kneading **Blackstone**'s
-full pectorals.
+"Whoa-ah!..." The **Bull Beastman** looked incredulously at his own spurting **semen**, grimacing in
+pain. His legs pulled inward, his thick **white-socked** legs barely supporting his bulky body as he
+staggered a few steps in place. Pointing at the **Tiger Beastman**, he managed two words, "You...
+you..." before crashing to the ground with a *thud*, twitched a few times, and died.
 
-"Not bad. This is indeed a good place to hide things. But just kneading is boring. Let's play something more exciting,"
-**Blackstone** said with a smile. Before the tiger could react, he grabbed the back of the tiger's head and shoved his
-face deep into his own cleavage.
+The **Tiger Beastman** spat on the corpse, kicked aside the two thick **white-socked** bull legs
+obstructing the floor, then took the seat and began drinking with the **Bear Beastman**. The other *
+*Beast Shield Company** employees in the inn, seeing the spectacle was over, returned to their own
+pastimes as if nothing had happened. The body on the floor wasn't dealt with; people even stepped
+over it as they passed by.
 
-"Oh... Wow... So... so good. I didn't expect you to be such an eager slut," the tiger initially said, not realizing the
-severity of the situation, just enjoying the sensation. He even wrapped his arms around **Blackstone**'s waist,
-occasionally kneading **Blackstone**'s firm, perky buttocks, outlined by the tight pants.
+This scene left **Blackstone** dumbfounded. Although it was common knowledge that **Beast Shield
+Company** internal discipline was lax, he never imagined it could be so lax that colleagues could
+kill each other at will. Then what was the point of him meticulously hiding the bodies earlier? Dead
+people were just routine for them.
 
-**Blackstone** didn't mind the rudeness. Instead, he pressed the tiger's head deeper and tighter.
+Not long after, a commotion erupted from another table in the inn. A burly green-uniformed **Boar
+Beastman** was being lifted onto a round table, his hands and feet pinned to the table edges by
+other Beastmen, unable to move.
 
-Soon, the tiger began to feel uncomfortable, groaning into **Blackstone**'s cleavage, "Okay... okay, baby, let go... I
-can't... breathe well..."
+"Big Piggy, you've already lost all your belongings and owe us a huge gambling debt. How do you plan
+to repay it?" a **Red Wolfman** roared.
 
-But **Blackstone** paid no heed, continuing to press the tiger's head, flexing his chest muscles to clamp down even
-harder.
+"Be the betting toy! Be the betting toy!" the surrounding Beastmen onlookers chanted.
 
-"Mmph... Cough... Let go!... I'm... choking... cough..." The tiger started to realize something was wrong, struggling
-and pushing, occasionally kicking **Blackstone** with his thick legs. But his strength couldn't budge **Blackstone**
-even a bit.
+"No! Don't! I'll pay it back! Lend me some capital, I'll win it back and repay you!" The bearded *
+*Boar Beastman** cried out in terror. His usual rough demeanor vanished; he looked like a frightened
+chick, pleading for help everywhere.
 
-"Help... Help me... Hel..." The tiger's cries for help grew weaker, his struggles increasingly feeble. His hands went
-from pushing to weak pounding. His kicking legs slowly lost strength, sagging in mid-air, occasionally twitching. In
-this state of suffocation, like the previous **Bear Beastman**, the tiger's lower body began to slowly engorge and
-harden. Soon, it was rigid as an iron rod, dripping with fluid.
+"Tsk tsk tsk, a bet's a bet. You'd better accept your fate~" the **Red Wolf** chuckled. He then
+pulled down the **Boar Beastman**'s **tights**, rubbed his **meat rod** with its **foreskin** until
+hard, then shouted to the surrounding Beastmen, "Come on, place your bets! If you think he can last
+two minutes, put your money in the **white sock** on his right leg! If you think he's a premature
+ejaculation failure, put it in the **white sock** on his left leg!"
 
-"What's wrong? Giving up already? Weren't you the one who wanted to play something exciting? This is just the
-beginning." Seeing it was the optimal execution moment, **Blackstone** spread his own thick legs, placed the tiger's
-swollen cock between his thighs, and clamped down tightly. His left hand pressed the tiger's head, his right hand
-reached around to grab the tiger's tail, pulling it up and pushing it down repeatedly, forcing him into a thrusting
-motion, making his cock rub and squeeze against the inside of **Blackstone**'s thighs through the tights.
+As soon as the words were out, the Beastmen swarmed forward, ignoring the **Boar Beastman**'s pleas
+and placing their bets. In no time, the **Boar Beastman**'s leg **white socks** were stuffed with
+bills of various denominations.
 
-"Stop... Stop it... Please... Ah... Ah... Ah!" How could the tiger withstand such stimulation? Before he could finish
-begging, he let out a miserable howl, hazily beginning to ejaculate.
+"Good! Timer starts now!" With that, the **Red Wolf** flipped back the **Boar Beastman**'s *
+*foreskin** and began fondling his **balls**, rubbing his **meat rod**. Soon, his **meat rod**
+started leaking incessantly.
 
-Seeing the tiger start to cum, **Blackstone** stopped torturing him. Instead, he forcefully pressed the tiger's hips
-down, burying his cock deep between his thighs, then clamped and fixed it there without pulling out. He only used his
-inner thigh muscles to rub and knead left and right, letting the tiger's cock be repeatedly squeezed and massaged by his
-thigh muscles. Under this unparalleled stimulation, the tiger was driven almost insane. Even with his body immobilized,
-he couldn't stop trembling and twitching. His tiger essence was mercilessly milked out, every last drop sprayed into his
-own tights, even a few drops seeping through onto **Blackstone**'s inner thighs!
+"Ah!.. Don't!.. Stop!.. Please.. please.. stop.." The **Boar** wailed and begged, but no one paid
+any attention. His voice was drowned out by the crowd's cheers. Those who bet on premature ejacution
+even lifted his shirt and began pinching and tweaking his dark brown **nipples**, trying to speed up
+his climax.
 
-After a dozen seconds, **Blackstone** felt the fiery little iron rod deep between his thighs stop pulsing. The tiger's
-body had completely gone limp. He released his hands, and the tiger's corpse slid down along **Blackstone**'s abs, knees
-hitting the ground, head resting against **Blackstone**'s own prominent bulge, which had long been erect.
+"Ten seconds left till two minutes, nine... eight..." the **Red Wolf** shouted excitedly.
 
-**Blackstone** looked down at the tiger's high-as-death expression, swallowing hard. After all, this method of execution
-had stirred some desires in him too.
+"Stop... stop... I'm gonna cum... stop it, please..." the **Boar** wailed helplessly.
 
-"Damn, can't take it. Just one minute, then!" Ultimately, **Blackstone** couldn't restrain himself. He pulled out his
-own black-red, engorged, thick cock from his army-green tights, lifted the tiger's head, and ruthlessly thrust into the
-tiger's throat, starting to pump. If the tiger were still alive, he'd be retching violently.
+"Seven... six... five..." the onlookers chanted along.
 
-"Whew... Whew... So good." After pumping for a few minutes, feeling close to climax, **Blackstone** immediately stopped,
-reluctantly pulling out his cock and stuffing it back into his tights. After all, he didn't want to die yet either. *
-*Blackstone** patted the tiger's head, calmed himself, and got back to business.
+"Come on! You can do it! Hold on!" The Beastmen who bet he'd last cheered him on.
 
-First, he took out his phone and snapped a picture of the tiger's climax-death headshot. Then, he removed one of the
-tiger's sneakers, took off the slightly yellowed white sock with the ID number, habitually sniffed it, and frowned. "A
-bit smelly. Probably hasn't changed them for two days." With that assessment, he stuffed the sock into his pocket.
-Finally, he picked up the tiger's corpse, stuffed it into the storage room, and began working on the next target.
+"Four... three..."
 
-The inn's main hall was full of **Beast Shield Company** employees. **Blackstone** searched for a while before spotting
-an empty seat at a round table. A blue-uniformed **Bull Beastman** sat drinking gloomily at the other side. Just as *
-*Blackstone** was about to approach, a black-uniformed **Tiger Beastman** beside him beat him to it.
+"Urgh-ah!.. Aaaaaaah!.." With two seconds remaining, the **Boar Beastman** couldn't hold back any
+longer. His body arched, and he shot his first thick spurt of cum.
 
-The tiger pushed the seated bull, saying arrogantly, "Get up and move! Can't you see we're still standing?" He pointed
-to a white-uniformed **Bear Beastman** beside him.
+"Excellent! We won!" The Beastman sucking his **nipples** stopped and cheered.
+
+"Fuck! Useless! Couldn't even hold on for two more seconds!" The losers cursed the **Boar**'s
+incompetence, and someone even slapped him across the face.
+
+The **Red Wolf** then retrieved the **betting money** from the **Boar's white socks** and began
+paying out. No one cared about the **Boar** convulsing and spurting cum on the round table, left to
+his fate.
+
+The gambling session over, the **Boar Beastman** was also dead, left abandoned on the table.
+Everyone returned to their rooms to sleep. Only **Blackstone** remained, along with a
+green-uniformed **Dog Beastman** cleaning up, probably a **laborer soldier**.
+
+The **Dog Beastman** finished cleaning the tables and chairs, wiping the **semen** off the table and
+floor, then hoisted the **Bull Beastman** corpse under the arms and began dragging it outside.
 
-"Why should I? We're the same rank!" the bull retorted, standing up and glaring at the tiger.
-
-Their physiques were similarly large, but clearly the bull was more heavily built, while the tiger's muscles were
-tighter and more defined, full of power.
-
-"Hmph! Same rank?" The tiger laughed disdainfully. "Who doesn't know you blue uniforms are trash who couldn't get into
-the combat division? Giving you a high-guard title is just to save face, and you're getting cocky? Don't make me laugh."
-The bear beside him also sneered.
-
-"You motherfucker, say that again!" The bull, humiliated and enraged, threw a punch at the tiger's face.
-
-The tiger raised his left hand, easily catching the bull's wrist to block the punch. Then, his right hand formed a claw
-and grabbed the bull's blue bulge.
-
-"Oof!" The bull grunted in pain.
-
-Then, the tiger leaned close to the bull's ear and whispered, "Watch your eyes in the next life." With that, he squeezed
-hard, crushing the bull's testicles and squeezing out all his semen!
-
-"Ooaugh!..." The bull stared in disbelief at his own spurting cum, gritting his teeth in agony, his legs pulling inward.
-His thick white-socked legs stumbled a few steps, supporting his heavy body. Pointing at the tiger, he spat out two
-words, "You... you..." before *thudding* to the ground, twitching a few times before dying.
-
-The tiger spat on the corpse, kicked aside the two obstructive white-socked bull legs lying across the floor, then sat
-down and started drinking with the bear. The other **Beast Shield Company** employees in the inn, seeing the spectacle
-end, returned to their own amusements as if nothing had happened. The body on the floor remained unhandled, and people
-even stepped over it as they passed.
-
-This scene left **Blackstone** stunned. Although it was well-known that **Beast Shield Company** internal discipline was
-lax, he never expected it to be so lax that killing colleagues on a whim was possible. What was the point of him
-painstakingly hiding corpses earlier? Dead people were apparently commonplace to them.
-
-Not long after, raucous cheers erupted from another table. A burly green-uniformed **Boar Beastman** was lifted onto a
-round table, his hands and feet pinned to the edges by other beastmen, unable to move.
-
-"Big piglet, you've already lost all your belongings and owe us a huge gambling debt. How are you going to pay it back?"
-a **Red Wolfman** roared.
-
-"Be the gambling prop! Be the gambling prop!" the surrounding beastmen cheered.
-
-"No! Don't! I'll pay it back! Lend me some capital, I'll win it back and repay you!" The bearded boar guard roared in
-panic. His usual rough image vanished; now he looked like a frightened chick, pleading for help everywhere.
-
-"Tsk tsk tsk, a bet is a bet. You'd better accept your fate," the red wolf laughed. He pulled down the boar's tights,
-rubbing his sheathed cock until hard. Then, he shouted to the surrounding beastmen, "Come on, place your bets! If you
-think he can last two minutes, stuff your money into the white sock on his right leg! If you think he's a premature
-ejaculating waste, stuff it into the sock on his left leg!"
-
-As soon as he finished, the beastmen swarmed forward. Ignoring the boar's pleas, they began placing bets. Soon, the
-white socks on both of the boar's legs were stuffed with bills of various denominations.
-
-"Good! Timer starts!" The red wolf then peeled back the boar's foreskin, began fondling his testicles, rubbing his cock.
-Before long, his cock started dripping continuously.
-
-"Ah!... Stop!... Please... stop... I beg you... stop..." The boar kept wailing and begging, but no one paid attention.
-His voice was drowned in the crowd's cheers. Those betting on premature ejaculation even lifted his shirt, pinching and
-twisting his dark brown nipples, attempting to hasten his climax.
-
-"Ten seconds until the two-minute mark... Nine... Eight..." the red wolf shouted excitedly.
-
-"Stop... Stop... I'm gonna cum... Stop, please..." the boar pleaded helplessly.
-
-"Seven... Six... Five..." the onlookers joined the countdown.
-
-"You can do it! Hold on!" Those betting he'd last cheered him on.
-
-"Four... Three..."
-
-"Urgh!... Ahhhhh!..." With two seconds left, the **Boar Beastman** could hold back no longer. His body arched, firing
-his first thick load.
-
-"Awesome! We won!" The beastman sucking his nipple stopped and began cheering.
-
-"Shit! Useless! Couldn't even hold on for two more seconds!" Those who lost money cursed the boar's incompetence.
-Someone even slapped him.
-
-The red wolf took the betting money from the boar's white socks and started distributing winnings. No one cared about
-the boar, now convulsing and ejaculating on the round table.
-
-The gambling ended, and the **Boar Beastman** was already dead, left on the table unattended. Everyone went back to
-their rooms to sleep, leaving only **Blackstone** and a green-uniformed **Dog Beastman**—probably a menial
-soldier—cleaning up.
-
-The dog finished cleaning the tables and chairs, wiping the cum off the table and floor. Then, he dragged the bull
-corpse's arm towards the outside.
-
-"Bro, lend a hand," the dog said, seeing **Blackstone** was still there.
-
-"Alright." **Blackstone** looked at the boar on the table, eyes rolled back, feeling a twinge of pity.
-
-"To be toyed to death by your own comrades like this... must be incredibly frustrating." **Blackstone** straightened and
-smoothed the boar's messed-up white socks, then picked up his corpse and carried it outside.
-
-"Just toss it here. Good fertilizer for the vegetable patch," the dog panted, having dragged the heavy bull corpse to
-the garden.
-
-**Blackstone** placed the boar on top of the bull's back, sighing, "Such a good physique, what a waste. Now you'll just
-lie here, lonely."
-
-"Waste my ass! Couldn't they die farther away? Tired me out," the dog complained.
-
-"Heh, how about you stay and keep them company then? That way, you won't be tired anymore~"
-
-"Huh?" Before the dog could react, **Blackstone** grabbed him from behind, pulled down his pants, and started stroking
-his cock.
-
-"Cough... You... you... cough... Urgh!" Before long, under **Blackstone**'s skilled technique, the dog handed over his
-essence, collapsing onto the pile of corpses, stacked together with the boar and bull.
-
-Since no one seriously disposed of corpses, **Blackstone** wasn't in a hurry to take photos and collect socks. Doing it
-all at once later would be more efficient.
-
-Back in the inn, **Blackstone** didn't know which room was his, so he picked one with the loudest snoring, picked the
-lock, and went in.
-
-Coincidentally, this room belonged to the earlier black-uniformed tiger and white-uniformed bear. They hadn't even
-turned off the lights or taken off their shoes, just sprawled on their beds, snoring loudly amidst a strong smell of
-alcohol—clearly heavily drunk.
-
-**Blackstone** shook his head, walked to the bear's bedside. "Since your sleeping posture is more proper, I'll deal with
-you first." He helped him off with his sneakers, then straightened these pillar-thick bear legs.
-
-First, **Blackstone** gently stroked the soles of the bear's white-socked feet. The bear, in a drunken stupor, didn't
-react much, only his calves twitching slightly. **Blackstone** sniffed his hand after touching the soles—a faint sweat
-smell. He didn't dislike it; it excited him a bit.
-
-Then, he moved up from the ankles to the bear's calves, rubbing the calf muscles back and forth, occasionally slipping
-his hand inside the sock cuff to feel the leg muscles, making the bear's bulge jump repeatedly.
-
-After the calves, **Blackstone**'s hands moved up again, rubbing back and forth along the inner thighs, which were
-tightly bound into white pillars by the tights. This time, the bear began to react. He frowned, his cock slowly
-hardening, tenting his bulge into a white-with-hints-of-red peak.
-
-**Blackstone** didn't hold back. He gently placed his palm against this peak, stroking along the "mountain range."
-
-"Hah... Hah..." The bear began panting heavily. His thick legs started to squirm, his toes rubbing inside the white
-socks. His cock jumped incessantly in his tights, the tip starting to drool pre-cum.
-
-**Blackstone** knew it was about time. To prevent the bear's upcoming moans from waking the tiger, he took off one of
-the bear's white socks and gently stuffed it into his mouth. Then, he covered the bear's mouth with his hand, pulled
-down the bear's tight white pants, grasped the steaming hot cock, and began milking it.
-
-"Mmph... Mmph... Mmph..." The bear moaned, his frown tightening. His limbs twisted and resisted, but under alcohol's
-anesthesia, he couldn't wake up. Finally, with a muffled "Mmph!..." his legs stiffened, and he began to ejaculate. Foul,
-thick cum sprayed wildly onto the headboard, spurting over a dozen jets before subsiding, splattering all over his face.
-After surrendering all his semen, the bear's head lolled to the side, and his snoring ceased.
-
-Looking at the bear's flushed, cum-splattered death face, **Blackstone** actually got aroused, his own lower body long
-since erect. Seeing the tiger sprawled on the other bed, his firm glutes making his ass appear even perkier, *
-*Blackstone** finally couldn't withstand his own beastly desires.
-
-He went to the tiger's side. As before, he removed the tiger's sneakers. The tiger's foot odor was much stronger than
-the bear's, but it was nothing to **Blackstone**. He then tore open the tiger's tights, revealing the tiger's
-never-before-used pink, tender hole. **Blackstone** also took off his shoes, climbed onto the tiger's back, spat on his
-own cock, rubbed it, then pressed against the hole and slowly pushed in.
-
-**Blackstone**'s cock size was no ordinary matter. Even someone as strong as the tiger was roused halfway from his
-drunken stupor by the pain.
-
-The tiger groggily opened his eyes. The intense pain in his lower body made all his muscles tense. His thick legs in
-black socks were now splayed helplessly on the bed, trying to spread wider to alleviate the agony, but they were pinned
-down by **Blackstone**'s white-socked bulk, entangled and immobile.
-
-Initially, **Blackstone** only inserted halfway, rubbing near the entrance. Once the hole was stretched and looser, he
-immediately thrust his entire length in.
-
-As **Blackstone** moaned in pleasure, squinting his eyes, the tiger grimaced in pain, mouth gaping wide. He managed to
-cry out, "Ah!... Mmph!..." before **Blackstone** shoved his tiger head into the pillow. Immediately, **Blackstone**
-pressed down hard on the tiger, starting a fierce pounding. The pain nearly made the tiger pass out. His entire body's
-taut, massive muscles were now utterly useless, only making **Blackstone**'s thrusting more pleasurable. His toes in
-black socks curled high, scratching and pushing against the bedsheet. Before long, the tiger stopped reacting, giving up
-resistance, his body going completely limp.
-
-But **Blackstone** wasn't about to let him off. After thoroughly fucking him for ten minutes, **Blackstone** tightly
-embraced the tiger in his arms and roared, "Baby, I'm gonna cum!" With that, he thrust his hips forcefully, pumping
-months' worth of stored thick cum into the tiger's hole, spurting nearly twenty loads before stopping.
-
-"Oh!... Oh!... Ah!..." After a few more thrusts in the afterglow of orgasm, **Blackstone** finally regained his senses.
-Once his panting stopped, a wave of drowsiness hit.
-
-"Baby, did you cum yet?" **Blackstone** squinted, yawning, lifting the tiger's head from the pillow nest. Seeing the
-tiger's rolled-back eyes and foaming mouth expression, he laughed, "Little brat, came first, huh? Let's sleep then."
-With that, **Blackstone** hugged the tiger, still inside him, and drifted into dreamland.
-
-The next day, **Blackstone** woke up. Looking at the mess, he apologetically kissed the now cold tiger's head. Pulling
-his softening cock from the tiger's hole—even soft, **Blackstone**'s girth made it stuck inside—he had to press the
-tiger's buttocks with his hand to pull it out. Once out, the night's worth of cum stored in the tiger's swollen hole
-gushed out like a burst dam, flowing all over the bed.
-
-**Blackstone** patted the tiger's pert buttocks in satisfaction, put on his shoes, and left the room.
+"Brother, give me a hand," the **Dog Beastman** called out, seeing **Blackstone** was still there.
+
+"Sure," **Blackstone** replied, looking at the **Boar Beastman** lying on the table with rolled-back
+white eyes, feeling a twinge of pity.
+
+"To be played to death by your own colleagues like that must be incredibly humiliating," *
+*Blackstone** thought. He straightened out the **Boar**'s messed-up **white socks**, then picked up
+his corpse and carried it outside.
+
+"Just dump it here. Good fertilizer for the vegetable patch," the **Dog Beastman** said, panting
+heavily as he dragged the bulky **bull** corpse to the **vegetable garden**.
+
+**Blackstone** placed the **Boar** on top of the **Bull Beastman**'s back and sighed, "Such a good
+physique, what a shame. Guess you'll just lie here lonely from now on."
+
+"Shame my ass. If you're gonna die, die farther away. Tired me out," the **Dog Beastman**
+complained.
+
+"Heh, how about you stay here and keep them company too? That way you won't be tired anymore~"
+
+"Huh?" Before the **Dog Beastman** could react, **Blackstone** had him in a chokehold from behind,
+pulled down his pants, and began stroking.
+
+"Cough... you... you... cough... urgh!" Before long, under **Blackstone**'s skilled technique, the *
+*Dog Beastman** surrendered his **semen** and collapsed onto the pile of corpses, stacked together
+with the **Boar** and the **Bull Beastman**.
+
+Since no one seriously dealt with the bodies anyway, **Blackstone** wasn't in a hurry to photograph
+them and collect **socks**. It would be more efficient to do it all at once later.
+
+Returning to the inn, **Blackstone** didn't know which room was his. So, he picked the room with the
+loudest snoring, picked the lock, and walked in.
+
+As luck would have it, this room belonged to the earlier black-uniformed **Tiger Beastman** and
+white-uniformed **Bear Beastman**. They hadn't even turned off the lights or taken off their shoes,
+just sprawled on the beds with strong alcohol fumes and thunderous snores, clearly heavily
+intoxicated.
+
+**Blackstone** shook his head and walked over to the **Bear Beastman**'s bed. "Since you're sleeping
+more decently, I'll deal with you first," he said, helping him off with his **sneakers**, then
+positioning his pillar-like thick **bear legs** properly.
+
+First, **Blackstone** gently stroked the **Bear Beastman**'s **soles**, clad in **white socks**. The
+drunken, unconscious **Bear Beastman** didn't react much, just a slight twitch in his calf. *
+*Blackstone** sniffed the hand that had touched the **soles**. Sure enough, there was a faint sweat
+odor, but he didn't dislike it; in fact, it gave him a bit of excitement.
+
+Next, he moved up from the **ankles** to the **Bear Beastman**'s **calves**, kneading back and forth
+on the **calf muscles**, occasionally slipping his hand into the **white sock cuff** to stroke the *
+*Beastman**'s **leg muscles**, causing the **Bear Beastman**'s **bulge** to jump and twitch.
+
+After stroking the **calves**, **Blackstone**'s hands moved upward again, rubbing back and forth
+along the **Bear Beastman**'s **inner thighs**, which were tightly encased by the **tights** like
+white pillars. This time, the **Bear Beastman** began to react. His brow furrowed, his **meat rod**
+slowly hardened, raising the **bulge** into a white peak tinged with red.
+
+**Blackstone** no longer held back, gently placing his palm against this peak and stroking along the
+ridge.
+
+"Ha... ha..." The **Bear Beastman** began panting heavily. His thick legs started to squirm, his *
+*toes** rubbing inside the **white socks**, his **meat rod** jumping incessantly inside the **tight
+white pants**, the tip beginning to secrete **lust fluid**.
+
+**Blackstone** knew it was about time. To prevent the **Bear Beastman**'s impending moans from
+waking the **Tiger Beastman**, he took off one of the **Bear Beastman**'s **white socks** and gently
+stuffed it into his mouth, then covered his mouth with his hand. Next, he pulled down the **Bear
+Beastman**'s **tight white pants**, grasped the scorching **meat rod**, and began milking it.
+
+"Mmph... mmph... mmph..." The **Bear Beastman** moaned, his brow tightening further. His limbs
+thrashed and resisted, but under the anesthesia of alcohol, he couldn't wake up. Finally, with a
+muffled groan of "Mmph!..", his legs stiffened, and he began to ejaculate. Stinking **thick cum**
+gushed out all at once, spraying onto the **headboard**. He shot a good dozen spurts before
+subsiding, splattering his face all over. After surrendering all his **semen**, the **Bear Beastman
+**'s head lolled to the side, and his snoring ceased.
+
+Looking at the **Bear Beastman**'s flushed, cum-splattered face in death, **Blackstone** actually
+got aroused, his lower body already standing tall. Seeing the **Tiger Beastman** lying face down on
+the other bed, his tight **gluteal muscles** making his **buttocks** appear even perkier, *
+*Blackstone** finally couldn't restrain his own beastly desires.
+
+He went over to the **Tiger Beastman**'s side. As before, he removed the **Tiger Beastman**'s *
+*sneakers**. This **Tiger Beastman**'s **foot odor** was much stronger than the **Bear Beastman**'s,
+but that meant nothing to **Blackstone**. **Blackstone** then ripped open the **Tiger Beastman**'s *
+*tights**, exposing the **Tiger Beastman**'s never-before-used, pink, tender **meat hole**. Then, *
+*Blackstone** also took off his shoes, climbed onto the **Tiger Beastman**, spat some saliva to
+moisten his own **meat rod**, and pressed it against the **meat hole**, slowly pushing in.
+
+**Blackstone**'s **meat rod** was no ordinary size. Even someone as strong as the **Tiger Beastman**
+was half-awakened by the pain.
+
+The **Tiger Beastman** groggily opened his eyes. The intense pain in his lower body made his whole *
+*muscular** body tense up. His thick legs clad in **black socks** were now splayed helplessly on the
+bed, trying to spread as wide as possible to alleviate the pain, but they were pinned down and
+entangled by **Blackstone**'s **white-socked** bulk, unable to move.
+
+At first, **Blackstone** only inserted halfway, rubbing around the **hole entrance**. Once the *
+*meat hole** had been stretched and relaxed somewhat, **Blackstone** immediately thrust his entire *
+*meat rod** in.
+
+While **Blackstone** moaned with pleasure, squinting his eyes, the **Tiger Beastman** grimaced in
+agony, mouth wide open, just managing to cry out, "Ah!.. Mmph!.." before his **tiger head** was
+pressed into the **pillow** by **Blackstone**. Immediately after, **Blackstone** pressed down hard
+on the **Tiger Beastman** and began thrusting violently. The pain nearly made the **Tiger Beastman**
+pass out. His body's tensed, bulky **muscles** were now completely useless, only making **Blackstone
+**'s penetration more pleasurable. The **toes** inside his **black socks** arched high, scraping and
+pushing against the **bedsheet**. Before long, the **Tiger Beastman** stopped reacting, gave up
+resistance, and went completely limp.
+
+But **Blackstone** wasn't about to let him off that easily. After thrusting to his heart's content
+for ten minutes, **Blackstone** tightly embraced the **Tiger Beastman** in his arms and roared, "
+Baby, I'm gonna cum!" With that, he thrust his hips forward forcefully, pumping months' worth of
+pent-up **thick cum** into the **tiger hole**. He shot nearly twenty spurts before stopping.
+
+"Oh!.. oh!.. ah!.." After thrusting a few more times in the afterglow of orgasm, **Blackstone**
+finally regained his senses. Once his panting subsided, a wave of drowsiness hit him.
+
+"Baby, did you cum?" **Blackstone** asked sleepily, yawning. He lifted the **tiger head** from the *
+*pillow hollow** and, seeing the **Tiger Beastman**'s expression of rolled-back white eyes and
+foaming mouth, chuckled. "You little rascal, came before me. Let's sleep together then." With that,
+**Blackstone** hugged the **Tiger Beastman** and, still embedded inside him, drifted off to sleep.
+
+The next day, **Blackstone** woke up. Surveying the chaotic scene, he apologetically kissed the now
+cold back of the **Tiger Beastman**'s head, then pulled his **meat rod** out of the **tiger hole**.
+Even though it was soft now, **Blackstone**'s girth made his **meat rod** stick inside the **tiger
+hole**, requiring him to press on the **Tiger Beastman**'s **buttocks** with his hand to pull it
+out. Once extracted, the **semen** that had been held in the **Tiger Beastman**'s belly **tiger hole
+** all night burst forth like a broken dam, gushing out of the **Tiger Beastman**'s **red and
+swollen meat hole** all over the bed.
+
+**Blackstone** patted the **Tiger Beastman**'s **perky buttocks** in satisfaction, then put on his
+shoes and left.
 
 ---
 
 **End**
 
-> *The night is a veil for hunters, and chaos their best cover.*
+> *Night is the veil of the hunter, and chaos is their best cover.*
 
 ---
 

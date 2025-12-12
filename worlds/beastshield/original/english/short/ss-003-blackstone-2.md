@@ -1,4 +1,4 @@
-# MS-003: Blackstone 2
+# SS-003: Blackstone 2
 
 ---
 
@@ -7,237 +7,382 @@
 ---
 
 > *Blackstone 2*  
-> Bounty hunter **Blackstone** continues his hunt for **Beast Shield Company** reserve soldiers. His target this time is
-> a guard at a **Beast Shield Company**-owned entertainment center in the East District, unfolding a silent and deadly
-> midnight hunt.
+> The bounty hunter **Blackstone** continues to hunt **Beast Shield Company** recruits. This time,
+> his target is a guard at a **Beast Shield Company**-owned entertainment center in the Eastern
+> District, leading to a silent and deadly midnight hunt.
 
 ---
 
-According to intel released by the **Agent Bureau**, a small squad of **Beast Shield Company** high-level reserve
-soldiers were hired as guards. During their journey to the destination, they would stop for a night at a **Beast Shield
-Company**-owned leisure and entertainment center in the East District for a brief rest.
+According to intelligence released by the **Special Agent Bureau**, a small squad of **Beast Shield
+Company** high-level recruits, hired as guards, would stop for a night at a **Beast Shield Company**
+-owned leisure and entertainment center in the Eastern District for rest and reorganization during
+their journey to their destination.
 
-**Blackstone** happened to be wandering in this district and took on this bounty mission to earn some extra cash.
+**Blackstone** happened to be wandering in this district and took on this bounty mission to earn
+some extra money.
 
-At one o'clock midnight, **Blackstone** was lying in ambush at the entrance of the entertainment center. He saw a **Bear
-Guard** wearing a **Beast Shield Company** uniform standing guard, confirming that the intel was accurate.
+At one o'clock in the morning, **Blackstone** lay in ambush at the entrance of the entertainment
+center. Spotting a **bear guard** in **Beast Shield Company** uniform standing watch, he knew the
+intel was accurate.
 
-The **Bear Guard** on duty wore a pure black uniform. Like all high-level reserve soldiers, he had a muscular and brawny
-build. The high-elasticity tight-fitting short-sleeved shirt and shorts accentuated his well-defined curves. If not for
-the baseball cap on his head and the tactical vest, he could easily be mistaken for a bodybuilding coach or
-weightlifter. However, the calf-length black socks and black military boots imprinted with the **Beast Shield Company**
-logo confirmed his identity.
+The **bear beastman** on duty wore a pure black uniform. Like all high-level recruits, he had a
+muscular, bulky build. The high-elasticity tight-fitting short sleeves and shorts further
+accentuated his well-defined curves. If not for the tactical vest and the cap on his head, he could
+easily be mistaken for a fitness coach or weightlifter. However, the long black socks with the *
+*Beast Shield Company** logo printed on them and the black military boots confirmed his identity.
 
-The **Bear Guard** had been on duty for several hours. He yawned, looked around to make sure no one was watching, then
-walked to a secluded corner and lit a cigarette to smoke.
+The **bear guard** had been on duty for several hours. He yawned, looked around to ensure no one was
+watching, then walked to a secluded corner to light a cigarette for a smoke.
 
-**Blackstone** seized the opportunity, quietly circled behind him, and instantly struck, tightly locking his arm around
-the **Bear Guard**'s neck!
+**Blackstone** seized the opportunity, quietly sneaked up behind him, and instantly struck, tightly
+wrapping his arm around the **bear guard**'s neck!
 
-“Mmph… cough…!”
+"Mmgh... Gghk...!"
 
-By the time the **Bear Guard** reacted, it was too late. His throat was blocked, unable to make a sound. He could only
-keep slapping at the arm restraining him. The half-smoked cigarette fell and was caught by **Blackstone**.
+By the time the **bear guard** reacted, it was too late. His throat was blocked, unable to make a
+sound. He could only pat **Blackstone**'s arm frantically. The half-smoked cigarette fell, caught by
+**Blackstone**.
 
-Bounty hunter **Blackstone** had no special abilities. What he took the most pride in was his strength, especially his
-pair of arms with bulging veins. Once captured by him, even the strongest **Beastman** could not escape.
+Bounty hunter **Blackstone** possessed no special abilities; his greatest pride was his immense
+strength, particularly his powerful arms with bulging veins. Once caught in his grip, even the
+strongest **beastman** had no chance of escape.
 
-“Oh, you smoke quite high-end cigarettes,” **Blackstone** said, putting the half-smoked cigarette into his mouth and
-continuing to puff, while his left arm continued to exert force around the **Bear Guard**'s neck.
+"Oh, this is some high-quality smoke," **Blackstone** remarked, placing the half-smoked cigarette
+from the **bear guard** into his own mouth and continuing to smoke, while his left arm continued to
+tighten around the **bear guard**'s neck.
 
-“Wah… gah… gah…” The **Bear Guard**'s face turned red from suffocation as his airway was blocked. He kept scratching *
-*Blackstone**'s arm, his two black-socked thick legs kicking wildly on the ground, but there was no sign of breaking
-free. As the suffocation prolonged, his lower body gradually hardened, tenting the black tight-fitting pants into a
-large bulge!
+"Gwah... gghk... gghk..." The **bear guard**, his windpipe obstructed, turned red-faced from
+asphyxiation. He kept scratching at **Blackstone**'s arm, his two thick legs in black socks kicking
+wildly on the ground, but there was no sign of escape. As the suffocation prolonged, his lower body
+slowly became erect, forming a large bulge in his black tight pants!
 
-“What? I’m just borrowing a smoke. Don’t be so stingy,” **Blackstone** said, immersed in the satisfaction brought by the
-high-quality cigarette, ignoring the **Bear Guard**'s struggles.
+"What? I'm just borrowing a smoke; don't be so stingy," **Blackstone** replied, lost in the
+satisfaction of the high-quality cigarette, ignoring the **bear guard**'s struggles.
 
-“Gah… gah… spare… spare…” The **Bear Guard** was on the verge of death. He wanted to beg for mercy but couldn’t make a
-sound. His eyes widened, and his struggles grew more frantic!
+"Gghk... gghk... s-spare..." The **bear guard** was on the verge of death, wanting to beg for mercy
+but unable to form words. His eyes widened, his struggles becoming more frantic!
 
-Just as **Blackstone** took the last puff of the cigarette, the **Bear Guard** suddenly stiffened, his legs
-straightening. With a muffled groan, his lower body thrust upward, and the black bulge began to throb rhythmically! With
-each throb, the **Bear Guard**'s lower body arched higher.
+Just as **Blackstone** took the last puff of the cigarette, the **bear guard** suddenly stiffened,
+his legs straight as rods. With a muffled groan, his lower body thrust upward, and the large black
+bulge began to pulsate rhythmically! With each twitch, the **bear guard**'s lower body thrust
+higher.
 
-“Eh? No way, are you already… coming?”
+"Eh? You're not... you're not going to cum, are you?"
 
-By the time **Blackstone** came to his senses, it was too late. After one final thrust, the **Bear Guard**'s body slowly
-went limp. His two arms hung down. Because his neck was still restrained, his body didn’t fall but hung in **Blackstone
-**'s embrace. A drop of thick white liquid seeped from the tip of the black bulge, flowing down the tight pants and
-hanging near his balls.
+By the time **Blackstone** realized what was happening, it was too late. After one final thrust, the
+**bear guard**'s body slowly went limp. His arms fell limp; due to being strangled, his body didn't
+fall but hung in **Blackstone**'s embrace. A drop of thick white fluid seeped from the tip of the
+black bulge, running down the tight pants to hang near his balls.
 
-**Blackstone** used the thumb of the hand holding the cigarette to hook open the waistband of the **Bear Guard**'s tight
-pants. A pungent smell immediately wafted out. The crotch was already filled with thick semen, and the thick, hard *
-*Bear Cock** continued to spurt residual cum on its own, seemingly unaware that its owner had died.
+**Blackstone** used the thumb of the hand holding the cigarette to hook open the waistband of the *
+*bear guard**'s tight pants. A pungent smell immediately wafted out. The crotch was already filled
+with thick semen, and the hard **bear dick** continued to dribble leftover cum on its own, seemingly
+unaware its owner was already dead.
 
-“Damn it, how am I supposed to change outfits now! Ugh, you useless dead bear, couldn’t you hold on a little longer!” *
-*Blackstone** angrily pressed the cigarette butt onto the **Bear Guard**'s head, burning a bald patch into his fur. The
-now-corpse **Bear Guard** could only stare blankly, unable to resist.
+"Damn, how am I supposed to change clothes now! Ugh, you useless dead bear, couldn't you hold on a
+little longer!" **Blackstone** angrily pressed the cigarette butt out on the **bear guard**'s head,
+burning a bald patch in his fur. The now-corpse **bear guard** could only stare blankly, unable to
+resist.
 
-**Blackstone** dragged the **Bear Guard**'s body to a corner next to the entertainment center. Concealed by greenery, it
-would be hard to spot in the middle of the night.
+**Blackstone** dragged the **bear guard**'s body to a corner beside the entertainment center,
+concealed by greenery, making it hard to spot in the middle of the night.
 
-He had no choice but to steel himself and enter the entertainment center to find the next target for a change of
-clothes.
+No choice, he had to steel himself and enter the entertainment center to find the next target for
+changing clothes.
 
-Just as **Blackstone** was about to push open the door to the entertainment center, a series of “tap-tap-tap” sounds
-came from the distance—clearly the sound of hard-soled military boots running. **Blackstone** immediately hid on the
-side of the building.
+Just as **Blackstone** was about to push the door open to enter the entertainment center, a series
+of "tap, tap, tap" sounds came from the distance, clearly the sound of hard-soled military boots
+running. **Blackstone** immediately hid at the side of the building.
 
-He saw a black-uniformed **Bull Beastman** jogging to the entrance of the entertainment center, stopping to catch his
-breath. The bull took off his sweat-soaked tight-fitting short-sleeved shirt and threw it aside, then dropped to the
-ground and began doing push-ups.
+He saw a **bull beastman** in a black uniform jogging up to the entertainment center entrance,
+panting as he took off his sweat-soaked tight-fitting short-sleeved shirt and threw it aside, then
+dropped to do push-ups.
 
-“Quite disciplined. Probably doesn’t want to be scolded by his colleagues for trying too hard, so he chooses to train
-alone at night,” **Blackstone** thought to himself.
+"Talk about dedication. Probably doesn't want his colleagues to call him a try-hard, so he trains
+alone at night," **Blackstone** guessed to himself.
 
-Since the **Bull Beastman** was facing the entrance while doing push-ups, **Blackstone** would be spotted if he acted
-now. He had to wait patiently.
+Since the **bull beastman** was facing the door while doing push-ups, **Blackstone** would surely be
+spotted if he attacked now. He had to wait patiently.
 
-“…98, 99, 100! OK, mission accomplished.”
+"...98, 99, 100! OK, mission complete."
 
-After completing one hundred push-ups, the **Bull Beastman** finally stood up. By now, his muscles were pumped with
-blood, each one full and bulging, especially his pectoral muscles, which stood proudly on his chest like two peaks.
-Under the streetlight, his sweat-drenched muscles appeared even more robust and enticing.
+After completing a hundred push-ups, the **bull beastman** finally stood up. His entire body was now
+pumped with blood, every muscle full and swollen, especially his pectorals, standing proudly like
+two mountains on his chest. Under the streetlights, his sweat-slicked muscles appeared even more
+imposing and enticing.
 
-The **Bull Beastman** turned around, picked up his shirt to wipe the sweat from his head, pulled out a water bottle
-hanging from his belt, and gulped it down.
+The **bull beastman** turned to pick up his shirt, wiping the sweat from his forehead, then pulled a
+water bottle hanging from his belt and gulped it down.
 
-Now was the moment!
+Now's the chance!
 
-**Blackstone** seized the opportunity, moved behind him, and locked his arm around the **Bull Beastman**'s throat.
+**Blackstone** seized the moment, crept up behind him, and wrapped his arm around the **bull
+beastman**'s throat in one swift motion.
 
-“Pfft… cough… cough-hack…”
+"Pfft... Gghk... Ggha..."
 
-The **Bull Beastman**, drinking halfway, had his throat locked and coughed out a splash of water. Instinctively, he
-began pulling at **Blackstone**'s arm. Although his muscles were pumped, this was only an illusion of strength. Muscles
-are at their weakest and most powerless state right after a workout, capable of exerting less than half their usual
-strength.
+The **bull beastman**, who was in the middle of drinking, had his throat suddenly locked. He choked,
+spluttering a mouthful of water, instinctively trying to pry **Blackstone**'s arm away. Although his
+muscles were pumped, it was merely a temporary illusion of strength. After just finishing a workout,
+his muscles were in their weakest, most exhausted state, capable of exerting less than half his
+usual strength.
 
-Of course, even at full strength, it was unlikely he could escape **Blackstone**'s monstrous grip. **Blackstone**'s arms
-were as formidable as a crab’s pincers.
+Of course, even at full strength, he would be unlikely to escape **Blackstone**'s monstrous grip. *
+*Blackstone**'s arms were as formidable as a crab's pincers.
 
-“Let… let go… cough…”
+"Let... let go... gghk..."
 
-The **Bull Beastman**'s struggling strength began to wane, and his body showed signs of giving up resistance, leaning
-back tightly against **Blackstone**'s chest.
+The **bull beastman**'s struggling force began to weaken, his body showing signs of giving up
+resistance, leaning back tightly against **Blackstone**'s chest.
 
-Having just exercised and stimulated by suffocation, his body was abnormally hot, making **Blackstone** feel like he was
-holding a heated meatball. Combined with the unique masculine scent from the **Bull Beastman**'s sweat, **Blackstone**
-became aroused, his lower body slowly hardening and pressing against the **Bull Beastman**'s back.
+Due to the recent exercise and the stimulation of asphyxiation, his body was abnormally hot, making
+**Blackstone** feel like he was hugging a warm meatball. Combined with the unique masculine scent
+emanating from the **bull beastman**'s sweat, **Blackstone** began to feel aroused, his own lower
+body slowly hardening and pressing against the **bull beastman**'s back.
 
-“I’d really like to slowly screw this bull to death.”
+"I'd really like to fuck this bull to death slowly."
 
-**Blackstone** thought this, but he knew there was no time to enjoy it now. He could only reach out and knead the **Bull
-Beastman**'s huge chest for a dry thrill, while also loosening his grip slightly, allowing the **Bull Beastman**'s
-windpipe just enough air to breathe but still unable to shout.
+**Blackstone** thought this, but he knew there was no time to enjoy such pleasures now. He could
+only reach out to knead the **bull beastman**'s huge chest to satisfy his urges, while loosening his
+grip slightly, just enough to allow a small passage of air into the **bull beastman**'s windpipe but
+still preventing any loud cries.
 
-“Ha… hu… ha… hu”
+"Hah... huff... hah... huff"
 
-The **Bull Beastman**, able to breathe again, began gasping greedily, and his struggles slowed somewhat.
+The **bull beastman**, regaining his breath, began to gasp greedily, his body's struggles slowing.
 
-“Tell me, why are you training alone late at night?” **Blackstone** asked with interest.
+"Tell me, why are you training alone so late at night?" **Blackstone** asked curiously.
 
-Expecting the other to interrogate for information, he didn’t anticipate such a question. He could only reply hoarsely:
-“I… I want to be promoted… to a formal **Combat Soldier**…”
+Expecting the other to interrogate him for information, he was taken aback by such a casual
+question. In his current state, he could only reply hoarsely:
 
-“I see, what a hardworking good boy,” **Blackstone** praised, patting his head.
+"I... I want to... be promoted to... a **Combat Soldier**..."
 
-The **Bull Beastman** knew this was humiliation, but with his life in the other’s hands, he could only obediently reply:
-“Th… thank you.”
+"Is that so? What a hardworking young lad," **Blackstone** praised, patting his head.
 
-“But unfortunately, your wish won’t come true,” **Blackstone** shook his head and sighed, then gently pinched the **Bull
-Beastman**'s nipple with the hand kneading his chest.
+The **bull beastman** knew this was humiliation, but his life was in the other's hands. He could
+only meekly reply, "Th-thank you."
 
-“Sss ha…!”
+"But unfortunately, your wish cannot be fulfilled," **Blackstone** sighed, shaking his head. As he
+spoke, the hand kneading the chest gently pinched the **bull beastman**'s nipple.
 
-The **Bull Beastman** was stimulated to the point of rising on his toes for a moment. He understood the implication in *
-*Blackstone**'s words and pleaded desperately: “Don’t… don’t kill me… please…”
+"Ssshh...!"
 
-“That won’t do. Your heads are quite valuable,” **Blackstone** said, continuing to lightly pinch the other’s nipple.
+The **bull beastman**, stimulated, arched his feet for a moment. He understood the implication in *
+*Blackstone**'s words and begged desperately, "D-don't... kill me... please..."
 
-“Ah… stop… mmph…”
+"Can't do that. Your heads are worth good money," **Blackstone** said, continuing to gently pinch
+the other's nipple.
 
-The **Bull Beastman** tried to keep begging, but **Blackstone** covered his mouth.
+"Ah... n-no... mmph..."
 
-“The day you became a **Beast Shield Company** soldier, you should have anticipated this might happen. Don’t worry, I’ll
-make your death a pleasurable one.”
+The **bull beastman** tried to keep pleading, but **Blackstone** covered his mouth.
 
-**Blackstone** then pulled down the **Bull Beastman**'s tight pants. The already engorged **Bull Cock** eagerly sprang
-out, dripping with lewd fluid. **Blackstone** grasped the **Bull Cock** with his palm. Due to his frequent arm training,
-his palms had some calluses. **Blackstone** deliberately placed a callus against the **Bull Beastman**'s frenulum area
-and began stroking slowly, letting the callus rub lightly against the frenulum.
+"The day you became a **Beast Shield Company** soldier, you should have expected this might happen.
+Don't worry, I'll make sure you die feeling good."
 
-“Ah… ah… ha ah…”
+After saying this, **Blackstone** pulled down the **bull beastman**'s tight pants. The already
+engorged **bull cock** eagerly sprang out, dripping with pre-cum. **Blackstone** wrapped his palm
+around the **bull cock**. Due to his frequent arm training, his palms inevitably had some calluses.
+**Blackstone** intentionally positioned a callus against the **bull beastman**'s frenulum area and
+began stroking slowly, letting the callus rub lightly against the frenulum.
 
-The **Bull Beastman** immediately trembled with pleasure, his pillar-like black-socked bull legs shaking uncontrollably.
-His body twisted left and right, trying to escape **Blackstone**'s palm, but his limited mobility made it impossible.
+"Ah... ah... haah..."
 
-Years of hard work had finally made him a reserve soldier. The thought that all his efforts were about to go to waste,
-that he would die here today anonymously, without even a chance to fight back, filled him with intense resentment and
-despair, causing tears to stream down his face.
+The **bull beastman** immediately trembled intensely with pleasure, his thick black-sock-clad bull
+legs shaking uncontrollably. He twisted his body left and right, trying to escape **Blackstone**'s
+palm, but with limited space to move, he couldn't break free.
 
-“Don’t be sad. Enjoy your one and only ejaculation. Don’t worry, there’s already a bear waiting to keep you company.”
+Years of hard work had finally earned him a spot as a recruit. The thought that all his efforts were
+about to be in vain, that he would die here namelessly today without even a chance to fight back,
+filled him with intense bitterness and despair, causing tears to stream down his face.
 
-“Mmph… mmph… mmph!”
+"Don't be sad. Enjoy this once-in-a-lifetime orgasm. Don't worry, a bear is already on his way to
+keep you company."
 
-The **Bull Beastman** still struggled hard, resisting the urge to ejaculate.
+"Mmph... mmph... mmph!"
 
-Seeing the **Bull Cock** had risen high and hardened to its limit, **Blackstone** let go of the **Bull Cock**.
+The **bull beastman** continued to stubbornly resist the urge to cum.
 
-The **Bull Beastman**, suddenly feeling the stimulation disappear, secretly breathed a sigh of relief, thinking the
-other must be tired and planning to rest.
+Seeing the **bull cock** was now fully erect and rock-hard, **Blackstone** released it.
+
+The **bull beastman**, suddenly feeling the stimulation disappear, secretly heaved a sigh of relief,
+thinking his attacker's hand was tired and needed a rest.
 
 At that moment!
 
-**Blackstone** suddenly grabbed the **Bull Beastman**'s black, hard nipple and twisted it hard!
+**Blackstone** suddenly grabbed the **bull beastman**'s black, hardened nipple and twisted it hard!
 
-“Urgh… ugh ah!”
+"Urgh... Argh!"
 
-The **Bull Beastman**, caught off guard, finally broke through his ejaculation防线. His lower body thrust upward, and a
-huge stream of thick white bull semen gushed out, shooting all the way to the opposite side of the street. Right after
-the first spurt, he rose on his thick legs and eagerly shot the second burst, one after another, continuously.
+The **bull beastman**, caught off guard in his moment of relaxation, finally breached his orgasm
+threshold from this intense stimulus. His lower body thrust forward, and a massive wave of thick
+white bull cum gushed out, shooting all the way to the opposite side of the street. Immediately
+after the first shot, he rose on his thick legs, eagerly firing a second blast, followed by one
+after another in an unbroken stream.
 
-“1, 2, 3…” **Blackstone** counted the spurts for him, just as he had counted his push-ups earlier.
+"1, 2, 3..." **Blackstone** counted the spurts for him, just as he had counted his push-ups earlier.
 
-“18, 19.”
+"18, 19."
 
-The **Bull Beastman** shot a full nineteen times before his body slowly went limp.
+The **bull beastman** shot a full nineteen times before his body slowly went limp.
 
-“No more?” **Blackstone** asked, squeezing upward from the root of the **Bull Cock**. The **Bull Beastman**'s thigh
-muscles twitched, and a small stream of residual semen spurted out. Finally, he went completely limp in **Blackstone**'s
-arms.
+"No more?" **Blackstone** asked, then pressed upward from the base of the **bull cock** with his
+hand. The **bull beastman**'s thigh muscle twitched, and a small final spurt of residual cum shot
+out before he finally went completely limp in **Blackstone**'s arms.
 
-“Not bad, let’s call it 20 times,” **Blackstone** patted the **Bull Beastman**'s head again, then closed his rolled-back
-eyes and gently laid him on the ground.
+"Not bad, I'll count it as 20," **Blackstone** patted the **bull beastman**'s head again, then
+closed his upturned, glazed eyes and gently laid him on the ground.
 
-**Blackstone** quite liked this **Bull Beastman** and decided to change into his uniform.
+**Blackstone** was quite fond of this **bull beastman** and decided to take his uniform.
 
-He first lifted one bull leg, took off the military boot, and a smell of sweaty feet wafted from the black sock sole.
-Though not enough to make one retch, it was quite strong. After all, this **Bull Beastman** had just finished exercising
-and was soaked in sweat, so some odor was inevitable.
+He first lifted one of the bull legs, removed the military boot. The smell of sweaty feet
+immediately wafted from the black sock. Though not enough to be nauseating, it was certainly
+noticeable. After all, this **bull beastman** had just finished exercising and was drenched in
+sweat; some odor was inevitable.
 
-**Blackstone** just sighed slightly but didn’t mind. As a frequent hunter of **Beast Shield Company** soldiers, he was
-used to it.
+**Blackstone** merely sighed slightly, not particularly嫌弃. Being a frequent hunter of **Beast
+Shield Company** soldiers, he was used to it.
 
-**Blackstone** put on the **Bull Beastman**'s full uniform, feeling a sticky sensation all over, especially on the soles
-of his feet. But luckily, this **Bull Beastman**'s sweat odor wasn’t too strong and was tolerable.
+**Blackstone** put on the **bull beastman**'s full set of uniform, feeling a sticky sensation all
+over, especially on the soles of his feet. Fortunately, this **bull beastman**'s sweat odor wasn't
+too strong; it was bearable.
 
-Finally, **Blackstone** dragged the fully nude muscular bull to where the **Bear Beastman**'s body was hidden and, with
-a “thump,” stacked him on top of the **Bear Beastman**'s stomach.
+Finally, **Blackstone** dragged the fully nude muscular bull to where the **bear beastman**'s body
+was hidden and, with a "thump," piled him on top of the **bear beastman**'s stomach.
 
-These two **Beast Shield Company** reserve soldiers now lay quietly in the greenery beside the entertainment center,
-unnoticed.
+These two **Beast Shield Company** recruits now lay quietly together in the greenery beside the
+entertainment center, unnoticed.
 
 ---
 
 **End**
 
-> *The night is still long, and the hunter’s steps never cease.*
+> *The midnight hunt was silent and swift, yet the bounty hunter's footsteps never truly ceased.*
+
+---
+
+## Story Commentary and Reflection
+
+> *The following commentary is based on this chapter's story content, written in casual emotional
+language.*
+
+### Their Final Stories
+
+**【Black Uniform Bear Guard】**
+
+This **bear recruit** on guard duty at the entertainment center entrance, having stood his post for
+most of the night and likely tired, snuck to a corner for a smoke to relax when he thought no one
+was watching.
+
+Instead, **Blackstone** grabbed him from behind and choked him, leaving him unable to even cry for
+help, clawing uselessly at those iron-clamp-like arms.
+
+His pure black uniform accentuated every contour of his bear-like physique, chest muscles bulging,
+two thick legs in black socks sturdy as pillars. He died with his face flushed red, but the worst
+part was his crotch, hard as a hill, cumming all trapped inside his tight pants. He didn't even know
+what hit him before he was done for.
+
+**Blackstone**, annoyed he died too quickly, even burned a circle into his scalp with a cigarette
+butt—dead already, yet branded with a "useless" mark.
+
+His full bear breasts, likely untouched until death, just cooled down with the rest of him.
+
+**【Black Uniform Bull Beastman】**
+
+This **bull** was truly a pity.
+
+Not sleeping at night, sneaking out to train extra, having just finished a hundred push-ups, muscles
+pumped and full, chest muscles swelling like two mountains, sweat soaking his tight shirt.
+
+He worked so hard just to get promoted to **Combat Soldier**—in that dog-eat-dog **Beast Shield
+Company**, he was at least a soldier with ambition.
+
+Then **Blackstone** grabbed him from behind, throat locked, choking on the water he'd just drunk.
+
+**Blackstone** kneaded his sweat-drenched huge chest while chatting with him, praising him as a "
+hardworking young lad," then delivering his death sentence—that was downright cruel.
+
+This bull was stubborn too; knowing he was about to die, he still held back from cumming, tears
+streaming—all those years of training, finally becoming a recruit, only to die namelessly on the
+roadside without even seeing his killer's face.
+
+**Blackstone** was wicked, deliberately pinching his nipple, breaking his defenses instantly.
+
+He shot a full nineteen times—no, twenty if you count the squeezed-out residual cum—dying while
+being counted like his push-ups.
+
+When he died, that **bull cock** was still rock-hard. **Blackstone**, quite satisfied, stripped off
+his uniform and wore it himself.
+
+All that muscle, wasted.
+
+### The People Still Alive
+
+**【Blackstone】**
+
+This **bounty hunter** is becoming more and more like a seasoned butcher.
+
+His great strength is his trademark; those arms lock around, and even the strongest **beastman** has
+to submit.
+
+This time he played quite花样—smoking his victim's cigarette, kneading his chest, pinching his
+nipple, even chatting with his prey before killing him, praising his "hard work," then delivering
+the death notice.
+
+He seemed quite taken with that **bull beastman**; his own cock hardened, pressing against the
+bull's back, but there was no time to play slowly due to the mission.
+
+Finally, he put on the bull's still-warm uniform, the soles of his feet feeling the previous owner's
+sweat-dampness—in this world of **male beastmen**, this kind of "inheritance" is its own unique form
+of cruelty.
+
+He himself is a **hermaphroditic male beastman**, those huge breasts bulging under the uniform, but
+he knows exactly how to use these male characteristics to take others' lives.
+
+In this world, he is the清醒 hunter, the indifferent passerby.
+
+### Story Reflection
+
+After reading this chapter, I feel particularly uncomfortable inside.
+
+Not for **Blackstone**, but for those two beastmen.
+
+The **bear guard** just wanted to smoke and rest; the **bull beastman** just wanted to secretly work
+hard for a promotion—in this world ruled by male beastmen, these are the most ordinary desires.
+
+But they happened to be soldiers of the **Beast Shield Company**.
+
+And that became their original sin.
+
+**Blackstone** killed them not because they did any evil, but simply because they wore that uniform,
+because their heads were worth money.
+
+This is an institutionalized slaughter, unrelated to personal grudges.
+
+The most ironic part is how they died:
+
+Choked to the point of asphyxiation, their lower bodies hard with pain, finally ejaculating to death
+amidst ultimate humiliation and inexplicable pleasure.
+
+In this world, the male beastman's sexual characteristics are both a source of pride and a
+weakness—the thick **cocks**, the full **chest muscles**, symbols of strength in life, become death
+warrants in death.
+
+The **bear guard** died confused; the **bull beastman** died unwilling.
+
+Their bodies piled in the greenery—will they be found tomorrow? And if found, how will they be
+handled?
+
+Most likely, **Beast Shield Company** will send someone to hastily collect the bodies, then mark
+them as "missing" in the files—in this cruel male beastman world, two lives vanish just like that,
+light as a feather.
+
+And **Blackstone**, wearing uniform still carrying body heat and the smell of sweat, continues his
+hunt.
+
+The night is long, and stories like this are still playing out in every corner of this city.
 
 ---
 
 [Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
-
----
