@@ -29,7 +29,8 @@
 
 [//]: # (Insert illustrations here if available)
 [//]: # (Image reference format: `![Image Description](../../images/short-stories/image-file-name)`)
-[//]: # (Example: `![Blackstone Executing Bear Orc](../../images/short-stories/ss-002-1-blackstone-execution.png)`)
+[//]: # (Example:
+`![Blackstone Executing Bear Orc](../../images/short-stories/ss-002-1-blackstone-execution.png)`)
 
 {{Body Content Paragraph Three}}
 

@@ -2,261 +2,403 @@
 
 ---
 
-| [Back to Table of Contents](../../short/README.md) | [Next Chapter](flame-wraith-ch2.md) |
+| [Return to Directory](../../short/README.md) | [Next Chapter](flame-wraith-ch2.md) |
 
 ---
 
 > *Flame Wraith - Chapter 1: Infiltration*  
-> The Flame Wraith duo infiltrates the Beast Shield recruit training base, beginning a silent hunt. In the White Bear
-> Squad Leader's office, recruits come one by one to "report," but none of them ever leave...
+> The duo **Yan** and **Liang** infiltrate the **Beast Shield New Recruit Training Base**, beginning
+> a silent hunt. In the office of the **White Bear Team Leader**, new recruits arrive one by one
+> to "
+> report in," never to leave again...
 
 ---
 
-At the **Beast Shield** recruit training base, a patrolling **Tiger Guard** was grabbed by the scruff of his neck and
-pulled into a corner as he passed by the wall. After subduing the **Tiger Guard**, the assailant immediately choked his
-throat, while his other hand reached into the guard's military-green **tights** and grasped his **cock**.
+In the **Beast Shield New Recruit Training Base**, a patrolling **Tiger Guard** was pulled into a
+corner by a large hand grabbing the back of his neck as he passed by a wall. The assailant
+restrained the **Tiger Guard** and immediately choked his throat, then his other hand reached into
+the guard's army-green **tights** and grasped his **cock**.
 
-"Y-you... who are you?" The **Tiger Guard** could only manage a hoarse question from his throat, but received no reply.
-Then, he felt a surge of heat flowing from the hand gripping his **cock**, through his shaft and into his **testicles**.
-Instantly, his **cock** became engorged and erect. In less than ten seconds, the **Tiger Guard**, who was usually very
-confident in his endurance, was brought to the brink of orgasm, filling him with fear.
+"You... who are you?" The **Tiger Guard** could barely rasp out the question, but received no reply.
+Then he felt a surge of heat flow from the hand holding his **cock**, through his shaft and into his
+**testicles**. His **cock** instantly engorged and hardened, bringing him to the verge of orgasm in
+less than ten seconds. This shocked the **Tiger Guard**, who had been very confident in his stamina.
 
-"Let... let me go!... Don't!" Just like that, while the assailant merely held his **cock** without moving, the **Tiger
-Guard** climaxed on his own. Seeing that the **Tiger Guard** had lost control, the assailant covered his mouth, muffling
-his wail at the moment of release into a grunt. He then watched expressionlessly as the **Tiger Guard** stood on tiptoe
-and began to ejaculate. Semen seeped through the military-green **tights**, slowly oozing white streaks.
+"Let... let go of me!... Stop!" Just like that, while the assailant simply held his **Tiger Guard
+cock** without moving, the **Tiger Guard** reached climax on his own. Seeing the guard had broken,
+the assailant covered his mouth, muffling his final wail into a groan, then watched expressionlessly
+as the **Tiger Guard** stood on tiptoe and began to ejaculate. Semen was trapped inside the
+army-green **tights**, slowly seeping out as white fluid.
 
-"**Yan**, you're so ruthless. Can't you even let him die feeling a bit of pleasure?" A voice of mild reproach came from
-the air nearby, and then a small, naked figure materialized out of thin air. He walked over to the **Tiger Guard**, who
-was ejaculating with his eyes rolled back, and gently pulled open the waistband of the **tights** covering the **Tiger
-Guard's glans**. "At least let him shoot it out. Holding it in is so uncomfortable."
+"**Yan**, you really are heartless. You don't even let him die pleasurably." A voice of mild
+reproach came from the seemingly empty air beside them. Then a small, naked figure materialized out
+of thin air, walked over to the **Tiger Guard** who was ejaculating with his eyes rolling back, and
+gently pulled open the waistband of the **tights** that covered the guard's **cockhead**. "At least
+let him shoot it out. Keeping it pent up like that is too uncomfortable."
 
-As soon as the **waistband** was pulled open, the **Tiger Guard's** semen gushed out with the throbbing of his **cock**,
-leaving several silvery lines on the ground.
+As soon as the **waistband** was opened, the **Tiger Guard's** semen spurted out with the throbbing
+of his **cock**, leaving silvery lines on the ground.
 
-"Don't talk too much. Remember, you're only here to assist me and handle the cleanup. The killing is my business."
-Seeing that the **Tiger Guard** had finished ejaculating and was slumped weakly in his arms, breathing faintly, **Yan**
-gripped the base of his **cock** and squeezed out the remaining semen, completely severing his vitality. The **Tiger
-Guard** shuddered once and then stopped breathing.
+"Don't speak out of turn. Remember, you're only here to assist me and handle the aftermath. The
+method of killing is my business." Seeing the **Tiger Guard** had stopped ejaculating and lay limp
+in his arms, breathing faintly, **Yan** squeezed the base of the guard's **cock** to expel the
+remaining semen, completely severing his life force. The **Tiger Guard** shuddered once, then
+stopped breathing.
 
-**Yan** withdrew his semen-covered hand from the **Tiger Guard's** pants, wiped it on the guard's pectoral muscles, and
-then pushed the **Tiger Guard's** body aside. "Now it's your job," he said before heading toward the center of the *
-*base**.
+**Yan** withdrew his semen-covered hand from the **Tiger Guard's** pants, wiped it on the guard's
+chest, then pushed the **Tiger Guard's** body aside. "Now it's your job." With that, he walked
+toward the center of the **base**.
 
-"Sure, sure, got it," **Liang** sighed helplessly. He then struggled to stuff the **Tiger Guard's** burly corpse into a
-nearby **trash bin**. Unfortunately, the **bin** was too small, leaving the **Tiger Guard's** thick calves sticking high
-out of the top. **Liang** took the opportunity to remove one of the **Tiger Guard's** shoes, revealing the **serial
-number** on the sole of his **white sock**. He took a picture with his **phone**, then pulled a few plastic bags from
-the **trash bin** to cover and hide the **white-socked meaty leg**. After that, his body vanished into thin air once
-more.
+"Yes, yes, I know." **Liang** sighed helplessly, then struggled to stuff the **Tiger Guard's** bulky
+corpse into a nearby **trash can**. Unfortunately, the **trash can** was too small. The **Tiger
+Guard's** thick calves stuck out high in the air. **Liang** took the opportunity to remove one of
+the **Tiger Guard's** shoes, revealing the **ID Number** printed on the sole of his **white sock**.
+He took a picture with his **phone**, then rummaged in the **trash can** for a few plastic bags to
+cover and conceal the **white-socked meaty legs**. His body then vanished into thin air once more.
 
-Catching up to **Yan**, he saw him executing a **Canine Guard**—probably an unlucky soul encountered along the way.
+He had just caught up with **Yan** when he saw him executing a **Dog Beastman Guard**, likely an
+unlucky soul he encountered on the way.
 
-"Slow down, I almost lost you."
+"Slow down. I almost lost you."
 
-"Mmgh!... Mmgh!" Before **Liang** could finish speaking, the **Canine Guard**, whose **balls** were grabbed, began to
-ejaculate. His screams were similarly muffled in his throat by **Yan**. After shooting all his load into his pants, his
-legs went weak, and he collapsed to the ground.
+"Ugh!... Ugh!" Before **Liang** could finish speaking, the **Dog Guard**, whose **nuts** had been
+grabbed, began to ejaculate. His scream was likewise stifled in his throat by **Yan**. After
+shooting all his semen into his crotch, his legs went weak and he collapsed face down on the ground.
 
-"Handle this," **Yan** said coldly, tossing the instruction without a glance at the corpse before walking away.
+"Handle it." **Yan** coldly tossed out the order, not even glancing at the corpse, and walked
+straight away.
 
-"You work way too efficiently!" **Liang** crouched down, expertly removed one of the **Canine Guard's** shoes, lifted
-the foot, and photographed the **serial number** on the sole of the **white sock**. "Well, that's fine. The **bounty**
-adds up faster this way. It's just unfortunate for these guys." After that, he put the removed **sneaker** back on, then
-dragged the body into a nearby **thicket**.
+"Your work efficiency is way too high!" **Liang** crouched down, skillfully removed one of the **Dog
+Guard's** shoes, lifted the foot, and photographed the **ID Number** on the sole of the **white sock
+**. "Well, that's fine too. The **bounty** money comes faster. It's just these guys who are
+pitiful." With that, **Liang** put the removed **sneaker** back on, then dragged the corpse into a
+nearby **thicket of bushes**.
 
-**Yan** entered an **office**, where a **White Bear** in a **blue uniform** was reading a document, seemingly memorizing
-its contents. Seeing **Yan** burst in, he shouted, "Who are you!" When **Yan** didn't respond and only approached with
-ill intent, he unhesitatingly drew his **pistol** and fired at **Yan**. However, the **bullets** simply ricocheted off *
-*Yan's** body.
+**Yan** entered an **office**. Inside, a **White Bear** wearing a **blue uniform** was reading a
+document, seemingly memorizing it. Seeing **Yan** barge in, he shouted, "Who are you!" Getting no
+reply, only seeing **Yan** approach menacingly, he didn't hesitate to pull out a **pistol** and fire
+at **Yan**. But the **bullets** bounced right off **Yan's** body.
 
-"What! **Indestructible Body**! Ugh...!" Before the **White Bear Squad Leader** could react, **Yan** grabbed his throat
-and slammed him against the wall. Then, with a tightening sensation in his crotch, his **manhood** was seized by **Yan
-**. His nearly three-hundred-pound body instantly lost the ability to resist, leaving him pressed against the wall,
-supported only by his two meaty legs, writhing left and right. **Yan** didn't hold back either, reaching into the *
-*White Bear's** blue **bulge** to grasp the thick, fat **bear cock** and began channeling his energy. He had only
-learned the basics of his **Scorching Flow Internal Force**, so he could only transmit it slowly this way. But it was
-enough to deal with this **White Bear**. At first, the **White Bear** gritted his teeth, struggling to resist the urge
-to ejaculate, but soon he began panting heavily. His **cock** hardened like an iron rod, and his body, which had been
-twisting in an attempt to break free, now stood stiffly, afraid to move for fear that even the slightest friction would
-push him over the edge and make him ejaculate. Even so, as the temperature in his lower body rose, the **White Bear
-Squad Leader** had reached his limit of endurance.
+"What! **Diamond Body Protection**! Ugh...!" Before the **White Bear Team Leader** could react, *
+*Yan** had already grabbed his throat, pinning him against the wall. Then his crotch tightened—his *
+*lifeline** was squeezed by **Yan**. His nearly 300-pound body instantly lost the ability to resist.
+He could only press against the wall, supported by his two meaty legs, writhing left and right. *
+*Yan** wasn't polite either. He casually reached into the **White Bear's** blue **bulge** and
+grasped the thick, hefty **bear root**, beginning to channel his energy. His **Blazing Flow Hidden
+Force** was only rudimentary; he could only transmit it slowly like this. But it was enough for this
+**White Bear**. At first, the **White Bear** gritted his teeth, trying hard to resist the urge to
+ejaculate, but soon he began panting heavily, his **cock** hard as an iron rod. His body, which had
+been writhing in an attempt to break free, now stiffened, afraid that even the slightest friction
+from movement would make his **cock** burst and ejaculate. But even so, with the rising temperature
+in his lower body, the **White Bear Team Leader** had reached his limit.
 
-"Sp-spare me, sir..." the **White Bear Squad Leader** finally couldn't hold back and began to beg for mercy. But **Yan**
-acted as if he hadn't heard, silently holding his **cock** and channeling his energy.
+"Sp... spare me, hero..." The **White Bear Team Leader** finally couldn't hold back and began to beg
+for mercy. But **Yan** acted as if he hadn't heard, silently holding his **cock** and channeling
+energy.
 
-"Hey, just give him a quick release and finish him off," **Liang**, who had been watching from the side, advised.
+"Sigh, just give him a quick death. Jack him off to finish him." **Liang**, who was watching from
+the side, urged.
 
-"You stay out of it. I'm practicing my skills at the same time. By timing how long they last, I can gauge my progress.
-Few can last a minute against me now."
+"Stay out of it. I'm also practicing my skill this way. How long they last tells me how much my
+power has improved. The number of people who can withstand me for a full minute now is few and far
+between."
 
-During their conversation, the **White Bear** reached his breaking point. He arched his hips, stood on tiptoe, and began
-to ejaculate. "Ugh... ugh... ah!" Semen shot into the air with each cry, landing on the floor with a few splats. Even as
-the **White Bear** ejaculated frantically, **Yan** continued to hold his **cock** motionless, pinning him against the
-wall. Only after the **White Bear** shot his last spurt did **Yan** release his grip, letting the **White Bear's**
-corpse slide down and slump onto the floor.
+During their conversation, the **White Bear** had reached his absolute limit. He thrust his hips
+forward, stood on tiptoe, and began to ejaculate. "Ugh... ugh... Ah!" With his shout, jets of semen
+spurted into the air, then fell with soft *plaps* onto the floor. Even though the **White Bear** was
+already ejaculating wildly, **Yan** still held his **cock** motionless, pinning him against the
+wall. Only after the **White Bear** shot his last spurt did **Yan** let go, allowing the **White
+Bear's** body to slide down and slump onto the floor.
 
-"This **base** specializes in training recruits. I suspect this **White Bear** was recently promoted to **Squad Leader**
-and transferred here. There's a **list of new recruits** on his desk, along with each person's **walkie-talkie channel
-number**. Later, imitate his voice and call his squad members over one by one," **Yan** instructed while wiping his
-hands.
+"This **base** trains new recruits. This **White Bear** probably just got promoted to **Team Leader
+** and was transferred here. There's a **list of new recruits** on his desk, along with each
+person's **walkie-talkie channel number**. Later, imitate his voice and call his team members over
+one by one." **Yan** instructed while wiping his hands.
 
-"Got it," **Liang** said, removing the **White Bear's** shoe to take a photo. Looking at the corpse, he sighed, "Just
-became a **Squad Leader** and didn't even get to enjoy it for a few days before meeting an untimely end. How pitiful."
-He then closed the **White Bear's** unwilling eyes. **Liang** wasn't inherently a killer, but he needed money, and
-hunting **Beast Shield** members paid well, so he had no choice but to partner with **Yan**.
+"Got it." **Liang** removed the **White Bear's** shoe and took a picture. Looking at the **White
+Bear's** body, he sighed, "Just became a **Team Leader**, didn't even get to enjoy it for a few days
+before dying a wrongful death. So pitiful." With that, he closed the **White Bear's** unseeing eyes.
+**Liang** wasn't actually a person fond of killing, but he needed money, and hunting **Beast Shield
+** personnel paid well, so he had no choice but to partner with **Yan**.
 
-**Liang** retrieved the **walkie-talkie** from the **White Bear's** waist, imitated his voice, and began calling the
-roster. "Number Two, come to my **office**."
+**Liang** took the **walkie-talkie** from the **White Bear's** waist and imitated the **White Bear's
+** voice to start calling: "Number Two, come to my **office**."
 
-The first to enter was a **Wolfman**. Although a recruit, **Beast Shield's** hiring standards required proven strength,
-and physical power was the most direct measure. Like other **Beast Shield** members, this **Wolfman** was
-broad-shouldered, thick-waisted, and stout-limbed. The cuff of the **white sock** wrapping his calf was as wide as a
-bowl.
+The first to enter was a **Wolfman**. Although a new recruit, **Beast Shield's** hiring standard was
+that strength had to be up to par, and physical power was the most direct reflection of strength. So
+this **Wolfman**, like other **Beast Shield** members, was broad-shouldered, thick-waisted, and
+heavily built. The opening of the **white socks** wrapping his calves was as wide as a bowl.
 
-"Reporting! **Squad Leader**, you called for... mmph!" The **Wolf Guard** had barely finished his report when **Yan**
-grabbed him from the side, seizing his **cock**. Under the torment of **Yan's** **Scorching Flow Internal Force**, it
-wasn't long before he sprayed his load. After shooting eight thick spurts, **Yan** mercilessly tossed him onto the body
-of the **White Bear Guard**. Not yet completely dead, the **Wolf Guard** lay twitching on the floor. **Yan** didn't even
-glance at him, coldly stating, "27 seconds. Next."
+"Report! **Team Leader**, you asked for me... Ugh!" The **Wolf Guard** who had just entered hadn't
+even finished his report before **Yan** grabbed him from the side, seizing his **cock**. Under the
+torment of **Yan's** **Blazing Flow Hidden Force**, he didn't last long before spurting semen. After
+shooting eight thick jets, **Yan** mercilessly threw him onto the body of the **White Bear Guard**.
+The **Wolf Guard**, not quite dead yet, lay face down on the floor, twitching incessantly. **Yan**
+didn't even look, just said coldly, "27 seconds. Next."
 
-"Number Three, come to my **office**," **Liang** called out before beginning to process the **Wolf Guard**, allowing
-both tasks to proceed simultaneously without delay.
+"Number Three, come to my **office**." **Liang** called the next number and began handling the *
+*Wolf Guard**, working on both tasks simultaneously to save time.
 
-"Repor... reporting, mmph... ah!" With a deep, simple voice, the second to enter was a burly **Bear Guard**. He stood a
-full head taller than **Yan**, with an immensely meaty and powerful build. His chest, constrained by a **tight shirt**,
-bulged with horizontal lines. His **white-socked** calves were as thick as pillars, and the **bulge** in his crotch was
-as large as a shot put. However, he seemed rather dim-witted. After being subdued by **Yan**, he still hadn't grasped
-what was happening, even thinking it was the **White Bear Squad Leader** restraining him.
+"Report... Report, ugh... Ah!" With a thick, honest voice, the second one to enter was a heavily
+built **Bear Beastman Guard**. He was a full head taller than **Yan**, his body exceptionally meaty
+and muscular. His chest, constrained by the **skintight suit**, was taut with horizontal lines. His
+calves in **white socks** were as thick as pillars, and the **bulge** in his crotch was as big as a
+shot put. But he seemed very dim-witted. After being subdued by **Yan**, he still hadn't grasped
+what was happening. He even thought the one choking him was the **White Bear Team Leader**.
 
-"Squa... **Squad Leader**... why... What did I do wrong... Why are you killing... me... ugh... ah!... ah!" And so, the *
-*Bear Guard** began spraying thick semen without ever understanding what was happening. The amount he sprayed was
-proportional to the size of his **testicles**, gushing over a dozen spurts before finally finishing. His body then went
-limp, collapsing heavily to the floor with a "thud."
+"Tea... **Team Leader**... Why... What did I do wrong... Why do you want to kill... me... Ugh..!
+Ah... Ah!" And so, the **Bear Guard** began spurting thick semen without even knowing what was
+happening. The amount he shot was proportional to the size of his **testicles**—he spurted a good
+dozen jets before finishing. Then his body went limp and he fell heavily to the floor with a *thud*.
 
-"Only 12 seconds. Useless. Next," **Yan** said disdainfully, flicking the **bear semen** from his hand.
+"Only 12 seconds. Such trash. Next." **Yan** said disdainfully, shaking the **bear semen** off his
+hand.
 
-**Liang**, after calling the next number, dragged the **Bear's** heavy corpse to the wall, placing it alongside the *
-*Wolf Guard**. As usual, he removed the **Bear Guard's** size 60 **sneakers**, photographed his **serial number**, then
-tucked his exposed, thick, and rigid **bear cock** back into the **tights** to make him look more presentable. He patted
-the **Bear Guard's** head, hoping he could rest in peace.
+After calling the next number, **Liang** dragged the **Bear's** bulky corpse to the wall and placed
+it next to the **Wolf Guard**. As usual, he removed the **Bear Guard's** size 60 **sneakers**,
+photographed his **ID Number**, then helped him tuck his still-hard, thick **bear root** back into
+his **tights** to make him look more presentable. Finally, he patted the **Bear Guard's** head,
+hoping he could rest in peace.
 
-Next to enter was a **Blue-furred Tiger Guard**, equally exceptionally burly. But no matter how muscular, all strength
-became useless the moment his **cock** was seized. Unsurprisingly, his fate mirrored the previous **beasts**. He didn't
-last long before wailing and ejaculating in **Yan's** arms. **Yan** seemed somewhat bored and tossed the **Blue Tiger**
-aside mid-ejaculation, throwing him next to **Liang**.
+The next one to enter was a **Blue-furred Tiger Guard**, also exceptionally muscular. But no matter
+how thick the muscles, they became useless the moment his **cock** was seized. Sure enough, his fate
+was the same as the previous **Beastmen**. He didn't last long before wailing and ejaculating in *
+*Yan's** arms. **Yan** seemed somewhat bored; as soon as the **Blue Tiger** began to ejaculate, *
+*Yan** threw him aside, landing him next to **Liang**.
 
 "25 seconds. Next."
 
-**Liang** looked at the **Blue Tiger** lying beside him, hips thrusting upward, desperately clutching the base of his
-own **cock** as he wept and ejaculated. Feeling a pang of pity, **Liang** called the next number while gripping the *
-*Blue Tiger's** **cock** and stroking it up and down, allowing him to enjoy his final climax.
+**Liang** looked at the **Blue Tiger** lying beside him, his crotch tented, desperately pinching the
+base of his own **cock**, crying as he ejaculated. Feeling compassion, **Liang**, while calling the
+next number, held the **Blue Tiger's** **cock** and pumped it up and down, letting him enjoy the
+last climax of his life.
 
-Before he could even process the **sock serial number** after comforting the **Blue Tiger**, a burly **Rhino Guard** was
-tossed over—another one thrown immediately after being forced to climax.
+Just as he had let the **Blue Tiger** pass on and hadn't yet had time to record the **sock ID Number
+**, a bulky **Rhinoceros Guard** was tossed over—another one thrown over right after being made to
+ejaculate.
 
-Seeing this, **Liang** flared up with anger and shouted at **Yan**, "Don't go too far! Would it kill you to be a bit
-more humane?!"
+Seeing this, **Liang** suddenly flared up with anger. He roared at **Yan**, "Don't go too far! Would
+it kill you to be a little more humane?!"
 
-**Yan**, staring at **Liang's** furious eyes, froze in place. This was the first time he had seen **Liang** lose his
-temper, and he was momentarily at a loss.
+**Yan**, seeing the anger in **Liang's** eyes, froze in place. This was the first time he had seen *
+*Liang** furious, and for a moment he didn't know what to do.
 
-The two stood in a stalemate, with only the **Rhino** rolling on the ground nearby, moaning and ejaculating. After a few
-seconds of writhing, he quieted down, apparently finished and deceased.
+The two stood in a stalemate, with only the **Rhinoceros** writhing on the floor nearby, groaning
+and ejaculating. He didn't roll for more than a few seconds before falling silent, having apparently
+finished shooting and passed on.
 
-**Liang** calmed himself, realizing now wasn't the time for arguments, then called the next number and began processing
-the **Rhino Guard's** corpse.
+**Liang** calmed down, knowing now wasn't the time to argue. Then he called the next number and
+began handling the **Rhinoceros Guard's** body.
 
-This time, a **Bull Guard** entered—similarly burly, with equally full pectoral muscles, and similarly subdued instantly
-by **Yan**. But this time, after seizing his **cock**, **Yan** didn't immediately channel his energy. Instead, he asked
-the **Bull Guard**, "Where are your sensitive spots?"
+This time, the one who entered was a **Bull Beastman Guard**, similarly bulky, similarly
+full-chested, similarly subdued instantly by **Yan**. But this time was different—after **Yan**
+grabbed his **cock**, he didn't channel energy. Instead, he asked the **Bull Guard** a question: "
+Where are your sensitive spots?"
 
-"P-please spare me, sir... I'm just a newly hired **recruit**..." the **Bull Guard** begged tearfully.
+"P-Please spare me, hero... I'm just a newly hired **new recruit**..." The **Bull Guard** begged
+tearfully.
 
-"Cut the nonsense. Answer my question honestly," **Yan** said, squeezing the **bull's balls** firmly, eliciting a grunt
-from the **Bull Guard**.
+"Less nonsense. Answer my question truthfully." **Yan** gave a hard squeeze to the **Bull's balls**,
+making the **Bull Guard** grunt in pain.
 
-"It's... the **nipples**," the **Bull Guard** was forced to confess.
+"It's... my **nipples**." The **Bull Guard** had no choice but to answer truthfully.
 
-"Good," **Yan** replied, releasing his **cock**. He lifted the guard's shirt, revealing a pair of pink **nipples**, and
-gently pinched one.
+"Good." Upon hearing this, **Yan** let go of his **cock**, lifted his shirt, and exposed the **Bull
+Guard's** pair of pink **nipples**. Then he gently pinched one.
 
-"Moo...!" Just that light pinch stimulated the **Bull Guard**, making him throw his head back with a trembling cry.
+"Moo...!" Just that gentle pinch stimulated the **Bull Guard** enough to throw his head back and let
+out a trembling moo.
 
-"Seems you're telling the truth. Good, I'll make your death quick." With that, **Yan** cupped the **Bull Guard's** round
-pectoral muscles, using his index and middle fingers to pinch the guard's grape-sized **nipples**, twisting and rubbing
-them in a spiral motion.
+"Seems you're not lying. Good. I'll let you die quickly." With that, **Yan** cupped the **Bull
+Guard's** round, full chest muscles with both hands, using his index and middle fingers to pinch the
+**Bull Guard's** grape-sized **nipples**, twisting and rubbing them in a spiral motion.
 
-"Moo... ugh... ah... moo...!"
+"Moo... Ugh... Ah... Moo...!"
 
-Subjected to such stimulation, the **Bull Guard** moaned frantically, his entire body shaking like a sieve. His two *
-*white-socked** thick legs thrashed uncontrollably. As a **bull**, his **nipples** even secreted a milky-white fluid,
-splattering as his body swayed. His already erect **cock** dripped profusely with pre-ejaculate, and even some semen
-mixed with the fluid began to leak out.
+Subjected to such stimulation, the **Bull Guard** moaned wildly, his whole body shaking like a
+sieve. His two thick legs in **white socks** twitched uncontrollably. As a **bull**, his **nipples**
+even secreted a bit of milky white fluid, splattering around as his body swayed. His already erect *
+*cock** leaked precum wildly, even mixing some semen with the pre-ejaculate fluid.
 
-"No... stop... I can't take it anymore... ugh, ah!... ah!" Before he could finish, the **Bull Guard** threw his head
-back, his **cock** standing tall as he sprayed a massive, thick load of semen, hitting the wall opposite the **office**.
-Spur after spur shot out with tremendous force, clearly indicating an extreme climax. Seeing the **Bull Guard** begin to
-ejaculate, **Yan** gripped his **cock** and stroked to help him expel every last drop. Only after he shot his final
-spurt did **Yan** toss his limp, lifeless body next to **Liang**.
+"Stop... fast... stop... I can't take it anymore... Ugh ah!... Ah!" Before he could finish, the *
+*Bull Guard** threw his head back, his **cock** standing tall, and shot out a massive jet of thick
+semen, hitting the wall opposite the **office**. Jet after jet followed, forceful and powerful. He
+seemed to have reached the peak of pleasure. Seeing the **Bull Guard** start to ejaculate, **Yan**
+also held his **cock** and pumped to help him expel semen. Only after he had shot his last drop did
+**Yan** throw his limp, lifeless body next to **Liang**.
 
-"This good enough for you? So troublesome," **Yan** grumbled, wiping the semen from his hands onto the **office** wall.
+"That should do it, right? So troublesome." **Yan** grumbled, wiping the semen from his hands onto
+the **office** wall.
 
-"That's more like it," **Liang** smiled, helping the **Bull Guard** pull his pants back up before photographing his *
-*sock serial number**.
+"That's more like it." **Liang** smiled, helped the **Bull Guard** pull up his pants, then
+photographed his **sock ID Number**.
 
-For the subsequent **guards** lured in, **Yan** would give their **cocks** a few strokes at the moment of climax,
-allowing them a final, small pleasure before death.
+For the subsequent **guards** lured in, **Yan**, the moment he made them ejaculate, would also give
+their cocks a few pumps, letting them enjoy a small final pleasure before death.
 
-"Ah... ha... ah...!" As the last **Boar Guard** on the **list** sprayed in **Yan's** grip, the entire staff of the *
-*office** had been eliminated.
+"Ah... Ha... Ah...!" As the last **Boar Guard** on the **list** shot his load in **Yan's** hand, the
+entire staff of this **office** had been wiped out.
 
-"Done. Now we go deeper into the **base**," **Yan** said, pushing the dazed, post-ejaculation **Boar Guard** aside and
-crouching to wipe the semen from his hands on the guard's buttocks.
+"Done. Next, we go deeper into the **base**." **Yan** pushed aside the **Boar Guard** who had
+ejaculated to the point of losing consciousness, then crouched down and wiped the semen off his
+hands on the **Boar's** buttocks.
 
-As **Liang** prepared to process the **Boar**, he noticed he wasn't completely dead yet—his eyes rolled back, body
-twitching intermittently. So, he delayed his work, instead gently stroking the **Boar's** head as a gesture of comfort.
+As **Liang** prepared to handle the **Boar**, he saw he wasn't quite dead yet, his eyes rolled back,
+body twitching occasionally. So he wasn't in a rush to work. Instead, he stroked the **Boar's** head
+to offer comfort.
 
-"I... I should've never... applied to **Beast Shield**..." the **Boar Guard** uttered his final words before his head
-drooped and he passed away.
+"I... I should never have... come to **Beast Shield**... to apply..." The **Boar Guard** uttered his
+last words, then let his head drop, passing away.
 
-"We've made enough today. Maybe we should call it quits," **Liang** said, somewhat unwilling to continue.
+"We've made enough today. Maybe we should call it quits." **Liang** said, feeling somewhat reluctant
+to continue.
 
-"What kind of foolish talk is that?" **Yan** pointed at the pile of **beast** corpses in the room. "These *
-*green-uniformed** **grunts** aren't worth much. We need to hunt at least a few more **blue-uniformed** ones." With
-that, he stood up and left the room.
+"What kind of foolish talk is that?" **Yan** pointed at the pile of **Beastmen** corpses in the
+room. "These **green-uniformed** **cannon fodder** aren't worth much. We have to hunt at least a few
+**blue-uniformed** ones before we're done." With that, he stood up and left the room.
 
-**Liang** sighed, slipped the shoe back onto the **Boar** corpse's foot, and stood up to lock the door. Remembering he
-had forgotten to take the **office key**, he scanned the room for the **White Bear Squad Leader's** body.
+**Liang** sighed, put the shoe back on the **Boar's** foot, then got up to lock the door and leave.
+Remembering he forgot to take the **office key**, he looked around the room for the **White Bear
+Team Leader's** body.
 
-Since the **White Bear Squad Leader** was the first **guard** executed, his body lay in the corner, buried under several
-other **green-uniformed recruits**. His head was completely out of sight, with only his feet clad in knee-high **white
-socks** and **blue sneakers** visible, intertwined with the **white-socked** thick legs of the other **beefy beasts**.
+Since the **White Bear Team Leader** was the first **guard** executed, his body lay in the corner,
+buried under several other **green-uniformed new recruits**. His head was completely out of sight,
+only a pair of large feet in long **white socks** and **blue sneakers** were visible, intertwined
+with the **white-socked** thick legs of the other **beefy beasts**.
 
-**Liang** had no choice but to flip over the other **guard** corpses piled on top of the **White Bear**. These
-two-to-three-hundred-pound **brutes** rolled off the pile like reluctant children, offering no resistance as they were
-pushed aside.
+**Liang** had no choice but to flip over the other **guard** corpses one by one that were piled on
+top of the **White Bear**. These two-to-three-hundred-pound **beefcakes** rolled off the corpse pile
+like reluctant children being pushed out of bed, offering no resistance.
 
-Finally, after immense effort, **Liang** retrieved the **key** from the **White Bear's** belt. Before locking the door
-and leaving, he glanced back into the room. The **office** was now strewn with over a dozen corpses, each brawny as an
-ox—any one of them would have been an intimidating presence on the street. But now, they lay quietly piled atop one
-another, eyes slightly closed, mouths half-open. Their thick limbs, once symbols of power, were now useless appendages
-sprawled haphazardly. The **bulges** in their crotches hadn't yet subsided, coated thickly with viscous semen—a clear
-sign they were beyond saving. Thick semen slowly dripped down the **office** walls, pooling with the mess on the floor
-into small puddles. The overwhelming masculine scent filled the room with a faint, pungent odor.
+Finally, after expending tremendous effort, **Liang** found the **key** on the **White Bear's**
+body's belt. Before locking the door and leaving, he took a last look around the room. The **office
+** was haphazardly filled with over a dozen corpses, each as brawny as an ox. Any one of them
+walking down the street would be an intimidating figure passersby wouldn't dare provoke. But now
+they all lay quietly piled on top of each other, eyes slightly closed, mouths half open. Their thick
+limbs were now just superfluous ornaments, sprawled aimlessly beside them. The tented **bulges** in
+their crotches hadn't subsided yet, covered in large amounts of thick, viscous semen, making it
+clear at a glance they were beyond saving. The thick semen on the **office** wall slowly dripped
+downward, merging with the semen on the floor into small puddles. The overly strong masculine scent
+filled the room with a faint, fishy odor.
 
-"Rest in peace, all of you," **Liang** whispered. He turned off the light, locked the door from the outside, tossed the
-**key** into a **trash bin**, and hurried to catch up with **Yan**.
+"Rest in peace, everyone." **Liang** turned off the light, locked the door from the outside, threw
+the **key** into a **trash bin**, then caught up with **Yan's** departing footsteps.
 
 ---
 
 **End of Chapter 1**
 
-> *In the office piled with corpses, the scent of blood and semen hangs thick in the air. Yan and Liang venture deeper.
-How many more secrets lie hidden in the shadows of the Beast Shield training base, waiting for them?*
+> *In the office where corpses pile up, the scents of blood and semen linger. Yan and Liang press
+onward, deeper into the Beast Shield training base. What other hidden secrets await them in the
+shadows?*
 
 ---
 
-| [Back to Table of Contents](../../short/README.md) | [Next Chapter](flame-wraith-ch2.md) |
+## Story Commentary and Reflection
 
----
+### Their Final Stories
+
+**【Green Uniform Tiger Guard】**  
+This unlucky **Tiger Soldier** was probably just taking a stroll after a meal when **Yan** yanked
+him into a corner. He didn't even get a clear look at his attacker before his lifeline was grabbed.
+A surge of heat traveled up his **cock** straight to his **nuts**, bringing him to the edge of
+orgasm in under ten seconds. Most humiliating of all, he didn't even finish his plea for mercy
+before his semen was forced to stay pent up in his army-green **tights**, ejaculating himself to
+death. He died with his eyes rolled back, his two **white-socked** thick legs twitching weakly a few
+times before falling still. **Yan** wouldn't even let him shoot freely; it was **Liang** who
+couldn't bear it and pulled open his waistband for him. Those tiger teats of his were probably still
+hard at death, but no one ever touched them before they grew cold with the rest of his body.
+
+**【Green Uniform Dog Beastman Guard】**  
+This **Dog Soldier** had it even worse. He was purely passing by when he ran into **Yan**. He didn't
+even get a word out before his **nuts** were seized. His scream was stifled in his throat, all his
+semen shot into his pants, and he collapsed face down on the ground, dead. When **Liang** dragged
+his body away, his dog teats were probably still warm. Too bad he'd never get a chance to wag his
+tail at anyone again.
+
+**【Blue Uniform White Bear Team Leader】**  
+This **White Bear** was probably the most resentful one in this chapter. He'd just become a **Team
+Leader**, sitting in his office memorizing documents, probably thinking about how to manage the new
+recruits and climb the ladder. Then **Yan** barged in. Bullets bounced right off him. He didn't even
+get a chance to fight back before he was choked and pinned against the wall, his **bear root**
+seized in someone else's hand. He gritted his teeth and held on, but in the end, he couldn't bear
+it. Semen spurted all over the floor. He died slumped on the floor, his eyes still open. When *
+*Liang** closed them for him, you could probably still see the unwillingness in the corners of his
+eyes—finally got a **blue uniform**, only to die inexplicably in his own office.
+
+**【Green Uniform Wolf Guard】**  
+The first **Wolf Soldier** called in. He hadn't even finished his report before **Yan** grabbed him.
+27 seconds—that's how long he lasted under the **Blazing Flow Hidden Force**. He shot eight thick
+jets before being thrown onto the **White Bear**, twitching face down on the floor until death. All
+that muscle, those full wolf teats—they were useless in the end.
+
+**【Green Uniform Bear Beastman Guard】**  
+This **Bear Soldier** was a bit dim. When **Yan** grabbed him, he thought it was his **Team Leader**
+punishing him. He ejaculated in 12 seconds, but the amount he shot matched the size of his huge *
+*bear balls**. He died with a heavy *thud* on the floor, like a toppled sack. When **Liang** tucked
+in his **bear root** and patted his head, he probably didn't know anything anymore.
+
+**【Green Uniform Blue-furred Tiger Guard】**  
+This **Blue Tiger** died the most aggrieved. **Yan** made him shoot and then just threw him to *
+*Liang**. He lay on the floor, pinching the base of his own **cock**, crying as he ejaculated. *
+*Liang**, taking pity on him, gave him a few final strokes, letting him die a bit more comfortably.
+Those blue-and-white striped tiger chest muscles of his trembled to the rhythm of his ejaculation
+until the very end.
+
+**【Green Uniform Rhinoceros Guard】**  
+The **Rhinoceros** was tossed over by **Yan** in a fit of anger. He rolled on the floor, groaning
+and ejaculating, and fell silent within seconds. That thick hide of his, those sturdy horns—they
+were useless against **Yan**. He probably died still thinking: Why did I have to get stuck with this
+job?
+
+**【Green Uniform Bull Beastman Guard】**  
+This **Bull Soldier** was the most special one—**Yan** actually asked for his sensitive spot. When
+he said "**nipples**," his fate was sealed. **Yan** twisted and rubbed his grape-sized **nipples**
+in a spiral motion, making him shiver with pleasure, his **nipples** leaking milk, his **cock**
+dripping pre-cum. Finally, he ejaculated onto the wall, shooting who knows how many spurts, dying
+quite pleasurably. His full, round **bull breasts** were still being kneaded and rubbed by **Yan**
+as he died—whether that was lucky or unfortunate, who can say.
+
+**【Green Uniform Wild Boar Beastman Guard】**  
+The last **Wild Boar Soldier** ejaculated until he lost consciousness and was pushed to the ground
+by **Yan**. His last words before dying were: "If I had known, I wouldn't have applied to **Beast
+Shield**." These words are truly heartbreaking to hear. He was probably just an ordinary **beastman
+** trying to find a job and make a living, but ended up losing his life here. When **Liang** patted
+his head, he probably couldn't feel it anymore.
+
+### The People Still Alive
+
+**【Yan】**  
+This **bounty hunter** is cold, efficient, and skilled. His **Blazing Flow Hidden Force**
+specifically targets the lower body. With a grip on the **cock**, he can make a man ejaculate to
+death in under a minute. He doesn't kill for pleasure, but to practice his skills and earn money—he
+measures his progress by how many seconds his prey can last. He scoffs at **Liang**'s "humane
+suggestions," but eventually compromises slightly, jerking the prey off a few times after making
+them ejaculate, letting them enjoy a final pleasure before death. He is a professional killer. In
+this world of male beastmen, he knows exactly where every fellow male's weak points are.
+
+**【Liang】**  
+**Liang** is a contradiction. He assists **Yan** in killing, disposing of bodies, and recording **ID
+numbers**, but he doesn't feel good about it. He will close the eyes of the dead, cover their pants,
+and pat their heads, hoping they rest in peace. He can't stand **Yan**'s coldness, so he gets angry
+about the deaths of the **Blue Tiger** and the **Rhinoceros**. But he also needs money, so he has to
+continue this bloody work. He is an accomplice with a conscience. In this cruel world, his kindness
+appears exceptionally pale.
+
+### Story Reflection
+
+After reading this chapter, I feel a knot in my heart. A room full of male beastmen, each muscular
+and burly—outside, they would be tough guys who could scare off passersby. But in **Yan**'s hands,
+they are like lambs to the slaughter, called in one by one, made to ejaculate one by one, and turned
+into corpses one by one. Their deaths are monotonously similar—**cock** gripped, **Blazing Flow
+Hidden Force** entering their bodies, holding back until the limit, then ejaculating to death. In
+this world, the male beastmen's proudest sexual characteristics become their most fatal weaknesses.
+The **White Bear Team Leader** died unwillingly, the **Bull Guard** died pleasurably, the **Wild
+Boar Guard** died with regret... Each had a different expression before death, but the outcome was
+the same. The office became a morgue, semen flowing all over the floor, the smell of semen pervades
+the air. **Yan** and **Liang** left, leaving behind over a dozen corpses piled on top of each other,
+with no one to care for them. This is the fate of **Beast Shield Company**'s bottom-level
+employees—they can die at any time without knowing why, without even someone to collect their
+bodies. And **Yan** and **Liang** continue deeper into the base. The night is long, and the
+slaughter continues.
+

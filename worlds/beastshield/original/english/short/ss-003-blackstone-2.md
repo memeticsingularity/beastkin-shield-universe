@@ -264,9 +264,6 @@ entertainment center, unnoticed.
 
 ## Story Commentary and Reflection
 
-> *The following commentary is based on this chapter's story content, written in casual emotional
-language.*
-
 ### Their Final Stories
 
 **【Black Uniform Bear Guard】**

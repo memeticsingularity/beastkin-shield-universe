@@ -288,8 +288,8 @@ never cease.*)
 
 [//]: # (3. Common soldiers/guards usually refer to green uniform.)
 
-> *The following commentary is based on this chapter's story content, written in casual emotional
-language.*
+[//]: # (> *The following commentary is based on this chapter's story content, written in casual 
+emotional language.*)
 
 ### Their Final Stories
 

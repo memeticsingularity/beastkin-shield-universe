@@ -46,7 +46,8 @@
 
 [//]: # (If the short story has illustrations, you can insert them here)
 [//]: # (Image reference format: `![Image Description](../../images/short-stories/image-filename)`)
-[//]: # (Example: `![Blackstone Executing Bear Beastman](../../images/short-stories/ss-002-1-blackstone-execution.png)`)
+[//]: # (Example:
+`![Blackstone Executing Bear Beastman](../../images/short-stories/ss-002-1-blackstone-execution.png)`)
 
 {{Third Paragraph of Main Text Content}}
 

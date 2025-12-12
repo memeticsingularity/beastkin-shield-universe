@@ -297,9 +297,6 @@ Not so bad after all…
 
 ## Story Commentary and Reflection
 
-> *The following commentary is based on this chapter's story content, written in casual emotional
-language.*
-
 ### Their Final Stories
 
 【**Green Uniform Wild Bull Guard**】  

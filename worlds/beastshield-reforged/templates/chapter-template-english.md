@@ -9,7 +9,8 @@
 [//]: # (1. Chapter 1: No previous chapter, next chapter is Chap2)
 [//]: # (   `[Back to Index](content.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)`)
 [//]: # (2. Middle Chapters: Have both previous and next chapters)
-[//]: # (   `[ChapX](previous-chapter-filename.md) | [Back to Index](content.md) | [ChapY](next-chapter-filename.md)`)
+[//]: # (
+`[ChapX](previous-chapter-filename.md) | [Back to Index](content.md) | [ChapY](next-chapter-filename.md)`)
 [//]: # (3. Final Chapter (e.g., Chapter 15): Has previous chapter, no next chapter)
 [//]: # (   `[Chap14](ch-014-the-sperm-devourers-feast.md) | [Back to Index](content.md)`)
 
@@ -49,8 +50,10 @@
 
 [//]: # (--- Image Insertion Example ---)
 [//]: # (Image reference format: `![Image Description](../../images/main-story/image-filename)`)
-[//]: # (Insert corresponding images based on the "see image XX" position in the chapter description)
-[//]: # (Example: `![Tiger Police Officer Headshot](../../images/main-story/bsr_ch001_1_headshot.png)`)
+[//]: # (Insert corresponding images based on the "see image XX" position in the chapter
+description)
+[//]: # (Example:
+`![Tiger Police Officer Headshot](../../images/main-story/bsr_ch001_1_headshot.png)`)
 
 {{Third Paragraph of Main Text Content}}
 
