@@ -1,76 +1,103 @@
-# 《万兽盟》章节目录 | United Beasts Alliance - Chapter Index
+# 《万兽盟》主线故事
+
+> 这是虎兽人**辛**为追查叔叔**奥克**遇害真相、向凶手复仇而毅然加入**兽盟堡**的史诗故事。从一个温和的医疗师学徒，到与
+**护盟天卫斩峰**血战并通过试炼的新兵，他的蜕变之路充满了血腥、决绝与挑战。  
+> 📌 本故事包含成人内容（暴力、死亡、战斗伤害、世界观特有的雄兽人相关描写），阅读前请注意分级标识。
 
 ---
 
-## 📚 章节列表 | Chapter List
+## ⚠️ 分级说明与阅读建议
 
-### 第一卷 | Volume 1
-
-1. **第一章：日常与离别 | Chapter 1: Everyday Life and Farewell**
-    - [章节链接 | Chapter Link](ch-001-everyday-life-and-farewell.md)
-    - 内容简介：介绍虎兽人**辛**与叔叔**奥克**相依为命的日常生活，以及奥克出发执行任务前的离别时刻。 |
-      Summary: Introduces the everyday life of the tiger beastman **Xin** and his uncle **Oak**, as
-      well as the farewell moment before Oak departs on his mission.
-
-2. **第二章：天真吞没 | Chapter 2: The Devouring of Innocence**
-    - [章节链接 | Chapter Link](ch-002-the-devouring-of-innocence.md)
-    - 内容简介：辛收到奥克遇害的噩耗，在绝望与复仇之火的驱使下，通过一个血腥的仪式完成了自我的蜕变。 |
-      Summary: Xin receives the devastating news of Oak's death. Driven by despair and vengeance, he
-      undergoes a brutal transformation through a bloody ritual.
-
-3. **第三章：血试炼 | Chapter 3: Trial by Blood**
-    - [章节链接 | Chapter Link](ch-003-trial-by-blood.md)
-    - 内容简介：三年后，为进入兽盟堡查明真相，辛在招募中直面护盟天卫**斩峰**
-      ，进行了一场关乎意志与力量的残酷测试。 | Summary: Three years later, in order to join the United
-      Beasts Alliance and uncover the truth, Xin faces the elite guard **Zhan Feng** in a
-      recruitment trial—a brutal test of will and strength.
+- **整体分级**：**R18**。故事涉及成人主题，包括血腥暴力、战斗伤害、死亡描写，以及世界观设定中关于**雄兽人
+  **（兼具雄雌性征）社会关系与情感的特殊描写。
+- **阅读顺序**：**强烈建议按章节编号顺序阅读**，以完整体验角色情感脉络与剧情发展。
+- **核心看点**：
+    - **深刻的情感描写**：聚焦于亲情、失去与复仇动机的建立。
+    - **残酷的成长仪式**：主角**辛**从温和到决绝的转变过程真实而震撼。
+    - **独特的战斗哲学**：不止于力量对抗，更强调意志、狡诈与不惜代价的决心。
+    - **逐步展开的世界**：**兽盟城**的秩序、**护盟天卫**的力量、**狼风谷**的遥远威胁，背景层层铺开。
+- **建议读者**：适合18岁以上，能接受黑暗成长题材、并对角色驱动型故事感兴趣的读者。
 
 ---
 
-## 🔗 相关链接 | Related Links
+## 📚 章节列表（按顺序阅读）
 
-- **[返回项目根目录 | Return to Project Root](../../../README.md)** - 查看完整项目说明 | View
-  complete project description.
-- **[查看配图目录 | View Image Directory](../images/main-story/README.md)** - 查看章节配图 | View
-  chapter illustrations.
-- **[作者/原作信息 | Author/Original Work Info](../../../README.md#part-iii-灵感来源与特别鸣谢)** -
-  查看相关信息 | View relevant
-  information.
+### 第一卷
 
----
+1. **[第01章：日常与离别](ch-001-everyday-life-and-farewell.md)**
+    - **标签**：`日常` `亲情` `离别` `温情` `伏笔`
+    - **分级**：R15（温和场景，无直接暴力）
+    - **简介**：
+      介绍虎兽人**辛**与抚养他长大的叔叔**奥克**相依为命的日常生活。**奥克**是**兽盟堡**
+      的蓝制服卫兵，两人之间有着深厚的亲情。在**奥克**出发执行护送任务去**狼风谷**的前夜，温馨的日常下埋下了命运的伏笔。
 
-## 📄 文件命名规范 | File Naming Convention
+2. **[第02章：天真吞没](ch-002-the-devouring-of-innocence.md)**
+    - **标签**：`噩耗` `崩溃` `蜕变` `血腥仪式` `复仇觉醒`
+    - **分级**：R18（精神冲击、血腥场面、自我伤害、生食描写）
+    - **简介**：
+      **辛**在参加**医师证考试**的当天清晨，收到了**奥克**遇害的噩耗——装有其头颅的木盒。在极致的悲伤与绝望中，
+      **辛**通过生啖自己宠物兔子的血腥仪式，强行“吞没”了过去的自己，点燃了复仇的火焰。
 
-本目录下所有章节文件均遵循以下命名格式：  
-All chapter files in this directory follow the naming format below:
-
-`ch-XXX-descriptive-title.md`
-
-- **`ch-`**： 章节标识前缀 | Chapter identifier prefix
-- **`XXX`**： 三位数章节编号 (001-003) | Three-digit chapter number (001-003)
-- **`descriptive-title`**： 描述性英文标题，使用连字符分隔 | Descriptive English title, separated by
-  hyphens
-- **`.md`**： Markdown 文件格式 | Markdown file format
-
----
-
-## 📖 故事简介 | Story Synopsis
-
-**中文：**  
-《万兽盟》讲述了一只瘦弱的虎兽人**辛**在抚养自己长大的叔叔**奥克**
-惨遭杀害后，为追寻真相和复仇，毅然决然地改变自我，投身兽盟堡的故事。从一个温和的医疗师学徒到以复仇为目标的兽盟新兵，辛的蜕变之路充满了血腥、决绝与挑战。他的决心将带他深入兽盟城的核心，直面强大的对手与隐藏的秘密。
-
-**English：**  
-*United Beasts Alliance* tells the story of **Xin**, a small and weak tiger beastman. After his
-beloved uncle and guardian **Oak** is brutally murdered, Xin abandons his path to become a healer
-and radically transforms himself to join the United Beasts Alliance in pursuit of truth and
-vengeance. His journey from a gentle apprentice to a vengeful new recruit is paved with blood,
-determination, and struggle. His resolve will lead him into the heart of the Beast Alliance City,
-where he must face powerful adversaries and uncover hidden secrets.
+3. **[第03章：血试炼](ch-003-trial-by-blood.md)**
+    - **标签**：`三年后` `招募` `挑战` `智斗` `野蛮胜利` `护盟天卫`
+    - **分级**：R18（战斗伤害、关节扭断、撕咬见血、成人主题）
+    - **简介**：
+      三年后，为进入**兽盟堡**查明真相，**辛**在卫兵招募中直接挑衅**护盟天卫斩峰**。在一场实力悬殊的试炼中，
+      **辛**运用狡诈战术与不惜自残的野蛮意志，最终以撕咬对方胸口的方式“伤”到了**斩峰**，赢得了入队资格，并被
+      **斩峰**指名纳入其编队。
 
 ---
 
-*最后更新 | Last Updated: 2025-12-12*  
-*本目录内容采用知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0) | This
-directory's content is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-International License (CC BY-NC-SA 4.0)*
+## 🏷️ 标签分类索引
+
+- **按故事阶段**：
+    - `温情日常`：第01章
+    - `黑暗蜕变`：第02章
+    - `战斗试炼`：第03章
+
+- **按核心主题**：
+    - `亲情与复仇`：贯穿全卷
+    - `成长与蜕变`：第02、03章
+    - `力量与规则`：第03章
+    - `世界观探索`：**兽盟堡**、**狼风谷**、**护盟天卫**、**雄兽人社会**
+
+- **按风格元素**：
+    - `情感冲击`：第01、02章
+    - `心理描写`：第02章
+    - `动作智斗`：第03章
+    - `世界观铺垫`：全部章节
+
+---
+
+## 🌍 世界观速览
+
+- **核心设定**：故事发生在一个由**雄兽人**构成的世界，所有兽人均兼具雄雌双重性征，社会关系与情感纽带复杂。
+- **主要势力**：
+    - **兽盟堡**/**兽盟城**：故事主要舞台，拥有严格等级（如普通蓝制服卫兵、精英黑制服**护盟天卫**
+      ）的军事化组织。
+    - **狼风谷**：**狼兽种**的主城，与**兽盟城**存在往来（如护送任务），地理位置遥远。
+- **力量体系**：初现端倪，如**斩峰**展现出的能震慑对手的“气势”，暗示存在超常的战斗能力。
+- **科技水平**：拥有如**龙须棉**（高弹舒适面料）等特色产物，借鉴了**猿人族**的科技。
+
+---
+
+## 📖 故事简介
+
+《万兽盟》讲述了一只原本瘦弱、梦想成为医疗师的虎兽人**辛**，在抚养自己长大的叔叔**奥克**（一名**兽盟堡**
+卫兵）于一次护送任务中惨遭杀害后，人生彻底颠覆的故事。为追寻真相与复仇，**辛**不惜以血腥仪式告别过去，锤炼身心。三年后，他来到
+**兽盟堡**应征，直面强大的精英战士**斩峰**
+，并以一种疯狂而决绝的方式通过试炼，成功踏入这个力量至上的组织核心。他的复仇之路就此正式启程，前方等待他的是强大的对手、隐秘的阴谋，以及与
+**斩峰**之间亦师亦敌的复杂关系。
+
+---
+
+>
+*这是一个关于失去、蜕变与无尽追寻的故事。在只有雄兽人的世界里，温柔是奢侈品，仇恨是驱动力，而獠牙，是通往答案的唯一钥匙。*
+
+---
+*最后更新：2025-12-13*  
+*本故事内容采用知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)*
+
+---
+
+[返回章节目录](content.md) | [返回项目主页](../../../../../README.md)
