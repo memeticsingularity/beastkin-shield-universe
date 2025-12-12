@@ -1,22 +1,27 @@
 # Git LFS（大文件存储）完整设置指南
+
 # Complete Git LFS (Large File Storage) Setup Guide
 
 ---
 
 ## 📖 什么是Git LFS？
+
 ## 📖 What is Git LFS?
 
 Git LFS（Large File Storage）是Git的一个扩展，用于管理大型文件。它会将大文件（如图像、音频、视频等）存储在单独的服务器上，而在Git仓库中只存储指向这些文件的指针。
 
-Git LFS (Large File Storage) is an extension to Git for managing large files. It stores large files (such as images, audio, video, etc.) on a separate server, while only storing pointers to these files in the Git repository.
+Git LFS (Large File Storage) is an extension to Git for managing large files. It stores large files (such as images,
+audio, video, etc.) on a separate server, while only storing pointers to these files in the Git repository.
 
 **为什么我们需要Git LFS？**
+
 - 避免Git仓库变得过于庞大
 - 加快克隆和拉取操作的速度
 - 更好地管理二进制文件（如图片）的版本历史
 - 防止Git处理不适合的大文件时出现性能问题
 
 **Why do we need Git LFS?**
+
 - Avoid making the Git repository too large
 - Speed up cloning and fetching operations
 - Better manage version history of binary files (like images)
@@ -25,6 +30,7 @@ Git LFS (Large File Storage) is an extension to Git for managing large files. It
 ---
 
 ## 📦 项目当前的Git LFS配置
+
 ## 📦 Current Git LFS Configuration in the Project
 
 项目已经配置了 `.gitattributes` 文件，指定了哪些文件类型使用Git LFS管理：
@@ -39,6 +45,7 @@ worlds/beastshield/original/images/main-story/** filter=lfs diff=lfs merge=lfs -
 ```
 
 **配置解读 / Configuration Interpretation:**
+
 - `*.png` 和 `*.jpg`：所有PNG和JPG图片都将使用Git LFS管理
 - 特定路径：项目中特定目录下的所有文件也将使用Git LFS管理
 - `filter=lfs`：指定使用LFS过滤器
@@ -54,11 +61,13 @@ worlds/beastshield/original/images/main-story/** filter=lfs diff=lfs merge=lfs -
 ---
 
 ## 🛠️ 如何安装Git LFS
+
 ## 🛠️ How to Install Git LFS
 
 ### Windows系统 / Windows System
 
 #### 方法1：使用Git for Windows安装包
+
 #### Method 1: Using Git for Windows Installer
 
 1. 下载最新版Git for Windows：https://gitforwindows.org/
@@ -70,6 +79,7 @@ worlds/beastshield/original/images/main-story/** filter=lfs diff=lfs merge=lfs -
 3. After installation completes, restart your command line tool
 
 #### 方法2：独立安装Git LFS
+
 #### Method 2: Standalone Git LFS Installation
 
 1. 下载Git LFS Windows安装包：https://github.com/git-lfs/git-lfs/releases
@@ -83,6 +93,7 @@ worlds/beastshield/original/images/main-story/** filter=lfs diff=lfs merge=lfs -
 ### macOS系统 / macOS System
 
 #### 方法1：使用Homebrew（推荐）
+
 #### Method 1: Using Homebrew (Recommended)
 
 ```bash
@@ -100,6 +111,7 @@ git lfs install
 ```
 
 #### 方法2：使用MacPorts
+
 #### Method 2: Using MacPorts
 
 ```bash
@@ -119,6 +131,7 @@ git lfs install
 ### Linux系统 / Linux System
 
 #### Ubuntu/Debian系统
+
 #### Ubuntu/Debian Systems
 
 ```bash
@@ -136,6 +149,7 @@ git lfs install
 ```
 
 #### CentOS/RHEL/Fedora系统
+
 #### CentOS/RHEL/Fedora Systems
 
 ```bash
@@ -156,6 +170,7 @@ git lfs install
 ```
 
 #### Arch Linux系统
+
 #### Arch Linux Systems
 
 ```bash
@@ -171,9 +186,11 @@ git lfs install
 ---
 
 ## 🔧 如何配置Git LFS
+
 ## 🔧 How to Configure Git LFS
 
 ### 步骤1：验证Git LFS安装
+
 ### Step 1: Verify Git LFS Installation
 
 安装完成后，验证Git LFS是否正确安装：
@@ -190,6 +207,7 @@ git lfs version
 ```
 
 ### 步骤2：克隆项目并初始化Git LFS
+
 ### Step 2: Clone the Project and Initialize Git LFS
 
 如果你已经克隆了项目：
@@ -229,11 +247,13 @@ git lfs pull
 ```
 
 ### 步骤3：跟踪大文件
+
 ### Step 3: Track Large Files
 
 项目已经通过 `.gitattributes` 文件配置了哪些文件由Git LFS管理。你可以检查当前跟踪的文件类型：
 
-The project already configures which files are managed by Git LFS through the `.gitattributes` file. You can check currently tracked file types:
+The project already configures which files are managed by Git LFS through the `.gitattributes` file. You can check
+currently tracked file types:
 
 ```bash
 # 查看当前跟踪的文件模式
@@ -273,6 +293,7 @@ git commit -m "Add .psd files to Git LFS tracking"
 ---
 
 ## 🚀 常用Git LFS命令
+
 ## 🚀 Common Git LFS Commands
 
 ### 基本命令 / Basic Commands
@@ -358,9 +379,11 @@ git lfs config
 ---
 
 ## 📁 如何正常使用Git LFS
+
 ## 📁 How to Use Git LFS Normally
 
 ### 添加新的大文件
+
 ### Adding New Large Files
 
 当你要添加新的大文件（如图片）时，只需像往常一样使用 `git add`：
@@ -395,6 +418,7 @@ Uploading LFS objects: 100% (1/1), 5.2 MB | 1.2 MB/s, done.
 ```
 
 ### 克隆包含LFS文件的项目
+
 ### Cloning a Project Containing LFS Files
 
 ```bash
@@ -412,6 +436,7 @@ git lfs pull
 ```
 
 ### 更新包含LFS文件的项目
+
 ### Updating a Project Containing LFS Files
 
 ```bash
@@ -427,9 +452,11 @@ git lfs pull
 ---
 
 ## ⚠️ 注意事项和常见问题
+
 ## ⚠️ Precautions and Common Issues
 
 ### 问题1：LFS文件显示为指针文件
+
 ### Problem 1: LFS Files Appear as Pointer Files
 
 **现象**：LFS文件在Git仓库中显示为小文本文件（约130字节），而不是实际的大文件。
@@ -439,6 +466,7 @@ git lfs pull
 **Cause**: Git LFS filter is not correctly installed or enabled.
 
 **解决方案**：
+
 ```bash
 # 确保已安装Git LFS
 # Make sure Git LFS is installed
@@ -454,12 +482,14 @@ git lfs pull
 ```
 
 ### 问题2：`git push` 失败，显示LFS错误
+
 ### Problem 2: `git push` Fails with LFS Error
 
 **现象**：推送时出现错误，如 `Upload to [remote] failed` 或 `batch request failed`。
 **Symptom**: Errors during push, such as `Upload to [remote] failed` or `batch request failed`.
 
 **解决方案**：
+
 1. 检查网络连接
 2. 检查Git LFS配额是否已满
 3. 尝试单独推送LFS文件：
@@ -468,12 +498,14 @@ git lfs pull
    ```
 
 ### 问题3：无法克隆或拉取LFS文件
+
 ### Problem 3: Cannot Clone or Pull LFS Files
 
 **现象**：克隆或拉取时，LFS文件无法下载。
 **Symptom**: LFS files cannot be downloaded during cloning or pulling.
 
 **解决方案**：
+
 ```bash
 # 检查Git LFS是否已安装
 # Check if Git LFS is installed
@@ -493,12 +525,14 @@ git lfs pull origin main
 ```
 
 ### 问题4：`.gitattributes` 文件未生效
+
 ### Problem 4: `.gitattributes` File Not Taking Effect
 
 **现象**：新添加的大文件没有被Git LFS跟踪。
 **Symptom**: Newly added large files are not tracked by Git LFS.
 
 **解决方案**：
+
 1. 确保 `.gitattributes` 文件已提交：
    ```bash
    git add .gitattributes
@@ -522,12 +556,14 @@ git lfs pull origin main
    ```
 
 ### 问题5：仓库大小仍然很大
+
 ### Problem 5: Repository Size is Still Large
 
 **现象**：即使使用了Git LFS，仓库大小仍然增长很快。
 **Symptom**: Even with Git LFS, repository size is still growing quickly.
 
 **解决方案**：
+
 1. 检查是否有大文件未被Git LFS跟踪：
    ```bash
    # 查找仓库中的大文件
@@ -556,9 +592,11 @@ git lfs pull origin main
 ---
 
 ## 🔄 Git LFS工作流程最佳实践
+
 ## 🔄 Git LFS Workflow Best Practices
 
 ### 1. 设置适当的文件大小阈值
+
 ### 1. Set Appropriate File Size Thresholds
 
 建议使用Git LFS管理超过100KB的二进制文件：
@@ -572,6 +610,7 @@ git lfs track "*.{png,jpg,jpeg,gif,psd}" --size-threshold=100kb
 ```
 
 ### 2. 定期清理LFS缓存
+
 ### 2. Regularly Clean LFS Cache
 
 ```bash
@@ -585,6 +624,7 @@ git lfs prune
 ```
 
 ### 3. 备份LFS对象
+
 ### 3. Backup LFS Objects
 
 由于LFS文件存储在单独的服务器上，建议定期备份重要的大文件：
@@ -598,6 +638,7 @@ git lfs fetch --all
 ```
 
 ### 4. 团队协作注意事项
+
 ### 4. Team Collaboration Precautions
 
 确保团队所有成员都安装了Git LFS：
@@ -615,9 +656,11 @@ Ensure all team members have Git LFS installed:
 ---
 
 ## 📊 监控Git LFS使用情况
+
 ## 📊 Monitoring Git LFS Usage
 
 ### 查看LFS文件统计
+
 ### View LFS File Statistics
 
 ```bash
@@ -635,6 +678,7 @@ git lfs ls-files | awk '{print $3}' | awk -F. '{print $NF}' | sort | uniq -c
 ```
 
 ### 检查LFS存储使用量
+
 ### Check LFS Storage Usage
 
 ```bash
@@ -650,9 +694,11 @@ git lfs ls-files --all | awk '{sum+=$2} END {print sum/1024/1024 " MB"}'
 ---
 
 ## 🆘 故障排除
+
 ## 🆘 Troubleshooting
 
 ### 如果所有方法都失败
+
 ### If All Methods Fail
 
 1. **重新安装Git LFS**：
@@ -698,6 +744,7 @@ git lfs ls-files --all | awk '{sum+=$2} END {print sum/1024/1024 " MB"}'
 ---
 
 ## 📚 参考资料和进一步学习
+
 ## 📚 References and Further Learning
 
 ### 官方文档 / Official Documentation
@@ -742,15 +789,18 @@ git lfs logs                  # 查看日志
 ---
 
 ## 🎯 总结
+
 ## 🎯 Summary
 
 Git LFS是管理大型二进制文件的强大工具。通过正确配置和使用Git LFS，你可以：
+
 1. 保持Git仓库的小巧和高效
 2. 轻松管理图像、音频、视频等大文件
 3. 与团队成员顺畅协作
 4. 避免Git处理大文件时的性能问题
 
 记住，成功使用Git LFS的关键是：
+
 1. 确保所有协作者都安装了Git LFS
 2. 正确配置 `.gitattributes` 文件
 3. 定期维护和清理LFS缓存
@@ -759,12 +809,14 @@ Git LFS是管理大型二进制文件的强大工具。通过正确配置和使�
 现在你已经掌握了Git LFS的完整知识，可以愉快地管理项目中的大文件了！
 
 Git LFS is a powerful tool for managing large binary files. By properly configuring and using Git LFS, you can:
+
 1. Keep Git repositories small and efficient
 2. Easily manage large files like images, audio, video, etc.
 3. Collaborate smoothly with team members
 4. Avoid performance issues when Git handles large files
 
 Remember, the keys to successfully using Git LFS are:
+
 1. Ensure all collaborators have Git LFS installed
 2. Properly configure the `.gitattributes` file
 3. Regularly maintain and clean LFS cache
@@ -775,15 +827,18 @@ Now that you have complete knowledge of Git LFS, you can happily manage large fi
 ---
 
 ## ❓ 需要帮助？
+
 ## ❓ Need Help?
 
 如果你在使用Git LFS时遇到问题：
+
 1. 查看Git LFS官方文档：https://git-lfs.github.com/
 2. 在项目讨论区提问，提供详细的错误信息
 3. 检查项目的 `.gitattributes` 文件配置
 4. 确保你的Git LFS版本是最新的
 
 If you encounter problems while using Git LFS:
+
 1. Check Git LFS official documentation: https://git-lfs.github.com/
 2. Ask questions in the project discussion area, providing detailed error information
 3. Check the project's `.gitattributes` file configuration
