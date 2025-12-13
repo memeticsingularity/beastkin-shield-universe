@@ -26,7 +26,7 @@
 
 对于大多数创作者，尤其是新加入社区的作者，我们建议遵循以下路径：
 
-![img.png](img.png)
+![guide-quick-start-path-v43-zh.png](guide-images/guide-quick-start-path-v43-zh.png)
 
 ```mermaid
 flowchart TD
