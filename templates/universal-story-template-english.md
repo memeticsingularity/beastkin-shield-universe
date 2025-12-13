@@ -24,7 +24,7 @@
 `Work Nature: {{o=original/a=adaptation/c=crossover}}`
 `Work Format: {{c=chaptered-story/s=short-story}}`
 `Work Number: {{three-digit number, e.g., 001}}`
-`Work Identifier: {{English kebab-case, e.g., flame-wraith}}`
+`Work Identifier: {{English kebab-case, e.g., yan-liang}}`
 
 [//]: # (--- Complete Work Code Generation ---)
 
