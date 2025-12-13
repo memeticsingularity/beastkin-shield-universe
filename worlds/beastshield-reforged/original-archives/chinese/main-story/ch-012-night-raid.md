@@ -2,7 +2,7 @@
 
 ---
 
-| [Chap11](ch-011-a-perverse-friendship.md) | [返回目录](content.md) | [Chap13](ch-013-the-barren-spine-plains.md)
+| [Chap11](ch-011-a-perverse-friendship.md) | [返回目录](README.md) | [Chap13](ch-013-the-barren-spine-plains.md)
 
 ---
 
@@ -211,5 +211,5 @@
 
 ---
 
-| [Chap11](ch-011-a-perverse-friendship.md) | [返回目录](content.md) | [Chap13](ch-013-the-barren-spine-plains.md)
+| [Chap11](ch-011-a-perverse-friendship.md) | [返回目录](README.md) | [Chap13](ch-013-the-barren-spine-plains.md)
 

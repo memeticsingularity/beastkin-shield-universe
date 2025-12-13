@@ -197,7 +197,7 @@ bsr_chXXX_sequence_keyword.extension
 ## 🔗 相关链接 / Related Links
 
 - **[返回README](README.md)** - 查看完整的配图文档说明
-- **[章节目录](../../chinese/main-story/content.md)** - 查看小说章节列表
+- **[章节目录](../../chinese/main-story/README.md)** - 查看小说章节列表
 - **[项目根目录](../../../README.md)** - 查看完整的项目说明
 
 ---

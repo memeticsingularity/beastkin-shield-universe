@@ -2,7 +2,7 @@
 
 ---
 
-[Chap13](ch-013-the-barren-spine-plains.md) | [Back to Index](content.md) | [Chap15](ch-015-encounter-at-oasis-town.md)
+[Chap13](ch-013-the-barren-spine-plains.md) | [Back to Index](README.md) | [Chap15](ch-015-encounter-at-oasis-town.md)
 
 ---
 
@@ -269,4 +269,4 @@ since childhood.
 
 ---
 
-[Chap13](ch-013-the-barren-spine-plains.md) | [Back to Index](content.md) | [Chap15](ch-015-encounter-at-oasis-town.md)
+[Chap13](ch-013-the-barren-spine-plains.md) | [Back to Index](README.md) | [Chap15](ch-015-encounter-at-oasis-town.md)

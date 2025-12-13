@@ -2,7 +2,7 @@
 
 ---
 
-[Chap1](ch-001-a-bloody-beginning.md) | [Back to Index](content.md) | [Chap3](ch-003-brutal-training-ground.md)
+[Chap1](ch-001-a-bloody-beginning.md) | [Back to Index](README.md) | [Chap3](ch-003-brutal-training-ground.md)
 
 ---
 
@@ -237,5 +237,5 @@ Shield Soldiers**.
 
 ---
 
-[Chap1](ch-001-a-bloody-beginning.md) | [Back to Index](content.md) | [Chap3](ch-003-brutal-training-ground.md)
+[Chap1](ch-001-a-bloody-beginning.md) | [Back to Index](README.md) | [Chap3](ch-003-brutal-training-ground.md)
 

@@ -2,7 +2,7 @@
 
 ---
 
-| [Chap13](ch-013-the-barren-spine-plains.md) | [返回目录](content.md) | [Chap15](ch-015-encounter-at-oasis-town.md)
+| [Chap13](ch-013-the-barren-spine-plains.md) | [返回目录](README.md) | [Chap15](ch-015-encounter-at-oasis-town.md)
 
 ---
 
@@ -155,4 +155,4 @@
 
 ---
 
-| [Chap13](ch-013-the-barren-spine-plains.md) | [返回目录](content.md) | [Chap15](ch-015-encounter-at-oasis-town.md)
+| [Chap13](ch-013-the-barren-spine-plains.md) | [返回目录](README.md) | [Chap15](ch-015-encounter-at-oasis-town.md)

@@ -2,7 +2,7 @@
 
 ---
 
-| [Chap7](ch-007-assassins-gambit.md) | [返回目录](content.md) | [Chap9](ch-009-secret-of-the-beast-god.md)
+| [Chap7](ch-007-assassins-gambit.md) | [返回目录](README.md) | [Chap9](ch-009-secret-of-the-beast-god.md)
 
 ---
 
@@ -188,4 +188,4 @@
 
 ---
 
-| [Chap7](ch-007-assassins-gambit.md) | [返回目录](content.md) | [Chap9](ch-009-secret-of-the-beast-god.md)
+| [Chap7](ch-007-assassins-gambit.md) | [返回目录](README.md) | [Chap9](ch-009-secret-of-the-beast-god.md)

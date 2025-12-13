@@ -2,7 +2,7 @@
 
 ---
 
-[Chap7](ch-007-assassins-gambit.md) | [Back to Index](content.md) | [Chap9](ch-009-secret-of-the-beast-god.md)
+[Chap7](ch-007-assassins-gambit.md) | [Back to Index](README.md) | [Chap9](ch-009-secret-of-the-beast-god.md)
 
 ---
 
@@ -342,4 +342,4 @@ little tune.
 
 ---
 
-[Chap7](ch-007-assassins-gambit.md) | [Back to Index](content.md) | [Chap9](ch-009-secret-of-the-beast-god.md)
+[Chap7](ch-007-assassins-gambit.md) | [Back to Index](README.md) | [Chap9](ch-009-secret-of-the-beast-god.md)

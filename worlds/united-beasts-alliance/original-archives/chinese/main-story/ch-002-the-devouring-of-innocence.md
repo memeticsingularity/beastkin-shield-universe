@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-001-everyday-life-and-farewell.md) | [返回目录](content.md) | [下一章](ch-003-trial-by-blood.md) | [返回项目主页](../../../../../README.md)
+[上一章](ch-001-everyday-life-and-farewell.md) | [返回目录](README.md) | [下一章](ch-003-trial-by-blood.md) | [返回项目主页](../../../../../README.md)
 
 ---
 
@@ -153,6 +153,6 @@
 
 ---
 
-[上一章](ch-001-everyday-life-and-farewell.md) | [返回目录](content.md) | [下一章](ch-003-trial-by-blood.md) | [返回项目主页](../../../../../README.md)
+[上一章](ch-001-everyday-life-and-farewell.md) | [返回目录](README.md) | [下一章](ch-003-trial-by-blood.md) | [返回项目主页](../../../../../README.md)
 
 ---

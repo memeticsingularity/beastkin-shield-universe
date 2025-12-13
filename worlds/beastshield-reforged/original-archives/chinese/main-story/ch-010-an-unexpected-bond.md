@@ -2,7 +2,7 @@
 
 ---
 
-| [Chap9](ch-009-secret-of-the-beast-god.md) | [返回目录](content.md) | [Chap11](ch-011-a-perverse-friendship.md)
+| [Chap9](ch-009-secret-of-the-beast-god.md) | [返回目录](README.md) | [Chap11](ch-011-a-perverse-friendship.md)
 
 ---
 
@@ -158,4 +158,4 @@
 
 ---
 
-| [Chap9](ch-009-secret-of-the-beast-god.md) | [返回目录](content.md) | [Chap11](ch-011-a-perverse-friendship.md)
+| [Chap9](ch-009-secret-of-the-beast-god.md) | [返回目录](README.md) | [Chap11](ch-011-a-perverse-friendship.md)

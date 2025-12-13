@@ -2,7 +2,7 @@
 
 ---
 
-[Chap10](ch-010-an-unexpected-bond.md) | [Back to Index](content.md) | [Chap12](ch-012-night-raid.md)
+[Chap10](ch-010-an-unexpected-bond.md) | [Back to Index](README.md) | [Chap12](ch-012-night-raid.md)
 
 ---
 
@@ -272,4 +272,4 @@ That night,
 
 ---
 
-[Chap10](ch-010-an-unexpected-bond.md) | [Back to Index](content.md) | [Chap12](ch-012-night-raid.md)
+[Chap10](ch-010-an-unexpected-bond.md) | [Back to Index](README.md) | [Chap12](ch-012-night-raid.md)

@@ -2,7 +2,7 @@
 
 ---
 
-[Chap6](ch-006-the-darkrooms-revenge.md) | [Back to Index](content.md) | [Chap8](ch-008-indiscriminate-slaughter.md)
+[Chap6](ch-006-the-darkrooms-revenge.md) | [Back to Index](README.md) | [Chap8](ch-008-indiscriminate-slaughter.md)
 
 ---
 
@@ -303,4 +303,4 @@ from his pocket.
 
 ---
 
-[Chap6](ch-006-the-darkrooms-revenge.md) | [Back to Index](content.md) | [Chap8](ch-008-indiscriminate-slaughter.md)
+[Chap6](ch-006-the-darkrooms-revenge.md) | [Back to Index](README.md) | [Chap8](ch-008-indiscriminate-slaughter.md)

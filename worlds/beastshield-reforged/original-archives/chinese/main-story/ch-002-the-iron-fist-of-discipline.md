@@ -2,7 +2,7 @@
 
 ---
 
-| [Chap1](ch-001-a-bloody-beginning.md) | [返回目录](content.md) | [Chap3](ch-003-brutal-training-ground.md)
+| [Chap1](ch-001-a-bloody-beginning.md) | [返回目录](README.md) | [Chap3](ch-003-brutal-training-ground.md)
 
 ---
 
@@ -162,5 +162,5 @@
 
 ---
 
-| [Chap1](ch-001-a-bloody-beginning.md) | [返回目录](content.md) | [Chap3](ch-003-brutal-training-ground.md)
+| [Chap1](ch-001-a-bloody-beginning.md) | [返回目录](README.md) | [Chap3](ch-003-brutal-training-ground.md)
 

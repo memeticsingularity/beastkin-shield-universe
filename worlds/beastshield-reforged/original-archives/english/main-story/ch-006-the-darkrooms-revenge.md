@@ -2,7 +2,7 @@
 
 ---
 
-[Chap5](ch-005-birth-of-the-hunting-spear.md) | [Back to Index](content.md) | [Chap7](ch-007-assassins-gambit.md)
+[Chap5](ch-005-birth-of-the-hunting-spear.md) | [Back to Index](README.md) | [Chap7](ch-007-assassins-gambit.md)
 
 ---
 
@@ -350,4 +350,4 @@ suffocation gradually blurred the **dog-bear's** consciousness...
 
 ---
 
-[Chap5](ch-005-birth-of-the-hunting-spear.md) | [Back to Index](content.md) | [Chap7](ch-007-assassins-gambit.md)
+[Chap5](ch-005-birth-of-the-hunting-spear.md) | [Back to Index](README.md) | [Chap7](ch-007-assassins-gambit.md)

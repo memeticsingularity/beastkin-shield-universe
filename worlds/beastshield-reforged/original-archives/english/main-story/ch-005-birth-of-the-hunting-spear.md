@@ -2,7 +2,7 @@
 
 ---
 
-[Chap4](ch-004-uncontrolled-desire.md) | [Back to Index](content.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
+[Chap4](ch-004-uncontrolled-desire.md) | [Back to Index](README.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
 
 ---
 
@@ -367,5 +367,5 @@ The residual semen from **Chief Fu's** member.
 
 ---
 
-[Chap4](ch-004-uncontrolled-desire.md) | [Back to Index](content.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
+[Chap4](ch-004-uncontrolled-desire.md) | [Back to Index](README.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
 

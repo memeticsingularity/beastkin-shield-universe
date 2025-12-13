@@ -2,7 +2,7 @@
 
 ---
 
-[Return to Directory](content.md) | [Next Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Project Home](../../../../../README.md)
+[Return to Directory](README.md) | [Next Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Project Home](../../../../../README.md)
 
 ---
 
@@ -219,6 +219,6 @@ know this warm dream is about to end.
 
 ---
 
-[Return to Directory](content.md) | [Next Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Project Home](../../../../../README.md)
+[Return to Directory](README.md) | [Next Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Project Home](../../../../../README.md)
 
 ---

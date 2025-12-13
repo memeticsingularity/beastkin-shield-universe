@@ -2,7 +2,7 @@
 
 ---
 
-| [Chap6](ch-006-the-darkrooms-revenge.md) | [返回目录](content.md) | [Chap8](ch-008-indiscriminate-slaughter.md)
+| [Chap6](ch-006-the-darkrooms-revenge.md) | [返回目录](README.md) | [Chap8](ch-008-indiscriminate-slaughter.md)
 
 ---
 
@@ -182,4 +182,4 @@
 
 ---
 
-| [Chap6](ch-006-the-darkrooms-revenge.md) | [返回目录](content.md) | [Chap8](ch-008-indiscriminate-slaughter.md)
+| [Chap6](ch-006-the-darkrooms-revenge.md) | [返回目录](README.md) | [Chap8](ch-008-indiscriminate-slaughter.md)

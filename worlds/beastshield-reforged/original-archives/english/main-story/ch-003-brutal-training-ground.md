@@ -2,7 +2,7 @@
 
 ---
 
-[Chap2](ch-002-the-iron-fist-of-discipline.md) | [Back to Index](content.md) | [Chap4](ch-004-uncontrolled-desire.md)
+[Chap2](ch-002-the-iron-fist-of-discipline.md) | [Back to Index](README.md) | [Chap4](ch-004-uncontrolled-desire.md)
 
 ---
 
@@ -275,4 +275,4 @@ waited for the new recruits to arrive to begin another day of military training.
 
 ---
 
-[Chap2](ch-002-the-iron-fist-of-discipline.md) | [Back to Index](content.md) | [Chap4](ch-004-uncontrolled-desire.md)
+[Chap2](ch-002-the-iron-fist-of-discipline.md) | [Back to Index](README.md) | [Chap4](ch-004-uncontrolled-desire.md)

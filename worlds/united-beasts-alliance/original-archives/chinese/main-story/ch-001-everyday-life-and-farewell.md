@@ -2,7 +2,7 @@
 
 ---
 
-| [返回目录](content.md) | [下一章](ch-002-the-devouring-of-innocence.md) | [返回项目主页](../../../../../README.md)
+| [返回目录](README.md) | [下一章](ch-002-the-devouring-of-innocence.md) | [返回项目主页](../../../../../README.md)
 
 ---
 
@@ -156,6 +156,6 @@
 
 ---
 
-| [返回目录](content.md) | [下一章](ch-002-the-devouring-of-innocence.md) | [返回项目主页](../../../../../README.md)
+| [返回目录](README.md) | [下一章](ch-002-the-devouring-of-innocence.md) | [返回项目主页](../../../../../README.md)
 
 ---

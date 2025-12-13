@@ -2,7 +2,7 @@
 
 ---
 
-| [返回目录](content.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)
+| [返回目录](README.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)
 
 ---
 
@@ -219,4 +219,4 @@
 
 ---
 
-| [返回目录](content.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)
+| [返回目录](README.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)

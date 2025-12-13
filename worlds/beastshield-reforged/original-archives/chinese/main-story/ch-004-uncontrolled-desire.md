@@ -2,7 +2,7 @@
 
 ---
 
-[Chap3](ch-003-brutal-training-ground.md) | [返回目录](content.md) | [Chap5](ch-005-birth-of-the-hunting-spear.md)
+[Chap3](ch-003-brutal-training-ground.md) | [返回目录](README.md) | [Chap5](ch-005-birth-of-the-hunting-spear.md)
 
 ---
 
@@ -230,4 +230,4 @@
 
 ---
 
-[Chap3](ch-003-brutal-training-ground.md) | [返回目录](content.md) | [Chap5](ch-005-birth-of-the-hunting-spear.md)
+[Chap3](ch-003-brutal-training-ground.md) | [返回目录](README.md) | [Chap5](ch-005-birth-of-the-hunting-spear.md)

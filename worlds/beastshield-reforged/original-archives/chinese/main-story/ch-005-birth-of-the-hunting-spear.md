@@ -2,7 +2,7 @@
 
 ---
 
-[Chap4](ch-004-uncontrolled-desire.md) | [返回目录](content.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
+[Chap4](ch-004-uncontrolled-desire.md) | [返回目录](README.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
 
 ---
 
@@ -242,5 +242,5 @@
 
 ---
 
-[Chap4](ch-004-uncontrolled-desire.md) | [返回目录](content.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
+[Chap4](ch-004-uncontrolled-desire.md) | [返回目录](README.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
 

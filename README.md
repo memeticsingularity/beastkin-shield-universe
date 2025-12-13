@@ -7,6 +7,47 @@
 
 ---
 
+## 内容分级 | Content Rating
+
+**成人内容警告 | Adult Content Warning / 18+ Only**
+
+本宇宙中的部分作品包含成人内容，包括但不限于：
+Some works in this universe contain adult content, including but not limited to:
+
+- 强烈的性暗示和明确的性内容描写
+- 暴力和战斗场景
+- 复杂的道德困境和黑暗主题
+- Strong sexual implications and explicit sexual content descriptions
+- Violence and combat scenes
+- Complex moral dilemmas and dark themes
+
+**所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。**
+**All fictional content is artistic creation and does not encourage similar behavior in reality.**
+
+---
+
+### 快速访问原作 | Quick Access to Original Works
+
+**中文版 Chinese Version**
+
+* **兽盾 (Beastshield) 短篇
+  **：https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield/original-archives/chinese/short
+* **兽盾新纪元 (Beastshield Reforged) 主线
+  **：https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield-reforged/original-archives/chinese/main-story
+* **兽盾 (Beastshield) 主线**：`[Coming Soon]`
+* **联合兽盟 (United Beasts Alliance) 主线**：`[Coming Soon]`
+
+**English Version**
+
+* **Beastshield Short Stories
+  **: https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield/original-archives/english/short
+* **Beastshield Reforged Main Story
+  **: https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield-reforged/original-archives/english/main-story
+* **Beastshield Main Story**: `[Coming Soon]`
+* **United Beasts Alliance Main Story**: `[Coming Soon]`
+
+---
+
 ## 关于本企划 | About This Project
 
 **Beastkin Shield Universe** 是一个多元兽人题材创作宇宙，包含多个独立且互相关联的世界观，由社区驱动的开放式创作平台。
@@ -85,25 +126,6 @@ species.
 - Open contribution system and collaboration guidelines
 - Transparent content review process
 - Contributor tiering and recognition mechanisms
-
----
-
-## 内容分级 | Content Rating
-
-**成人内容警告 | Adult Content Warning / 18+ Only**
-
-本宇宙中的部分作品包含成人内容，包括但不限于：
-Some works in this universe contain adult content, including but not limited to:
-
-- 强烈的性暗示和明确的性内容描写
-- 暴力和战斗场景
-- 复杂的道德困境和黑暗主题
-- Strong sexual implications and explicit sexual content descriptions
-- Violence and combat scenes
-- Complex moral dilemmas and dark themes
-
-**所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。**
-**All fictional content is artistic creation and does not encourage similar behavior in reality.**
 
 ---
 

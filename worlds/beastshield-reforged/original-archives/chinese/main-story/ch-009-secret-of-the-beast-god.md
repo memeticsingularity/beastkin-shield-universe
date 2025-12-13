@@ -2,7 +2,7 @@
 
 ---
 
-[Chap8](ch-008-indiscriminate-slaughter.md) | [返回目录](content.md) | [Chap10](ch-010-an-unexpected-bond.md)
+[Chap8](ch-008-indiscriminate-slaughter.md) | [返回目录](README.md) | [Chap10](ch-010-an-unexpected-bond.md)
 
 ---
 
@@ -194,4 +194,4 @@
 
 ---
 
-[Chap8](ch-008-indiscriminate-slaughter.md) | [返回目录](content.md) | [Chap10](ch-010-an-unexpected-bond.md)
+[Chap8](ch-008-indiscriminate-slaughter.md) | [返回目录](README.md) | [Chap10](ch-010-an-unexpected-bond.md)

@@ -2,7 +2,7 @@
 
 ---
 
-[Chap5](ch-005-birth-of-the-hunting-spear.md) | [返回目录](content.md) | [Chap7](ch-007-assassins-gambit.md)
+[Chap5](ch-005-birth-of-the-hunting-spear.md) | [返回目录](README.md) | [Chap7](ch-007-assassins-gambit.md)
 
 ---
 
@@ -241,5 +241,5 @@
 
 ---
 
-[Chap5](ch-005-birth-of-the-hunting-spear.md) | [返回目录](content.md) | [Chap7](ch-007-assassins-gambit.md)
+[Chap5](ch-005-birth-of-the-hunting-spear.md) | [返回目录](README.md) | [Chap7](ch-007-assassins-gambit.md)
 

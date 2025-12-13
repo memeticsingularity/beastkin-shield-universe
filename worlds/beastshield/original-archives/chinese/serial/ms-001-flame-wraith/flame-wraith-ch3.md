@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](flame-wraith-ch2.md) | [返回目录](../../short/README.md) |
+| [上一章](flame-wraith-ch2.md) | [返回目录](../../short-story/README.md) |
 
 ---
 
@@ -215,7 +215,7 @@
 
 ---
 
-| [上一章](flame-wraith-ch2.md) | [返回目录](../../short/README.md) |
+| [上一章](flame-wraith-ch2.md) | [返回目录](../../short-story/README.md) |
 
 ---
 
@@ -316,4 +316,4 @@
 
 ---
 
-| [上一章](flame-wraith-ch2.md) | [返回目录](../../short/README.md) |
+| [上一章](flame-wraith-ch2.md) | [返回目录](../../short-story/README.md) |

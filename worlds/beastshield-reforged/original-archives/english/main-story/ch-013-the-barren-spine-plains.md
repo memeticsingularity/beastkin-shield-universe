@@ -2,7 +2,7 @@
 
 ---
 
-[Chap12](ch-012-night-raid.md) | [Back to Index](content.md) | [Chap14](ch-014-the-sperm-devourers-feast.md)
+[Chap12](ch-012-night-raid.md) | [Back to Index](README.md) | [Chap14](ch-014-the-sperm-devourers-feast.md)
 
 ---
 
@@ -275,4 +275,4 @@ hatred upon him. The **Savage Beast** was beaten into a bloody, pulpy mess.
 
 ---
 
-[Chap12](ch-012-night-raid.md) | [Back to Index](content.md) | [Chap14](ch-014-the-sperm-devourers-feast.md)
+[Chap12](ch-012-night-raid.md) | [Back to Index](README.md) | [Chap14](ch-014-the-sperm-devourers-feast.md)

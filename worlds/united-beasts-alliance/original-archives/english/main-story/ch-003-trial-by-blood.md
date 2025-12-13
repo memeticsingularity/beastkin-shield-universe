@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Directory](content.md) | [Return to Project Home](../../../../../README.md)
+[Previous Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
 
 ---
 
@@ -285,6 +285,6 @@ handed to the one most skilled at wielding it. The road ahead will only be blood
 
 ---
 
-[Previous Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Directory](content.md) | [Return to Project Home](../../../../../README.md)
+[Previous Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
 
 ---

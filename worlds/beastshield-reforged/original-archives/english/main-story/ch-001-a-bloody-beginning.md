@@ -2,7 +2,7 @@
 
 ---
 
-| [Back to Index](content.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)
+| [Back to Index](README.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)
 
 ---
 
@@ -347,4 +347,4 @@ white sock, where "001" was printed, looking like a serial number.
 
 ---
 
-| [Back to Index](content.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)
+| [Back to Index](README.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)

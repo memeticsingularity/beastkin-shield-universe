@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-002-the-devouring-of-innocence.md) | [返回目录](content.md)| [返回项目主页](../../../../../README.md)
+[上一章](ch-002-the-devouring-of-innocence.md) | [返回目录](README.md)| [返回项目主页](../../../../../README.md)
 
 ---
 
@@ -208,6 +208,6 @@ obstacle，他有自己的审美和趣味。他欣赏野蛮、欣赏疯狂、欣
 
 ---
 
-[上一章](ch-002-the-devouring-of-innocence.md) | [返回目录](content.md) | [返回项目主页](../../../../../README.md)
+[上一章](ch-002-the-devouring-of-innocence.md) | [返回目录](README.md) | [返回项目主页](../../../../../README.md)
 
 ---

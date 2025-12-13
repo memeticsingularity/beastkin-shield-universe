@@ -2,7 +2,7 @@
 
 ---
 
-| [Chap10](ch-010-an-unexpected-bond.md) | [返回目录](content.md) | [Chap12](ch-012-night-raid.md)
+| [Chap10](ch-010-an-unexpected-bond.md) | [返回目录](README.md) | [Chap12](ch-012-night-raid.md)
 
 ---
 
@@ -181,4 +181,4 @@
 
 ---
 
-| [Chap10](ch-010-an-unexpected-bond.md) | [返回目录](content.md) | [Chap12](ch-012-night-raid.md)
+| [Chap10](ch-010-an-unexpected-bond.md) | [返回目录](README.md) | [Chap12](ch-012-night-raid.md)
