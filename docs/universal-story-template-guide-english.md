@@ -3,7 +3,7 @@
 ## Introduction
 
 This guide provides detailed instructions on how to use the new naming system adapted Universal
-Story Template. The template fully adheres to the Beastkin Shield Universe standardized naming
+Story Template. The template fully adheres to the Beastkin Universe standardized naming
 system (version 2.1.1) and is optimized for the workflow of **community creators**. We strongly
 advise new authors to start with **adaptation works**, as it is the smoothest path to integrate into
 the community and understand the worldbuilding. Please follow the steps and specifications in this

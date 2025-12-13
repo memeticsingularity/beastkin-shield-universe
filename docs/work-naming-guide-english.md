@@ -1,4 +1,4 @@
-# Beastkin Shield Universe Work Naming & Organization Guide 2.1.1
+# Beastkin Universe Work Naming & Organization Guide 2.1.1
 
 ## Introduction
 

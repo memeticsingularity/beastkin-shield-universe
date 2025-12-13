@@ -7,10 +7,10 @@
 ## Introduction / 介绍
 
 This guide explains how to use the provided automation scripts to generate project structure files
-for **Beastkin Shield Universe**. These scripts create clean, formatted views of your project
+for **Beastkin Universe**. These scripts create clean, formatted views of your project
 organization.
 
-本指南介绍如何使用提供的自动化脚本来为 **Beastkin Shield Universe** 生成项目结构文件。这些脚本创建项目组织的清晰、格式化视图。
+本指南介绍如何使用提供的自动化脚本来为 **Beastkin Universe** 生成项目结构文件。这些脚本创建项目组织的清晰、格式化视图。
 
 **Features / 特性**:
 

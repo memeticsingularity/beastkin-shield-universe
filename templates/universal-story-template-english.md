@@ -2,7 +2,7 @@
 
 [//]: # (=== Template Usage Instructions ===)
 
-[//]: # (This template is fully adapted to the Beastkin Shield Universe new naming system, suitable for all work types.)
+[//]: # (This template is fully adapted to the Beastkin Universe new naming system, suitable for all work types.)
 
 [//]: # (Work code format: [world]-[nature]-[format]-[number]-[work-name])
 

@@ -6,9 +6,9 @@
 
 ## 📖 前言 / Introduction
 
-欢迎参与 **Beastkin Shield Universe** 项目！为了确保项目协作顺利进行，正确设置Git用户信息至关重要。
+欢迎参与 **Beastkin Universe** 项目！为了确保项目协作顺利进行，正确设置Git用户信息至关重要。
 
-Welcome to the **Beastkin Shield Universe** project! To ensure smooth project collaboration,
+Welcome to the **Beastkin Universe** project! To ensure smooth project collaboration,
 correctly setting your Git
 user information is crucial.
 
@@ -164,9 +164,9 @@ override others.
 
 ### Case 1: Set for the Entire Project (Recommended)
 
-如果你希望在整个 **Beastkin Shield Universe** 项目中使用相同的用户信息：
+如果你希望在整个 **Beastkin Universe** 项目中使用相同的用户信息：
 
-If you want to use the same user information throughout the entire **Beastkin Shield Universe**
+If you want to use the same user information throughout the entire **Beastkin Universe**
 project:
 
 ```bash

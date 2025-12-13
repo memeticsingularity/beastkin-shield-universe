@@ -1,6 +1,6 @@
-# Beastkin Shield Universe 社区行为准则
+# Beastkin Universe 社区行为准则
 
-Code of Conduct for Beastkin Shield Universe Community
+Code of Conduct for Beastkin Universe Community
 
 ---
 

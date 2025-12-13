@@ -1,4 +1,4 @@
-# Beastkin Shield Universe 兽盾宇宙 / Beastkin Shield Universe
+# Beastkin Universe 兽盾宇宙 / Beastkin Universe
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
@@ -94,13 +94,13 @@ directory pages.
 
 ## 3. 关于本企划 / About This Project
 
-**Beastkin Shield Universe** 是一个多元兽人题材创作宇宙，包含多个独立且互相关联的世界观，由社区驱动的开放式创作平台。
+**Beastkin Universe** 是一个多元兽人题材创作宇宙，包含多个独立且互相关联的世界观，由社区驱动的开放式创作平台。
 
 我们的核心理念是「同一个概念，多重演绎」。每个世界观都从独特的视角探索兽人题材，为创作者和读者提供丰富的体验。
 
 ---
 
-**Beastkin Shield Universe** is a multifaceted furry-themed creative universe containing multiple
+**Beastkin Universe** is a multifaceted furry-themed creative universe containing multiple
 independent yet interconnected worlds, a community-driven open creative platform.
 
 Our core philosophy is "One Concept, Multiple Interpretations." Each world explores furry themes
@@ -435,7 +435,7 @@ International (CC BY-NC-SA 4.0)** license.
 
 ---
 
-Beastkin Shield Universe is a continuously growing project, and we welcome participation in all
+Beastkin Universe is a continuously growing project, and we welcome participation in all
 forms:
 
 - 🖋️ **Create Stories**: Write new stories within existing worlds (recommended to start with

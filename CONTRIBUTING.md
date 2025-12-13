@@ -1,4 +1,4 @@
-# Beastkin Shield Universe 贡献指南 / Contributing Guide for Beastkin Shield Universe
+# Beastkin Universe 贡献指南 / Contributing Guide for Beastkin Universe
 
 **版本 2.0 · 最后更新：2025年12月13日 · 适配命名体系：[2.1.1](docs/work-naming-guide-english.md) ·
 适配模板指南：[4.3](docs/universal-story-template-guide-english.md)**
@@ -7,12 +7,12 @@
 
 ## 1. 欢迎 / Welcome
 
-感谢您对 Beastkin Shield Universe 感兴趣！本指南将帮助您了解如何为这个项目做出贡献。我们特别推荐新创作者从
+感谢您对 Beastkin Universe 感兴趣！本指南将帮助您了解如何为这个项目做出贡献。我们特别推荐新创作者从
 **改编作品**开始，这是融入社区最顺畅的路径。
 
 ---
 
-Thank you for your interest in Beastkin Shield Universe! This guide will help you understand how to
+Thank you for your interest in Beastkin Universe! This guide will help you understand how to
 contribute to this project. We especially recommend new creators to start with **adaptation works**,
 as it's the smoothest path to integrate into the community.
 

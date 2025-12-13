@@ -1,8 +1,8 @@
-# Beastkin Shield Universe 作品命名与组织指南 2.1.1
+# Beastkin Universe 作品命名与组织指南 2.1.1
 
 ## 简介
 
-本文档规定了 Beastkin Shield Universe
+本文档规定了 Beastkin Universe
 项目中作品的命名规则和组织结构。所有贡献者创作新作品时，请遵循本指南。本指南根据最新项目结构更新，确保所有作品类型命名格式统一，章节标题为必填项。
 
 ## 核心概念定义
