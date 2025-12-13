@@ -1,191 +1,152 @@
-# Universal Story Template
+# Universal Story Template (New Naming System Fully Adapted)
 
 [//]: # (=== Template Usage Instructions ===)
 
-[//]: # (This template is suitable for all types of stories, including short stories, medium-length stories, and long serialized stories.)
+[//]: # (This template is fully adapted to the Beastkin Shield Universe new naming system, suitable for all work types.)
 
-[//]: # (Please configure the following variables according to your story type.)
+[//]: # (Work code format: [world]-[nature]-[format]-[number]-[work-name])
+
+[//]: # (Nature: o=original, a=adaptation, c=crossover)
+
+[//]: # (Format: c=chaptered-story, s=short-story)
+
+[//]: # (Please complete the following variables according to your work type.)
 
 ---
 
 ## Configuration Area
 
-[//]: # (--- Story Type Selection ---)
+[//]: # (--- Core Code Configuration ---)
 
-[//]: # (Please select your story type and fill in the corresponding configuration below.)
+[//]: # (This is the core identifier of the work, must be accurately filled)
 
-[//]: # (Remove the backtick ` in front of the selected configuration item and delete other unselected configuration items.)
+`World Code: {{bs/bsr/uba}}`
+`Work Nature: {{o=original/a=adaptation/c=crossover}}`
+`Work Format: {{c=chaptered-story/s=short-story}}`
+`Work Number: {{three-digit number, e.g., 001}}`
+`Work Identifier: {{English kebab-case, e.g., flame-wraith}}`
 
-[//]: # (### Configuration A: Short Story (single story))
+[//]: # (--- Complete Work Code Generation ---)
 
-[//]: # (Short stories are independent single-file stories, no chapters needed.)
+[//]: # (Automatically generate complete code based on above configuration)
 
-[//]: # (Remove the backtick ` in the configuration block below and fill in your information:)
+`Complete Work Code: {{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}`
 
-[//]: # ()
+[//]: # (--- Work Title Configuration ---)
 
-[//]: # (`Story Type: Short`)
+[//]: # (Please fill in the Chinese and English full name of the work)
 
-[//]: # (`Story Prefix: ss-`)
+`Chinese Title: {{Chinese title, e.g., "炎魉"}}`
+`English Title: {{English title, e.g., "Flame Wraith"}}`
 
-[//]: # (`Story Number: {{three-digit number, e.g., 001}}`)
+[//]: # (--- Chaptered Story Subtype Configuration ---)
+[//]: # (If it's a chaptered story (format=c), please select subtype:)
 
-[//]: # (`Chinese Title: {{Chinese title, e.g., "炎魉 - 潜入基地"}}`)
+`Chaptered Story Subtype: {{main=main storyline/side=side storyline}}`
 
-[//]: # (`English Title: {{English title, e.g., "Flame Wraith - Infiltration"}}`)
+[//]: # (--- Chapter Configuration ---)
 
-[//]: # (`Filename Format: {{story prefix}}{{story number}}-{{English title abbreviation}}.md`)
+[//]: # (If it's a chaptered story, please fill in the following:)
 
-[//]: # (`Example Filename: ss-001-flame-wraith-ch1.md`)
+`Chapter Number: {{chapter number, three digits, e.g., 001}}`
+`Chapter Chinese Title: {{chapter title, e.g., "潜入基地"}}`
+`Chapter English Title: {{chapter English title, e.g., "Infiltration"}}`
+`Total Chapters: {{total number of chapters, e.g., 15, optional}}`
 
-[//]: # ()
+[//]: # (--- Path Configuration ---)
 
-[//]: # (### Configuration B: Chaptered Story (chaptered story))
+[//]: # (Select correct path template based on work nature)
 
-[//]: # (Chaptered stories contain multiple chapters, such as medium-length stories and long serialized stories.)
+[//]: # (Configuration 1: Original Work Path Template)
 
-[//]: # (Remove the backtick ` in the configuration block below and fill in your information:)
+[//]: # (Original path: worlds/{world}/original-archives/{language}/{format}/{subtype}/)
+`Language: {{chinese/english}}`
 
-[//]: # ()
+[//]: # (Configuration 2: Adaptation Work Path Template)
 
-[//]: # (`Story Type: Chaptered`)
+[//]: # (Adaptation path: worlds/{world}/adaptation-works/{format}/{complete-work-code}/)
 
-[//]: # (`Story Prefix: ms-`)
+[//]: # (--- Navigation Bar Configuration ---)
 
-[//]: # (`Story Number: {{three-digit number, e.g., 001}}`)
+[//]: # (Select one navigation bar configuration based on work nature and chapter position:)
 
-[//]: # (`Chapter Number: {{chapter number, two or three digits, e.g., 01, 001}}`)
+[//]: # (Configuration 1: Short Original Navigation)
+`[Back to Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # (`Chapter Title: {{this chapter's title, e.g., "潜入基地"}}`)
+[//]: # (Configuration 2: Short Adaptation Navigation)
+`[Back to Work Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # (`Chapter English Title: {{chapter English title, e.g., "Infiltration"}}`)
+[//]: # (Configuration 3: Chaptered Original - Chapter 1)
+`[Back to Directory](../README.md) | [Next Chapter]({{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{next-chapter-number}}.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # (`Total Chapters: {{total number of chapters, e.g., 3 or 15, optional}}`)
+[//]: # (Configuration 4: Chaptered Original - Middle Chapters)
+`[Previous Chapter]({{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{previous-chapter-number}}.md) | [Back to Directory](../README.md) | [Next Chapter]({{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{next-chapter-number}}.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # (`Filename Format: {{story prefix}}{{story number}}-{{chapter number}}-{{chapter English title abbreviation}}.md`)
+[//]: # (Configuration 5: Chaptered Original - Final Chapter)
+`[Previous Chapter]({{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{previous-chapter-number}}.md) | [Back to Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # (`Example Filename: ms-001-01-infiltration.md`)
+[//]: # (Configuration 6: Chaptered Adaptation - Chapter 1)
+`[Back to Work Directory](../README.md) | [Next Chapter](ch{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # ()
+[//]: # (Configuration 7: Chaptered Adaptation - Middle Chapters)
+`[Previous Chapter](ch{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # (### Configuration C: Main Story (main story))
-
-[//]: # (Main stories are usually the core stories of the project, with longer length.)
-
-[//]: # (Remove the backtick ` in the configuration block below and fill in your information:)
-
-[//]: # ()
-
-[//]: # (`Story Type: Main`)
-
-[//]: # (`Story Prefix: ms-main-`)
-
-[//]: # (`Story Number: {{three-digit number, e.g., 001}}`)
-
-[//]: # (`Chapter Number: {{chapter number, two or three digits, e.g., 01, 001}}`)
-
-[//]: # (`Chapter Title: {{this chapter's title, e.g., "白之都的阴影"}}`)
-
-[//]: # (`Chapter English Title: {{chapter English title, e.g., "Shadows of White City"}}`)
-
-[//]: # (`Total Chapters: {{total number of chapters, e.g., 30, optional}}`)
-
-[//]: # (`Filename Format: {{story prefix}}{{story number}}-ch{{chapter number}}-{{chapter English title abbreviation}}.md`)
-
-[//]: # (`Example Filename: ms-main-001-ch01-shadows.md`)
+[//]: # (Configuration 8: Chaptered Adaptation - Final Chapter)
+`[Previous Chapter](ch{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Work Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
 ---
 
 ## File Generation Instructions
 
-[//]: # (--- Auto-Generated Area ---)
+[//]: # (--- Auto-generated Area ---)
 
-[//]: # (The following sections will be automatically generated based on the above configuration. Do not modify manually.)
+[//]: # (The following sections will be automatically generated based on above configuration, do not manually modify)
 
-[//]: # (If creating manually, please fill in the content below according to the configuration.)
+[//]: # (If manually creating, please fill in content below according to configuration)
 
 [//]: # (### File title generated based on configuration)
 
-[//]: # (Short: {{story prefix}}{{story number}}: {{Chinese title}})
+[//]: # (Short story: {{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}: {{Chinese Title}})
 
-[//]: # (Chaptered: {{story prefix}}{{story number}}-{{chapter number}}: {{chapter title}})
-
-[//]: # (Main: Chapter {{chapter number}} {{chapter title}})
+[//]: # (Chaptered story: Chapter {{Chapter Number}} {{Chapter Chinese Title}} - {{Chinese Title}})
 
 # {{Title generated based on configuration}}
 
 ---
 
-[//]: # (=== Navigation Bar Configuration Area ===)
-
-[//]: # (Please select a navigation bar configuration based on the story type and chapter position:)
-
-[//]: # (Remove the backtick ` in front of the selected configuration and delete other unselected configurations.)
-
-[//]: # (--- Configuration 1: Short Story Navigation ---)
-
-[//]: # (`[Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)`)
-
-[//]: # (--- Configuration 2: Chaptered Story - Chapter 1 ---)
-
-[//]: # (
-`[Return to Directory](content.md) | [Next Chapter]({{next chapter filename}}) | [Return to Project Home](../../../../../README.md)`)
-
-[//]: # (--- Configuration 3: Chaptered Story - Middle Chapters ---)
-
-[//]: # (
-`[Previous Chapter]({{previous chapter filename}}) | [Return to Directory](content.md) | [Next Chapter]({{next chapter filename}}) | [Return to Project Home](../../../../../README.md)`)
-
-[//]: # (--- Configuration 4: Chaptered Story - Final Chapter ---)
-
-[//]: # (
-`[Previous Chapter]({{previous chapter filename}}) | [Return to Directory](content.md) | [Return to Project Home](../../../../../README.md)`)
-
-[//]: # (--- Configuration 5: Main Story - Chapter 1 ---)
-
-[//]: # (
-`[Return to Directory](content.md) | [Next Chapter]({{next chapter filename}}) | [Return to Project Home](../../../../../README.md)`)
-
-[//]: # (--- Configuration 6: Main Story - Middle Chapters ---)
-
-[//]: # (
-`[Previous Chapter]({{previous chapter filename}}) | [Return to Directory](content.md) | [Next Chapter]({{next chapter filename}}) | [Return to Project Home](../../../../../README.md)`)
-
-[//]: # (--- Configuration 7: Main Story - Final Chapter ---)
-
-[//]: # (
-`[Previous Chapter]({{previous chapter filename}}) | [Return to Directory](content.md) | [Return to Project Home](../../../../../README.md)`)
-
 {{Navigation Bar Content}}
 
 ---
 
-> *{{English title generated based on configuration}}*  
-> {{Story summary/Chapter summary}}
+> *{{English Title}}{{#if chaptered story}} - Chapter {{Chapter Number}} {{Chapter English
+Title}}{{/if}}*  
+> {{Story Summary/Chapter Summary}}
 
 ---
 
 [//]: # (--- Text Formatting Specifications ---)
 
-[//]: # (Keep one blank line between lines in the text, and one blank line between paragraphs.)
+[//]: # (Keep one blank line between lines in text, and one blank line between paragraphs)
+
+[//]: # (Special note: if original text has blank lines, ensure Markdown conversion still maintains paragraph separation effect)
 
 [//]: # (All parts related to settings should be bolded, including but not limited to:)
 
-[//]: # (1. Appearing characters, names such as: **Yan**, **Liang**, X-beasts also count, any character should be bolded.)
+[//]: # (1. Appearing characters, names such as: **Yan**, **Liang**, X-beasts also count, any character should be bolded)
 
-[//]: # (2. Proper nouns, such as: **Beast Shield Company**, **Mighty Radish**.)
+[//]: # (2. Proper nouns, such as: **Beast Shield Company**, **Mighty Radish**)
 
-[//]: # (3. Locations, such as: **Beast Shield New Recruit Training Base**, **White City**.)
+[//]: # (3. Locations, such as: **Beast Shield New Recruit Training Base**, **White City**)
 
-[//]: # (4. Equipment/Props, such as: **Suppressor**, **Silver Needle**, **Walkie-Talkie**.)
+[//]: # (4. Equipment/Props, such as: **Suppressor**, **Silver Needle**, **Walkie-Talkie**)
 
-[//]: # (5. Organizations/Factions, such as: **Special Agent Bureau**, **Beast Shield Company**, **Combat Group**.)
+[//]: # (5. Organizations/Factions, such as: **Special Agent Bureau**, **Beast Shield Company**, **Combat Group**)
 
-[//]: # (6. Plot/Character/Worldview settings, such as: **Blazing Flow Hidden Force**, **Silver Needle Sealing Technique**, **All Male Beastmen**.)
+[//]: # (6. Plot/Character/Worldview settings, such as: **Blazing Flow Hidden Force**, **Silver Needle Sealing Technique**, **All Male Beastmen**)
 
-[//]: # (Character dialogue in conversations should not be bolded, unless it is a setting part.)
+[//]: # (Character dialogue in conversations should not be bolded, unless it's a setting part)
 
-[//]: # (Keep the original quotation format of the dialogue, do not change.)
+[//]: # (Keep the original quotation format of dialogue, do not change)
 
 [//]: # (Example: **Yan** choked the **Bear Guard**'s throat and grasped his **bear dick**.)
 
@@ -195,18 +156,24 @@
 
 [//]: # (--- Image Insertion Example ---)
 
-[//]: # (If there are illustrations, you can insert them here.)
-
+[//]: # (If there are illustrations, you can insert them here)
 [//]: # (Image reference format: `![Image Description](relative path/image filename)`)
 
-[//]: # (Short Story Example:
-`![Yan Executing Tiger Guard](../../images/short-stories/ss-001-1-execution.png)`)
+[//]: # (Original short story example:)
+[//]: # (
+`![Yan Executing Tiger Guard](../../images/short-stories/{{World Code}}_{{Work Nature}}{{Work Format}}{{Work Number}}_1_execution.png)`)
 
-[//]: # (Chaptered Story Example:
-`![Panda Demonstrating Skills](../../images/middle-stories/ms-001-03-panda-showcase.png)`)
+[//]: # (Original chaptered story example:)
+[//]: # (
+`![Panda Demonstrating Skills](../../images/chaptered-story/{{Chaptered Story Subtype}}/{{World Code}}_{{Work Nature}}{{Work Format}}{{Work Number}}_ch{{Chapter Number}}_1_panda_showcase.png)`)
 
-[//]: # (Main Story Example:
-`![Qin Feng Drawing Pistol](../../images/main-story/ch01-QinFengDrawsPistol.png)`)
+[//]: # (Adaptation short story example:)
+[//]: # (
+`![Yan Executing Tiger Guard](../images/{{World Code}}_{{Work Nature}}{{Work Format}}{{Work Number}}_1_execution.png)`)
+
+[//]: # (Adaptation chaptered story example:)
+[//]: # (
+`![Panda Demonstrating Skills](../images/{{World Code}}_ch{{Chapter Number}}_1_panda_showcase.png)`)
 
 {{Text Content Paragraph 3}}
 
@@ -216,7 +183,7 @@
 
 [//]: # (=== Chapter End Mark ===)
 
-[//]: # (Select an end mark based on the story type and chapter position.)
+[//]: # (Select an end mark based on story type)
 
 [//]: # (--- Short Story End ---)
 
@@ -224,29 +191,23 @@
 
 [//]: # (--- Chaptered Story End ---)
 
-[//]: # (**End of Chapter {{chapter number}}**)
-
-[//]: # (--- Main Story End ---)
-
-[//]: # (**End of Chapter {{chapter number}}**)
+[//]: # (**End of Chapter {{Chapter Number}}**)
 
 {{Chapter End Mark}}
 
-> *{{Chapter ending words/Story ending words}}*
+> *{{Chapter Ending Words/Story Ending Words}}*
 
 [//]: # (=== Chapter Ending Words/Story Ending Words Writing Guide ===)
 
 [//]: # (**Position and Function:**)
 
-[//]: # (- **Summarization and Elevation**: After the story concludes, use a concise, evocative sentence to summarize and elevate the story's theme, emotion, or fate.)
+[//]: # (- **Summarization and Elevation**: After story concludes, use concise, evocative sentence to summarize and elevate story's theme, emotion, or fate.)
 
-[//]: # (- **Leave Room for Imagination**: Provide space for the reader to reflect, prompting thoughts about the story's deeper meaning, character destinies, or world-building.)
+[//]: # (- **Leave Room for Imagination**: Provide space for reader to reflect, prompting thoughts about story's deeper meaning, character destinies, or world-building.)
 
-[//]: # (- **Continuity and Implication**: In serialized stories, this can hint at future developments or connections to other stories, enhancing overall narrative coherence.)
+[//]: # (- **Continuity and Implication**: In serialized stories, can hint at future developments or connections to other stories, enhancing overall narrative coherence.)
 
-[//]: # (- **Style Consistency**: Maintain a language style consistent with the story's tone to reinforce the overall atmosphere and emotional impact.)
-
-[//]: # ()
+[//]: # (- **Style Consistency**: Maintain language style consistent with story's tone to reinforce overall atmosphere and emotional impact.)
 
 [//]: # (**Writing Suggestions:**)
 
@@ -254,42 +215,48 @@
 
 [//]: # (- **Focus on Ambiance**: Emphasize emotion, imagery, or philosophical reflection rather than plot summary.)
 
-[//]: # (- **Bilingual Coordination**: The Chinese and English versions should align in meaning and emotional tone. The English version can be adjusted appropriately to suit linguistic conventions.)
+[//]: # (- **Bilingual Coordination**: Chinese and English versions should align in meaning and emotional tone. English version can be adjusted appropriately to suit linguistic conventions.)
 
 [//]: # (- **Avoid Spoilers**: Do not reveal subsequent plot points or definitive outcomes; maintain openness.)
 
-[//]: # ()
-
 [//]: # (**Format Examples:**)
 
-[//]: # (1.  **Philosophical Type**: *The delivery of desire signed for a life, but will the seed of pity sprout in the darkness?*)
+[//]: # (1. **Philosophical Type**: *The delivery of desire signed for a life, but will the seed of pity sprout in the darkness?*)
 
-[//]: # (2.  **Open-ended Type**: *The hunt in the darkness continues. Whose cry will be next?*)
+[//]: # (2. **Open-ended Type**: *The hunt in the darkness continues. Whose cry will be next?*)
 
-[//]: # (3.  **Summarizing Type**: *The gears of fate begin to turn, and an ordinary office worker steps into a dark cycle.*)
+[//]: # (3. **Summarizing Type**: *The gears of fate begin to turn, and an ordinary office worker steps into a dark cycle.*)
 
-[//]: # (4.  **Atmospheric Type**: *The midnight hunt is silent, but the bounty hunter's footsteps
-never cease.*)
+[//]: # (4. **Atmospheric Type**: *The midnight hunt is silent, but the bounty hunter's footsteps never cease.*)
+
+---
+
+{{Same as top navigation bar}}
+
 ---
 
 ## Story Commentary and Reflection
 
 [//]: # (=== Commentary Writing Guide ===)
 
-[//]: # (Please write commentary for all characters in this chapter in warm, casual language, and organize according to the following structure.)
+[//]: # (Please write commentary for all characters in this chapter in warm, casual language, and organize according to following structure.)
 
 [//]: # (Note: All characters are hermaphroditic male beastmen, dual features can be naturally mentioned in commentary.)
 
+[//]: # (Commentary content: keep one blank line between lines, and one blank line between paragraphs.)
+
+[//]: # (If original commentary has multiple natural paragraphs, use divider `---` for separation.)
+
 [//]: # (### Uniform Color Differentiation Rules)
 
-[//]: # (1. If the text explicitly mentions uniform color, write according to the description.)
+[//]: # (1. If text explicitly mentions uniform color, write according to description.)
 
 [//]: # (2. If not explicitly mentioned but department is mentioned: Combat Group - black uniform, Firearms Group - white uniform, Management - blue uniform, no department mentioned - green uniform.)
 
 [//]: # (3. Common soldiers/guards usually refer to green uniform.)
 
-[//]: # (> *The following commentary is based on this chapter's story content, written in casual 
-emotional language.*)
+> *The following commentary is based on this chapter's story content, written in casual emotional
+language.*
 
 ### Their Final Stories
 
@@ -301,9 +268,29 @@ emotional language.*)
 
 [//]: # (That new recruit patrolling the corner, chest muscles bulging under tight clothes, probably bragged to his buddies this morning about how long-lasting he was.)
 
+[//]: # ()
+
 [//]: # (Dragged into the shadows by Yan, didn't even see the attacker's face, his cock got hard, suffocated with semen trapped in military green pants.)
 
+[//]: # ()
+
 [//]: # (Poor guy, died without even knowing his killer's name, those tiger breasts never got touched before death.)
+
+[//]: # ()
+
+[//]: # (---)
+
+[//]: # (【Black Uniform Combat Group Bear Warrior】)
+
+[//]: # (This one was probably an elite from the Combat Group, black uniform crisp, muscles straining against the fabric.)
+
+[//]: # ()
+
+[//]: # (Unfortunately met Yan, didn't even get through one move, was pressed against the wall, bear dick crushed.)
+
+[//]: # ()
+
+[//]: # (Died still in charging posture, just lower body a mess.)
 
 {{Character Commentary Content}}
 
@@ -317,15 +304,35 @@ emotional language.*)
 
 [//]: # (This cold-faced killer has held countless male beastmen's cocks and breasts.)
 
+[//]: # ()
+
 [//]: # (He knows bulls' sensitive spots are nipples, knows how to pinch to make a bull ejaculate on the spot.)
 
+[//]: # ()
+
 [//]: # (A craftsman in the apocalyptic world, making a living with this "craft," intimately familiar with male beastmen's bodies.)
+
+[//]: # ()
+
+[//]: # (---)
+
+[//]: # (【Liang】)
+
+[//]: # (Yan's partner, always hiding in the shadows, like a phantom.)
+
+[//]: # ()
+
+[//]: # (He likes using silver needles, one needle can make a burly man go limp as mud.)
+
+[//]: # ()
+
+[//]: # (They work well together, one in light, one in shadow, countless beastmen have died by their hands.)
 
 {{Survivor Character Commentary}}
 
 ### Story Reflection
 
-[//]: # (Share your overall feelings about this chapter, can be reflections on the worldview, thoughts on character fates, etc.)
+[//]: # (Share your overall feelings about this chapter, can be reflections on worldview, thoughts on character fates, etc.)
 
 [//]: # (Use first person, natural like talking with a friend.)
 
@@ -333,17 +340,27 @@ emotional language.*)
 
 [//]: # (This world of only male beastmen has a unique cruelty to death.)
 
+[//]: # ()
+
 [//]: # (When they're killed, the male cock will erect and ejaculate, the female breasts will leak or even spray milk.)
 
+[//]: # ()
+
 [//]: # (Dual features, dual humiliation, dying even more awkwardly.)
+
+[//]: # ()
+
+[//]: # (---)
+
+[//]: # (But this is the law of this world, survival of the fittest, eat or be eaten.)
+
+[//]: # ()
+
+[//]: # (Killers like Yan and Liang are just pitiful people trying to survive under this cruel law.)
 
 {{Story Reflection Content}}
 
 ---
-
-[//]: # (=== Bottom Navigation Bar ===)
-
-[//]: # (Consistent with the top navigation bar.)
 
 {{Same as top navigation bar}}
 
@@ -351,22 +368,56 @@ emotional language.*)
 
 [//]: # (=== Default Value Instructions ===)
 
-[//]: # (If the user does not provide configuration, use the following default values:)
+[//]: # (If user does not provide configuration, use following default values:)
 
-[//]: # (Story Type: Short)
+[//]: # (World Code: bs)
 
-[//]: # (Story Prefix: ss-)
+[//]: # (Work Nature: o)
 
-[//]: # (Story Number: 001)
+[//]: # (Work Format: s)
 
-[//]: # (Chapter Number: 01)
+[//]: # (Work Number: 001)
 
-[//]: # (Chinese Title: Untitled Story)
+[//]: # (Work Identifier: untitled-story)
+
+[//]: # (Chinese Title: 未命名故事)
 
 [//]: # (English Title: Untitled Story)
 
-[//]: # (Filename Format: Use corresponding default format based on story type.)
+[//]: # (Chaptered Story Subtype: main)
 
-[//]: # (Navigation Bar Configuration: Short Story Navigation)
+[//]: # (Chapter Number: 001)
 
-[//]: # (Chapter End Mark: Use corresponding default mark based on story type.)
+[//]: # (Chapter Chinese Title: 未命名章节)
+
+[//]: # (Chapter English Title: Untitled Chapter)
+
+[//]: # (Language: chinese)
+
+[//]: # (Navigation Bar Configuration: Short Original Navigation)
+
+[//]: # (Chapter End Mark: Use corresponding default mark based on story type)
+
+[//]: # (=== File Naming Convention ===)
+
+[//]: # (Automatically generate filename based on configuration:)
+
+[//]: # (Short story: {{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}.md)
+
+[//]: # (Chaptered story: {{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{Chapter Number}}.md)
+
+[//]: # (Adaptation chaptered: ch{{Chapter Number}}-{{Chapter English Title Short}}.md)
+
+[//]: # (=== Path Explanation ===)
+
+[//]: # (Select correct directory structure based on work nature:)
+
+[//]: # (Original short story: worlds/{{World Code}}/original-archives/{{Language}}/short-story/)
+
+[//]: # (Original chaptered main story: worlds/{{World Code}}/original-archives/{{Language}}/chaptered-story/main/)
+
+[//]: # (Original chaptered side story: worlds/{{World Code}}/original-archives/{{Language}}/chaptered-story/side/)
+
+[//]: # (Adaptation short story: worlds/{{World Code}}/adaptation-works/short-story/{{Complete Work Code}}/)
+
+[//]: # (Adaptation chaptered story: worlds/{{World Code}}/adaptation-works/chaptered-story/{{Complete Work Code}}/)
