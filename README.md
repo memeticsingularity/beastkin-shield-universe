@@ -65,31 +65,30 @@ Some works in this universe contain adult content, including but not limited to:
 
 ---
 
-## 2. 快速访问原作 | Quick Access to Original Works
+## 快速访问原作 | Quick Access to Original Works
 
-### 中文版 | Chinese Version
+### 中文
 
-| 世界观                              | 类型 | 项目内链接                                                                                             | 在线浏览                                                                                                                                                                 |
-|----------------------------------|----|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **兽盾 (Beastshield)**             | 短篇 | [兽盾短篇](worlds/beastshield/original-archives/chinese/short-stories/README.md)                      | [兽盾短篇](https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield/original-archives/chinese/short-stories)                       |
-| **兽盾 (Beastshield)**             | 主线 | [兽盾主线](worlds/beastshield/original-archives/chinese/chaptered-stories/main/README.md)             | [兽盾主线](https://github.com/memeticsingularity/beastkin-shield-universe/tree/archiveworlds/beastshield/original-archives/chinese/chaptered-stories/main/README.md)     |
-| **兽盾新纪元 (Beastshield Reforged)** | 主线 | [兽盾新纪元主线](worlds/beastshield-reforged/original-archives/chinese/chaptered-stories/main/README.md) | [兽盾新纪元主线](https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield-reforged/original-archives/chinese/chaptered-stories/main)  |
-| **万兽盟 (United Beasts Alliance)** | 主线 | [万兽盟主线](worlds/united-beasts-alliance/original-archives/chinese/chaptered-stories/main/README.md) | [万兽盟元主线](https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/united-beasts-alliance/original-archives/chinese/chaptered-stories/main) |
+| 世界观       | 类型 | 项目内链接                                                                                             |
+|-----------|----|---------------------------------------------------------------------------------------------------|
+| **兽盾**    | 短篇 | [兽盾短篇](worlds/beastshield/original-archives/chinese/short-stories/README.md)                      |
+| **兽盾**    | 主线 | [兽盾主线](worlds/beastshield/original-archives/chinese/chaptered-stories/main/README.md)             |
+| **兽盾新纪元** | 主线 | [兽盾新纪元主线](worlds/beastshield-reforged/original-archives/chinese/chaptered-stories/main/README.md) |
+| **万兽盟**   | 主线 | [万兽盟主线](worlds/united-beasts-alliance/original-archives/chinese/chaptered-stories/main/README.md) |
 
-### 英文版 | English Version
+**说明**：点击表格中的项目内链接即可直接跳转到对应作品目录页面。
 
-| 世界观                        | 类型                                                                                                                                          | 项目内链接                                                                                                                                                                  | 在线浏览                                                                                                                                                                 |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Beastshield**            | Short Stories                                                                                                                               | [Beastshield Short Stories](worlds/beastshield/original-archives/english/short-stories/README.md)                                                                      | [GitHub链接](https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield/original-archives/english/short-stories)                   |
-| **Beastshield**            | Main Story                                                                                                                                  | [Beastshield Main Story](worlds/beastshield/original-archives/english/short-stories/README.md)                                                                         | [Beastshield Main Story](https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield/original-archives/english/short-stories)     |
-| **Beastshield Reforged**   | Main Story                                                                                                                                  | [Beastshield Reforged Main Story](worlds/beastshield-reforged/original-archives/english/chaptered-stories/main/README.md)                                              | [GitHub链接](https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/beastshield-reforged/original-archives/english/chaptered-stories/main) |
-| **United Beasts Alliance** | Main Story    [United Beasts Alliance Main Story](worlds/united-beasts-alliance/original-archives/english/chaptered-stories/main/README.md) | [GitHub链接](https://github.com/memeticsingularity/beastkin-shield-universe/tree/archive/worlds/united-beasts-alliance/original-archives/english/chaptered-stories/main) |
+### English Version
 
-**注意 / Note:**
+| Worldview                  | Type          | In-Project Link                                                                                                               |
+|----------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Beastshield**            | Short Stories | [Beastshield Short Stories](worlds/beastshield/original-archives/english/short-stories/README.md)                             |
+| **Beastshield**            | Main Story    | [Beastshield Main Story](worlds/beastshield/original-archives/english/chaptered-stories/main/README.md)                       |
+| **Beastshield Reforged**   | Main Story    | [Beastshield Reforged Main Story](worlds/beastshield-reforged/original-archives/english/chaptered-stories/main/README.md)     |
+| **United Beasts Alliance** | Main Story    | [United Beasts Alliance Main Story](worlds/united-beasts-alliance/original-archives/english/chaptered-stories/main/README.md) |
 
-- 项目内链接适用于在本地克隆的项目中浏览
-- 在线浏览链接直接指向GitHub上的作品内容
-- 主线故事按照项目结构规范，应位于 `chaptered-stories/main/` 目录下
+**Note:** Click on the in-project links in the table to directly navigate to the corresponding work
+directory pages.
 
 ---
 
