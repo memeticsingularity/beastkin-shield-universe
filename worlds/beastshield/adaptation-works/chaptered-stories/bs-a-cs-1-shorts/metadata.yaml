@@ -1,0 +1,208 @@
+# metadata.yaml
+# ============================================
+# Beastkin Universe Metadata for Shorts Series
+# 兽盾宇宙《短篇故事集》系列元数据
+# ============================================
+# Compatible with Naming Guide v2.3.0
+# 适配命名指南 v2.3.0
+# Adaptation work series (nature: a)
+# 改编作品系列（性质: a）
+
+work:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  code: "bs-a-cs-1-shorts"
+  # Format: [world]-a-[form_type]-[natural_number]-[series_name]
+  # 格式: [世界观]-a-[形式类型]-[自然数序号]-[系列名]
+  # form_type: cs (chaptered-side) - 支线分章故事
+
+  title:
+    chinese: "短篇故事集：兽盾日常切片"
+    english: "Shorts: Slices of Beastshield Daily Life"
+
+  format: "chaptered-story"
+  form_type: "cs"  # 支线分章故事
+  status: "updating"  # 系列持续更新中
+  location: "adaptation-works"  # 改编作品区域
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  subtype: "side"  # 支线故事
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  promotion_status: "eligible"  # 符合晋升条件
+
+  # Work Type Detail - For adaptation works
+  # 作品类型细分 - 用于改编作品
+  work_type: "world-expansion"  # 世界观扩展型改编
+
+  tags:
+    - "slice-of-life"
+    - "dark-comedy"
+    - "world-building"
+    - "character-study"
+    - "everyday-violence"
+    - "ai-co-creation"
+    - "adaptation"
+    - "beastshield"
+    - "g-rated"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # Inspiration Sources - For adaptation works
+  # 灵感来源 - 用于改编作品
+  inspiration_sources:
+    - type: "world-expansion"
+      original_code: "beastshield_universe_core"
+      description: "基于兽盾世界观设定的日常故事扩展，探索官方设定中未被详细描绘的角落"
+
+  content_warnings:
+    - "violence"
+    - "death"
+    - "bullying"
+    - "dark-humor"
+    - "workplace-violence"
+    - "mortality-themes"
+
+  reading_time_estimate:
+    minutes: 60  # 四章总阅读时间约60分钟
+
+  target_audience: "mature"
+
+  # Series-specific fields
+  # 系列特定字段
+  series_info:
+    total_chapters: 4
+    completed_chapters: 4
+    story_arc: "独立短篇集"
+    connecting_theme: "兽盾公司不同岗位、不同场景下的日常暴力与人性挣扎"
+    narrative_style: "单元剧式，每章独立成篇，共享世界观"
+
+  # Visual references (optional)
+  # 视觉参考（可选）
+  visual_references:
+    - "beastshield_green_uniform"
+    - "company_bootcamp"
+    - "daily_routine"
+    - "interpersonal_conflicts"
+
+creation:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  author: "AI与人类共创"
+  start_date: "2025-12-15"
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  # Adaptation Information - REQUIRED for adaptation works
+  # 改编信息 - 改编作品必填
+  adaptation_info:
+    original_work: "beastshield_setting_chinese.md"  # 基于兽盾世界观设定文档
+    original_title: "兽盾世界观设定"
+    original_author: "Beastkin Universe Core Team"
+    adaptation_approach: "world-expansion"  # 世界观扩展
+    key_changes: |
+      基于兽盾世界观官方设定，创作了一系列独立的日常短篇故事，展现兽盾公司不同场景下的生活切片。
+      
+      创作特色：
+      1. 深度挖掘官方设定中的细节：如新兵营、员工宿舍、蛋糕店等场景
+      2. 扩展角色类型：G级杂兵的多样化形象与生存困境
+      3. 探索日常暴力：将兽盾世界的残酷规则具象化为具体的生活场景
+      4. AI深度评述：每章包含AI生成的深度角色评述，赋予每个角色完整的人性深度
+      5. 感官细节强化：强调兽人的脂包肌身材、肌肉群、体味等感官描写
+      6. 世界观契合：严格遵循雄兽人世界观设定（雌雄同体雄兽人，人称代词"他"）
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  last_update: "2025-12-15"
+  universe_based_on: "beastshield"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # Co-creation credits
+  # 共创致谢
+  co_creation:
+    human_contributor:
+      name: "用户"
+      role: "故事构思、情节设计、创意指导"
+    ai_contributor:
+      name: "DeepSeek"
+      version: "最新版本"
+      role: "故事生成、角色塑造、评述撰写、格式规范"
+    collaboration_model: "人类构思+AI扩展+人类审核+AI优化"
+
+  # License
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    note: "基于兽盾世界观创作，遵循项目共享协议"
+
+  revision_history:
+    - version: "1.0"
+      date: "2025-12-15"
+      changes: "初始版本，包含四章短篇故事"
+    - version: "1.1"
+      date: "2025-12-15"
+      changes: "完善metadata，添加AI共创信息，统一格式规范"
+
+  # Chapter index
+  # 章节索引
+  chapters:
+    - number: 1
+      code: "ch-1-birthday-cake.md"
+      title_chinese: "生日蛋糕"
+      title_english: "Birthday Cake"
+      summary: "牛兽人阿壮在生日当天被赏金猎人猎杀，生日蛋糕成为死亡祭品"
+      featured_characters: [ "G-277-牛兽人-阿壮", "赏金猎人-狼啸天" ]
+      key_themes: [ "日常暴力", "无意义死亡", "微小愿望的破灭" ]
+
+    - number: 2
+      code: "ch-2-snoring-too-loud.md"
+      title_chinese: "鼾声如雷"
+      title_english: "Snoring Too Loud"
+      summary: "员工宿舍中，鼾声引发的暴力冲突与沉默旁观"
+      featured_characters: [ "G-433-熊兽人-熊厚", "G-312-狼兽人-狼迅", "G-277-牛兽人-牛稳" ]
+      key_themes: [ "宿舍暴力", "恐惧传播", "系统性的冷漠" ]
+
+    - number: 3
+      code: "ch-3-bullying-in-training-camp.md"
+      title_chinese: "新兵营的代价"
+      title_english: "The Price of Training Camp"
+      summary: "新兵营霸凌事件中，正义干预的悲剧结局"
+      featured_characters: [ "G-589-狗兽人-犬忠", "G-477-狼兽人-狼义", "G-501-野猪兽人-猪莽", "G-523-犀牛兽人-犀坚" ]
+      key_themes: [ "霸凌文化", "正义的代价", "弱肉强食" ]
+
+    - number: 4
+      code: "ch-4-rules-of-the-bootcamp.md"
+      title_chinese: "新兵营的规则"
+      title_english: "Rules of the Bootcamp"
+      summary: "赏金猎人介入新兵营霸凌，展现更残酷的生存法则"
+      featured_characters: [ "G-635-羚羊兽人-羚怯", "G-636-鹿兽人-鹿正", "G-633-狮兽人-狮狂", "G-634-鬣狗兽人-鬣龅", "赏金猎人" ]
+      key_themes: [ "暴力层级", "生存法则", "系统的无情" ]
+
+  # Related works
+  # 相关作品
+  related_works:
+    - code: "beastshield_setting_chinese.md"
+      relation: "世界观基础"
+    - code: "work-naming-guide-chinese.md"
+      relation: "命名规范"
+    - code: "universal-story-template-guide-chinese.md"
+      relation: "创作指南"
