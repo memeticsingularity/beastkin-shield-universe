@@ -1,0 +1,123 @@
+# ============================================
+# Beastkin Universe Metadata Template for Original Main Chaptered Story
+# 兽盾宇宙原创主线分章故事元数据模板
+# ============================================
+# Compatible with Naming Guide v2.3.0
+# 适配命名指南 v2.3.0
+# Form Type: cm (Chaptered Main)
+# 形式类型: cm (主线分章)
+
+work:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  # Work Code - MUST match folder name exactly
+  # 作品编码 - 必须与文件夹名完全一致
+  code: "bs-o-cm-1-template-main-story"
+  # Format: [world]-o-cm-[natural_number]-[series_name]
+  # 格式: [世界观]-o-cm-[自然数序号]-[系列名]
+
+  # Work Titles - Both Chinese and English required
+  # 作品标题 - 中文和英文都需填写
+  title:
+    chinese: "主线故事模板标题"
+    english: "Main Story Template Title"
+
+  # Work Format - Choose one
+  # 作品格式 - 选择一项
+  format: "chaptered-story"
+
+  # Form Type - REQUIRED: cm for main chaptered story
+  # 形式类型 - 必填: cm表示主线分章故事
+  form_type: "cm"
+
+  # Work Status - Choose one
+  # 作品状态 - 选择一项
+  status: "updating"  # updating, completed, abandoned
+
+  # Storage Location - Fixed for original works
+  # 存储位置 - 原创作品固定为此值
+  location: "original-archives"
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  # Work Subtype - Automatically determined by form_type
+  # 作品子类型 - 根据form_type自动确定
+  subtype: "main"  # cm → main, automatically
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  # Promotion Status - Indicates eligibility for promotion
+  # 晋升状态 - 表示晋升资格
+  promotion_status: "not_eligible"  # not_eligible, eligible, under_review, promoted
+
+  # Work Type Detail - Describes the nature of creation
+  # 作品类型细分 - 描述创作性质
+  work_type: "full-original"  # full-original, direct-adaptation, adapted-expansion, inspired-by, crossover
+
+  # Work Tags - For categorization and discovery
+  # 作品标签 - 用于分类和发现
+  tags:
+    - "template"
+    - "main-story"
+    - "adventure"
+    - "character-development"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # Reading Time Estimate - Approximate reading time
+  # 阅读时间估计 - 大致阅读时间
+  reading_time_estimate:
+    minutes: 120
+
+  # Target Audience - Intended audience
+  # 目标受众 - 预期读者群体
+  target_audience: "general"  # general, mature, all-ages
+
+  # Series Information - If part of a series
+  # 系列信息 - 如果属于系列作品
+  series_info:
+    series_name: "Template Series"
+    position_in_series: 1  # Position in the series (1 for first, etc.)
+
+creation:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  # Author Information
+  # 作者信息
+  author: "Your Name"
+
+  # Start Date - When work was started
+  # 开始日期 - 作品开始创作的日期
+  start_date: "2025-12-15"  # Format: YYYY-MM-DD
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  # Last Update Date - When work was last updated
+  # 最后更新日期 - 作品最后更新的日期
+  last_update: "2025-12-15"
+
+  # Universe Based On - Which universe this work belongs to
+  # 基于的世界观 - 作品属于哪个世界观
+  universe_based_on: "beastshield"  # beastshield, beastshield-reforged, united-beasts-alliance, beastshield-paradise, mixed
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # License Information - Licensing for the work
+  # 许可信息 - 作品的许可协议
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"

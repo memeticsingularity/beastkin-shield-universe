@@ -21,7 +21,7 @@ echo.
 :: 生成文件夹结构
 echo [] 1. Generating folder structure...
 (
-    echo # beastkin-shield-universe Folder Structure
+    echo # beastkin-universe Folder Structure
     echo.
     echo ```txt
 ) > "%OUTPUT_DIR%folder_structure_%timestamp%.md"
@@ -33,7 +33,7 @@ cd /d "%ROOT_DIR%"
         set "line=%%a"
         :: 替换第一行的盘符为项目名称
         if not defined first_line (
-            echo beastkin-shield-universe:.
+            echo beastkin-universe:.
             set "first_line=1"
         ) else (
             :: 保持其他行不变
@@ -47,7 +47,7 @@ echo ``` >> "%OUTPUT_DIR%folder_structure_%timestamp%.md"
 :: 生成完整文件结构
 echo 📄 2. Generating full file structure...
 (
-    echo # beastkin-shield-universe Full File Structure
+    echo # beastkin-universe Full File Structure
     echo.
     echo ```txt
 ) > "%OUTPUT_DIR%full_structure_%timestamp%.md"
@@ -58,7 +58,7 @@ echo 📄 2. Generating full file structure...
         set "line=%%a"
         :: 替换第一行的盘符为项目名称
         if not defined first_line2 (
-            echo beastkin-shield-universe:.
+            echo beastkin-universe:.
             set "first_line2=1"
         ) else (
             :: 保持其他行不变

@@ -9,7 +9,7 @@
 
 ## 📚 Story List (Sorted by Number)
 
-### 1. **[SS-001: Beast Shield Farmhouse](bs-o-s-001-farm-inn.md)**
+### 1. **[Story 1: Beast Shield Farmhouse](bs-o-s-1-farm-inn.md)**
 
 *兽盾农家乐*
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 2. **[SS-002: Blackstone](bs-o-s-002-blackstone.md)**
+### 2. **[Story 2: Blackstone](bs-o-s-2-blackstone.md)**
 
 *黑石*
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 3. **[SS-003: Blackstone 2](bs-o-s-003-blackstone-2.md)**
+### 3. **[Story 3: Blackstone 2](bs-o-s-3-blackstone-2.md)**
 
 *黑石2*
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 4. **[SS-004: Captive Delivery](bs-o-s-004-captive-delivery.md)**
+### 4. **[Story 4: Captive Delivery](bs-o-s-4-captive-delivery.md)**
 
 *俘虏快递*
 
@@ -61,7 +61,7 @@
 
 ---
 
-### 5. **[SS-005: Beast Shield Employee's Day](bs-o-s-005-employee-diary.md)**
+### 5. **[Story 5: Beast Shield Employee's Day](bs-o-s-5-employee-diary.md)**
 
 *兽盾员工的一天*
 
@@ -73,7 +73,7 @@
 
 ---
 
-### 6. **[SS-006: Night Raid](bs-o-s-006-night-raid.md)**
+### 6. **[Story 6: Night Raid](bs-o-s-6-night-raid.md)**
 
 *夜袭*
 
@@ -89,16 +89,16 @@
 ## 🏷️ Tag Index
 
 - **By Theme**:
-    - `Bounty Hunter`: SS-002, SS-003
-    - `Captive/Control`: SS-004
-    - `Diary/Survival`: SS-005
-    - `Farm/Experiment`: SS-001
-    - `Night Raid/Infiltration`: SS-003, SS-006
+    - `Bounty Hunter`: Story 2, Story 3
+    - `Captive/Control`: Story 4
+    - `Diary/Survival`: Story 5
+    - `Farm/Experiment`: Story 1
+    - `Night Raid/Infiltration`: Story 3, Story 6
 
 - **By Tone**:
-    - `Thriller`: SS-002, SS-003, SS-004, SS-005, SS-006
-    - `Dark`: SS-001, SS-004
-    - `Action`: SS-002, SS-003
+    - `Thriller`: Story 2, Story 3, Story 4, Story 5, Story 6
+    - `Dark`: Story 1, Story 4
+    - `Action`: Story 2, Story 3
 
 ---
 

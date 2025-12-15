@@ -1,0 +1,105 @@
+# ============================================
+# Beastkin Universe Metadata Template for Original Side Chaptered Story
+# 兽盾宇宙原创支线分章故事元数据模板
+# ============================================
+# Compatible with Naming Guide v2.3.0
+# 适配命名指南 v2.3.0
+# Form Type: cs (Chaptered Side)
+# 形式类型: cs (支线分章)
+
+work:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  code: "bsp-o-cs-1-template-side-story"
+  # Format: [world]-o-cs-[natural_number]-[series_name]
+  # 格式: [世界观]-o-cs-[自然数序号]-[系列名]
+
+  title:
+    chinese: "支线故事模板标题"
+    english: "Side Story Template Title"
+
+  format: "chaptered-story"
+  form_type: "cs"  # cs for side chaptered story
+  status: "updating"
+  location: "original-archives"
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  subtype: "side"  # cs → side, automatically
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+
+  tags:
+    - "template"
+    - "side-story"
+    - "character-focus"
+    - "daily-life"
+    - "bull-beastkin"  # Example for character type
+    - "green-uniform"  # Example for uniform type
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # Content Warnings - For sensitive content
+  # 内容警告 - 用于敏感内容
+  content_warnings:
+    - "violence"
+    - "trauma"
+
+  reading_time_estimate:
+    minutes: 90
+
+  target_audience: "general"
+
+  # Related Works - Links to related works
+  # 相关作品 - 关联作品的链接
+  related_works:
+    - code: "bs-o-cm-1-main-story-1"
+      relation_type: "same-universe"  # prequel, sequel, side-story, same-universe, crossover
+
+creation:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  author: "Your Name"
+  start_date: "2025-12-15"
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  last_update: "2025-12-15"
+  universe_based_on: "beastshield-paradise"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # Collaborators - For multi-author works
+  # 合作者 - 用于多作者作品
+  collaborators:
+    - name: "Collaborator 1"
+      role: "co-writer"
+      contribution: "Assisted with character development"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  # Revision History - Track of revisions
+  # 修订历史 - 修订记录
+  revision_history:
+    - version: "1.0"
+      date: "2025-12-15"
+      changes: "Initial release / 初始发布"

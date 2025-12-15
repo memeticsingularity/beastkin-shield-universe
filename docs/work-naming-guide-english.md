@@ -1,270 +1,294 @@
-# Beastkin Universe Work Naming & Organization Guide 2.1.1
+# Beastkin Universe Work Naming and Organization Guide 2.2.0
 
-## Introduction
+## 1. Introduction
 
-This document defines the naming rules and organizational structure for works within the Beastkin
-Shield Universe project. All contributors must follow this guide when creating new works. This guide
-has been updated based on the latest project structure to ensure uniform naming formats for all work
-types, with chapter titles being mandatory.
+This document defines the naming rules and organizational structure for all works within the Beastkin Universe project.
+All contributors creating new works must follow this guide. Updated according to the latest project structure, this
+guide ensures unified naming formats for all work types, uses natural number sequencing, and standardizes the structure
+of all chaptered stories.
 
-## Core Concept Definitions
+## 2. Core Concept Definitions
 
 Before diving into details, please understand the following core concepts:
 
-1. **Original Archives (`original-archives`)**  
-   Stores official works created by the **world's original author** (or the project core team).
-   These works form the core narrative foundation of the world.
+### 2.1. Original Archives (`original-archives`)
 
-2. **Adaptation Works (`adaptation-works`)**  
-   Stores **adaptation works** created by community contributors based on official works. These
-   works can be considered derivative interpretations of the official world. Adaptation works that
-   are completed and recognized can apply for **promotion**.
+Stores official works created by the **world's primary author** (or the project's core team). These works form the core
+narrative foundation of the world.
 
-3. **Promotion Paths**
-    - **Path One: Promotion to Official Original Work**  
-      Excellent adaptation works can be **migrated** entirely to the `original-archives` of the
-      corresponding world, becoming part of that world's canon.
-    - **Path Two: Promotion to Independent World**  
-      Exceptionally outstanding adaptation works, if they have complete and independent world
-      settings, can apply to become a new world module under `worlds/`.
+### 2.2. Adaptation Works (`adaptation-works`)
 
-4. **Main Storyline Directory Structure**  
-   Main storyline files are placed directly in the `main/` directory, but subdirectories (such as
-   `volume-1/`) can be created for logical organization based on the work's internal structure (
-   e.g., multi-volume works). This is considered **internal work structure** and does not affect the
-   overall project specifications.
+Stores **adaptation works** created by community contributors based on official works. These works can be considered
+derivations of the official world. Adaptation works can apply for **promotion** after completion and receiving
+recognition.
 
-## Work Coding System
+### 2.3. Promotion Pathways
+
+- **Path 1: Promotion to Official Original Work**  
+  Outstanding adaptation works can be fully **migrated** to the corresponding world's `original-archives`, becoming part
+  of that world's official canon.
+- **Path 2: Promotion to Independent World**  
+  Particularly excellent adaptation works, if possessing complete and independent world settings, can apply to become a
+  new world module under `worlds/`.
+
+### 2.4. Unified Story Structure
+
+All chaptered stories (whether main story, side stories, or character stories) adopt a **"folder + internal chapters"**
+structure:
+
+- Each series (main story volume, side story series, character story) has its own folder
+- Chapter files within folders are uniformly named `ch-natural-number-chapter-title.md`
+- Chapter numbering starts from 1 and increments naturally
+
+## 3. Work Coding System
 
 Each work has a unique code for identification and organization. The code format is as follows:
 
 ```
-[world]-[nature]-[format]-[number]-[work-name]
+[world]-[nature]-[format]-[natural-number-sequence]-[series-name]
 ```
 
-### Code Example
+### 3.1. Code Examples
 
 ```
-bs-a-c-001-a-new-gamer
-│    │   │   │    └─ Work name (kebab-case, lowercase English with hyphens)
-│    │   │   └─ Number (three digits, starting from 001)
-│    │   └─ Format (c=chaptered-story, s=short-story)
-│    └─ Nature (a=adaptation, o=original, c=crossover)
-└─ World abbreviation
+bsp-o-c-1-g-277-green-bull-azhuang
+│     │ │ │ │   │    └─ Series name (kebab-case, lowercase English with hyphens)
+│     │ │ │ │   └─ Sequence number (natural number, starting from 1)
+│     │ │ │ └─ Format (c=chaptered-story, s=short-story)
+│     │ │ └─ Nature (a=adaptation, o=original, c=crossover)
+│     │ └─ World abbreviation
+│     └─ Chaptered story subtype (only for chaptered: main=main story, side=side story)
+└─ Chapter file naming (inside folder): ch-1-last-watch.md
 ```
 
-### Field Descriptions
+### 3.2. Field Descriptions
 
-| Field         | Values                                                | Meaning                               | Example               |
-|---------------|-------------------------------------------------------|---------------------------------------|-----------------------|
-| **World**     | `bs`, `bsr`, `uba`                                    | World abbreviation                    | `bs` = beastshield    |
-| **Nature**    | `a` = adaptation<br>`o` = original<br>`c` = crossover | Creation nature                       | `a` = adaptation work |
-| **Format**    | `c` = chaptered-story<br>`s` = short-story            | Work format                           | `c` = chaptered story |
-| **Number**    | `001`, `002`, ...                                     | Sequence number                       | `001` = first work    |
-| **Work Name** | kebab-case                                            | English name (lowercase with hyphens) | `a-new-gamer`         |
+| Field           | Values                                                | Meaning                                    | Example                      |
+|-----------------|-------------------------------------------------------|--------------------------------------------|------------------------------|
+| **World**       | `bs`, `bsr`, `uba`, `bsp`                             | World abbreviation                         | `bsp` = beastshield paradise |
+| **Nature**      | `a` = adaptation<br>`o` = original<br>`c` = crossover | Creation nature                            | `o` = original               |
+| **Format**      | `c` = chaptered-story<br>`s` = short-story            | Work format                                | `c` = chaptered story        |
+| **Sequence**    | `1`, `2`, `3`, ...                                    | Natural number sequence within same format | `1` = first work             |
+| **Series Name** | kebab-case                                            | English name (lowercase with hyphens)      | `g-277-green-bull-azhuang`   |
 
-### World Abbreviation Reference
+### 3.3. World Abbreviation Reference Table
 
 | Abbreviation | Full Name              | Description                  |
 |--------------|------------------------|------------------------------|
-| `bs`         | Beastshield            | Beastshield world            |
-| `bsr`        | Beastshield Reforged   | Beastshield Reforged world   |
-| `uba`        | United Beasts Alliance | United Beasts Alliance world |
+| `bs`         | Beastshield            | Beastshield World            |
+| `bsr`        | Beastshield Reforged   | Beastshield Reforged World   |
+| `uba`        | United Beasts Alliance | United Beasts Alliance World |
+| `bsp`        | Beastshield Paradise   | Beastshield Paradise World   |
 
-## Directory Structure
+## 4. Directory Structure
 
-### Original Works (`original-archives`)
+### 4.1. Original Works (`original-archives`)
 
-Stores works created by official original authors, maintained by the project core team.
+Stores works created by official original authors, maintained by the project's core team.
 
 ```
 worlds/world/original-archives/
 ├── chinese/                          # Chinese works
 │   ├── chaptered-stories/            # Chaptered stories
-│   │   ├── main/                     # Main storyline
-│   │   │   └── Main chapter files    # Files placed directly, no work directories
-│   │   └── side/                     # Side storyline
-│   │       └── work-code-directory/  # Independent directory for each side story
-│   │           └── Side chapter files
+│   │   ├── main/                     # Main story area
+│   │   │   └── work-code-folder/     # Independent folder for each main story volume
+│   │   │       ├── README.md
+│   │   │       ├── metadata.yaml
+│   │   │       ├── ch-1-chapter-title.md  # Unified chapter naming
+│   │   │       ├── ch-2-chapter-title.md
+│   │   │       └── ...
+│   │   └── side/                     # Side story area
+│   │       └── work-code-folder/     # Independent folder for each side story
+│   │           ├── README.md
+│   │           ├── metadata.yaml
+│   │           ├── ch-1-chapter-title.md
+│   │           └── ...
 │   └── short-stories/                # Short stories
-│       └── Short story files         # Files placed directly
-└── english/                          # English works
+│       ├── world-code-o-s-1-work-name.md  # Files placed directly
+│       ├── world-code-o-s-2-work-name.md
+│       └── ...
+└── english/                          # English works (same structure)
     ├── chaptered-stories/
     │   ├── main/
     │   └── side/
     └── short-stories/
 ```
 
-### Adaptation Works (`adaptation-works`)
+### 4.2. Adaptation Works (`adaptation-works`)
 
 Stores adaptation works created by community contributors, maintained by the community.
 
 ```
 worlds/world/adaptation-works/
 ├── chaptered-stories/                # Chaptered stories directory
-│   └── complete-work-code/           # Independent directory for each work
+│   └── full-work-code/               # Independent folder for each work
 │       ├── README.md
 │       ├── metadata.yaml
-│       ├── Adaptation chapter files  # Consistent format with original works
+│       ├── ch-1-chapter-title.md     # Identical format to original works
+│       ├── ch-2-chapter-title.md
 │       ├── settings/
 │       │   └── story-setting.md
 │       └── images/
 └── short-stories/                    # Short stories directory
-    └── complete-work-code/
+    └── full-work-code/               # Independent folder for each short story
         ├── README.md
         ├── metadata.yaml
-        ├── Adaptation short story files  # Consistent format with original works
+        ├── full-work-code.md         # Short story content file
         ├── settings/
         │   └── story-setting.md
         └── images/
 ```
 
-## File Naming Conventions
+## 5. File Naming Standards
 
-### **Core Principle: All files must include chapter title/work title**
+### 5.1. Core Principle: All Chaptered Stories Use "Folder + Internal Chapters" Structure
 
-### 1. Original Work File Name Format
+#### **All Chaptered Stories (Main, Side, Adaptation)**
 
-#### **Main Storyline (main)**
+- **Folder Naming**: `{world-code}-{nature}-c-{natural-number}-{series-name}`
+- **Chapter File Naming** (inside folder): `ch-{natural-chapter-number}-{chapter-title-abbreviation}.md`
 
-- **Format**: `{world-code}-o-c-ch-{chapter-number}-{chapter-title-short}.md`
-- **Example**: `bs-o-c-ch-001-a-bloody-beginning.md`
-- **Location**: `original-archives/language/chaptered-stories/main/`
-- **Note**: Main stories allow creating subdirectories (e.g., `volume-1/`) for logical organization
-  based on work needs
+#### **Example Comparison:**
 
-#### **Side Storyline (side)**
+| Type                    | Folder Name                          | Chapter File Name          |
+|-------------------------|--------------------------------------|----------------------------|
+| **Main Story Volume 1** | `bs-o-c-1-first-volume`              | `ch-1-prologue.md`         |
+| **Main Story Volume 2** | `bs-o-c-2-second-volume`             | `ch-1-new-beginnings.md`   |
+| **Side Character 1**    | `bsp-o-c-1-g-277-green-bull-azhuang` | `ch-1-last-watch.md`       |
+| **Side Character 2**    | `bsp-o-c-2-blue-wolf-dorian`         | `ch-1-desperate-choice.md` |
+| **Adaptation Work**     | `bs-a-c-1-a-new-gamer`               | `ch-1-infiltration.md`     |
 
-- **Format**:
-  `{world-code}-o-c-{side-number}-{work-name}-ch-{chapter-number}-{chapter-title-short}.md`
-- **Example**: `bs-o-c-001-yan-liang-ch-001-infiltration.md`
-- **Location**: `original-archives/language/chaptered-stories/side/{work-code-directory}/`
+### 5.2. Short Story File Name Format
 
-#### **Short Stories**
+#### **Original Short Stories**
 
-- **Format**: `{world-code}-o-s-{work-number}-{work-name}.md`
-- **Example**: `bs-o-s-001-farm-inn.md`
+- **Format**: `{world-code}-o-s-{natural-number}-{work-name}.md`
+- **Example**: `bs-o-s-1-farm-inn.md`
 - **Location**: `original-archives/language/short-stories/`
 
-### 2. Adaptation Work File Name Format
+#### **Adaptation Short Stories**
 
-#### **Chaptered Stories**
+- **Format**: `{full-work-code}.md`
+- **Example**: `bs-a-s-1-first-blood.md`
+- **Location**: `adaptation-works/short-stories/{full-work-code}/`
 
-- **Format**: `{complete-work-code}-ch-{chapter-number}-{chapter-title-short}.md`
-- **Example**: `bs-a-c-001-a-new-gamer-ch-001-infiltration.md`
-- **Location**: `adaptation-works/chaptered-stories/{complete-work-code}/`
+### 5.3. Special Notes
 
-#### **Short Stories**
-
-- **Format**: `{complete-work-code}.md`
-- **Example**: `bs-a-s-001-first-blood.md`
-- **Location**: `adaptation-works/short-stories/{complete-work-code}/`
-
-### 3. Special Notes
-
-1. **Chapter Title Mandatory**: All chaptered stories must include chapter title short form
-2. **Hyphen Usage**: Use `-ch-` before chapter numbers to maintain format consistency
-3. **Title Short Form Rules**:
-    - Lowercase English, connected with hyphens
-    - Concise and reflective of chapter core content
+1. **Natural Number Sequencing**: All sequence numbers use natural numbers (1, 2, 3...), no zero padding needed. Modern
+   file systems correctly sort `-1-`, `-2-`, `-12-`.
+2. **Unified Chapter Naming**: Chapter files within folders uniformly start with `ch-`, maintaining consistent format.
+3. **Title Abbreviation Rules**:
+    - English lowercase, connected with hyphens
+    - Concise and clear, reflecting the chapter's core content
     - Avoid special characters and spaces
-4. **Main vs Side Difference**:
-    - Main: No work number and work name before `-ch-`
-    - Side: Has side number and work name before `-ch-`
+4. **Unified Structure for Main and Side Stories**: Both main story volumes and side stories adopt the same folder
+   structure, facilitating management and expansion.
 
-## Work Promotion Mechanism
+## 6. Work Promotion Mechanism
 
-### From Adaptation Work to Original Work
+### 6.1. Promotion from Adaptation Work to Original Work
 
-When a community adaptation work meets the following conditions, it can apply for promotion to
-`original-archives`:
+When a community adaptation work meets the following conditions, it can apply for promotion to `original-archives`:
 
-1. **Completion status**: The work has been completed
-2. **High quality**: Widely recognized by the community
-3. **Setting consistency**: No conflicts with the original world settings
-4. **Stable maintenance**: Has a stable maintainer
-5. **Clear authorization**: All contributors agree to work transfer
+1. **Completion Status**: The work is complete.
+2. **Quality Excellence**: Widely recognized by the community.
+3. **Setting Consistency**: No conflicts with the original world's settings.
+4. **Stable Maintenance**: Has a stable maintainer.
+5. **Clear Authorization**: All contributors agree to the work transfer.
 
-### From Adaptation Work to Independent World
+### 6.2. Promotion from Adaptation Work to Independent World
 
 When an adaptation work meets the following conditions, it can apply to become an independent world:
 
-1. **Complete world**: Has a complete, independent setting system
-2. **Mature narrative**: Has complete narrative structure and character system
-3. **Community recognition**: Has wide influence in the community
-4. **Maintenance team**: Has a stable maintenance and development team
-5. **Clear authorization**: All contributors agree to world independence
+1. **Complete World Building**: Possesses a complete, independent setting system.
+2. **Mature Narrative**: Has a complete narrative structure and character system.
+3. **Community Recognition**: Has widespread influence within the community.
+4. **Maintenance Team**: Has a stable maintenance and development team.
+5. **Clear Authorization**: All contributors agree to world independence.
 
-### Promotion Process
+### 6.3. Promotion Process
 
-1. **Application**: Work maintainer submits a promotion application
-2. **Review**: Core team reviews work quality
-3. **Migration**: Move the work from `adaptation-works` to the target location
-4. **Renaming**: Rename files as needed to comply with naming rules of the new location
-5. **Update**: Update all related links and navigation
-6. **Announcement**: Announce promotion results to the community
+1. **Application**: Work maintainer submits a promotion application.
+2. **Review**: Core team reviews work quality.
+3. **Migration**: Migrate work from `adaptation-works` to target location.
+4. **Renaming**: Rename files as needed to comply with new location's naming rules.
+5. **Update**: Update all relevant links and navigation.
+6. **Announcement**: Announce promotion results to the community.
 
-## File Specifications
+## 7. File Standards
 
-### 1. Required Files
+### 7.1. Required Files
 
-#### Adaptation Work Directory Structure
+#### Chaptered Story Directory Structure (Applies to All Types)
 
 ```
-complete-work-code/
+full-work-code-folder/
 ├── README.md                     # Work introduction
 ├── metadata.yaml                 # Metadata
-├── work-files                   # Story content (following naming conventions)
+├── ch-1-chapter-title.md        # Chapter 1
+├── ch-2-chapter-title.md        # Chapter 2
 ├── settings/
-│   └── story-setting.md         # Work-specific settings
-└── images/                      # Image resources directory
+│   └── story-setting.md         # Story-specific settings
+└── images/                      # Image resource directory
 ```
 
-### 2. Metadata File (metadata.yaml)
+#### Short Story Directory Structure (Only for Adaptations)
+
+```
+full-work-code-folder/
+├── README.md
+├── metadata.yaml
+├── full-work-code.md            # Short story content file
+├── settings/
+│   └── story-setting.md
+└── images/
+```
+
+### 7.2. Metadata File (metadata.yaml)
 
 ```yaml
 # Work metadata
 work:
-  code: "bs-a-c-001-a-new-gamer"  # Work code
+  code: "bsp-o-c-1-g-277-green-bull-azhuang"  # Work code (folder name)
   title:
-    chinese: "新玩家"              # Chinese title
-    english: "A New Gamer"        # English title
-  format: "chaptered-story"       # chaptered-story / short-story
-  subtype: "side"                 # main/side (only for chaptered stories)
-  status: "updating"              # updating / completed
-  location: "adaptation-works"    # Storage location (original-archives/adaptation-works)
-  promotion_status: "eligible"    # Promotion status (eligible/under_review/promoted)
+    chinese: "夜哨无声——牛兽人阿壮的故事"      # Chinese title
+    english: "Silent Night Watch"             # English title
+  format: "chaptered-story"                   # Chaptered-story / short-story
+  subtype: "side"                             # main/side (only for chaptered stories)
+  status: "updating"                          # updating / completed
+  location: "original-archives"               # Storage location
+  promotion_status: "n/a"                     # Promotion status (n/a/eligible/under_review/promoted)
 
 # Creation information
 creation:
-  author: "Author Name"          # Author name
-  start_date: "2024-01-01"       # Start date
-  last_update: "2024-01-01"      # Last update date
-  based_on: "beastshield"        # Which world it's based on
+  author: "Author Name"                        # Author name
+  start_date: "2025-12-15"                    # Start date
+  last_update: "2025-12-15"                   # Last update date
+  based_on: "beastshield"                     # Based on which world (needed for adaptations)
 ```
 
-### 3. README.md Template
+### 7.3. README.md Template
 
 ```markdown
 # [Work Title]
 
 ## Basic Information
 
-- **Code**: `bs-a-c-001-a-new-gamer`
+- **Code**: `bsp-o-c-1-g-277-green-bull-azhuang`
 - **Status**: Updating
-- **Location**: adaptation-works (adaptation work)
-- **Type**: Chaptered Story - Side
+- **Location**: original-archives (original work)
+- **Type**: Chaptered story - side story
 - **Author**: Author Name
-- **Start Date**: 2024-01-01
+- **Start Date**: 2025-12-15
 
-## Story Summary
+## Story Synopsis
 
-Write the story summary here...
+Write story synopsis here...
 
 ## Chapter List
 
-- [Chapter 1: Infiltration](`bs-a-c-001-a-new-gamer-ch-001-infiltration.md`)
-- [Chapter 2: Confrontation](`bs-a-c-001-a-new-gamer-ch-002-confrontation.md`)
+- [Chapter 1: Last Watch](`ch-1-last-watch.md`)
+- [Chapter 2: Stranger in Folded Time](`ch-2-stranger-in-folded-time.md`)
 
 ## Setting Notes
 
@@ -273,42 +297,49 @@ This story uses the following special settings:
 - [View Detailed Settings](`settings/story-setting.md`)
 ```
 
-## Steps to Create a New Work
+## 8. Steps to Create New Work
 
-### Create Original Work (Core Team)
+### 8.1. Creating Original Chaptered Stories (Core Team)
 
 1. **Determine Work Information**
-    - Select world (bs/bsr/uba)
-    - Determine work nature (use "o" for original)
-    - Select format (chaptered-story "c" / short-story "s")
-    - Determine type (main/side, only for chaptered stories)
-    - Determine number (check existing works, use next number)
-    - Determine work name (English kebab-case)
+    - Select world (bs/bsr/uba/bsp)
+    - Determine work nature (original uses o)
+    - Determine type (main story main / side story side)
+    - Determine sequence number (check existing works, use next natural number)
+    - Determine series name (English kebab-case)
 
-2. **Create Files or Directories**
-    - **Main chaptered**: Create files in `original-archives/language/chaptered-stories/main/`
-    - **Side chaptered**: Create work directory in
-      `original-archives/language/chaptered-stories/side/`, then create files inside
-    - **Short story**: Create files in `original-archives/language/short-stories/`
+2. **Create Folder and Files**
+    - Create folder at corresponding location: `original-archives/language/chaptered-stories/[main or side]/`
+    - Create chapter files inside folder: `ch-1-chapter-title.md`
+    - Create auxiliary files: `README.md`, `metadata.yaml`, `settings/story-setting.md`
 
 3. **Use Correct Naming Format**
-    - Main: `{world}-o-c-ch-{number}-{title}.md`
-    - Side: `{world}-o-c-{number}-{work-name}-ch-{chapter-number}-{chapter-title}.md`
-    - Short: `{world}-o-s-{number}-{work-name}.md`
+    - Folder: `{world}-o-c-{natural-number}-{series-name}`
+    - Chapter files: `ch-{natural-number}-{chapter-title-abbreviation}.md`
 
-### Create Adaptation Work (Community Contributors)
+### 8.2. Creating Original Short Stories
 
 1. **Determine Work Information**
-    - Select world (bs/bsr/uba)
-    - Determine work nature (use "a" for adaptation)
-    - Select format (chaptered-story "c" / short-story "s")
-    - Determine number (check existing adaptation works, use next number)
+    - Select world
+    - Determine sequence number (check existing short stories, use next natural number)
+    - Determine work name (English kebab-case)
+
+2. **Create Files**
+    - Create file in `original-archives/language/short-stories/`
+    - File name: `{world}-o-s-{natural-number}-{work-name}.md`
+
+### 8.3. Creating Adaptation Works (Community Contributors)
+
+1. **Determine Work Information**
+    - Select world (bs/bsr/uba/bsp)
+    - Determine work nature (adaptation uses a)
+    - Select format (chaptered story c / short story s)
+    - Determine sequence number (check existing adaptation works, use next natural number)
     - Determine work name (English kebab-case)
 
 2. **Create Work Directory**
-    - In the corresponding world's `adaptation-works/format/` directory
-    - Create a new folder named with the complete work code
-    - Copy and modify template files
+    - In the corresponding world's `adaptation-works/[format]/` directory
+    - Create new folder using the full work code name
 
 3. **Copy Template Files**
     - Copy corresponding template from `templates/adaption-work-template/`
@@ -317,75 +348,76 @@ This story uses the following special settings:
 4. **Modify File Content**
     - Update all information in `metadata.yaml`
     - Update content in `README.md`
-    - Update story files using the unified naming format
+    - Update story files using unified naming format
     - Update settings in `settings/story-setting.md`
     - Add images to `images/` directory
 
-## Examples
+## 9. Examples
 
-### Original Work Examples
+### 9.1. Original Work Examples
 
-**Main Chaptered Story**:
+**Main Story Volume 1:**
 
-- File: `bs-o-c-ch-001-a-bloody-beginning.md`
+- Folder: `bs-o-c-1-first-volume/`
 - Location: `worlds/beastshield/original-archives/chinese/chaptered-stories/main/`
-- Note: Main stories have no separate work directory
+- Internal files: `ch-1-prologue.md`, `ch-2-rising-action.md`...
 
-**Side Chaptered Story**:
+**Side Character Story:**
 
-- File: `bs-o-c-001-yan-liang-ch-001-infiltration.md`
-- Location:
-  `worlds/beastshield/original-archives/chinese/chaptered-stories/side/bs-o-c-001-yan-liang/`
-- Note: Side stories have independent work directories
+- Folder: `bsp-o-c-1-g-277-green-bull-azhuang/`
+- Location: `worlds/beastshield-paradise/original-archives/chinese/chaptered-stories/side/`
+- Internal files: `ch-1-last-watch.md`, `ch-2-stranger-in-folded-time.md`...
 
-**Short Story**:
+**Short Story:**
 
-- File: `bs-o-s-001-farm-inn.md`
+- File: `bs-o-s-1-farm-inn.md`
 - Location: `worlds/beastshield/original-archives/chinese/short-stories/`
 
-### Adaptation Work Examples
+### 9.2. Adaptation Work Examples
 
-**Chaptered Story**:
+**Chaptered Story:**
 
-- Work Code: `bs-a-c-001-a-new-gamer`
-- File: `bs-a-c-001-a-new-gamer-ch-001-infiltration.md`
-- Location: `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-c-001-a-new-gamer/`
+- Work code: `bs-a-c-1-a-new-gamer`
+- Folder: `bs-a-c-1-a-new-gamer/`
+- Location: `worlds/beastshield/adaptation-works/chaptered-stories/`
+- Internal files: `ch-1-infiltration.md`, `ch-2-confrontation.md`...
 
-**Short Story**:
+**Short Story:**
 
-- Work Code: `bs-a-s-001-first-blood`
-- File: `bs-a-s-001-first-blood.md`
-- Location: `worlds/beastshield/adaptation-works/short-stories/bs-a-s-001-first-blood/`
+- Work code: `bs-a-s-1-first-blood`
+- Folder: `bs-a-s-1-first-blood/`
+- Location: `worlds/beastshield/adaptation-works/short-stories/`
+- Content file: `bs-a-s-1-first-blood.md`
 
-## Naming Checklist
+## 10. Naming Checklist
 
-When creating files, please check:
+Check the following when creating files:
 
-- [ ] World code correct (bs/bsr/uba)
+- [ ] World code correct (bs/bsr/uba/bsp)
 - [ ] Work nature correct (o/a/c)
 - [ ] Work format correct (c/s)
-- [ ] Number correct (three digits)
-- [ ] Work identifier correct (English kebab-case)
-- [ ] Chapter number correct (three digits, only for chaptered stories)
-- [ ] **Chapter title/work title included** (mandatory)
-- [ ] Hyphen usage correct (especially `-ch-`)
-- [ ] Filename all lowercase
-- [ ] File extension is `.md`
+- [ ] Sequence number correct (natural number)
+- [ ] Series name/work name correct (English kebab-case)
+- [ ] Chapter number correct (natural number, only for chaptered)
+- [ ] **Chapter title/work title included** (required)
+- [ ] Hyphen usage correct (especially `ch-`)
+- [ ] All file names lowercase
+- [ ] File extension `.md`
+- [ ] Chaptered stories use "folder + internal chapters" structure
 
-## Important Notes
+## 11. Important Notes
 
-1. **Naming Consistency**: Adaptation work file names maintain complete consistency with original
-   works
-2. **Title Mandatory**: All chaptered stories must include chapter title short form
-3. **Code Uniqueness**: Ensure work codes are unique and not duplicated
-4. **Number Continuity**: Numbers should increment sequentially within the same format
+1. **Naming Consistency**: Adaptation work folder naming format identical to original works
+2. **Title Required**: All chaptered stories must include chapter title abbreviation
+3. **Code Uniqueness**: Ensure work codes are unique, no duplicates
+4. **Sequence Continuity**: Sequence numbers within same format should increment continuously
 5. **File Naming**: Use lowercase letters and hyphens, avoid special characters
-6. **Image Referencing**: Correctly reference image paths in story files
-7. **Status Updates**: Change status to `completed` in `metadata.yaml` when work is finished
-8. **Promotion Applications**: Works meeting promotion criteria can submit promotion applications at
-   any time
+6. **Image References**: Correctly reference image paths in story files
+7. **Status Updates**: When work is completed, change status in `metadata.yaml` to `completed`
+8. **Promotion Applications**: Works meeting promotion conditions can apply anytime
+9. **Natural Number Advantage**: Utilize modern file systems' natural sorting to simplify numbering
 
-## Template Location
+## 12. Template Locations
 
 The project provides standard templates at:
 
@@ -396,71 +428,86 @@ Use these templates as starting points to ensure consistent structure across all
 
 ---
 
-## Frequently Asked Questions
+## 13. Frequently Asked Questions
 
-### Q: Why do main stories have no separate work directory?
+### Q: Why switch to natural number sequencing?
 
-A: Main stories are the core narrative line of the world, usually consisting of one continuous
-story. Placing chapters directly in the main directory provides clearer organization.
+A: Modern file systems and code editors can correctly identify and sort natural numbers (1, 2, 10, 11...), eliminating
+the need for zero padding. This simplifies naming, reduces cognitive load, while maintaining correct sorting.
 
-### Q: Why do side stories need work directories?
+### Q: What's the structural difference between main stories and side stories?
 
-A: Side stories are independent narrative units, and there may be multiple different side stories.
-Creating independent directories for each side story facilitates management and maintenance.
+A: In version 2.2.0, main stories and side stories are structurally identical: both use "folder + internal chapters"
+structure. The only difference is their storage directory:
 
-### Q: What are the requirements for chapter title short forms?
+- Main stories: `chaptered-stories/main/`
+- Side stories: `chaptered-stories/side/`
 
-A: Chapter title short forms should:
+### Q: How to create multiple volumes for a main story?
 
-1. Use lowercase English
-2. Connect words with hyphens
-3. Be concise and reflect chapter core content
-4. Avoid special characters and spaces
-5. Examples: `a-bloody-beginning`, `infiltration`, `final-battle`
+A: Each volume is an independent folder, numbered sequentially:
 
-### Q: If my adaptation work becomes very popular, can it become an official work?
+- Volume 1: `bs-o-c-1-first-volume/`
+- Volume 2: `bs-o-c-2-second-volume/`
+- Volume 3: `bs-o-c-3-final-volume/`
 
-A: Yes. When a work is completed and reaches certain quality standards, it can apply for migration
-to `original-archives`. Files will be renamed as needed during migration.
+Each volume contains a complete chapter series.
+
+### Q: Must chapter files start from ch-1?
+
+A: Yes, for consistency, chapters within each folder start from `ch-1`. Even if this series is a continuation of a
+longer work, it re-starts numbering from 1 because the folder already indicates which volume this is.
+
+### Q: If my adaptation work is popular, can it become an official work?
+
+A: Yes. When a work is completed and reaches certain quality standards, it can apply for migration to
+`original-archives`. Files will be renamed as needed during migration.
 
 ### Q: Can adaptation works become independent worlds?
 
-A: Yes. If an adaptation work has a complete and independent setting system, mature narrative
-structure, and community influence, it can apply to become an independent world. This requires
-review by the core team.
+A: Yes. If an adaptation work possesses a complete, independent setting system, mature narrative structure, and
+community influence, it can apply to become an independent world. This requires core team review.
 
 ### Q: How to find specific types of works?
 
-A: Quickly identify by filename:
+A: Quickly identify from file names:
 
 - World: First 2-3 characters
 - Nature: 4th character (o/a/c)
 - Format: 6th character (c/s)
-- Main/Side: Check if work number and work name are present
+- Sequence: Natural number starting from the 8th character
 
 ---
 
-## Update History
+## 14. Update History
 
-- **2025-12-13 v2.1.1**: Clarified promotion paths and positioning of adaptation works
-    - Added Core Concept Definitions section
-    - Clarified two promotion paths for adaptation works: promotion to official original work or
-      independent world
-    - Added promotion status field to metadata
-    - Updated FAQ with adaptation work promotion-related questions
-
-- **2025-12-13 v2.1.0**: Updated based on latest project structure, unified naming formats for all
-  work types
+- **2025-12-15 v2.2.0**: Simplified numbering system, unified story structure
     - **Major Changes**:
-        1. **Chapter Title Mandatory**: All chaptered stories must include chapter title short form
-        2. **Clear Main/Side Distinction**:
-            - Main: `{world}-o-c-ch-{number}-{title}.md`
-            - Side: `{world}-o-c-{number}-{work-name}-ch-{chapter-number}-{chapter-title}.md`
-        3. **Updated All Examples**: Ensure examples match actual structure
-        4. **Added Naming Checklist**: Help creators check naming correctness
-        5. **Enhanced FAQ**: Explain main/side directory structure differences
+        1. **Natural Number Sequencing**: All sequence numbers changed from three-digit to natural numbers (1, 2, 3...),
+           no zero padding needed.
+        2. **Unified Structure**: All chaptered stories (main, side, adaptation) use "folder + internal chapters"
+           structure.
+        3. **Unified Chapter Naming**: Chapter files within folders uniformly named
+           `ch-natural-number-chapter-title-abbreviation.md`.
+        4. **Main Story Volume Support**: Clear support for main stories using volume structure, each volume in its own
+           folder.
+        5. **Added World**: Added `bsp` (Beastshield Paradise) world support.
+        6. **Optimized Examples**: Updated all examples to comply with new standards.
+        7. **Added Numbering**: Added numbering to each section of the guide for better readability.
+
+- **2025-12-13 v2.1.1**: Clarified adaptation work promotion pathways and positioning
+    - Added core concept definitions section.
+    - Clarified two promotion pathways for adaptation works: promotion to official original work or independent world.
+    - Added promotion status field to metadata.
+    - Updated FAQ with adaptation work promotion-related questions.
+
+- **2025-12-13 v2.1.0**: Updated according to latest project structure, unified naming formats for all work types
+    - Chapter titles required.
+    - Clear distinction between main and side stories.
+    - Updated all examples.
+    - Added naming checklist.
 
 ---
 
-*Last Updated: December 13, 2025*  
-*Document Version: 2.1.1*
+*Last Updated: December 15, 2025*  
+*Document Version: 2.2.0*

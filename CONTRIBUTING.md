@@ -1,20 +1,20 @@
-# Beastkin Universe 贡献指南 / Contributing Guide for Beastkin Universe
+# Beastkin Universe 贡献指南 v2.3.0 / Contributing Guide for Beastkin Universe v2.3.0
 
-**版本 2.0 · 最后更新：2025年12月13日 · 适配命名体系：[2.1.1](docs/work-naming-guide-english.md) ·
-适配模板指南：[4.3](docs/universal-story-template-guide-english.md)**
+**版本 2.3.0 · 最后更新：2025年12月15日 · 适配命名体系：[2.3.0](docs/work-naming-guide-chinese.md) ·
+适配元数据指南：[2.3.0](docs/metadata-guide.md)**
 
 ---
 
 ## 1. 欢迎 / Welcome
 
-感谢您对 Beastkin Universe 感兴趣！本指南将帮助您了解如何为这个项目做出贡献。我们特别推荐新创作者从
-**改编作品**开始，这是融入社区最顺畅的路径。
+感谢您对 Beastkin Universe 感兴趣！本指南将帮助您了解如何为这个项目做出贡献。我们特别推荐新创作者从**改编作品**
+开始，这是融入社区最顺畅的路径。
 
 ---
 
-Thank you for your interest in Beastkin Universe! This guide will help you understand how to
-contribute to this project. We especially recommend new creators to start with **adaptation works**,
-as it's the smoothest path to integrate into the community.
+Thank you for your interest in Beastkin Universe! This guide will help you understand how to contribute to this project.
+We especially recommend new creators to start with **adaptation works**, as it's the smoothest path to integrate into
+the community.
 
 ---
 
@@ -30,6 +30,7 @@ worlds/                          # 所有世界观目录
 │   ├── original-archives/       # 原作存档
 │   ├── adaptation-works/        # 改编作品（推荐起点）
 │   └── settings/                # 设定参考库
+├── beastshield-paradise/        # 兽盾乐园世界观
 ├── beastshield-reforged/        # 兽盾新纪元世界观
 └── united-beasts-alliance/      # 万兽盟世界观
 ```
@@ -46,6 +47,7 @@ worlds/                          # All world directories
 │   ├── original-archives/       # Original works archive
 │   ├── adaptation-works/        # Adaptation works (recommended start)
 │   └── settings/                # Settings library
+├── beastshield-paradise/        # Beastshield Paradise world
 ├── beastshield-reforged/        # Beastshield Reforged world
 └── united-beasts-alliance/      # United Beasts Alliance world
 ```
@@ -62,21 +64,22 @@ For detailed structure, see: [project-structure-guide.md](docs/project-structure
 请务必阅读以下指南：
 
 - [行为准则](CODE_OF_CONDUCT.md) - 了解社区规范
-- [作品命名指南](docs/work-naming-guide-chinese.md) - 掌握作品命名规则（版本2.1.1）
-- [通用故事模板指南](docs/universal-story-template-guide-chinese.md) - 了解故事模板使用（版本4.3）
+- [作品命名指南 v2.3.0](docs/work-naming-guide-chinese.md) - 掌握作品命名规则（最新版本）
+- [元数据指南 v2.3.0](docs/metadata-guide.md) - 了解元数据文件填写规范
+- [通用故事模板指南](docs/universal-story-template-guide-chinese.md) - 了解故事模板使用
 
 ---
 
 **Strongly Recommended: Start with Adaptation Works**
-We recommend all new creators to start with `adaptation-works`. This helps understand the world,
-receive community feedback, and allows applying for promotion to official works after completion.
+We recommend all new creators to start with `adaptation-works`. This helps understand the world, receive community
+feedback, and allows applying for promotion to official works after completion.
 
 Please be sure to read the following guides:
 
 - [Code of Conduct](CODE_OF_CONDUCT.md) - Understand community standards
-- [Work Naming Guide](docs/work-naming-guide-english.md) - Master work naming rules (v2.1.1)
-- [Universal Story Template Guide](docs/universal-story-template-guide-english.md) - Understand
-  story template usage (v4.3)
+- [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md) - Master work naming rules (latest version)
+- [Metadata Guide v2.3.0](docs/metadata-guide.md) - Understand metadata file specifications
+- [Universal Story Template Guide](docs/universal-story-template-guide-english.md) - Understand story template usage
 
 ---
 
@@ -86,17 +89,19 @@ Please be sure to read the following guides:
 
 #### 3.1.1 选择故事形式 / Choose Story Format
 
-我们支持两种故事形式：
+我们支持三种故事形式（v2.3.0 新格式）：
 
-1. **分章故事 (Chaptered Story)** - 长篇多章节作品
-2. **短篇故事 (Short Story)** - 短篇单文件作品
+1. **主线分章故事 (Chaptered Main, `cm`)** - 主线长篇多章节作品
+2. **支线分章故事 (Chaptered Side, `cs`)** - 支线长篇多章节作品
+3. **短篇故事 (Short Story, `s`)** - 短篇单文件作品
 
 ---
 
-We support two story formats:
+We support three story formats (new in v2.3.0):
 
-1. **Chaptered Story** - Long multi-chapter works
-2. **Short Story** - Short single-file works
+1. **Chaptered Main (`cm`)** - Main storyline long multi-chapter works
+2. **Chaptered Side (`cs`)** - Side storyline long multi-chapter works
+3. **Short Story (`s`)** - Short single-file works
 
 ---
 
@@ -106,8 +111,9 @@ We support two story formats:
 
 1. 使用改编作品模板（性质字段固定为 `a`）
 2. 在 `adaptation-works/` 目录下创作
-3. 遵循完整的命名规范，**章节标题必填**
-4. 作品完成后可申请晋升为官方作品
+3. 遵循 v2.3.0 命名规范，使用自然数序号和 `cm`/`cs`/`s` 形式类型
+4. 章节标题必填，使用 `ch-{自然数}-{章节标题简写}.md` 格式
+5. 作品完成后可申请晋升为官方作品
 
 请按照[通用故事模板指南](docs/universal-story-template-guide-chinese.md)中的"快速开始"步骤操作。
 
@@ -117,8 +123,9 @@ We support two story formats:
 
 1. Use adaptation work templates (nature field fixed as `a`)
 2. Create works in the `adaptation-works/` directory
-3. Follow complete naming conventions, **chapter titles are mandatory**
-4. Apply for promotion to official works after completion
+3. Follow v2.3.0 naming conventions, using natural numbers and `cm`/`cs`/`s` form types
+4. Chapter titles are mandatory, use `ch-{natural-number}-{chapter-title-abbreviation}.md` format
+5. Apply for promotion to official works after completion
 
 Please follow the "Quick Start" steps in
 the [Universal Story Template Guide](docs/universal-story-template-guide-english.md).
@@ -132,7 +139,7 @@ the [Universal Story Template Guide](docs/universal-story-template-guide-english
 - 分章故事模板：`templates/adaption-work-template/chaptered-story/`
 - 短篇故事模板：`templates/adaption-work-template/short-story/`
 
-**注意**：改编作品请使用模板中对应的"改编"导航栏配置。
+**重要提示**：请使用最新版本的模板，确保包含 `form_type` 字段（v2.3.0 新增必填字段）。
 
 ---
 
@@ -141,34 +148,47 @@ Please use our provided templates:
 - Chaptered story template: `templates/adaption-work-template/chaptered-story/`
 - Short story template: `templates/adaption-work-template/short-story/`
 
-**Note**: For adaptation works, please use the corresponding "Adaptation" navigation bar
-configurations in the template.
+**Important**: Please use the latest version of templates, ensuring they include the `form_type` field (new required
+field in v2.3.0).
 
 ---
 
 #### 3.1.4 遵循命名规范 / Follow Naming Conventions
 
-所有作品必须遵循我们的命名规范：
+所有作品必须遵循 v2.3.0 命名规范：
 
 ```
-[世界观]-[性质]-[形式]-[序号]-[作品名]
+[世界观]-[性质]-[形式类型]-[自然数序号]-[系列名]
 ```
 
-**改编作品示例**：`bs-a-c-001-a-new-gamer`（性质为`a`）
+**改编作品示例**：
 
-详细说明请参阅：[作品命名指南](docs/work-naming-guide-chinese.md)
+- `bs-a-cs-1-a-new-gamer`（支线分章改编，性质为`a`）
+- `bs-a-cm-1-main-adaptation`（主线分章改编）
+- `bs-a-s-1-first-blood`（短篇改编）
+
+**注意**：v2.3.0 使用自然数序号（1, 2, 3...）而不是三位数（001, 002），形式类型为 `cm`/`cs`/`s`
+
+详细说明请参阅：[作品命名指南 v2.3.0](docs/work-naming-guide-chinese.md)
 
 ---
 
-All works must follow our naming conventions:
+All works must follow v2.3.0 naming conventions:
 
 ```
-[world]-[nature]-[format]-[number]-[work-name]
+[world]-[nature]-[form_type]-[natural_number]-[series_name]
 ```
 
-**Adaptation work example**: `bs-a-c-001-a-new-gamer` (nature is `a`)
+**Adaptation work examples**:
 
-For detailed explanation, see: [Work Naming Guide](docs/work-naming-guide-english.md)
+- `bs-a-cs-1-a-new-gamer` (side chaptered adaptation, nature is `a`)
+- `bs-a-cm-1-main-adaptation` (main chaptered adaptation)
+- `bs-a-s-1-first-blood` (short story adaptation)
+
+**Note**: v2.3.0 uses natural number sequences (1, 2, 3...) instead of three-digit numbers (001, 002), form types are
+`cm`/`cs`/`s`
+
+For detailed explanation, see: [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md)
 
 ---
 
@@ -200,8 +220,7 @@ Each world has three levels of settings:
 
 ---
 
-- **Supplement Original Settings**: Add content to `settings/0-original-setting/` of the
-  corresponding world
+- **Supplement Original Settings**: Add content to `settings/0-original-setting/` of the corresponding world
 - **Improve Recommended Canon**: Suggest improvements in `settings/1-recommended-canon/`
 - **Record Story Variants**: Record unique settings in each work's `settings/` directory
 
@@ -228,13 +247,15 @@ Each world has three levels of settings:
 翻译作品应与原文放在同一作品目录下：
 
 ```
-bs-a-c-001-a-new-gamer/
+bsp-o-cs-1-g-277-green-bull-azhuang/
 ├── chinese/          # 中文版
 │   ├── README.md
-│   └── ch001.md
+│   ├── metadata.yaml
+│   └── ch-1-last-watch.md
 └── english/          # 英文版
     ├── README.md
-    └── ch001.md
+    ├── metadata.yaml
+    └── ch-1-last-watch.md
 ```
 
 ---
@@ -242,13 +263,15 @@ bs-a-c-001-a-new-gamer/
 Translated works should be placed in the same work directory as the original:
 
 ```
-bs-a-c-001-a-new-gamer/
+bsp-o-cs-1-g-277-green-bull-azhuang/
 ├── chinese/          # Chinese version
 │   ├── README.md
-│   └── ch001.md
+│   ├── metadata.yaml
+│   └── ch-1-last-watch.md
 └── english/          # English version
     ├── README.md
-    └── ch001.md
+    ├── metadata.yaml
+    └── ch-1-last-watch.md
 ```
 
 ---
@@ -318,7 +341,7 @@ git checkout -b feature/your-feature-name
 
 请使用有意义的分支名称：
 
-- `feature/new-story-bs-a-c-002`
+- `feature/new-story-bs-a-cs-2`
 - `feature/improve-beastshield-settings`
 - `fix/documentation-typo`
 - `translation/chinese-version`
@@ -332,7 +355,7 @@ git checkout -b feature/your-feature-name
 
 Please use meaningful branch names:
 
-- `feature/new-story-bs-a-c-002`
+- `feature/new-story-bs-a-cs-2`
 - `feature/improve-beastshield-settings`
 - `fix/documentation-typo`
 - `translation/chinese-version`
@@ -344,16 +367,18 @@ Please use meaningful branch names:
 #### 4.3.1 创作新故事 / Creating a New Story
 
 1. 复制对应模板到正确位置
-2. 修改文件夹名称和内部文件
+2. 修改文件夹名称和内部文件，遵循 v2.3.0 命名规范
 3. 编写故事内容
 4. 添加必要的图片和设定文件
+5. **确保 `metadata.yaml` 文件包含 `form_type` 字段**
 
 ---
 
 1. Copy the appropriate template to the correct location
-2. Modify folder name and internal files
+2. Modify folder name and internal files, following v2.3.0 naming conventions
 3. Write story content
 4. Add necessary images and setting files
+5. **Ensure the `metadata.yaml` file includes the `form_type` field**
 
 ---
 
@@ -363,9 +388,9 @@ Please use meaningful branch names:
 
 ```bash
 git add .
-git commit -m "添加分章故事: bs-a-c-002-dragon-quest"
+git commit -m "添加支线分章改编: bs-a-cs-2-dragon-quest"
 git commit -m "修复野兽之盾设定中的地理矛盾"
-git commit -m "为火焰幽灵故事添加中文翻译"
+git commit -m "为夜哨无声故事添加英文翻译"
 ```
 
 ---
@@ -374,9 +399,9 @@ Use clear commit messages:
 
 ```bash
 git add .
-git commit -m "Add chaptered story: bs-a-c-002-dragon-quest"
+git commit -m "Add side chaptered adaptation: bs-a-cs-2-dragon-quest"
 git commit -m "Fix geographical contradictions in Beastshield settings"
-git commit -m "Add Chinese translation for Flame Ghost story"
+git commit -m "Add English translation for Silent Night Watch story"
 ```
 
 ---
@@ -416,6 +441,7 @@ git commit -m "Add Chinese translation for Flame Ghost story"
 ## 相关世界观
 
 - [ ] beastshield
+- [ ] beastshield-paradise
 - [ ] beastshield-reforged
 - [ ] united-beasts-alliance
 
@@ -426,9 +452,9 @@ git commit -m "Add Chinese translation for Flame Ghost story"
 ## 检查清单
 
 - [ ] 已阅读并遵守行为准则
-- [ ] 遵循作品命名规范
+- [ ] 遵循 v2.3.0 作品命名规范（自然数序号，cm/cs/s形式类型）
 - [ ] 使用正确的模板
-- [ ] 元数据完整准确
+- [ ] 元数据完整准确（包含form_type字段）
 - [ ] 故事内容完整
 - [ ] 图片命名符合规范
 
@@ -458,6 +484,7 @@ Please fill in the Pull Request description according to the following template:
 ## Related World
 
 - [ ] beastshield
+- [ ] beastshield-paradise
 - [ ] beastshield-reforged
 - [ ] united-beasts-alliance
 
@@ -468,9 +495,9 @@ Describe your changes in detail...
 ## Checklist
 
 - [ ] Read and followed the Code of Conduct
-- [ ] Followed work naming conventions
+- [ ] Followed v2.3.0 work naming conventions (natural numbers, cm/cs/s form types)
 - [ ] Used correct templates
-- [ ] Metadata is complete and accurate
+- [ ] Metadata is complete and accurate (includes form_type field)
 - [ ] Story content is complete
 - [ ] Image naming follows conventions
 
@@ -501,8 +528,7 @@ Add relevant screenshots...
 All submitted works should meet the following requirements:
 
 - **Complete Content**: Stories should have clear beginning, development, and ending
-- **Setting Consistency**: Consistent with world settings, any deviations should be clearly
-  explained
+- **Setting Consistency**: Consistent with world settings, any deviations should be clearly explained
 - **Language Quality**: Fluent text, no obvious grammatical errors
 - **Format Standards**: Use correct Markdown formatting
 
@@ -510,14 +536,14 @@ All submitted works should meet the following requirements:
 
 ### 5.2 文件质量 / File Quality
 
-- **元数据完整**：`metadata.yaml` 文件必须完整填写
+- **元数据完整**：`metadata.yaml` 文件必须完整填写，包含必填的 `form_type` 字段
 - **README清晰**：`README.md` 应清晰介绍作品
 - **图片优化**：图片文件大小适中，命名规范
 - **结构正确**：目录结构和文件放置位置正确
 
 ---
 
-- **Complete Metadata**: The `metadata.yaml` file must be fully filled
+- **Complete Metadata**: The `metadata.yaml` file must be fully filled, including the required `form_type` field
 - **Clear README**: `README.md` should clearly introduce the work
 - **Optimized Images**: Image file sizes should be moderate, with standardized naming
 - **Correct Structure**: Directory structure and file placement should be correct
@@ -545,16 +571,16 @@ All submitted works should meet the following requirements:
 提交 Pull Request 后，将自动运行以下检查：
 
 - 文件结构检查
-- 命名规范验证
-- 元数据完整性检查
+- 命名规范验证（v2.3.0 格式）
+- 元数据完整性检查（包含 form_type 字段）
 
 ---
 
 After submitting a Pull Request, the following checks will run automatically:
 
 - File structure check
-- Naming convention verification
-- Metadata completeness check
+- Naming convention verification (v2.3.0 format)
+- Metadata completeness check (includes form_type field)
 
 ---
 
@@ -566,6 +592,7 @@ After submitting a Pull Request, the following checks will run automatically:
 - 设定一致性
 - 社区规范符合性
 - 整体贡献价值
+- v2.3.0 格式符合性
 
 ---
 
@@ -575,6 +602,7 @@ Project maintainers will conduct manual reviews, focusing on:
 - Setting consistency
 - Compliance with community standards
 - Overall contribution value
+- v2.3.0 format compliance
 
 ---
 
@@ -736,7 +764,7 @@ Yes, but the following principles must be followed:
 - 严重偏离世界观设定且无合理解释
 - 内容质量不符合标准
 - 侵犯他人版权
-- 未遵循命名规范或文件结构
+- 未遵循 v2.3.0 命名规范或文件结构
 
 如果作品被拒绝，维护者会提供具体原因和改进建议。
 
@@ -748,9 +776,29 @@ Reasons why work may be rejected include:
 - Severe deviation from world settings without reasonable explanation
 - Content quality does not meet standards
 - Infringement of others' copyright
-- Failure to follow naming conventions or file structure
+- Failure to follow v2.3.0 naming conventions or file structure
 
 If work is rejected, maintainers will provide specific reasons and improvement suggestions.
+
+---
+
+### 8.5 v2.3.0 有哪些重要变更？ / What are the important changes in v2.3.0?
+
+v2.3.0 引入了以下重要变更：
+
+1. **新的形式类型标识**：`cm`（主线分章）、`cs`（支线分章）、`s`（短篇）
+2. **自然数序号**：使用 1, 2, 3... 代替三位数 001, 002
+3. **新增必填字段**：`form_type` 必须包含在 `metadata.yaml` 中
+4. **更清晰的分类**：编码中明确区分主线、支线和短篇
+
+---
+
+v2.3.0 introduces the following important changes:
+
+1. **New form type identifiers**: `cm` (chaptered-main), `cs` (chaptered-side), `s` (short-story)
+2. **Natural number sequences**: Use 1, 2, 3... instead of three-digit numbers 001, 002
+3. **New required field**: `form_type` must be included in `metadata.yaml`
+4. **Clearer classification**: Explicit distinction between main, side, and short works in codes
 
 ---
 
@@ -759,13 +807,15 @@ If work is rejected, maintainers will provide specific reasons and improvement s
 ### 9.1 文档资源 / Documentation Resources
 
 - [项目结构指南](docs/project-structure-guide.md)
-- [作品命名指南](docs/work-naming-guide-chinese.md)
+- [作品命名指南 v2.3.0](docs/work-naming-guide-chinese.md)
+- [元数据指南 v2.3.0](docs/metadata-guide.md)
 - [通用故事模板指南](docs/universal-story-template-guide-chinese.md)
 
 ---
 
 - [Project Structure Guide](docs/project-structure-guide.md)
-- [Work Naming Guide](docs/work-naming-guide-english.md)
+- [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md)
+- [Metadata Guide v2.3.0](docs/metadata-guide.md)
 - [Universal Story Template Guide](docs/universal-story-template-guide-english.md)
 
 ---
@@ -838,6 +888,15 @@ We especially thank:
 
 ## 更新记录 / Update History
 
+- **2025-12-15 v2.3.0**：更新以适配 v2.3.0 命名规范
+    - 更新版本号为 v2.3.0
+    - 更新所有引用的指南版本
+    - 添加 v2.3.0 新特性说明（cm/cs/s 形式类型，自然数序号）
+    - 更新示例代码和提交信息格式
+    - 在检查清单中添加 form_type 字段验证
+    - 添加 v2.3.0 FAQ 部分
+    - 更新 Pull Request 模板中的检查项
+
 - **2025-12-13 v2.0**：全面更新，适配新命名体系和模板指南
     - 重构整体结构，明确推荐从改编作品开始的创作路径
     - 更新所有命名规范，引用作品命名指南2.1.1
@@ -850,5 +909,5 @@ We especially thank:
 
 ---
 
-*本文档最后更新于：2025年12月13日 · 文档版本：2.0*  
-*Last updated: December 13, 2025 · Document Version: 2.0*
+*本文档最后更新于：2025年12月15日 · 文档版本：2.3.0*  
+*Last updated: December 15, 2025 · Document Version: 2.3.0*

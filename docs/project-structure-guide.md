@@ -31,7 +31,7 @@ organization.
 
 2. **Ensure you're in the project root directory / 确保在项目根目录**:
    ```bash
-   cd /path/to/beastkin-shield-universe
+   cd /path/to/beastki-universe
    ```
 
 ---
@@ -65,7 +65,7 @@ The script will:
 📄 2. Generating full file structure...
 
 ✅ Done
-📁 Output directory: topath\beastkin-shield-universe\structure\
+📁 Output directory: topath\beastki-universe\structure\
 📋 Generated files:
 folder_structure_20251213_1017.md
 full_structure_20251213_1017.md
@@ -163,7 +163,7 @@ Each file contains:
 **解决方案**：确保在项目根目录：
 
 ```bash
-cd /path/to/beastkin-shield-universe
+cd /path/to/beastki-universe
 ls scripts/  # Should show generate_structure files / 应显示generate_structure文件
 ```
 
@@ -203,14 +203,14 @@ If empty, check script output for errors.
 ### Windows / Windows：
 
 ```bash
-cd beastkin-shield-universe
+cd beastki-universe
 scripts\generate_structure.bat
 ```
 
 ### Mac/Linux / Mac/Linux：
 
 ```bash
-cd beastkin-shield-universe
+cd beastki-universe
 chmod +x scripts/generate_structure.sh
 ./scripts/generate_structure.sh
 ```

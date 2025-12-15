@@ -7,7 +7,7 @@
 
 ## 📚 故事列表（按编号排序）
 
-### 1. **[SS-001: 兽盾农家乐](bs-o-s-001-farm-inn.md)**
+### 1. **[Story 1: 兽盾农家乐](bs-o-s-1-farm-inn.md)**
 
 *Beast Shield Farmhouse*
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 2. **[SS-002: 黑石](bs-o-s-002-blackstone.md)**
+### 2. **[Story 2: 黑石](bs-o-s-2-blackstone.md)**
 
 *Blackstone*
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 3. **[SS-003: 黑石2](bs-o-s-003-blackstone-2.md)**
+### 3. **[Story 3: 黑石2](bs-o-s-3-blackstone-2.md)**
 
 *Blackstone 2*
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 4. **[SS-004: 俘虏快递](bs-o-s-004-captive-delivery.md)**
+### 4. **[Story 4: 俘虏快递](bs-o-s-4-captive-delivery.md)**
 
 *Captive Delivery*
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 5. **[SS-005: 兽盾员工的一天](bs-o-s-005-employee-diary.md)**
+### 5. **[Story 5: 兽盾员工的一天](bs-o-s-5-employee-diary.md)**
 
 *Beast Shield Employee's Day*
 
@@ -63,7 +63,7 @@
 
 ---
 
-### 6. **[SS-006: 夜袭](bs-o-s-006-night-raid.md)**
+### 6. **[Story 6: 夜袭](bs-o-s-6-night-raid.md)**
 
 *Night Raid*
 
@@ -77,16 +77,16 @@
 ## 🏷️ 标签分类索引
 
 - **按主题**：
-    - `赏金猎人`：SS-002、SS-003
-    - `俘虏/控制`：SS-004
-    - `日记/生存`：SS-005
-    - `农场/实验`：SS-001
-    - `夜袭/潜入`：SS-003、SS-006
+    - `赏金猎人`：Story 2、Story 3
+    - `俘虏/控制`：Story 4
+    - `日记/生存`：Story 5
+    - `农场/实验`：Story 1
+    - `夜袭/潜入`：Story 3、Story 6
 
 - **按风格**：
-    - `惊悚`：SS-002、SS-003、SS-004、SS-005、SS-006
-    - `黑暗`：SS-001、SS-004
-    - `动作`：SS-002、SS-003
+    - `惊悚`：Story 2、Story 3、Story 4、Story 5、Story 6
+    - `黑暗`：Story 1、Story 4
+    - `动作`：Story 2、Story 3
 
 ---
 

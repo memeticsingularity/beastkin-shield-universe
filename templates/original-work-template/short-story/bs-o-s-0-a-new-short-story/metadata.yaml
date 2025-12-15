@@ -1,0 +1,109 @@
+# ============================================
+# Beastkin Universe Metadata Template for Original Short Story
+# 兽盾宇宙原创短篇故事元数据模板
+# ============================================
+# Compatible with Naming Guide v2.3.0
+# 适配命名指南 v2.3.0
+# Form Type: s (Short Story)
+# 形式类型: s (短篇)
+
+work:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  code: "bs-o-s-1-template-short-story"
+  # Format: [world]-o-s-[natural_number]-[story_name]
+  # 格式: [世界观]-o-s-[自然数序号]-[故事名]
+
+  title:
+    chinese: "短篇故事模板标题"
+    english: "Short Story Template Title"
+
+  format: "short-story"
+  form_type: "s"  # s for short story
+  status: "completed"  # Short stories are often completed upon submission
+  location: "original-archives"
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+
+  tags:
+    - "template"
+    - "short-story"
+    - "one-shot"
+    - "emotional"
+    - "resolution"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # Inspiration Sources - For works with multiple inspirations
+  # 灵感来源 - 用于有多个灵感来源的作品
+  inspiration_sources:
+    - type: "theme"
+      reference: "redemption"
+      description: "Inspired by redemption themes in other works"
+
+  content_warnings:
+    - "dark-themes"
+    - "death"
+
+  reading_time_estimate:
+    minutes: 30
+
+  target_audience: "mature"
+
+  # Series Information - If part of a series
+  # 系列信息 - 如果属于系列作品
+  series_info:
+    series_name: "Short Story Collection"
+    position_in_series: 1
+
+creation:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  author: "Your Name"
+  start_date: "2025-12-15"
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  last_update: "2025-12-15"
+  universe_based_on: "beastshield"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # Publication Information - Where work is published
+  # 发布信息 - 作品发布的地点
+  publication:
+    platforms:
+      - "GitHub Repository"
+    primary_platform: "GitHub Repository"
+    urls:
+      - "https://github.com/beastkin-universe"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  # Creation Tools - Tools used in creation
+  # 创作工具 - 创作过程中使用的工具
+  creation_tools:
+    writing:
+      - "Visual Studio Code"
+      - "Markdown"
+    editing:
+      - "Grammarly"
+    other:
+      - "Git for version control"

@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft-07/schema#",
-  "$id": "https://beastkin-universe.github.io/schemas/metadata-schema.json",
-  "title": "Beastkin Universe Metadata Schema",
-  "description": "验证作品 metadata.yaml 文件的架构",
+  "$id": "https://beastkin-universe.github.io/schemas/metadata-schema-bilingual.json",
+  "title": "Beastkin Universe Metadata Schema / 兽盾宇宙元数据架构",
+  "description": "Schema for validating metadata.yaml files - Compatible with Naming Guide v2.3.0 | 验证 metadata.yaml 文件的架构 - 适配命名指南 v2.3.0",
   "type": "object",
   "required": [
     "work",
@@ -15,14 +15,21 @@
         "code",
         "title",
         "format",
+        "form_type",
         "status",
         "location"
       ],
+      "description": "Work information section / 作品信息部分",
       "properties": {
         "code": {
           "type": "string",
-          "description": "作品完整编码，必须与文件夹名一致",
-          "pattern": "^(bs|bsp|bsr|uba)-([oac])-([cs])-\\d{3}(-[a-z0-9-]+)?$"
+          "description": "Complete work code, must exactly match folder name - Format: [universe]-[nature]-[form_type]-[natural_number]-[series_name] | 作品完整编码，必须与文件夹名完全一致 - 格式：[世界观]-[性质]-[形式类型]-[自然数序号]-[系列名]",
+          "pattern": "^(bs|bsp|bsr|uba)-([oac])-(cm|cs|s)-\\d+(-[a-z0-9-]+)?$",
+          "examples": [
+            "bsp-o-cs-1-g-277-green-bull-azhuang",
+            "bs-o-cm-1-first-volume",
+            "bs-a-s-1-first-blood"
+          ]
         },
         "title": {
           "type": "object",
@@ -30,15 +37,16 @@
             "chinese",
             "english"
           ],
+          "description": "Work titles in both languages / 双语作品标题",
           "properties": {
             "chinese": {
               "type": "string",
-              "description": "作品中文标题",
+              "description": "Chinese title of the work / 作品中文标题",
               "minLength": 1
             },
             "english": {
               "type": "string",
-              "description": "作品英文标题",
+              "description": "English title of the work / 作品英文标题",
               "minLength": 1
             }
           }
@@ -49,7 +57,16 @@
             "chaptered-story",
             "short-story"
           ],
-          "description": "作品格式"
+          "description": "Work format - chaptered-story or short-story | 作品格式 - 分章故事或短篇故事"
+        },
+        "form_type": {
+          "type": "string",
+          "enum": [
+            "cm",
+            "cs",
+            "s"
+          ],
+          "description": "Form type - cm=chaptered main, cs=chaptered side, s=short story | 形式类型 - cm=主线分章, cs=支线分章, s=短篇"
         },
         "subtype": {
           "type": "string",
@@ -57,7 +74,7 @@
             "main",
             "side"
           ],
-          "description": "仅分章故事需要：主线或支线"
+          "description": "For chaptered stories only: main or side. Automatically determined by form_type: cm→main, cs→side | 仅分章故事需要：主线或支线。根据form_type自动确定：cm→main, cs→side"
         },
         "status": {
           "type": "string",
@@ -66,7 +83,7 @@
             "completed",
             "abandoned"
           ],
-          "description": "作品状态"
+          "description": "Work status - updating=in progress, completed=finished, abandoned=no longer worked on | 作品状态 - updating=更新中, completed=已完成, abandoned=已弃置"
         },
         "location": {
           "type": "string",
@@ -74,7 +91,7 @@
             "original-archives",
             "adaptation-works"
           ],
-          "description": "存储位置"
+          "description": "Storage location - original-archives=original works, adaptation-works=adaptation works | 存储位置 - original-archives=原创作品, adaptation-works=改编作品"
         },
         "promotion_status": {
           "type": "string",
@@ -84,7 +101,7 @@
             "under_review",
             "promoted"
           ],
-          "description": "晋升状态",
+          "description": "Promotion eligibility status | 晋升资格状态",
           "default": "not_eligible"
         },
         "work_type": {
@@ -96,15 +113,16 @@
             "inspired-by",
             "crossover"
           ],
-          "description": "作品类型细分",
+          "description": "Detailed work type classification | 作品类型细分分类",
           "default": "full-original"
         },
         "tags": {
           "type": "array",
           "items": {
-            "type": "string"
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
           },
-          "description": "作品标签，便于分类和搜索"
+          "description": "Tags for categorization and search - use kebab-case format | 作品标签，便于分类和搜索 - 使用kebab-case格式"
         },
         "inspiration_sources": {
           "type": "array",
@@ -122,7 +140,8 @@
                 ]
               },
               "original_code": {
-                "type": "string"
+                "type": "string",
+                "pattern": "^(bs|bsp|bsr|uba)-([oac])-(cm|cs|s)-\\d+(-[a-z0-9-]+)?$"
               },
               "reference": {
                 "type": "string"
@@ -136,7 +155,82 @@
             ],
             "additionalProperties": false
           },
-          "description": "灵感来源，用于有多个灵感来源的作品"
+          "description": "Inspiration sources for works with multiple inspirations | 灵感来源，用于有多个灵感来源的作品"
+        },
+        "content_warnings": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "description": "Content warnings for sensitive material | 内容警告，用于敏感内容"
+        },
+        "reading_time_estimate": {
+          "type": "object",
+          "properties": {
+            "minutes": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "additionalProperties": false,
+          "description": "Estimated reading time in minutes | 估计阅读时间（分钟）"
+        },
+        "target_audience": {
+          "type": "string",
+          "enum": [
+            "general",
+            "mature",
+            "all-ages"
+          ],
+          "description": "Intended audience for the work | 作品的目标读者群体",
+          "default": "general"
+        },
+        "series_info": {
+          "type": "object",
+          "properties": {
+            "series_name": {
+              "type": "string"
+            },
+            "position_in_series": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "total_in_series": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "additionalProperties": false,
+          "description": "Information if work is part of a series | 如果作品属于系列作品，提供系列信息"
+        },
+        "related_works": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string",
+                "pattern": "^(bs|bsp|bsr|uba)-([oac])-(cm|cs|s)-\\d+(-[a-z0-9-]+)?$"
+              },
+              "relation_type": {
+                "type": "string",
+                "enum": [
+                  "prequel",
+                  "sequel",
+                  "side-story",
+                  "same-universe",
+                  "crossover"
+                ]
+              }
+            },
+            "required": [
+              "code",
+              "relation_type"
+            ],
+            "additionalProperties": false
+          },
+          "description": "Links to related works | 相关作品链接"
         }
       },
       "additionalProperties": false
@@ -147,21 +241,22 @@
         "author",
         "start_date"
       ],
+      "description": "Creation information section / 创作信息部分",
       "properties": {
         "author": {
           "type": "string",
-          "description": "作者名称或ID",
+          "description": "Author name or ID | 作者名称或ID",
           "minLength": 1
         },
         "start_date": {
           "type": "string",
           "format": "date",
-          "description": "开始日期，格式：YYYY-MM-DD"
+          "description": "Start date when work was created - Format: YYYY-MM-DD | 开始创作日期 - 格式：YYYY-MM-DD"
         },
         "last_update": {
           "type": "string",
           "format": "date",
-          "description": "最后更新日期，格式：YYYY-MM-DD"
+          "description": "Last update date - Format: YYYY-MM-DD | 最后更新日期 - 格式：YYYY-MM-DD"
         },
         "universe_based_on": {
           "type": "string",
@@ -169,24 +264,23 @@
             "beastshield",
             "beastshield-reforged",
             "united-beasts-alliance",
-            "beastshield-paradise"
+            "beastshield-paradise",
+            "mixed"
           ],
-          "description": "基于哪个世界观"
+          "description": "Which universe this work is based on | 作品基于哪个世界观"
         },
         "adaptation_info": {
           "type": "object",
           "properties": {
             "original_work": {
               "type": "string",
-              "description": "原作品编码"
+              "pattern": "^(bs|bsp|bsr|uba)-([oac])-(cm|cs|s)-\\d+(-[a-z0-9-]+)?$"
             },
             "original_title": {
-              "type": "string",
-              "description": "原作品标题"
+              "type": "string"
             },
             "original_author": {
-              "type": "string",
-              "description": "原作者"
+              "type": "string"
             },
             "adaptation_approach": {
               "type": "string",
@@ -195,12 +289,10 @@
                 "reimagined",
                 "loose",
                 "theme-inversion"
-              ],
-              "description": "改编方法"
+              ]
             },
             "key_changes": {
-              "type": "string",
-              "description": "关键变更总结，多行文本"
+              "type": "string"
             }
           },
           "required": [
@@ -209,11 +301,263 @@
             "adaptation_approach",
             "key_changes"
           ],
-          "additionalProperties": false
+          "additionalProperties": false,
+          "description": "Adaptation information - REQUIRED for adaptation works | 改编信息 - 改编作品必填"
+        },
+        "collaborators": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "role": {
+                "type": "string"
+              },
+              "contribution": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "role"
+            ],
+            "additionalProperties": false
+          },
+          "description": "Collaborator information for multi-author works | 合作者信息，用于多作者作品"
+        },
+        "translator": {
+          "type": "string",
+          "description": "Translator for translated works | 翻译者，用于翻译作品"
+        },
+        "crossover_info": {
+          "type": "object",
+          "properties": {
+            "universes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "beastshield",
+                  "beastshield-reforged",
+                  "united-beasts-alliance",
+                  "beastshield-paradise"
+                ]
+              }
+            },
+            "primary_universe": {
+              "type": "string",
+              "enum": [
+                "beastshield",
+                "beastshield-reforged",
+                "united-beasts-alliance",
+                "beastshield-paradise"
+              ]
+            }
+          },
+          "additionalProperties": false,
+          "description": "Crossover information for crossover works | 跨界联动信息，用于跨界联动作品"
+        },
+        "creation_tools": {
+          "type": "object",
+          "properties": {
+            "writing": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "editing": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "other": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "additionalProperties": false,
+          "description": "Tools used in creation process | 创作过程中使用的工具"
+        },
+        "license": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "required": [
+            "type"
+          ],
+          "additionalProperties": false,
+          "description": "Licensing information for the work | 作品的许可协议信息"
+        },
+        "publication": {
+          "type": "object",
+          "properties": {
+            "platforms": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "primary_platform": {
+              "type": "string"
+            },
+            "urls": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          },
+          "additionalProperties": false,
+          "description": "Publication platforms and URLs | 发布平台和URL"
+        },
+        "revision_history": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "string"
+              },
+              "date": {
+                "type": "string",
+                "format": "date"
+              },
+              "changes": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "version",
+              "date",
+              "changes"
+            ],
+            "additionalProperties": false
+          },
+          "description": "Revision history tracking | 修订历史记录"
         }
       },
       "additionalProperties": false
     }
   },
-  "additionalProperties": false
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "work": {
+            "properties": {
+              "format": {
+                "const": "chaptered-story"
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "work"
+        ],
+        "properties": {
+          "work": {
+            "required": [
+              "subtype"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "creation": {
+            "properties": {
+              "universe_based_on": {
+                "const": "mixed"
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "creation"
+        ],
+        "properties": {
+          "creation": {
+            "required": [
+              "crossover_info"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "work": {
+            "properties": {
+              "form_type": {
+                "const": "cm"
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "work"
+        ],
+        "properties": {
+          "work": {
+            "properties": {
+              "subtype": {
+                "const": "main"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "work": {
+            "properties": {
+              "form_type": {
+                "const": "cs"
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "work"
+        ],
+        "properties": {
+          "work": {
+            "properties": {
+              "subtype": {
+                "const": "side"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
 }

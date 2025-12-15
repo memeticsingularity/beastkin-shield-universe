@@ -80,7 +80,7 @@ On Mac, press `Cmd+Space`, type `terminal` and press Enter.
 ```bash
 # 使用 cd 命令进入项目目录
 # Use cd command to enter project directory
-cd /path/to/beastkin-shield-universe
+cd /path/to/beastkin-universe
 ```
 
 #### 步骤3：运行Git配置检查命令
@@ -172,7 +172,7 @@ project:
 ```bash
 # 进入项目根目录
 # Enter project root directory
-cd /path/to/beastkin-shield-universe
+cd /path/to/beastkin-universe
 
 # 设置用户名
 # Set username
@@ -197,7 +197,7 @@ directory to set:
 ```bash
 # 进入子项目目录，例如兽盾新纪元
 # Enter sub-project directory, e.g., Beastshield Reforged
-cd /path/to/beastkin-shield-universe/worlds/beastshield-reforged
+cd /path/to/beastkin-universe/worlds/beastshield-reforged
 
 # 设置该子项目的用户名
 # Set username for this sub-project
@@ -327,13 +327,13 @@ configuration.
 ```bash
 # 进入项目根目录设置主配置
 # Enter project root directory to set main configuration
-cd /path/to/beastkin-shield-universe
+cd /path/to/beastkin-universe
 git config user.name "主项目姓名"
 git config user.email "main@example.com"
 
 # 进入子项目设置特定配置
 # Enter sub-project to set specific configuration
-cd /path/to/beastkin-shield-universe/worlds/beastshield-reforged
+cd /path/to/beastkin-universe/worlds/beastshield-reforged
 git config user.name "兽盾新纪元专用姓名"
 git config user.email "beastshield@example.com"
 ```

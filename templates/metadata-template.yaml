@@ -1,13 +1,21 @@
 # ============================================
-# Beastkin Universe Metadata Template
-# 兽盾宇宙元数据模板
+# Beastkin Universe Metadata Template v2.3.0
+# 兽盾宇宙元数据模板 v2.3.0
 # ============================================
+# Compatible with Naming Guide v2.3.0
+# 适配命名指南 v2.3.0
+#
 # This template contains ALL possible fields with example values.
 # 此模板包含所有可能的字段及示例值。
 # Copy this file to your work directory, rename to metadata.yaml,
 # 复制此文件到您的作品目录，重命名为metadata.yaml，
 # and fill in according to your actual work information.
 # 并根据您的实际作品信息填写。
+#
+# NOTE: This template includes both required and optional fields.
+# 注意：此模板包含必填和可选字段。
+# Optional fields can be removed if not needed.
+# 可选字段如果不需要可以删除。
 
 # ============================================
 # WORK INFORMATION / 作品信息
@@ -22,10 +30,11 @@ work:
   # 1. Work Code - MUST match folder name exactly
   #    作品编码 - 必须与文件夹名完全一致
   # ============================================
-  code: "template-world-o-c-001-template-identifier"
+  code: "template-world-o-cs-1-template-identifier"
   # Examples / 示例:
-  # bsp-o-c-001-g-277-green-bull-azhuang
-  # bs-a-s-005-faithful-adaptation
+  # bsp-o-cs-1-g-277-green-bull-azhuang
+  # bs-o-cm-1-first-volume
+  # bs-a-s-1-first-blood
 
   # ============================================
   # 2. Work Titles - Both Chinese and English required
@@ -44,11 +53,20 @@ work:
   # ============================================
   format: "chaptered-story"  # "chaptered-story" or "short-story"
   # Examples / 示例:
-  # chaptered-story
-  # short-story
+  # Chaptered-story - for chaptered works / 分章作品使用
+  # short-story - for short stories / 短篇作品使用
 
   # ============================================
-  # 4. Work Status - Choose one
+  # 4. Form Type - REQUIRED: cm/cs/s
+  #    形式类型 - 必填: cm/cs/s
+  # ============================================
+  form_type: "cs"  # "cm", "cs", or "s"
+  # cm = chaptered-main (主线分章故事)
+  # cs = chaptered-side (支线分章故事)
+  # s = short-story (短篇故事)
+
+  # ============================================
+  # 5. Work Status - Choose one
   #    作品状态 - 选择一项
   # ============================================
   status: "updating"  # "updating", "completed", or "abandoned"
@@ -58,7 +76,7 @@ work:
   # abandoned - Work is no longer being worked on / 作品已弃置
 
   # ============================================
-  # 5. Storage Location - Choose one
+  # 6. Storage Location - Choose one
   #    存储位置 - 选择一项
   # ============================================
   location: "original-archives"  # "original-archives" or "adaptation-works"
@@ -67,20 +85,29 @@ work:
   # adaptation-works - Adaptation of existing work / 改编作品
 
   # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  # ============================================
+  # 7. Work Subtype - REQUIRED for chaptered stories only
+  #    作品子类型 - 仅分章故事需要
+  # ============================================
+  subtype: "side"  # "main" or "side"
+  # This field is automatically determined by form_type:
+  # - form_type: "cm" → subtype: "main"
+  # - form_type: "cs" → subtype: "side"
+  # - form_type: "s"  → no subtype needed
+  # 此字段根据form_type自动确定：
+  # - form_type为"cm"时，subtype为"main"
+  # - form_type为"cs"时，subtype为"side"
+  # - form_type为"s"时，不需要subtype字段
+
+  # ============================================
   # OPTIONAL BUT RECOMMENDED FIELDS / 可选但推荐字段
   # ============================================
 
   # ============================================
-  # 6. Work Subtype - Required for chaptered stories only
-  #    作品子类型 - 仅分章故事需要
-  # ============================================
-  subtype: "side"  # "main" or "side"
-  # Examples / 示例:
-  # main - Main storyline of the universe / 世界观主线故事
-  # side - Side story, independent from main plot / 支线故事，独立于主线
-
-  # ============================================
-  # 7. Promotion Status - Indicates eligibility for promotion
+  # 8. Promotion Status - Indicates eligibility for promotion
   #    晋升状态 - 表示晋升资格
   # ============================================
   promotion_status: "not_eligible"  # "not_eligible", "eligible", "under_review", or "promoted"
@@ -91,7 +118,7 @@ work:
   # promoted - Already promoted to higher status / 已晋升
 
   # ============================================
-  # 8. Work Type Detail - Describes the nature of creation
+  # 9. Work Type Detail - Describes the nature of creation
   #    作品类型细分 - 描述创作性质
   # ============================================
   work_type: "full-original"  # "full-original", "direct-adaptation", "adapted-expansion", "inspired-by", or "crossover"
@@ -103,13 +130,13 @@ work:
   # crossover - Crossover between different works/worlds / 不同作品/世界观的跨界联动
 
   # ============================================
-  # 9. Work Tags - For categorization and discovery
-  #    作品标签 - 用于分类和发现
+  # 10. Work Tags - For categorization and discovery
+  #     作品标签 - 用于分类和发现
   # ============================================
   tags:
-    - "template-tag-1"  # e.g., "redemption"
-    - "template-tag-2"  # e.g., "rescue"
-    - "template-tag-3"  # e.g., "character-growth"
+    - "template-tag-1"  # e.g., "redemption" / 如："救赎"
+    - "template-tag-2"  # e.g., "rescue" / 如："救援"
+    - "template-tag-3"  # e.g., "character-growth" / 如："角色成长"
   # Examples / 示例:
   # - "redemption" - Redemption theme / 救赎主题
   # - "rescue" - Rescue storyline / 救援剧情
@@ -126,13 +153,13 @@ work:
   # ============================================
 
   # ============================================
-  # 10. Inspiration Sources - For works with multiple inspirations
+  # 11. Inspiration Sources - For works with multiple inspirations
   #     灵感来源 - 用于有多个灵感来源的作品
   # ============================================
   inspiration_sources:
     # Example structure / 示例结构:
     - type: "direct-adaptation"  # "direct-adaptation", "world-element", "character", "scene", "theme"
-      original_code: "template-original-code"  # Code of original work
+      original_code: "bs-o-s-1-farm-inn"  # Code of original work
       reference: "template-reference"  # Reference to element if not direct adaptation
       description: "Template description of inspiration source"
     # Additional sources can be added as needed / 可根据需要添加更多来源
@@ -141,12 +168,12 @@ work:
     #   description: "Inspired by redemption themes in other works"
 
   # ============================================
-  # 11. Content Warnings - For sensitive content
+  # 12. Content Warnings - For sensitive content
   #     内容警告 - 用于敏感内容
   # ============================================
   content_warnings:
-    - "template-warning-1"  # e.g., "violence"
-    - "template-warning-2"  # e.g., "sexual-content"
+    - "template-warning-1"  # e.g., "violence" / 如："暴力"
+    - "template-warning-2"  # e.g., "sexual-content" / 如："性内容"
   # Examples / 示例:
   # - "violence" - Depictions of violence / 暴力描写
   # - "sexual-content" - Sexual content / 性内容
@@ -155,29 +182,32 @@ work:
   # - "trauma" - Trauma depiction / 创伤描写
 
   # ============================================
-  # 12. Reading Time Estimate - Approximate reading time
+  # 13. Reading Time Estimate - Approximate reading time
   #     阅读时间估计 - 大致阅读时间
   # ============================================
   reading_time_estimate:
-    minutes: 60  # Estimated reading time in minutes
+    minutes: 60  # Estimated reading time in minutes / 估计阅读时间（分钟）
 
   # ============================================
-  # 13. Target Audience - Intended audience
+  # 14. Target Audience - Intended audience
   #     目标受众 - 预期读者群体
   # ============================================
   target_audience: "general"  # "general", "mature", "all-ages"
+  # general - Suitable for general audience / 适合一般读者
+  # mature - Suitable for mature audience only / 仅适合成人读者
+  # all-ages - Suitable for all ages / 适合全年龄段
 
   # ============================================
-  # 14. Series Information - If part of a series
+  # 15. Series Information - If part of a series
   #     系列信息 - 如果属于系列作品
   # ============================================
   series_info:
-    series_name: "Template Series Name"
-    position_in_series: 1  # Position in the series (1 for first, etc.)
-    total_in_series: 3  # Total planned works in series (optional)
+    series_name: "Template Series Name"  # Name of the series / 系列名称
+    position_in_series: 1  # Position in the series (1 for first, etc.) / 在系列中的位置（1表示第一部）
+    total_in_series: 3  # Total planned works in series (optional) / 系列计划总作品数（可选）
 
   # ============================================
-  # 15. Related Works - Links to related works
+  # 16. Related Works - Links to related works
   #     相关作品 - 关联作品的链接
   # ============================================
   related_works:
@@ -185,6 +215,11 @@ work:
       relation_type: "prequel"  # "prequel", "sequel", "side-story", "same-universe", "crossover"
     - code: "template-related-work-2"
       relation_type: "sequel"
+  # Examples / 示例:
+  # - code: "bs-o-cm-1-first-volume"
+  #   relation_type: "prequel"  # This work is a prequel to that work / 本作品是那个作品的前传
+  # - code: "bs-o-cm-2-second-volume"
+  #   relation_type: "sequel"   # This work is a sequel to that work / 本作品是那个作品的续集
 
 # ============================================
 # CREATION INFORMATION / 创作信息
@@ -196,7 +231,7 @@ creation:
   # ============================================
 
   # ============================================
-  # 16. Author Information
+  # 17. Author Information
   #     作者信息
   # ============================================
   author: "Template Author Name"
@@ -205,43 +240,45 @@ creation:
   # Your name or pseudonym
 
   # ============================================
-  # 17. Start Date - When work was started
+  # 18. Start Date - When work was started
   #     开始日期 - 作品开始创作的日期
   # ============================================
-  start_date: "2025-01-01"  # Format: YYYY-MM-DD
+  start_date: "2025-01-01"  # Format: YYYY-MM-DD / 格式：YYYY-MM-DD
 
   # ============================================
   # OPTIONAL BUT RECOMMENDED FIELDS / 可选但推荐字段
   # ============================================
 
   # ============================================
-  # 18. Last Update Date - When work was last updated
+  # 19. Last Update Date - When work was last updated
   #     最后更新日期 - 作品最后更新的日期
   # ============================================
-  last_update: "2025-01-01"  # Format: YYYY-MM-DD
+  last_update: "2025-01-01"  # Format: YYYY-MM-DD / 格式：YYYY-MM-DD
 
   # ============================================
-  # 19. Universe Based On - Which universe this work belongs to
+  # 20. Universe Based On - Which universe this work belongs to
   #     基于的世界观 - 作品属于哪个世界观
   # ============================================
   universe_based_on: "beastshield-paradise"  # "beastshield", "beastshield-reforged", "united-beasts-alliance", "beastshield-paradise", or "mixed"
   # Examples / 示例:
   # beastshield - Original Beastshield universe / 原始兽盾世界观
+  # beastshield-reforged - Beastshield Reforged universe / 兽盾新纪元世界观
+  # united-beasts-alliance - United Beasts Alliance universe / 万兽盟世界观
   # beastshield-paradise - Beastshield Paradise universe / 兽盾乐园世界观
   # mixed - Mixed or crossover universe / 混合或跨界世界观
 
   # ============================================
-  # OPTIONAL ADVANCED FIELDS / 可选高级字段
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
   # ============================================
 
   # ============================================
-  # 20. Adaptation Information - REQUIRED for adaptation works
+  # 21. Adaptation Information - REQUIRED for adaptation works
   #     改编信息 - 改编作品必填
   # ============================================
   adaptation_info:
-    original_work: "template-original-code"  # Code of original work
-    original_title: "Template Original Title"  # Title of original work
-    original_author: "Template Original Author"  # Author of original work (optional)
+    original_work: "bs-o-s-1-farm-inn"  # Code of original work / 原作品编码
+    original_title: "Farm Inn Original Title"  # Title of original work / 原作品标题
+    original_author: "Original Author Name"  # Author of original work (optional) / 原作者（可选）
     adaptation_approach: "faithful"  # "faithful", "reimagined", "loose", or "theme-inversion"
     key_changes: |
       Template summary of key changes made during adaptation.
@@ -252,85 +289,89 @@ creation:
       2. Second major change
       3. Third major change
     # Example / 示例:
-    # original_work: "bs-o-s-006-night-raid"
+    # original_work: "bs-o-s-6-night-raid"
     # original_title: "夜袭"
     # adaptation_approach: "theme-inversion"
     # key_changes: |
-    #   1. Protagonist changed from tormentor to redeemer
-    #   2. Theme changed from dark curiosity to gentle healing
-    #   3. Ending changed from death to new life
+    #   1. Protagonist changed from tormentor to redeemer / 主角从折磨者改为救赎者
+    #   2. Theme changed from dark curiosity to gentle healing / 主题从黑暗好奇心改为温柔治愈
+    #   3. Ending changed from death to new life / 结局从死亡改为新生
 
   # ============================================
-  # 21. Collaborators - For multi-author works
+  # OPTIONAL ADVANCED FIELDS / 可选高级字段
+  # ============================================
+
+  # ============================================
+  # 22. Collaborators - For multi-author works
   #     合作者 - 用于多作者作品
   # ============================================
   collaborators:
     # Example structure / 示例结构:
     - name: "Template Collaborator 1"
-      role: "Template Role 1"  # e.g., "co-writer", "editor", "illustrator"
+      role: "co-writer"  # e.g., "co-writer", "editor", "illustrator", "proofreader"
       contribution: "Template contribution description"
     # Additional collaborators can be added as needed / 可根据需要添加更多合作者
     # - name: "Template Collaborator 2"
-    #   role: "Template Role 2"
-    #   contribution: "Template contribution description"
+    #   role: "illustrator"
+    #   contribution: "Created character illustrations"
 
   # ============================================
-  # 22. Translator - For translated works
+  # 23. Translator - For translated works
   #     翻译者 - 用于翻译作品
   # ============================================
   translator: "Template Translator Name"
-
-  # ============================================
-  # 23. Original Code - For adaptation works
-  #     原作编码 - 用于改编作品
-  # ============================================
-  original_code: "template-original-work-code"
 
   # ============================================
   # 24. Crossover Information - For crossover works
   #     跨界联动信息 - 用于跨界联动作品
   # ============================================
   crossover_info:
-    universes: # List of universes involved in crossover
+    universes: # List of universes involved in crossover / 跨界联动涉及的世界观列表
       - "beastshield"
       - "united-beasts-alliance"
-    primary_universe: "beastshield"  # Primary universe of the work
+    primary_universe: "beastshield"  # Primary universe of the work / 作品的主要世界观
 
   # ============================================
   # 25. Creation Tools - Tools used in creation
   #     创作工具 - 创作过程中使用的工具
   # ============================================
   creation_tools:
-    writing: # Tools used for writing
-      - "Template Writing Tool 1"  # e.g., "Google Docs", "Scrivener"
-    editing: # Tools used for editing
-      - "Template Editing Tool 1"  # e.g., "Grammarly", "ProWritingAid"
-    other: # Other tools used
-      - "Template Other Tool 1"  # e.g., "Git for version control"
+    writing: # Tools used for writing / 写作工具
+      - "Google Docs"
+      - "Visual Studio Code"
+    editing: # Tools used for editing / 编辑工具
+      - "Grammarly"
+      - "ProWritingAid"
+    other: # Other tools used / 其他工具
+      - "Git for version control"
+      - "Draw.io for diagrams"
 
   # ============================================
   # 26. License Information - Licensing for the work
   #     许可信息 - 作品的许可协议
   # ============================================
   license:
-    type: "CC-BY-NC-SA-4.0"  # License type
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"  # License URL
+    type: "CC-BY-NC-SA-4.0"  # License type / 许可类型
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"  # License URL / 许可协议URL
     # Common licenses / 常见许可:
-    # CC-BY-4.0 - Creative Commons Attribution 4.0
-    # CC-BY-NC-4.0 - Creative Commons Attribution-NonCommercial 4.0
-    # CC-BY-SA-4.0 - Creative Commons Attribution-ShareAlike 4.0
-    # CC-BY-NC-SA-4.0 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+    # CC-BY-4.0 - Creative Commons Attribution 4.0 / 知识共享署名 4.0
+    # CC-BY-NC-4.0 - Creative Commons Attribution-NonCommercial 4.0 / 知识共享署名-非商业性 4.0
+    # CC-BY-SA-4.0 - Creative Commons Attribution-ShareAlike 4.0 / 知识共享署名-相同方式共享 4.0
+    # CC-BY-NC-SA-4.0 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 / 知识共享署名-非商业性-相同方式共享 4.0
 
   # ============================================
   # 27. Publication Information - Where work is published
   #     发布信息 - 作品发布的地点
   # ============================================
   publication:
-    platforms: # Platforms where work is published
-      - "GitHub Repository"  # e.g., "GitHub", "AO3", "DeviantArt"
-    primary_platform: "GitHub Repository"  # Primary publication platform
-    urls: # URLs to published work
-      - "https://github.com/beastkin-universe/beastkin-shield-universe"
+    platforms: # Platforms where work is published / 作品发布的平台
+      - "GitHub Repository"
+      - "AO3"
+      - "DeviantArt"
+    primary_platform: "GitHub Repository"  # Primary publication platform / 主要发布平台
+    urls: # URLs to published work / 作品发布的URL
+      - "https://github.com/beastkin-universe"
+      - "https://archiveofourown.org/works/12345678"
 
   # ============================================
   # 28. Revision History - Track of revisions
@@ -343,6 +384,9 @@ creation:
     - version: "1.1"
       date: "2025-01-15"
       changes: "Fixed typos and improved formatting / 修复拼写错误并改进格式"
+    - version: "1.2"
+      date: "2025-02-01"
+      changes: "Added chapter 5 and updated character descriptions / 添加第5章并更新角色描述"
 
 # ============================================
 # ADDITIONAL NOTES / 额外说明
@@ -351,31 +395,45 @@ creation:
 # 1. Field Naming Conventions / 字段命名约定:
 #    - Use kebab-case for codes and tags / 编码和标签使用kebab-case
 #    - Use snake_case for field names / 字段名称使用snake_case
-#    - Use camelCase only if specified / 仅在指定时使用camelCase
 #
 # 2. Required Fields Summary / 必填字段总结:
 #    For ALL works / 所有作品必填:
 #    - work.code, work.title.chinese, work.title.english
-#    - work.format, work.status, work.location
+#    - work.format, work.form_type, work.status, work.location
 #    - creation.author, creation.start_date
 #
 #    For chaptered stories only / 仅分章故事需要:
-#    - work.subtype
+#    - work.subtype (automatically determined by form_type)
 #
 #    For adaptation works only / 仅改编作品需要:
-#    - creation.adaptation_info (with original_work and original_title)
+#    - creation.adaptation_info (with original_work, original_title, adaptation_approach, key_changes)
+#
+#    For crossover works (universe_based_on: "mixed") / 仅跨界联动作品需要:
+#    - creation.crossover_info
 #
 # 3. Validation / 验证:
 #    All metadata.yaml files must pass validation against metadata-schema.json
 #    所有metadata.yaml文件必须通过metadata-schema.json的验证
+#    Online validator: https://www.jsonschemavalidator.net/
+#    在线验证器：https://www.jsonschemavalidator.net/
+#
+# 4. Form Type and Subtype Relationship / 形式类型与子类型关系:
+#    - form_type: "cm" → automatically set subtype: "main"
+#    - form_type: "cs" → automatically set subtype: "side"
+#    - form_type: "s"  → no subtype needed
+#    If you manually set a conflicting subtype, validation will fail.
+#    如果手动设置了冲突的subtype，验证将失败。
 #
 
 # ============================================
 # DOCUMENT VERSION INFORMATION / 文档版本信息
 # ============================================
 #
-# Template Version: 1.0.0
-# 模板版本: 1.0.0
+# Template Version: 2.3.0
+# 模板版本: 2.3.0
+#
+# Compatible with Naming Guide Version: 2.3.0
+# 兼容的命名指南版本: 2.3.0
 #
 # Last Updated: 2025-12-15
 # 最后更新: 2025-12-15
@@ -387,16 +445,25 @@ creation:
 # REVISION HISTORY / 修订历史
 # ============================================
 #
-# Version 1.0.0 (2025-12-15):
-# 版本 1.0.0 (2025-12-15):
-#   - Initial template creation based on Beastkin Universe v2.1.1 standards
-#   - 基于 Beastkin Universe v2.1.1 标准的初始模板创建
-#   - Includes all required, recommended, and optional fields
-#   - 包含所有必填、推荐和可选字段
-#   - Added comprehensive examples and comments in both English and Chinese
-#   - 添加了英文和中文的全面示例和注释
-#   - Structured according to metadata-schema.json v1.0
-#   - 根据 metadata-schema.json v1.0 构建
+# Version 2.3.0 (2025-12-15):
+# 版本 2.3.0 (2025-12-15):
+#   - Updated to support Naming Guide v2.3.0 / 更新以支持命名指南v2.3.0
+#   - Added form_type field (cm/cs/s) / 添加form_type字段
+#   - Updated code examples to use natural numbers (1,2,3...) / 更新编码示例使用自然数
+#   - Added detailed form_type and subtype relationship notes / 添加详细的形式类型与子类型关系说明
+#   - Updated adaptation_info examples to match new format / 更新改编信息示例以匹配新格式
+#
+# Version 2.1.1 (2025-12-13):
+# 版本 2.1.1 (2025-12-13):
+#   - Added promotion_status field and promotion mechanism notes / 添加晋升状态字段和晋升机制说明
+#   - Updated work_type enum values / 更新work_type枚举值
+#   - Improved bilingual comments / 改进双语注释
+#
+# Version 2.1.0 (2025-12-13):
+# 版本 2.1.0 (2025-12-13):
+#   - Initial template based on Naming Guide v2.1.0 / 基于命名指南v2.1.0的初始模板
+#   - Includes all required, recommended, and optional fields / 包含所有必填、推荐和可选字段
+#   - Added comprehensive examples in both English and Chinese / 添加英文和中文的全面示例
 #
 # ============================================
 # IMPORTANT NOTES / 重要说明
@@ -409,10 +476,10 @@ creation:
 #    在生产文件中删除所有注释（以#开头的行）
 #
 # 3. Always validate against metadata-schema.json after modification
-#    修改后请始终使用 metadata-schema.json 进行验证
+#    修改后请始终使用metadata-schema.json进行验证
 #
-# 4. For questions, refer to metadata-guide-chinese.md
-#    如有疑问，请参考 metadata-guide-chinese.md
+# 4. For questions, refer to work-naming-guide-chinese.md or work-naming-guide-english.md
+#    如有疑问，请参考work-naming-guide-chinese.md或work-naming-guide-english.md
 #
 # ============================================
 # END OF TEMPLATE / 模板结束

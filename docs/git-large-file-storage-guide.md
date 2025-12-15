@@ -220,7 +220,7 @@ If you have already cloned the project:
 ```bash
 # 进入项目目录
 # Enter project directory
-cd /path/to/beastkin-shield-universe
+cd /path/to/beastkin-universe
 
 # 初始化Git LFS
 # Initialize Git LFS
@@ -238,7 +238,7 @@ If cloning the project for the first time:
 ```bash
 # 克隆项目（会自动处理LFS文件）
 # Clone the project (will automatically handle LFS files)
-git clone https://github.com/your-username/beastkin-shield-universe.git
+git clone https://github.com/your-username/beastkin-universe.git
 
 # 进入项目目录
 # Enter project directory
@@ -428,7 +428,7 @@ Uploading LFS objects: 100% (1/1), 5.2 MB | 1.2 MB/s, done.
 ```bash
 # 正常克隆项目
 # Clone the project normally
-git clone https://github.com/your-username/beastkin-shield-universe.git
+git clone https://github.com/your-username/beastkin-universe.git
 
 # LFS文件会作为指针下载，实际内容可能需要单独拉取
 # LFS files will be downloaded as pointers, actual content may need to be pulled separately

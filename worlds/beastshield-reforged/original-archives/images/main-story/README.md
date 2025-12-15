@@ -21,7 +21,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第一章：血腥的开端](../../chinese/chaptered-stories/main/bsr-o-c-ch-001-a-bloody-beginning.md) / [Chapter 1: A Bloody Beginning](../../english/chaptered-stories/main/bsr-o-c-ch-001-a-bloody-beginning.md)
+## [第一章：血腥的开端](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-1-a-bloody-beginning.md) / [Chapter 1: A Bloody Beginning](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-1-a-bloody-beginning.md)
 
 ### 图1-1：虎警员被爆头
 
@@ -39,7 +39,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第二章：纪律的铁拳](../../chinese/chaptered-stories/main/bsr-o-c-ch-002-the-iron-fist-of-discipline.md) / [Chapter 2: The Iron Fist of Discipline](../../english/chaptered-stories/main/bsr-o-c-ch-002-the-iron-fist-of-discipline.md)
+## [第二章：纪律的铁拳](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-2-the-iron-fist-of-discipline.md) / [Chapter 2: The Iron Fist of Discipline](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-2-the-iron-fist-of-discipline.md)
 
 ### 图2-1：雷昼拧断牛脖子
 
@@ -49,7 +49,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第三章：残酷的训练场](../../chinese/chaptered-stories/main/bsr-o-c-ch-003-brutal-training-ground.md) / [Chapter 3: Brutal Training Ground](../../english/chaptered-stories/main/bsr-o-c-ch-003-brutal-training-ground.md)
+## [第三章：残酷的训练场](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-3-brutal-training-ground.md) / [Chapter 3: Brutal Training Ground](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-3-brutal-training-ground.md)
 
 ### 图3-1：垃圾桶内的尸体
 
@@ -59,7 +59,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第四章：失控的欲望](../../chinese/chaptered-stories/main/bsr-o-c-ch-004-uncontrolled-desire.md) / [Chapter 4: Uncontrolled Desire](../../english/chaptered-stories/main/bsr-o-c-ch-004-uncontrolled-desire.md)
+## [第四章：失控的欲望](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-4-uncontrolled-desire.md) / [Chapter 4: Uncontrolled Desire](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-4-uncontrolled-desire.md)
 
 ### 图4-1：虎保镖与公子哥
 
@@ -69,7 +69,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第五章：猎矛诞生](../../chinese/chaptered-stories/main/bsr-o-c-ch-005-birth-of-the-hunting-spear.md) / [Chapter 5: Birth of the Hunting Spear](../../english/chaptered-stories/main/bsr-o-c-ch-005-birth-of-the-hunting-spear.md)
+## [第五章：猎矛诞生](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-5-birth-of-the-hunting-spear.md) / [Chapter 5: Birth of the Hunting Spear](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-5-birth-of-the-hunting-spear.md)
 
 ### 图5-1：牛警长与抑制器
 
@@ -79,7 +79,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第六章：暗室的反击](../../chinese/chaptered-stories/main/bsr-o-c-ch-006-the-darkrooms-revenge.md) / [Chapter 6: The Darkroom's Revenge](../../english/chaptered-stories/main/bsr-o-c-ch-006-the-darkrooms-revenge.md)
+## [第六章：暗室的反击](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-6-the-darkrooms-revenge.md) / [Chapter 6: The Darkroom's Revenge](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-6-the-darkrooms-revenge.md)
 
 ### 图6-1：狗熊兽人筷子处决
 
@@ -89,7 +89,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第七章：杀手的突袭](../../chinese/chaptered-stories/main/bsr-o-c-ch-007-assassins-gambit.md) / [Chapter 7: Assassin's Gambit](../../english/chaptered-stories/main/bsr-o-c-ch-007-assassins-gambit.md)
+## [第七章：杀手的突袭](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-7-assassins-gambit.md) / [Chapter 7: Assassin's Gambit](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-7-assassins-gambit.md)
 
 ### 图7-1：犀牛守卫精液喷画
 
@@ -99,7 +99,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第八章：无差别屠戮](../../chinese/chaptered-stories/main/bsr-o-c-ch-008-indiscriminate-slaughter.md) / [Chapter 8: Indiscriminate Slaughter](../../english/chaptered-stories/main/bsr-o-c-ch-008-indiscriminate-slaughter.md)
+## [第八章：无差别屠戮](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-8-indiscriminate-slaughter.md) / [Chapter 8: Indiscriminate Slaughter](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-8-indiscriminate-slaughter.md)
 
 ### 图8-1：棕熊死后塞袜
 
@@ -109,7 +109,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第九章：兽神的秘密](../../chinese/chaptered-stories/main/bsr-o-c-ch-009-secret-of-the-beast-god.md) / [Chapter 9: Secret of the Beast God](../../english/chaptered-stories/main/bsr-o-c-ch-009-secret-of-the-beast-god.md)
+## [第九章：兽神的秘密](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-9-secret-of-the-beast-god.md) / [Chapter 9: Secret of the Beast God](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-9-secret-of-the-beast-god.md)
 
 ### 图9-1：熊兽人七窍喷精
 
@@ -119,7 +119,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第一十章：意外的羁绊](../../chinese/chaptered-stories/main/bsr-o-c-ch-010-an-unexpected-bond.md) / [Chapter 10: An Unexpected Bond](../../english/chaptered-stories/main/bsr-o-c-ch-010-an-unexpected-bond.md)
+## [第一十章：意外的羁绊](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-10-an-unexpected-bond.md) / [Chapter 10: An Unexpected Bond](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-10-an-unexpected-bond.md)
 
 ### 图10-1：大威口交射精
 
@@ -129,7 +129,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第一十一章：扭曲的交友](../../chinese/chaptered-stories/main/bsr-o-c-ch-011-a-perverse-friendship.md) / [Chapter 11: A Perverse Friendship](../../english/chaptered-stories/main/bsr-o-c-ch-011-a-perverse-friendship.md)
+## [第一十一章：扭曲的交友](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-11-a-perverse-friendship.md) / [Chapter 11: A Perverse Friendship](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-11-a-perverse-friendship.md)
 
 ### 图11-1：蒙图搂尸睡觉
 
@@ -139,7 +139,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第一十二章：夜袭](../../chinese/chaptered-stories/main/bsr-o-c-ch-012-night-raid.md) / [Chapter 12: Night Raid](../../english/chaptered-stories/main/bsr-o-c-ch-012-night-raid.md)
+## [第一十二章：夜袭](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-12-night-raid.md) / [Chapter 12: Night Raid](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-12-night-raid.md)
 
 ### 图12-1：棕熊活塞抽水机
 
@@ -149,7 +149,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第一十三章：荒脊平原](../../chinese/chaptered-stories/main/bsr-o-c-ch-013-the-barren-spine-plains.md) / [Chapter 13: The Barren Spine Plains](../../english/chaptered-stories/main/bsr-o-c-ch-013-the-barren-spine-plains.md)
+## [第一十三章：荒脊平原](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-13-the-barren-spine-plains.md) / [Chapter 13: The Barren Spine Plains](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-13-the-barren-spine-plains.md)
 
 ### 图13-1：漠云峰刀挑首级
 
@@ -159,7 +159,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第一十四章：嗜精兽的盛宴](../../chinese/chaptered-stories/main/bsr-o-c-ch-014-the-sperm-devourers-feast.md) / [Chapter 14: The Sperm Devourer's Feast](../../english/chaptered-stories/main/bsr-o-c-ch-014-the-sperm-devourers-feast.md)
+## [第一十四章：嗜精兽的盛宴](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-14-the-sperm-devourers-feast.md) / [Chapter 14: The Sperm Devourer's Feast](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-14-the-sperm-devourers-feast.md)
 
 ### 图14-1：牙雀在水牛身上进食
 
@@ -169,7 +169,7 @@ Reforged*. Each image is arranged in chapter order with bilingual descriptions.
 
 ---
 
-## [第一十五章：绿洲镇相遇](../../chinese/chaptered-stories/main/bsr-o-c-ch-015-encounter-at-oasis-town.md) / [Chapter 15: Encounter at Oasis Town](../../english/chaptered-stories/main/bsr-o-c-ch-015-encounter-at-oasis-town.md)
+## [第一十五章：绿洲镇相遇](../../chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-15-encounter-at-oasis-town.md) / [Chapter 15: Encounter at Oasis Town](../../english/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-15-encounter-at-oasis-town.md)
 
 ### 图15-1：狼兽人反手刺敌
 

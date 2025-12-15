@@ -13,7 +13,7 @@
 ###### README 索引 / Table of Contents
 
 1. [内容分级 / Content Rating](#1-内容分级--content-rating)
-2. [快速访问原作 | Quick Access to Original Works](#2-快速访问原作--quick-access-to-original-works)
+2. [快速访问原作 | Quick Access to Original Works](#12-快速链接--quick-links)
 3. [关于本企划 / About This Project](#3-关于本企划--about-this-project)
 4. [世界观概览 / World Overview](#4-世界观概览--world-overview)  
    4.1 [Beastshield (兽盾)](#41--beastshield-兽盾)  
@@ -69,23 +69,23 @@ Some works in this universe contain adult content, including but not limited to:
 
 ### 中文
 
-| 世界观       | 类型 | 项目内链接                                                                                             |
-|-----------|----|---------------------------------------------------------------------------------------------------|
-| **兽盾**    | 短篇 | [兽盾短篇](worlds/beastshield/original-archives/chinese/short-stories/README.md)                      |
-| **兽盾**    | 主线 | [兽盾主线](worlds/beastshield/original-archives/chinese/chaptered-stories/main/README.md)             |
-| **兽盾新纪元** | 主线 | [兽盾新纪元主线](worlds/beastshield-reforged/original-archives/chinese/chaptered-stories/main/README.md) |
-| **万兽盟**   | 主线 | [万兽盟主线](worlds/united-beasts-alliance/original-archives/chinese/chaptered-stories/main/README.md) |
+| 世界观       | 类型 | 项目内链接                                                                                                                     |
+|-----------|----|---------------------------------------------------------------------------------------------------------------------------|
+| **兽盾**    | 短篇 | [兽盾短篇](worlds/beastshield/original-archives/chinese/short-stories/README.md)                                              |
+| **兽盾**    | 主线 | [兽盾主线](worlds/beastshield/original-archives/chinese/chaptered-stories/main/README.md)                                     |
+| **兽盾新纪元** | 主线 | [兽盾新纪元主线](worlds/beastshield-reforged/original-archives/chinese/chaptered-stories/main/README.md)                         |
+| **万兽盟**   | 主线 | [万兽盟主线](worlds/united-beasts-alliance/original-archives/chinese/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
 
 **说明**：点击表格中的项目内链接即可直接跳转到对应作品目录页面。
 
 ### English Version
 
-| Worldview                  | Type          | In-Project Link                                                                                                               |
-|----------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Beastshield**            | Short Stories | [Beastshield Short Stories](worlds/beastshield/original-archives/english/short-stories/README.md)                             |
-| **Beastshield**            | Main Story    | [Beastshield Main Story](worlds/beastshield/original-archives/english/chaptered-stories/main/README.md)                       |
-| **Beastshield Reforged**   | Main Story    | [Beastshield Reforged Main Story](worlds/beastshield-reforged/original-archives/english/chaptered-stories/main/README.md)     |
-| **United Beasts Alliance** | Main Story    | [United Beasts Alliance Main Story](worlds/united-beasts-alliance/original-archives/english/chaptered-stories/main/README.md) |
+| Worldview                  | Type          | In-Project Link                                                                                                                                       |
+|----------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Beastshield**            | Short Stories | [Beastshield Short Stories](worlds/beastshield/original-archives/english/short-stories/README.md)                                                     |
+| **Beastshield**            | Main Story    | [Beastshield Main Story](worlds/beastshield/original-archives/english/chaptered-stories/main/README.md)                                               |
+| **Beastshield Reforged**   | Main Story    | [Beastshield Reforged Main Story](worlds/beastshield-reforged/original-archives/english/chaptered-stories/main/bsr-o-cm-1-main-story-1/README.md)     |
+| **United Beasts Alliance** | Main Story    | [United Beasts Alliance Main Story](worlds/united-beasts-alliance/original-archives/english/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
 
 **Note:** Click on the in-project links in the table to directly navigate to the corresponding work
 directory pages.
@@ -241,7 +241,7 @@ guidance, see: [Universal Story Template Guide](docs/universal-story-template-gu
 
 1. **选择世界观**：浏览 `worlds/` 目录下的三个世界观
 2. **浏览原作**：在 `original-archives/`
-   中阅读官方作品（参见[快速访问原作](#2-快速访问原作--quick-access-to-original-works)）
+   中阅读官方作品（参见[快速访问原作](#12-快速链接--quick-links)）
 3. **发现改编**：探索 `adaptation-works/` 中的社区创作
 4. **查看设定**：了解每个世界观的背景设定（位于 `settings/` 目录）
 5. **参与反馈**：为喜欢的作品提供建设性意见
@@ -252,7 +252,7 @@ guidance, see: [Universal Story Template Guide](docs/universal-story-template-gu
 
 1. **Choose a world**: Browse the three worlds in the `worlds/` directory
 2. **Browse original works**: Read official works in `original-archives/` (
-   see [Quick Access to Original Works](#2-快速访问原作--quick-access-to-original-works))
+   see [Quick Access to Original Works](#12-快速链接--quick-links))
 3. **Discover adaptations**: Explore community creations in `adaptation-works/`
 4. **Check settings**: Understand the background settings of each world (located in `settings/`
    directory)
