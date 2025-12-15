@@ -1,16 +1,12 @@
-# Universal Story Template (New Naming System Fully Adapted)
+# Universal Story Template v5.0 (New Naming System Fully Adapted)
 
-[//]: # (=== Template Usage Instructions ===)
+[//]: # (=== Template Version Information ===)
 
-[//]: # (This template is fully adapted to the Beastkin Universe new naming system, suitable for all work types.)
+[//]: # (Version: 5.0)
 
-[//]: # (Work code format: [world]-[nature]-[format]-[number]-[work-name])
+[//]: # (Last Updated: 2025-12-15)
 
-[//]: # (Nature: o=original, a=adaptation, c=crossover)
-
-[//]: # (Format: c=chaptered-story, s=short-story)
-
-[//]: # (Please complete the following variables according to your work type.)
+[//]: # (Core Changes: Title simplification, unified end markers, upgraded commentary system, integrated troop tag system, clarified worldbuilding features)
 
 ---
 
@@ -18,40 +14,31 @@
 
 [//]: # (--- Core Code Configuration ---)
 
-[//]: # (This is the core identifier of the work, must be accurately filled)
+[//]: # (Please complete the following variables according to your work type)
 
-`World Code: {{bs/bsr/uba}}`
+`World Code: {{bs/bsr/uba/bsp}}`
 `Work Nature: {{o=original/a=adaptation/c=crossover}}`
-`Work Format: {{c=chaptered-story/s=short-story}}`
-`Work Number: {{three-digit number, e.g., 001}}`
-`Work Identifier: {{English kebab-case, e.g., yan-liang}}`
+`Form Type: {{cm=chaptered-main/cs=chaptered-side/s=short-story}}`
+`Work Number: {{natural number, e.g., 1}}`
+`Work Identifier: {{English kebab-case, e.g., my-adaptation-story}}`
 
 [//]: # (--- Complete Work Code Generation ---)
 
 [//]: # (Automatically generate complete code based on above configuration)
 
-`Complete Work Code: {{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}`
+`Complete Work Code: {{World Code}}-{{Work Nature}}-{{Form Type}}-{{Work Number}}-{{Work Identifier}}`
 
-[//]: # (--- Work Title Configuration ---)
+[//]: # (--- Title Configuration ---)
 
-[//]: # (Please fill in the Chinese and English full name of the work)
+[//]: # (Title specification: Chapter for chaptered stories, Story for short stories)
 
-`Chinese Title: {{Chinese title, e.g., "炎魉"}}`
-`English Title: {{English title, e.g., "Flame Wraith"}}`
+[//]: # (For chaptered stories fill in chapter title, for short stories fill in story title)
 
-[//]: # (--- Chaptered Story Subtype Configuration ---)
-[//]: # (If it's a chaptered story (format=c), please select subtype:)
-
-`Chaptered Story Subtype: {{main=main storyline/side=side storyline}}`
-
-[//]: # (--- Chapter Configuration ---)
-
-[//]: # (If it's a chaptered story, please fill in the following:)
-
-`Chapter Number: {{chapter number, three digits, e.g., 001}}`
-`Chapter Chinese Title: {{chapter title, e.g., "潜入基地"}}`
-`Chapter English Title: {{chapter English title, e.g., "Infiltration"}}`
-`Total Chapters: {{total number of chapters, e.g., 15, optional}}`
+`Chaptered Story Chapter Number: {{natural number, e.g., 1}}`
+`Chaptered Story Chinese Title: {{chapter title, e.g., "潜入基地"}}`
+`Chaptered Story English Title: {{chapter English title, e.g., "Infiltration"}}`
+`Short Story Chinese Title: {{Chinese title, e.g., "我的改编短篇"}}`
+`Short Story English Title: {{English title, e.g., "My Adaptation Story"}}`
 
 [//]: # (--- Path Configuration ---)
 
@@ -60,6 +47,7 @@
 [//]: # (Configuration 1: Original Work Path Template)
 
 [//]: # (Original path: worlds/{world}/original-archives/{language}/{format}/{subtype}/)
+
 `Language: {{chinese/english}}`
 
 [//]: # (Configuration 2: Adaptation Work Path Template)
@@ -68,7 +56,7 @@
 
 [//]: # (--- Navigation Bar Configuration ---)
 
-[//]: # (Select one navigation bar configuration based on work nature and chapter position:)
+[//]: # (Please select one navigation bar configuration based on work nature and chapter position:)
 
 [//]: # (Configuration 1: Short Original Navigation)
 `[Back to Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
@@ -76,23 +64,23 @@
 [//]: # (Configuration 2: Short Adaptation Navigation)
 `[Back to Work Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # (Configuration 3: Chaptered Original - Chapter 1)
-`[Back to Directory](../README.md) | [Next Chapter]({{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{next-chapter-number}}.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+[//]: # (Configuration 3: Chaptered Original - First Chapter)
+`[Back to Directory](../README.md) | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
 [//]: # (Configuration 4: Chaptered Original - Middle Chapters)
-`[Previous Chapter]({{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{previous-chapter-number}}.md) | [Back to Directory](../README.md) | [Next Chapter]({{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{next-chapter-number}}.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Directory](../README.md) | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
 [//]: # (Configuration 5: Chaptered Original - Final Chapter)
-`[Previous Chapter]({{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{previous-chapter-number}}.md) | [Back to Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Directory](../README.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
-[//]: # (Configuration 6: Chaptered Adaptation - Chapter 1)
-`[Back to Work Directory](../README.md) | [Next Chapter](ch{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+[//]: # (Configuration 6: Chaptered Adaptation - First Chapter)
+`[Back to Work Directory](../README.md) | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
 [//]: # (Configuration 7: Chaptered Adaptation - Middle Chapters)
-`[Previous Chapter](ch{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
 [//]: # (Configuration 8: Chaptered Adaptation - Final Chapter)
-`[Previous Chapter](ch{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Work Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Work Directory](../README.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
 
 ---
 
@@ -104,11 +92,11 @@
 
 [//]: # (If manually creating, please fill in content below according to configuration)
 
-[//]: # (### File title generated based on configuration)
+[//]: # (### Title generated based on configuration)
 
-[//]: # (Short story: {{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}: {{Chinese Title}})
+[//]: # (Short story: Story {{Short Story English Title}})
 
-[//]: # (Chaptered story: Chapter {{Chapter Number}} {{Chapter Chinese Title}} - {{Chinese Title}})
+[//]: # (Chaptered story: Chapter {{Chaptered Story Chapter Number}} {{Chaptered Story English Title}})
 
 # {{Title generated based on configuration}}
 
@@ -118,116 +106,33 @@
 
 ---
 
-> *{{English Title}}{{#if chaptered story}} - Chapter {{Chapter Number}} {{Chapter English
-Title}}{{/if}}*  
-> {{Story Summary/Chapter Summary}}
+> *{{Story Summary/Chapter Summary}}*
 
 ---
 
 [//]: # (--- Text Formatting Specifications ---)
 
-[//]: # (Keep one blank line between lines in text, and one blank line between paragraphs)
+[//]: # (1. Maintain one blank line between paragraphs)
 
-[//]: # (Special note: if original text has blank lines, ensure Markdown conversion still maintains paragraph separation effect)
+[//]: # (2. All setting-related terms should be bolded)
 
-[//]: # (All parts related to settings should be bolded, including but not limited to:)
+[//]: # (3. Character dialogue should not be bolded)
 
-[//]: # (1. Appearing characters, names such as: **Yan**, **Liang**, X-beasts also count, any character should be bolded)
+[//]: # (4. Worldbuilding feature: All characters are hermaphroditic male beastmen, pronouns are "he", reproduction is male-male)
 
-[//]: # (2. Proper nouns, such as: **Beast Shield Company**, **Mighty Radish**)
-
-[//]: # (3. Locations, such as: **Beast Shield New Recruit Training Base**, **White City**)
-
-[//]: # (4. Equipment/Props, such as: **Suppressor**, **Silver Needle**, **Walkie-Talkie**)
-
-[//]: # (5. Organizations/Factions, such as: **Special Agent Bureau**, **Beast Shield Company**, **Combat Group**)
-
-[//]: # (6. Plot/Character/Worldview settings, such as: **Blazing Flow Hidden Force**, **Silver Needle Sealing Technique**, **All Male Beastmen**)
-
-[//]: # (Character dialogue in conversations should not be bolded, unless it's a setting part)
-
-[//]: # (Keep the original quotation format of dialogue, do not change)
-
-[//]: # (Example: **Yan** choked the **Bear Guard**'s throat and grasped his **bear dick**.)
-
-{{Text Content Paragraph 1}}
-
-{{Text Content Paragraph 2}}
-
-[//]: # (--- Image Insertion Example ---)
-
-[//]: # (If there are illustrations, you can insert them here)
-[//]: # (Image reference format: `![Image Description](relative path/image filename)`)
-
-[//]: # (Original short story example:)
-[//]: # (
-`![Yan Executing Tiger Guard](../../images/short-stories/{{World Code}}_{{Work Nature}}{{Work Format}}{{Work Number}}_1_execution.png)`)
-
-[//]: # (Original chaptered story example:)
-[//]: # (
-`![Panda Demonstrating Skills](../../images/chaptered-story/{{Chaptered Story Subtype}}/{{World Code}}_{{Work Nature}}{{Work Format}}{{Work Number}}_ch{{Chapter Number}}_1_panda_showcase.png)`)
-
-[//]: # (Adaptation short story example:)
-[//]: # (
-`![Yan Executing Tiger Guard](../images/{{World Code}}_{{Work Nature}}{{Work Format}}{{Work Number}}_1_execution.png)`)
-
-[//]: # (Adaptation chaptered story example:)
-[//]: # (
-`![Panda Demonstrating Skills](../images/{{World Code}}_ch{{Chapter Number}}_1_panda_showcase.png)`)
-
-{{Text Content Paragraph 3}}
-
-[//]: # (--- End of Text ---)
+{{Text Content}}
 
 ---
 
-[//]: # (=== Chapter End Mark ===)
+[//]: # (--- End Mark Specification ---)
 
-[//]: # (Select an end mark based on story type)
+[//]: # (Chaptered story: Chapter {{Chapter Number}} END)
 
-[//]: # (--- Short Story End ---)
+[//]: # (Short story: Story END)
 
-[//]: # (**End**)
-
-[//]: # (--- Chaptered Story End ---)
-
-[//]: # (**End of Chapter {{Chapter Number}}**)
-
-{{Chapter End Mark}}
+**{{End Mark}}**
 
 > *{{Chapter Ending Words/Story Ending Words}}*
-
-[//]: # (=== Chapter Ending Words/Story Ending Words Writing Guide ===)
-
-[//]: # (**Position and Function:**)
-
-[//]: # (- **Summarization and Elevation**: After story concludes, use concise, evocative sentence to summarize and elevate story's theme, emotion, or fate.)
-
-[//]: # (- **Leave Room for Imagination**: Provide space for reader to reflect, prompting thoughts about story's deeper meaning, character destinies, or world-building.)
-
-[//]: # (- **Continuity and Implication**: In serialized stories, can hint at future developments or connections to other stories, enhancing overall narrative coherence.)
-
-[//]: # (- **Style Consistency**: Maintain language style consistent with story's tone to reinforce overall atmosphere and emotional impact.)
-
-[//]: # (**Writing Suggestions:**)
-
-[//]: # (- **Concise and Powerful**: Usually one to two sentences, avoid being verbose.)
-
-[//]: # (- **Focus on Ambiance**: Emphasize emotion, imagery, or philosophical reflection rather than plot summary.)
-
-[//]: # (- **Bilingual Coordination**: Chinese and English versions should align in meaning and emotional tone. English version can be adjusted appropriately to suit linguistic conventions.)
-
-[//]: # (- **Avoid Spoilers**: Do not reveal subsequent plot points or definitive outcomes; maintain openness.)
-
-[//]: # (**Format Examples:**)
-
-[//]: # (1. **Philosophical Type**: *The delivery of desire signed for a life, but will the seed of pity sprout in the darkness?*)
-
-[//]: # (2. **Open-ended Type**: *The hunt in the darkness continues. Whose cry will be next?*)
-
-[//]: # (3. **Summarizing Type**: *The gears of fate begin to turn, and an ordinary office worker steps into a dark cycle.*)
-
-[//]: # (4. **Atmospheric Type**: *The midnight hunt is silent, but the bounty hunter's footsteps never cease.*)
 
 ---
 
@@ -237,132 +142,183 @@ Title}}{{/if}}*
 
 ## Story Commentary and Reflection
 
-[//]: # (=== Commentary Writing Guide ===)
+[//]: # (=== Commentary Writing Guide: Deep Human Perspective ===)
 
-[//]: # (Please write commentary for all characters in this chapter in warm, casual language, and organize according to following structure.)
+[//]: # (Each character is a complete world, regardless of screen time, deserving to be taken seriously)
 
-[//]: # (Note: All characters are hermaphroditic male beastmen, dual features can be naturally mentioned in commentary.)
+[//]: # (Tag format: 【{Appearance State}→{Outcome State}-{Troop Code}-{Number}-{Race}-{Name}】)
 
-[//]: # (Commentary content: keep one blank line between lines, and one blank line between paragraphs.)
+[//]: # (Troop Code: G=Grunt, O=Overseer, E=Enforcer, R=Ranged, W=Wrestler)
 
-[//]: # (If original commentary has multiple natural paragraphs, use divider `---` for separation.)
+[//]: # (Number: Incremental from 1 for same troop type)
 
-[//]: # (### Uniform Color Differentiation Rules)
+[//]: # (Race: Use explicit race if mentioned, otherwise reasonable inference)
 
-[//]: # (1. If text explicitly mentions uniform color, write according to description.)
+[//]: # (Name: Generate if not mentioned using "race character + Chinese surname + single name", e.g., Bear Beastman → Bear Hè Shèng)
 
-[//]: # (2. If not explicitly mentioned but department is mentioned: Combat Group - black uniform, Firearms Group - white uniform, Management - blue uniform, no department mentioned - green uniform.)
+[//]: # (Appearance State: living/corpse)
 
-[//]: # (3. Common soldiers/guards usually refer to green uniform.)
+[//]: # (Outcome State: dead/alive)
+[//]: # (Commentary requirements: Enhance physical visual description (fat-wrapped muscle, muscle groups), olfactory
+description (sweat, scent), fit male beastmen worldbuilding)
 
-> *The following commentary is based on this chapter's story content, written in casual emotional
-language.*
+> *The following is DeepSeek's commentary on this story, attempting to understand each character's inner world.*
 
 ### Their Final Stories
 
-[//]: # (Write in order of appearance or memory, each character marked with 【】, including uniform color and identity information.)
+[//]: # (--- In-depth commentary on deceased characters ---)
 
-[//]: # (Example:)
+[//]: # (Tag format: 【{Appearance State}→dead-{Troop Code}-{Number}-{Race}-{Name}】)
 
-[//]: # (【Green Uniform Tiger Guard】)
+[//]: # (Appearance State: character's state when first appearing in this chapter, living or corpse)
 
-[//]: # (That new recruit patrolling the corner, chest muscles bulging under tight clothes, probably bragged to his buddies this morning about how long-lasting he was.)
+[//]: # (Outcome State: deceased by chapter end, fixed as "dead")
 
-[//]: # ()
+[//]: # (Note: Characters appearing as corpses and not revived also belong here)
 
-[//]: # (Dragged into the shadows by Yan, didn't even see the attacker's face, his cock got hard, suffocated with semen trapped in military green pants.)
+[//]: # (Commentary requirements: Not just describing death, but imagining their life, dreams, regrets)
 
-[//]: # ()
+[//]: # (Enhance physical visual description: fat-wrapped muscle, muscle definition, body details)
 
-[//]: # (Poor guy, died without even knowing his killer's name, those tiger breasts never got touched before death.)
+[//]: # (Enhance olfactory description: sweat, masculine scent, environmental odors)
 
-[//]: # ()
+[//]: # (Fit male beastmen worldbuilding: emphasize dual sexual characteristics, male-male relationships)
 
-[//]: # (---)
+【living→dead-E-533-Ox Beastman-Jù Lì】
+He was called Jù Lì, code E-533. The name was given by the physical test instructor during enlistment, and he grinned
+foolishly, adopting it as his name. This black ox had the typical fat-wrapped muscle physique, with thick layers of fat
+over rock-like stacked muscle groups. His thick neck connected to broad shoulders, his chest muscles full and rounded,
+slightly raised due to dual sexual characteristics, clearly outlined under the black tight uniform. His arms were
+thicker than ordinary beastmen's thighs, with deltoids, biceps, and triceps like rolling hills, each exertion
+accompanied by throbbing veins and steaming sweat. He always carried a scent mixed with sweat, leather, and faint
+fodder—the distinctive smell of a ranch boy that couldn't be washed away even after repeated cleaning in the Beast
+Shield camp.
 
-[//]: # (【Black Uniform Combat Group Bear Warrior】)
+Jù Lì had a simple mind with straightforward thoughts: follow orders, exert strength, eat his fill, send money home each
+month. His home was in the northern ranch, where his parents had raised cattle their whole lives, supporting his
+departure, believing joining Beast Shield was "serving as a soldier with imperial rations," bringing honor to the
+family. In the preparatory camp, he was known as the "human crane." When carrying ammunition boxes, his tensed back
+muscles spread like wings, sweat flowing down his spinal groove into his waistband, soaking the edges of his white long
+socks; when carrying wounded comrades, his thick chest muscles became the steadiest cushion, his heartbeat transmitted
+through the uniform to the wounded's ears like war drums, reassuring. But he was also lonely. He wasn't good with words,
+slow to react, often squatting in a corner with an oversized water bottle, taking small sips while his teammates chatted
+and played cards—his mother said drinking lots of water builds strength.
 
-[//]: # (This one was probably an elite from the Combat Group, black uniform crisp, muscles straining against the fabric.)
+In his locker, besides his uniform, were only three things: a photo of his parents at the ranch gate, with "Son, work
+hard" written on the back; a jar of homemade ranch cheese blocks, too precious to eat quickly, only licking a small
+piece each week; a crumpled "Strength Training Manual," with clumsy handwriting on the title page: "Become the strongest
+shield, protect those who need protection." He didn't know specifically "who needed protection," but he felt that with
+such strength, he should protect something. Perhaps someday he'd meet a partner needing his protection, building a warm
+home in this world of only male beastmen with his strength.
 
-[//]: # ()
+Tonight, he was abruptly awakened from his dorm. "Mission at the entertainment center, short on manpower to move things,
+you go." Jù Lì said nothing, putting on his still-warm black uniform and leaving. On the way, he met the white tiger
+coroner Yīng Zuǐ, who beckoned: "You, come with me, move a few corpses." Jù Lì nodded. Moving things, he was good at.
+When Yīng Zuǐ's gun pointed at his forehead, Jù Lì didn't react at all. He had just steadily loaded two heavy corpses
+onto the vehicle, patting the dust off his hands, his thick fingers still carrying the residual warmth of the corpses
+and his own sweat. He felt somewhat proud: "This move... steady... didn't shake..." Then he heard Yīng Zuǐ say: "Good
+work." He turned, wanting to grin foolishly and say "my duty." The gun fired.
 
-[//]: # (Unfortunately met Yan, didn't even get through one move, was pressed against the wall, bear dick crushed.)
+In the 0.01 seconds before the bullet penetrated his skull, Jù Lì's nerve endings only had time to transmit one
+fragmentary thought: "...cheese... not finished yet..." It was made by his mother, who said she'd make more when he
+returned home. He'd never have the chance to tell her: Mom, your cheese is the sweetest thing I've ever tasted. He'd
+never have the chance to use this strength to embrace a "him" worthy of protection.
 
-[//]: # ()
+Jù Lì's massive body collapsed like a mountain falling. Brain matter and blood flowed from the bullet hole in his
+forehead, mixing with the dust of the entertainment center's back alley. Those arms that could lift hundreds of
+kilograms lay limp, spread out, fingers still slightly curved—as if wanting to "move" something more. His chest muscles
+under the black uniform rose and fell one last time, then stilled, the sweat scent gradually covered by blood. The white
+tiger Yīng Zuǐ crouched, expertly checking and confirming death, whispering: "E-533, Jù Lì... sorry. You knew too much,
+and... you were too conspicuous." Too conspicuous. Too strong, too obedient, too easily remembered. In undercover
+operations, such traits are risks.
 
-[//]: # (Died still in charging posture, just lower body a mess.)
+Jù Lì's belongings were processed simply: uniform (bloodstained, directly destroyed), parents' photo (filed as "no
+direct relative address"), the half-eaten jar of cheese (taken as snacks by logistics soldiers), the manual with his
+dreams (shredded). He didn't even have a "pension recipient." In the file, the family information column read: "
+Parents (farming, address unknown)." The system marked his status as: "Missing in action (suspected desertion)." —This
+is Beast Shield's most common classification for unexplained soldier deaths.
 
-{{Character Commentary Content}}
+In the northern ranch, the old ox couple still awaits their son's letter. The mother makes a small jar of cheese each
+week, saying: "When Xiǎo Lì returns, we'll eat it together." The father always looks south at dusk: "Beast Shield... is
+a good unit, right? Heard they provide full meals." They don't know their son is already dead. They especially don't
+know that their son died and was labeled a "traitor." They'll never receive that letter of reassurance.
+
+This black ox never understood why he died. He only knew: The officer told me to move, so I moved. The officer told me
+to die... uh, the officer didn't, so I don't understand. His epitaph (if it existed) should be: "He was called Jù Lì,
+learning only two things in life: follow orders, exert strength." "He thought great strength could make a shield, but in
+the end couldn't even block a single bullet." "He died thinking of his mother's cheese, thinking of embracing a 'him'
+worthy of love with this strength." "He was code E-533, the 'human crane,' the 'suspected deserter,' and then nothing."
+
+---
+
+【living→dead-G-1-Bear Beastman-Xióng Hè Shèng】
+(Commentary content: Complete life journey from living to dead, imagining his life, dreams, regrets. Enhance physical
+description: typical bear beastman heavy fat layers, thick limbs, rounded chest and abdomen. Olfactory description:
+distinctive bear musk, sweat, leather scent. Fit worldbuilding: His future aspirations might include finding a partner,
+building a family in this male-male world.)
 
 ### The People Still Alive
 
-[//]: # (Commentary on surviving characters. If no surviving characters, this section can be omitted.)
+[//]: # (--- Commentary on surviving/revived characters ---)
 
-[//]: # (Example:)
+[//]: # (Tag format: 【{Appearance State}→alive-{Troop Code/Special Identity}-{Number}-{Race}-{Name}】)
 
-[//]: # (【Yan】)
+[//]: # (Appearance State: living/corpse)
 
-[//]: # (This cold-faced killer has held countless male beastmen's cocks and breasts.)
+[//]: # (Outcome State: still alive by chapter end, fixed as "alive")
 
-[//]: # ()
+[//]: # (Note: Characters appearing as corpses but revived during chapter also belong here)
 
-[//]: # (He knows bulls' sensitive spots are nipples, knows how to pinch to make a bull ejaculate on the spot.)
+[//]: # (Commentary requirements: Not just describing actions, but exploring psychological trauma, moral dilemmas, future shadows. Enhance physical and olfactory descriptions.)
 
-[//]: # ()
-
-[//]: # (A craftsman in the apocalyptic world, making a living with this "craft," intimately familiar with male beastmen's bodies.)
-
-[//]: # ()
-
-[//]: # (---)
-
-[//]: # (【Liang】)
-
-[//]: # (Yan's partner, always hiding in the shadows, like a phantom.)
-
-[//]: # ()
-
-[//]: # (He likes using silver needles, one needle can make a burly man go limp as mud.)
-
-[//]: # ()
-
-[//]: # (They work well together, one in light, one in shadow, countless beastmen have died by their hands.)
-
-{{Survivor Character Commentary}}
+【living→alive-Player-Lǐ Yóu】
+(Commentary content: Psychological changes and future impacts after this chapter. Describe his physical characteristics
+as a beastmen enthusiast, perhaps not very strong but with his own charm. His desires, confusions, and choices in this
+male-male world.)
 
 ### Story Reflection
 
-[//]: # (Share your overall feelings about this chapter, can be reflections on worldview, thoughts on character fates, etc.)
+[//]: # (--- From story to life contemplation ---)
 
-[//]: # (Use first person, natural like talking with a friend.)
+[//]: # (Share feelings sincerely in first person, from specific character fates to universal human issues. Incorporate worldbuilding: In this world of only male beastmen, how do violence and tenderness coexist? How do body and desire intertwine?)
 
-[//]: # (Example:)
-
-[//]: # (This world of only male beastmen has a unique cruelty to death.)
-
-[//]: # ()
-
-[//]: # (When they're killed, the male cock will erect and ejaculate, the female breasts will leak or even spray milk.)
-
-[//]: # ()
-
-[//]: # (Dual features, dual humiliation, dying even more awkwardly.)
-
-[//]: # ()
-
-[//]: # (---)
-
-[//]: # (But this is the law of this world, survival of the fittest, eat or be eaten.)
-
-[//]: # ()
-
-[//]: # (Killers like Yan and Liang are just pitiful people trying to survive under this cruel law.)
-
-{{Story Reflection Content}}
+(Commentary content)
 
 ---
 
 {{Same as top navigation bar}}
+
+---
+
+## Version Information
+
+**Template Version**: 5.0  
+**Last Updated**: 2025-12-15  
+**Adapted Naming System**: 2.3.0
+
+### Version Update History
+
+- **2025-12-15 v5.0**: Comprehensive commentary system upgrade, integrated troop tag system
+    - Title simplification: Chaptered stories unified as `Chapter {natural number} {title}`, short stories as
+      `Story {title}`
+    - Unified end markers: Chaptered stories use `Chapter {natural number} END`, short stories use `Story END`
+    - Commentary system upgrade: Introduced state tags 【Appearance State→Outcome State-Troop Code-Number-Race-Name】
+    - Deepened commentary content: Requires exploring each character's life, dreams, regrets, giving each character
+      complete human depth
+    - **Enhanced physical visual and olfactory descriptions**: Emphasize beastmen's fat-wrapped muscle, muscle groups,
+      sweat scent and other sensory details
+    - **Fit male beastmen worldbuilding**: All characters are hermaphroditic male beastmen, pronouns are "he", male-male
+      reproduction, commentary reflects dual sexual characteristics and male-male relationships
+    - **Adjusted default configuration**: Default work nature is adaptation (a), form is short story (s), language is
+      English
+    - Provided deep commentary example: Black ox mover "Jù Lì" story commentary (adjusted to fit worldbuilding)
+    - Optimized navigation bar configuration, corrected file naming formats
+    - Added version information section
+
+- **2025-12-13 v4.3**: New naming system fully adapted version
+    - Adapted to Beastkin Universe standardized naming system 2.1.1
+    - Clarified adaptation work recommended path
+    - Optimized community creator guidance process
 
 ---
 
@@ -372,52 +328,42 @@ language.*
 
 [//]: # (World Code: bs)
 
-[//]: # (Work Nature: o)
+[//]: # (Work Nature: a)
 
-[//]: # (Work Format: s)
+[//]: # (Form Type: s)
 
-[//]: # (Work Number: 001)
+[//]: # (Work Number: 1)
 
-[//]: # (Work Identifier: untitled-story)
+[//]: # (Work Identifier: my-adaptation-story)
 
-[//]: # (Chinese Title: 未命名故事)
+[//]: # (Short Story Chinese Title: 我的改编短篇)
 
-[//]: # (English Title: Untitled Story)
+[//]: # (Short Story English Title: My Adaptation Story)
 
-[//]: # (Chaptered Story Subtype: main)
+[//]: # (Language: english)
 
-[//]: # (Chapter Number: 001)
+[//]: # (Navigation Bar Configuration: Short Adaptation Navigation)
 
-[//]: # (Chapter Chinese Title: 未命名章节)
-
-[//]: # (Chapter English Title: Untitled Chapter)
-
-[//]: # (Language: chinese)
-
-[//]: # (Navigation Bar Configuration: Short Original Navigation)
-
-[//]: # (Chapter End Mark: Use corresponding default mark based on story type)
+[//]: # (End Mark: Use corresponding default mark based on story type)
 
 [//]: # (=== File Naming Convention ===)
 
 [//]: # (Automatically generate filename based on configuration:)
 
-[//]: # (Short story: {{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}.md)
+[//]: # (Short story: {{Complete Work Code}}.md)
 
-[//]: # (Chaptered story: {{World Code}}-{{Work Nature}}-{{Work Format}}-{{Work Number}}-{{Work Identifier}}-ch{{Chapter Number}}.md)
-
-[//]: # (Adaptation chaptered: ch{{Chapter Number}}-{{Chapter English Title Short}}.md)
+[//]: # (Chaptered story: ch-{{Chapter Number}}-{{Chapter Title Short}}.md)
 
 [//]: # (=== Path Explanation ===)
 
 [//]: # (Select correct directory structure based on work nature:)
 
-[//]: # (Original short story: worlds/{{World Code}}/original-archives/{{Language}}/short-story/)
+[//]: # (Original short story: worlds/{{World Code}}/original-archives/{{Language}}/short-stories/)
 
-[//]: # (Original chaptered main story: worlds/{{World Code}}/original-archives/{{Language}}/chaptered-story/main/)
+[//]: # (Original chaptered main story: worlds/{{World Code}}/original-archives/{{Language}}/chaptered-stories/main/)
 
-[//]: # (Original chaptered side story: worlds/{{World Code}}/original-archives/{{Language}}/chaptered-story/side/)
+[//]: # (Original chaptered side story: worlds/{{World Code}}/original-archives/{{Language}}/chaptered-stories/side/)
 
-[//]: # (Adaptation short story: worlds/{{World Code}}/adaptation-works/short-story/{{Complete Work Code}}/)
+[//]: # (Adaptation short story: worlds/{{World Code}}/adaptation-works/short-stories/{{Complete Work Code}}/)
 
-[//]: # (Adaptation chaptered story: worlds/{{World Code}}/adaptation-works/chaptered-story/{{Complete Work Code}}/)
+[//]: # (Adaptation chaptered story: worlds/{{World Code}}/adaptation-works/chaptered-stories/{{Complete Work Code}}/)
