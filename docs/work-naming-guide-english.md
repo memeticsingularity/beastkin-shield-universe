@@ -279,9 +279,9 @@ This story uses the following special settings:
 
 1. **Determine Work Information**
     - Select world (bs/bsr/uba)
-   - Determine work nature (use "o" for original)
+    - Determine work nature (use "o" for original)
     - Select format (chaptered-story "c" / short-story "s")
-   - Determine type (main/side, only for chaptered stories)
+    - Determine type (main/side, only for chaptered stories)
     - Determine number (check existing works, use next number)
     - Determine work name (English kebab-case)
 
@@ -317,7 +317,7 @@ This story uses the following special settings:
 4. **Modify File Content**
     - Update all information in `metadata.yaml`
     - Update content in `README.md`
-   - Update story files using the unified naming format
+    - Update story files using the unified naming format
     - Update settings in `settings/story-setting.md`
     - Add images to `images/` directory
 

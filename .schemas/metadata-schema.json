@@ -1,0 +1,219 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "$id": "https://beastkin-universe.github.io/schemas/metadata-schema.json",
+  "title": "Beastkin Universe Metadata Schema",
+  "description": "验证作品 metadata.yaml 文件的架构",
+  "type": "object",
+  "required": [
+    "work",
+    "creation"
+  ],
+  "properties": {
+    "work": {
+      "type": "object",
+      "required": [
+        "code",
+        "title",
+        "format",
+        "status",
+        "location"
+      ],
+      "properties": {
+        "code": {
+          "type": "string",
+          "description": "作品完整编码，必须与文件夹名一致",
+          "pattern": "^(bs|bsp|bsr|uba)-([oac])-([cs])-\\d{3}(-[a-z0-9-]+)?$"
+        },
+        "title": {
+          "type": "object",
+          "required": [
+            "chinese",
+            "english"
+          ],
+          "properties": {
+            "chinese": {
+              "type": "string",
+              "description": "作品中文标题",
+              "minLength": 1
+            },
+            "english": {
+              "type": "string",
+              "description": "作品英文标题",
+              "minLength": 1
+            }
+          }
+        },
+        "format": {
+          "type": "string",
+          "enum": [
+            "chaptered-story",
+            "short-story"
+          ],
+          "description": "作品格式"
+        },
+        "subtype": {
+          "type": "string",
+          "enum": [
+            "main",
+            "side"
+          ],
+          "description": "仅分章故事需要：主线或支线"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "updating",
+            "completed",
+            "abandoned"
+          ],
+          "description": "作品状态"
+        },
+        "location": {
+          "type": "string",
+          "enum": [
+            "original-archives",
+            "adaptation-works"
+          ],
+          "description": "存储位置"
+        },
+        "promotion_status": {
+          "type": "string",
+          "enum": [
+            "not_eligible",
+            "eligible",
+            "under_review",
+            "promoted"
+          ],
+          "description": "晋升状态",
+          "default": "not_eligible"
+        },
+        "work_type": {
+          "type": "string",
+          "enum": [
+            "full-original",
+            "direct-adaptation",
+            "adapted-expansion",
+            "inspired-by",
+            "crossover"
+          ],
+          "description": "作品类型细分",
+          "default": "full-original"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "作品标签，便于分类和搜索"
+        },
+        "inspiration_sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": [
+                  "direct-adaptation",
+                  "world-element",
+                  "character",
+                  "scene",
+                  "theme"
+                ]
+              },
+              "original_code": {
+                "type": "string"
+              },
+              "reference": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "type"
+            ],
+            "additionalProperties": false
+          },
+          "description": "灵感来源，用于有多个灵感来源的作品"
+        }
+      },
+      "additionalProperties": false
+    },
+    "creation": {
+      "type": "object",
+      "required": [
+        "author",
+        "start_date"
+      ],
+      "properties": {
+        "author": {
+          "type": "string",
+          "description": "作者名称或ID",
+          "minLength": 1
+        },
+        "start_date": {
+          "type": "string",
+          "format": "date",
+          "description": "开始日期，格式：YYYY-MM-DD"
+        },
+        "last_update": {
+          "type": "string",
+          "format": "date",
+          "description": "最后更新日期，格式：YYYY-MM-DD"
+        },
+        "universe_based_on": {
+          "type": "string",
+          "enum": [
+            "beastshield",
+            "beastshield-reforged",
+            "united-beasts-alliance",
+            "beastshield-paradise"
+          ],
+          "description": "基于哪个世界观"
+        },
+        "adaptation_info": {
+          "type": "object",
+          "properties": {
+            "original_work": {
+              "type": "string",
+              "description": "原作品编码"
+            },
+            "original_title": {
+              "type": "string",
+              "description": "原作品标题"
+            },
+            "original_author": {
+              "type": "string",
+              "description": "原作者"
+            },
+            "adaptation_approach": {
+              "type": "string",
+              "enum": [
+                "faithful",
+                "reimagined",
+                "loose",
+                "theme-inversion"
+              ],
+              "description": "改编方法"
+            },
+            "key_changes": {
+              "type": "string",
+              "description": "关键变更总结，多行文本"
+            }
+          },
+          "required": [
+            "original_work",
+            "original_title",
+            "adaptation_approach",
+            "key_changes"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
