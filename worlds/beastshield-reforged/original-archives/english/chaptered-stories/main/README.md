@@ -59,7 +59,8 @@
 
 - **[返回项目根目录](../../../../../../README.md)** - 查看完整项目说明
 - **[查看配图目录](../../../images/main-story/README.md)** - 查看章节配图
-- **[作者信息](../../../../../../README.md#92-原作者平台--original-creators-platforms)** - 笑天神犬/红鼻子黄犬的联系方式
+- **[作者信息](../../../../../../README.md#92-原作者平台--original-creators-platforms)** -
+  笑天神犬/红鼻子黄犬的联系方式
 
 ---
 

@@ -10,19 +10,24 @@
 
 ### **1.1 目的 / Purpose**
 
-This guide provides detailed instructions for correctly filling out the `metadata.yaml` file in each work directory.
-Metadata serves as the "identity card" of a work, ensuring all work information is clear, consistent, and verifiable.
+This guide provides detailed instructions for correctly filling out the `metadata.yaml` file in each
+work directory.
+Metadata serves as the "identity card" of a work, ensuring all work information is clear,
+consistent, and verifiable.
 
-本指南详细指导如何正确填写作品文件夹中的 `metadata.yaml` 文件。元数据是作品的"身份证"，确保所有作品信息清晰、一致、可验证。
+本指南详细指导如何正确填写作品文件夹中的 `metadata.yaml` 文件。元数据是作品的"身份证"
+，确保所有作品信息清晰、一致、可验证。
 
 ---
 
 ### **1.2 范围 / Scope**
 
-This guide applies to all works in the Beastkin Universe project, including original works, adaptations, and crossover
+This guide applies to all works in the Beastkin Universe project, including original works,
+adaptations, and crossover
 works. It is compatible with Naming Guide v2.3.0.
 
-本指南适用于 Beastkin Universe 项目中的所有作品，包括原创作品、改编作品和跨界联动作品。兼容命名指南 v2.3.0。
+本指南适用于 Beastkin Universe 项目中的所有作品，包括原创作品、改编作品和跨界联动作品。兼容命名指南
+v2.3.0。
 
 ---
 
@@ -80,7 +85,8 @@ The file must be valid YAML format and conform to the JSON schema defined in `me
 #### **3.1.1 `code` - 作品编码 / Work Code**
 
 - **Type / 类型**: String / 字符串
-- **Description / 说明**: Complete work code, **must exactly match the folder name** / 作品完整编码，**必须与文件夹名完全一致
+- **Description / 说明**: Complete work code, **must exactly match the folder name** /
+  作品完整编码，**必须与文件夹名完全一致
   **
 - **Example / 示例**: `bsp-o-cs-1-g-277-green-bull-azhuang`
 - **Format / 格式**: `[世界观]-[性质]-[形式类型]-[自然数序号]-[系列名]`
@@ -149,7 +155,8 @@ The file must be valid YAML format and conform to the JSON schema defined in `me
 #### **3.2.1 `subtype` - 作品子类型 / Work Subtype**
 
 - **Type / 类型**: String / 字符串
-- **When Required / 何时需要**: Only required for chaptered stories (`format: "chaptered-story"`) / 仅分章故事需要
+- **When Required / 何时需要**: Only required for chaptered stories (`format: "chaptered-story"`) /
+  仅分章故事需要
 - **Allowed Values / 允许值**: `main` (主线), `side` (支线)
 - **Relationship with form_type / 与form_type的关系**:
     - `form_type: "cm"` → `subtype: "main"` (自动/automatically)
@@ -287,7 +294,8 @@ The file must be valid YAML format and conform to the JSON schema defined in `me
     - `original_title` - Original work title / 原作品标题 (String / 字符串)
     - `original_author` - Original author / 原作者 (String / 字符串, optional / 可选)
     - `adaptation_approach` - Adaptation approach / 改编方法 (String / 字符串)
-        - Allowed values / 允许值: `faithful` (忠实), `reimagined` (重新想象), `loose` (松散改编), `theme-inversion` (
+        - Allowed values / 允许值: `faithful` (忠实), `reimagined` (重新想象), `loose` (松散改编),
+          `theme-inversion` (
           主题反转)
     - `key_changes` - Summary of key changes / 关键变更总结 (String / 字符串, multi-line / 多行文本)
 - **Example / 示例**:
@@ -333,7 +341,8 @@ The file must be valid YAML format and conform to the JSON schema defined in `me
 #### **4.3.4 `crossover_info` - 跨界联动信息 / Crossover Information**
 
 - **Type / 类型**: Object / 对象
-- **When Required / 何时需要**: Required when `universe_based_on: "mixed"` / 当 `universe_based_on` 为 `mixed` 时需要
+- **When Required / 何时需要**: Required when `universe_based_on: "mixed"` / 当 `universe_based_on`
+  为 `mixed` 时需要
 - **Subfields / 子字段**:
     - `universes` - List of universes involved / 涉及的世界观列表 (Array of strings / 字符串数组)
     - `primary_universe` - Primary universe of the work / 作品的主要世界观 (String / 字符串)
@@ -466,7 +475,8 @@ All `metadata.yaml` files must pass the following validations:
    `metadata-schema.json` 中的规范
 3. **Complete required fields** - All required fields are filled / 必要字段完整 - 所有必填字段都已填写
 4. **Code consistency** - `code` field exactly matches folder name / 编码一致 - `code` 字段与文件夹名完全一致
-5. **Form type validation** - `form_type` is one of `cm`/`cs`/`s` / 形式类型验证 - `form_type` 必须是 `cm`/`cs`/`s` 之一
+5. **Form type validation** - `form_type` is one of `cm`/`cs`/`s` / 形式类型验证 - `form_type` 必须是
+   `cm`/`cs`/`s` 之一
 
 ---
 
@@ -488,7 +498,8 @@ All `metadata.yaml` files must pass the following validations:
 ### **7.1 文件命名一致性 / File Naming Consistency**
 
 - Folder name = `work.code` field / 文件夹名 = `work.code` 字段
-- For chaptered stories: `ch-{chapter-number}-{chapter-title}.md` / 章节文件名格式：`ch-{章节号}-{章节标题简写}.md`
+- For chaptered stories: `ch-{chapter-number}-{chapter-title}.md` / 章节文件名格式：
+  `ch-{章节号}-{章节标题简写}.md`
 - For short stories: `{work-code}.md` / 短篇文件名格式：`{作品编码}.md`
 
 ---
@@ -497,7 +508,8 @@ All `metadata.yaml` files must pass the following validations:
 
 - Update `last_update` field when updating work / 更新作品时，同时更新 `last_update` 字段
 - Change `status` to `completed` when work is finished / 作品完成后，将 `status` 改为 `completed`
-- Set `promotion_status` to `eligible` for high-quality works / 高质量作品可设置为 `promotion_status: "eligible"`
+- Set `promotion_status` to `eligible` for high-quality works / 高质量作品可设置为
+  `promotion_status: "eligible"`
 
 ---
 
@@ -505,7 +517,8 @@ All `metadata.yaml` files must pass the following validations:
 
 - Adaptation works **must** fill `adaptation_info` / 改编作品**必须**填写 `adaptation_info`
 - Explain relationship with original work in `README.md` / 在 `README.md` 中说明与原作的关系
-- Respect original work, maintain consistency with core settings during adaptation / 尊重原作，在改编时保持核心设定的一致性
+- Respect original work, maintain consistency with core settings during adaptation /
+  尊重原作，在改编时保持核心设定的一致性
 
 ---
 
@@ -654,8 +667,10 @@ Update metadata when the following changes occur to the work:
 
 1. **Adding new chapters** - Update `last_update` date / 添加新章节 - 更新 `last_update` 日期
 2. **Work completion** - Change `status` to `completed` / 作品完结 - 将 `status` 改为 `completed`
-3. **Work promotion** - Change `promotion_status` to `promoted` / 作品晋升 - 将 `promotion_status` 改为 `promoted`
-4. **Author change** - Update `author` or add `collaborators` / 作者变更 - 更新 `author` 或添加 `collaborators`
+3. **Work promotion** - Change `promotion_status` to `promoted` / 作品晋升 - 将 `promotion_status`
+   改为 `promoted`
+4. **Author change** - Update `author` or add `collaborators` / 作者变更 - 更新 `author` 或添加
+   `collaborators`
 5. **Title change** - Update `title` field / 标题变更 - 更新 `title` 字段
 6. **Format change** - Update `form_type` and related fields / 格式变更 - 更新 `form_type` 及相关字段
 
@@ -677,7 +692,8 @@ git commit -m "Update metadata: add form_type field for v2.3.0 compatibility"
 
 ### **9.3 迁移旧格式 / Migrating from Old Format**
 
-If you have existing works with old format metadata (using `c`/`s` and three-digit numbers), update them to v2.3.0
+If you have existing works with old format metadata (using `c`/`s` and three-digit numbers), update
+them to v2.3.0
 format:
 
 如果您有使用旧格式（`c`/`s` 和三位数）的现有作品元数据，请更新到 v2.3.0 格式：
@@ -700,9 +716,11 @@ If you encounter problems:
 如果遇到问题：
 
 1. **Check examples** - Refer to existing work metadata in the project / 查看示例 - 参考项目中的现有作品元数据
-2. **Use template** - Start with the metadata-template.yaml file / 使用模板 - 从 metadata-template.yaml 文件开始
+2. **Use template** - Start with the metadata-template.yaml file / 使用模板 - 从
+   metadata-template.yaml 文件开始
 3. **Validation check** - Run validation script to see specific errors / 验证检查 - 运行验证脚本查看具体错误
-4. **Consult documentation** - Refer to relevant documents in the `docs/` directory / 查阅文档 - 参考 `docs/` 目录下的相关文档
+4. **Consult documentation** - Refer to relevant documents in the `docs/` directory / 查阅文档 - 参考
+   `docs/` 目录下的相关文档
 5. **Community discussion** - Ask questions in the project discussion area / 社区讨论 - 在项目讨论区提问
 
 ---

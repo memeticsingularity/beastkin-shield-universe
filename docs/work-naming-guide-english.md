@@ -2,9 +2,12 @@
 
 ## 1. Introduction
 
-This document defines the naming rules and organizational structure for all works within the Beastkin Universe project.
-All contributors creating new works must follow this guide. Updated according to the latest project structure, this
-guide ensures unified naming formats for all work types, uses natural number sequencing, and standardizes the structure
+This document defines the naming rules and organizational structure for all works within the
+Beastkin Universe project.
+All contributors creating new works must follow this guide. Updated according to the latest project
+structure, this
+guide ensures unified naming formats for all work types, uses natural number sequencing, and
+standardizes the structure
 of all chaptered stories.
 
 ## 2. Core Concept Definitions
@@ -13,27 +16,33 @@ Before diving into details, please understand the following core concepts:
 
 ### 2.1. Original Archives (`original-archives`)
 
-Stores official works created by the **world's primary author** (or the project's core team). These works form the core
+Stores official works created by the **world's primary author** (or the project's core team). These
+works form the core
 narrative foundation of the world.
 
 ### 2.2. Adaptation Works (`adaptation-works`)
 
-Stores **adaptation works** created by community contributors based on official works. These works can be considered
-derivations of the official world. Adaptation works can apply for **promotion** after completion and receiving
+Stores **adaptation works** created by community contributors based on official works. These works
+can be considered
+derivations of the official world. Adaptation works can apply for **promotion** after completion and
+receiving
 recognition.
 
 ### 2.3. Promotion Pathways
 
 - **Path 1: Promotion to Official Original Work**  
-  Outstanding adaptation works can be fully **migrated** to the corresponding world's `original-archives`, becoming part
+  Outstanding adaptation works can be fully **migrated** to the corresponding world's
+  `original-archives`, becoming part
   of that world's official canon.
 - **Path 2: Promotion to Independent World**  
-  Particularly excellent adaptation works, if possessing complete and independent world settings, can apply to become a
+  Particularly excellent adaptation works, if possessing complete and independent world settings,
+  can apply to become a
   new world module under `worlds/`.
 
 ### 2.4. Unified Story Structure
 
-All chaptered stories (whether main story, side stories, or character stories) adopt a **"folder + internal chapters"**
+All chaptered stories (whether main story, side stories, or character stories) adopt a **"folder +
+internal chapters"**
 structure:
 
 - Each series (main story volume, side story series, character story) has its own folder
@@ -146,7 +155,8 @@ worlds/world/adaptation-works/
 #### **All Chaptered Stories (Main, Side, Adaptation)**
 
 - **Folder Naming**: `{world-code}-{nature}-c-{natural-number}-{series-name}`
-- **Chapter File Naming** (inside folder): `ch-{natural-chapter-number}-{chapter-title-abbreviation}.md`
+- **Chapter File Naming** (inside folder):
+  `ch-{natural-chapter-number}-{chapter-title-abbreviation}.md`
 
 #### **Example Comparison:**
 
@@ -174,21 +184,25 @@ worlds/world/adaptation-works/
 
 ### 5.3. Special Notes
 
-1. **Natural Number Sequencing**: All sequence numbers use natural numbers (1, 2, 3...), no zero padding needed. Modern
+1. **Natural Number Sequencing**: All sequence numbers use natural numbers (1, 2, 3...), no zero
+   padding needed. Modern
    file systems correctly sort `-1-`, `-2-`, `-12-`.
-2. **Unified Chapter Naming**: Chapter files within folders uniformly start with `ch-`, maintaining consistent format.
+2. **Unified Chapter Naming**: Chapter files within folders uniformly start with `ch-`, maintaining
+   consistent format.
 3. **Title Abbreviation Rules**:
     - English lowercase, connected with hyphens
     - Concise and clear, reflecting the chapter's core content
     - Avoid special characters and spaces
-4. **Unified Structure for Main and Side Stories**: Both main story volumes and side stories adopt the same folder
+4. **Unified Structure for Main and Side Stories**: Both main story volumes and side stories adopt
+   the same folder
    structure, facilitating management and expansion.
 
 ## 6. Work Promotion Mechanism
 
 ### 6.1. Promotion from Adaptation Work to Original Work
 
-When a community adaptation work meets the following conditions, it can apply for promotion to `original-archives`:
+When a community adaptation work meets the following conditions, it can apply for promotion to
+`original-archives`:
 
 1. **Completion Status**: The work is complete.
 2. **Quality Excellence**: Widely recognized by the community.
@@ -309,7 +323,8 @@ This story uses the following special settings:
     - Determine series name (English kebab-case)
 
 2. **Create Folder and Files**
-    - Create folder at corresponding location: `original-archives/language/chaptered-stories/[main or side]/`
+    - Create folder at corresponding location:
+      `original-archives/language/chaptered-stories/[main or side]/`
     - Create chapter files inside folder: `ch-1-chapter-title.md`
     - Create auxiliary files: `README.md`, `metadata.yaml`, `settings/story-setting.md`
 
@@ -432,12 +447,15 @@ Use these templates as starting points to ensure consistent structure across all
 
 ### Q: Why switch to natural number sequencing?
 
-A: Modern file systems and code editors can correctly identify and sort natural numbers (1, 2, 10, 11...), eliminating
-the need for zero padding. This simplifies naming, reduces cognitive load, while maintaining correct sorting.
+A: Modern file systems and code editors can correctly identify and sort natural numbers (1, 2, 10,
+11...), eliminating
+the need for zero padding. This simplifies naming, reduces cognitive load, while maintaining correct
+sorting.
 
 ### Q: What's the structural difference between main stories and side stories?
 
-A: In version 2.2.0, main stories and side stories are structurally identical: both use "folder + internal chapters"
+A: In version 2.2.0, main stories and side stories are structurally identical: both use "folder +
+internal chapters"
 structure. The only difference is their storage directory:
 
 - Main stories: `chaptered-stories/main/`
@@ -455,17 +473,21 @@ Each volume contains a complete chapter series.
 
 ### Q: Must chapter files start from ch-1?
 
-A: Yes, for consistency, chapters within each folder start from `ch-1`. Even if this series is a continuation of a
-longer work, it re-starts numbering from 1 because the folder already indicates which volume this is.
+A: Yes, for consistency, chapters within each folder start from `ch-1`. Even if this series is a
+continuation of a
+longer work, it re-starts numbering from 1 because the folder already indicates which volume this
+is.
 
 ### Q: If my adaptation work is popular, can it become an official work?
 
-A: Yes. When a work is completed and reaches certain quality standards, it can apply for migration to
+A: Yes. When a work is completed and reaches certain quality standards, it can apply for migration
+to
 `original-archives`. Files will be renamed as needed during migration.
 
 ### Q: Can adaptation works become independent worlds?
 
-A: Yes. If an adaptation work possesses a complete, independent setting system, mature narrative structure, and
+A: Yes. If an adaptation work possesses a complete, independent setting system, mature narrative
+structure, and
 community influence, it can apply to become an independent world. This requires core team review.
 
 ### Q: How to find specific types of works?
@@ -483,13 +505,16 @@ A: Quickly identify from file names:
 
 - **2025-12-15 v2.2.0**: Simplified numbering system, unified story structure
     - **Major Changes**:
-        1. **Natural Number Sequencing**: All sequence numbers changed from three-digit to natural numbers (1, 2, 3...),
+        1. **Natural Number Sequencing**: All sequence numbers changed from three-digit to natural
+           numbers (1, 2, 3...),
            no zero padding needed.
-        2. **Unified Structure**: All chaptered stories (main, side, adaptation) use "folder + internal chapters"
+        2. **Unified Structure**: All chaptered stories (main, side, adaptation) use "folder +
+           internal chapters"
            structure.
         3. **Unified Chapter Naming**: Chapter files within folders uniformly named
            `ch-natural-number-chapter-title-abbreviation.md`.
-        4. **Main Story Volume Support**: Clear support for main stories using volume structure, each volume in its own
+        4. **Main Story Volume Support**: Clear support for main stories using volume structure,
+           each volume in its own
            folder.
         5. **Added World**: Added `bsp` (Beastshield Paradise) world support.
         6. **Optimized Examples**: Updated all examples to comply with new standards.
@@ -497,11 +522,13 @@ A: Quickly identify from file names:
 
 - **2025-12-13 v2.1.1**: Clarified adaptation work promotion pathways and positioning
     - Added core concept definitions section.
-    - Clarified two promotion pathways for adaptation works: promotion to official original work or independent world.
+  - Clarified two promotion pathways for adaptation works: promotion to official original work or
+    independent world.
     - Added promotion status field to metadata.
     - Updated FAQ with adaptation work promotion-related questions.
 
-- **2025-12-13 v2.1.0**: Updated according to latest project structure, unified naming formats for all work types
+- **2025-12-13 v2.1.0**: Updated according to latest project structure, unified naming formats for
+  all work types
     - Chapter titles required.
     - Clear distinction between main and side stories.
     - Updated all examples.

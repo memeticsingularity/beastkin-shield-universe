@@ -2,10 +2,14 @@
 
 ## 1. Introduction
 
-This guide provides detailed instructions on how to use the Universal Story Template v5.0 adapted to the new naming
-system. The template fully follows the Beastkin Universe standardized naming system (version 2.3.0) and is optimized for
-the workflow of **community creators**. We strongly recommend new authors start with **adaptation works**, as it is the
-smoothest path to integrate into the community and understand the worldbuilding. Please follow the steps and
+This guide provides detailed instructions on how to use the Universal Story Template v5.0 adapted to
+the new naming
+system. The template fully follows the Beastkin Universe standardized naming system (version 2.3.0)
+and is optimized for
+the workflow of **community creators**. We strongly recommend new authors start with **adaptation
+works**, as it is the
+smoothest path to integrate into the community and understand the worldbuilding. Please follow the
+steps and
 specifications in this guide according to your creative needs.
 
 ---
@@ -14,18 +18,27 @@ specifications in this guide according to your creative needs.
 
 Before starting, understanding the project structure and recommended path is crucial:
 
-1. **Start with Adaptations (Recommended Path)**: `adaptation-works` is the playground for community creations. We *
-   *recommend all new authors begin here**, creating works based on existing worlds. It's lower risk, easier to start,
+1. **Start with Adaptations (Recommended Path)**: `adaptation-works` is the playground for community
+   creations. We *
+   *recommend all new authors begin here**, creating works based on existing worlds. It's lower
+   risk, easier to start,
    and allows for direct community feedback.
-2. **Understand Original Works**: `original-archives` stores official works maintained by the **world's original author
+2. **Understand Original Works**: `original-archives` stores official works maintained by the **
+   world's original author
    ** or the core team. It is the foundation and inspiration for all derivative creations.
-3. **Clear Promotion Mechanism**: Excellent, completed adaptation works that gain community recognition and original
-   author approval can be **promoted** to `original-archives`, or even develop into independent world modules.
-4. **Flexible Structure**: Main storyline files are placed directly in the `main/` directory, but the use of
-   subdirectories (e.g., `volume-1/`) is supported to manage multi-volume works. This is considered an internal
+3. **Clear Promotion Mechanism**: Excellent, completed adaptation works that gain community
+   recognition and original
+   author approval can be **promoted** to `original-archives`, or even develop into independent
+   world modules.
+4. **Flexible Structure**: Main storyline files are placed directly in the `main/` directory, but
+   the use of
+   subdirectories (e.g., `volume-1/`) is supported to manage multi-volume works. This is considered
+   an internal
    organizational method.
-5. **Worldbuilding Features Clarified**: All characters are hermaphroditic male beastmen, default pronouns are "he",
-   reproduction is male-male. This setting should be noted during creation and commentary. (Of course, variant/new
+5. **Worldbuilding Features Clarified**: All characters are hermaphroditic male beastmen, default
+   pronouns are "he",
+   reproduction is male-male. This setting should be noted during creation and commentary. (Of
+   course, variant/new
    worldbuilding settings are exceptions)
 
 ---
@@ -57,18 +70,25 @@ flowchart TD
 **Step 1: Select Template**
 Copy the appropriate template from the `/templates/` directory based on the language of creation:
 
-- For Chinese creation: [universal-story-template-chinese.md](../templates/universal-story-template-chinese.md) (v5.0)
-- For English creation: [universal-story-template-english.md](../templates/universal-story-template-english.md) (v5.0)
+- For Chinese
+  creation: [universal-story-template-chinese.md](../templates/universal-story-template-chinese.md) (
+  v5.0)
+- For English
+  creation: [universal-story-template-english.md](../templates/universal-story-template-english.md) (
+  v5.0)
 
 **Step 2: Determine Basic Work Information**
 
-- **Work Nature**: Choose **`a` (adaptation)**. This is the standard starting point for community creation.
-- **Form Type**: Choose `cm` (chaptered-main), `cs` (chaptered-side), or `s` (short-story) based on your story's
+- **Work Nature**: Choose **`a` (adaptation)**. This is the standard starting point for community
+  creation.
+- **Form Type**: Choose `cm` (chaptered-main), `cs` (chaptered-side), or `s` (short-story) based on
+  your story's
   structure.
 - **Select World**: Choose which world you want to base your work on (`bs`, `bsr`, `uba`, `bsp`).
 
 **Step 3: Fill in the Template Configuration**
-Accurately fill in the information in the template's "Configuration Area". **Please pay special attention to**:
+Accurately fill in the information in the template's "Configuration Area". **Please pay special
+attention to**:
 
 - `Work Nature`: Enter **`a`**
 - `Form Type`: Choose `cm`/`cs`/`s` based on story type
@@ -76,17 +96,20 @@ Accurately fill in the information in the template's "Configuration Area". **Ple
 - `Chapter Title` (for chaptered stories): **Must fill in** Chinese and English chapter titles
 
 **Step 4: Select Navigation Bar**
-Based on whether you are creating a short story or a chaptered story (and its position), select the corresponding "
+Based on whether you are creating a short story or a chaptered story (and its position), select the
+corresponding "
 Adaptation" navigation bar from the eight configurations provided in the template.
 
 **Step 5: Create and Publish**
 
-1. Under the `worlds/{world}/adaptation-works/{corresponding-form}/` directory, **create a new folder named with your "
+1. Under the `worlds/{world}/adaptation-works/{corresponding-form}/` directory, **create a new
+   folder named with your "
    Complete Work Code"**.
 2. Place the configured template file into this folder and rename it to the correct filename.
 3. Start writing your story!
 
-**Future Path**: Once your adaptation work is complete and receives positive feedback, you can refer to the **"Work
+**Future Path**: Once your adaptation work is complete and receives positive feedback, you can refer
+to the **"Work
 Promotion Mechanism"** section to apply for its inclusion into the official canon.
 
 ---
@@ -103,7 +126,8 @@ Promotion Mechanism"** section to apply for its inclusion into the official cano
 
 Examples:
 
-- **Adaptation side chaptered**: `bs-a-cs-001-a-new-gamer` (This is a typical code for community works)
+- **Adaptation side chaptered**: `bs-a-cs-001-a-new-gamer` (This is a typical code for community
+  works)
 - **Adaptation short story**: `bs-a-s-001-first-blood`
 - Original main chaptered: `bs-o-cm-001-main-story-1`
 - Original side chaptered: `bs-o-cs-001-yan-liang`
@@ -226,7 +250,8 @@ worlds/{world}/original-archives/{language}/{form}/{subtype}/
 
 ## 7. Navigation Bar Configuration Selection
 
-Based on work format and chapter position, choose one of the eight configurations provided in the template. **For
+Based on work format and chapter position, choose one of the eight configurations provided in the
+template. **For
 adaptation works, please select configurations with "Adaptation" in the name**:
 
 1. **Short Original Navigation** (original works use)
@@ -243,10 +268,13 @@ adaptation works, please select configurations with "Adaptation" in the name**:
 ## 8. Text Formatting Specifications
 
 1. **Paragraph Spacing**: Maintain one blank line between lines and between paragraphs.
-2. **Bold for Settings**: Elements like characters, locations, organizations, and proper nouns must be bolded using
+2. **Bold for Settings**: Elements like characters, locations, organizations, and proper nouns must
+   be bolded using
    `**bold**`. Dialogue itself should not be bolded.
-3. **World Feature**: All characters are hermaphroditic male beastmen, pronouns are "he", reproduction is male-male.
-   This should be naturally reflected in creation. (Of course, variant/new worldbuilding settings are exceptions)
+3. **World Feature**: All characters are hermaphroditic male beastmen, pronouns are "he",
+   reproduction is male-male.
+   This should be naturally reflected in creation. (Of course, variant/new worldbuilding settings
+   are exceptions)
 4. **Title Format**:
     - Chaptered story: `# Chapter {natural number} {Chinese title}`
     - Short story: `# Story {Chinese title}`
@@ -258,12 +286,15 @@ adaptation works, please select configurations with "Adaptation" in the name**:
 
 ## 9. Story Commentary and Reflection Writing Guide v5.0
 
-This section is used to comment on characters and events in emotional, conversational language, and is a distinctive
-feature of the works. Version 5.0 particularly emphasizes **deep human perspective** and **sensory detail description**.
+This section is used to comment on characters and events in emotional, conversational language, and
+is a distinctive
+feature of the works. Version 5.0 particularly emphasizes **deep human perspective** and **sensory
+detail description**.
 
 ### 9.1 Writing Structure
 
-1. **Their Final Stories**: Comment on all deceased characters in this chapter. Use state tag format.
+1. **Their Final Stories**: Comment on all deceased characters in this chapter. Use state tag
+   format.
 2. **The People Still Alive**: Comment on all surviving characters.
 3. **Story Reflection**: Share your overall feelings in first person.
 
@@ -280,7 +311,8 @@ feature of the works. Version 5.0 particularly emphasizes **deep human perspecti
 - **Troop Code**: G/O/E/R/W or special identity
 - **Number**: Incremental number (starting from 1 for same troop type)
 - **Race**: Explicit or inferred race
-- **Name**: Generated or existing name (if not mentioned, generate using "race character + Chinese surname + single
+- **Name**: Generated or existing name (if not mentioned, generate using "race character + Chinese
+  surname + single
   name")
 
 **State Transition Rules**:
@@ -294,7 +326,8 @@ feature of the works. Version 5.0 particularly emphasizes **deep human perspecti
 
 #### 9.3.1 Deep Human Perspective
 
-Each character is a complete world, regardless of screen time, deserving to be taken seriously. Commentary should:
+Each character is a complete world, regardless of screen time, deserving to be taken seriously.
+Commentary should:
 
 - Imagine the character's life, dreams, regrets
 - Explore the character's inner world and unspoken words
@@ -330,7 +363,8 @@ file: [Black Ox Mover "Jù Lì" Deep Commentary Example](../worlds/beastshield/s
 ### 9.5 Uniform Color Differentiation Rules (Adaptation works should follow original settings)
 
 1. If text explicitly mentions uniform color, write according to description.
-2. If not explicitly mentioned but department is mentioned: Combat Group - black uniform, Firearms Group - white
+2. If not explicitly mentioned but department is mentioned: Combat Group - black uniform, Firearms
+   Group - white
    uniform, Management - blue uniform, no department mentioned - green uniform.
 3. Common soldiers/guards usually refer to green uniform.
 
@@ -351,28 +385,35 @@ This is your bridge from `adaptation-works` to `original-archives`.
 
 1. **Application**: Submit a promotion application to the project core team.
 2. **Review**: The team reviews work quality and setting consistency.
-3. **Migration & Renaming**: Move the work directory from `adaptation-works` to the appropriate location in
+3. **Migration & Renaming**: Move the work directory from `adaptation-works` to the appropriate
+   location in
    `original-archives`, and rename files according to original work standards.
 4. **Update & Announcement**: Update all links and announce to the community.
 
 ### 10.3 Promotion to Independent World
 
-Particularly excellent adaptation works, if they have complete independent setting systems, can apply to become a brand
+Particularly excellent adaptation works, if they have complete independent setting systems, can
+apply to become a brand
 new world module under `worlds/`.
 
 ---
 
 ## 11. Troubleshooting
 
-- **Navigation Links Not Working**: Check if the correct navigation bar configuration is selected (e.g., using an
+- **Navigation Links Not Working**: Check if the correct navigation bar configuration is selected (
+  e.g., using an
   original navigation for an adaptation work).
-- **Images Not Displaying**: Confirm the image path is correct and the image file exists in the `images/` folder within
+- **Images Not Displaying**: Confirm the image path is correct and the image file exists in the
+  `images/` folder within
   your work directory.
-- **Incorrect Filenames**: Ensure following correct naming rules, especially that **chapter title short form must be
+- **Incorrect Filenames**: Ensure following correct naming rules, especially that **chapter title
+  short form must be
   filled in**.
-- **Commentary Tag Format Error**: Check if state tag format is correct, troop codes, numbers, etc. comply with
+- **Commentary Tag Format Error**: Check if state tag format is correct, troop codes, numbers, etc.
+  comply with
   specifications.
-- **Insufficient Sensory Description**: Review if commentary section contains enough physical visual and olfactory
+- **Insufficient Sensory Description**: Review if commentary section contains enough physical visual
+  and olfactory
   description.
 
 ---
@@ -394,9 +435,11 @@ new world module under `worlds/`.
 3. **Comprehensive Commentary System Upgrade**:
     - Introduced state tag system: 【Appearance State→Outcome State-Troop Code-Number-Race-Name】
     - Requires deep humanized commentary: Explore each character's life, dreams, regrets
-    - **Enhanced sensory detail description**: Emphasize beastmen's fat-wrapped muscle, muscle groups, sweat scent and
+   - **Enhanced sensory detail description**: Emphasize beastmen's fat-wrapped muscle, muscle
+     groups, sweat scent and
       other sensory details
-    - **Fit male beastmen worldbuilding**: All characters are hermaphroditic male beastmen, pronouns are "he", male-male
+   - **Fit male beastmen worldbuilding**: All characters are hermaphroditic male beastmen, pronouns
+     are "he", male-male
       reproduction
 
 4. **Default Configuration Adjustment**:
@@ -437,16 +480,23 @@ new world module under `worlds/`.
 ## 13. Related File References
 
 1. **Template Files**:
-    - Chinese Template: [universal-story-template-chinese.md](../templates/universal-story-template-chinese.md) (v5.0)
-    - English Template: [universal-story-template-english.md](../templates/universal-story-template-english.md) (v5.0)
+    - Chinese
+      Template: [universal-story-template-chinese.md](../templates/universal-story-template-chinese.md) (
+      v5.0)
+    - English
+      Template: [universal-story-template-english.md](../templates/universal-story-template-english.md) (
+      v5.0)
 
 2. **Naming Guides**:
-    - Chinese Naming Guide: [work-naming-guide-chinese.md](../docs/work-naming-guide-chinese.md) (v2.3.0)
-    - English Naming Guide: [work-naming-guide-english.md](../docs/work-naming-guide-english.md) (v2.3.0)
+    - Chinese Naming Guide: [work-naming-guide-chinese.md](../docs/work-naming-guide-chinese.md) (
+      v2.3.0)
+    - English Naming Guide: [work-naming-guide-english.md](../docs/work-naming-guide-english.md) (
+      v2.3.0)
 
 3. **Project Structure**:
     - Project Structure Guide: [project-structure-guide.md](../docs/project-structure-guide.md)
-    - Generate Structure Script: [generate_structure.bat](../scripts/generate_structure.bat) (Windows)
+   - Generate Structure Script: [generate_structure.bat](../scripts/generate_structure.bat) (
+     Windows)
       or [generate_structure.sh](../scripts/generate_structure.sh) (Linux/macOS)
 
 4. **Worldbuilding Settings**:

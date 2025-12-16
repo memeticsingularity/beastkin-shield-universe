@@ -7,13 +7,16 @@
 
 ## 1. 欢迎 / Welcome
 
-感谢您对 Beastkin Universe 感兴趣！本指南将帮助您了解如何为这个项目做出贡献。我们特别推荐新创作者从**改编作品**
+感谢您对 Beastkin Universe 感兴趣！本指南将帮助您了解如何为这个项目做出贡献。我们特别推荐新创作者从*
+*改编作品**
 开始，这是融入社区最顺畅的路径。
 
 ---
 
-Thank you for your interest in Beastkin Universe! This guide will help you understand how to contribute to this project.
-We especially recommend new creators to start with **adaptation works**, as it's the smoothest path to integrate into
+Thank you for your interest in Beastkin Universe! This guide will help you understand how to
+contribute to this project.
+We especially recommend new creators to start with **adaptation works**, as it's the smoothest path
+to integrate into
 the community.
 
 ---
@@ -71,15 +74,18 @@ For detailed structure, see: [project-structure-guide.md](docs/project-structure
 ---
 
 **Strongly Recommended: Start with Adaptation Works**
-We recommend all new creators to start with `adaptation-works`. This helps understand the world, receive community
+We recommend all new creators to start with `adaptation-works`. This helps understand the world,
+receive community
 feedback, and allows applying for promotion to official works after completion.
 
 Please be sure to read the following guides:
 
 - [Code of Conduct](CODE_OF_CONDUCT.md) - Understand community standards
-- [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md) - Master work naming rules (latest version)
+- [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md) - Master work naming rules (latest
+  version)
 - [Metadata Guide v2.3.0](docs/metadata-guide.md) - Understand metadata file specifications
-- [Universal Story Template Guide](docs/universal-story-template-guide-english.md) - Understand story template usage
+- [Universal Story Template Guide](docs/universal-story-template-guide-english.md) - Understand
+  story template usage
 
 ---
 
@@ -148,7 +154,8 @@ Please use our provided templates:
 - Chaptered story template: `templates/adaption-work-template/chaptered-story/`
 - Short story template: `templates/adaption-work-template/short-story/`
 
-**Important**: Please use the latest version of templates, ensuring they include the `form_type` field (new required
+**Important**: Please use the latest version of templates, ensuring they include the `form_type`
+field (new required
 field in v2.3.0).
 
 ---
@@ -185,7 +192,8 @@ All works must follow v2.3.0 naming conventions:
 - `bs-a-cm-1-main-adaptation` (main chaptered adaptation)
 - `bs-a-s-1-first-blood` (short story adaptation)
 
-**Note**: v2.3.0 uses natural number sequences (1, 2, 3...) instead of three-digit numbers (001, 002), form types are
+**Note**: v2.3.0 uses natural number sequences (1, 2, 3...) instead of three-digit numbers (001,
+002), form types are
 `cm`/`cs`/`s`
 
 For detailed explanation, see: [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md)
@@ -220,7 +228,8 @@ Each world has three levels of settings:
 
 ---
 
-- **Supplement Original Settings**: Add content to `settings/0-original-setting/` of the corresponding world
+- **Supplement Original Settings**: Add content to `settings/0-original-setting/` of the
+  corresponding world
 - **Improve Recommended Canon**: Suggest improvements in `settings/1-recommended-canon/`
 - **Record Story Variants**: Record unique settings in each work's `settings/` directory
 
@@ -528,7 +537,8 @@ Add relevant screenshots...
 All submitted works should meet the following requirements:
 
 - **Complete Content**: Stories should have clear beginning, development, and ending
-- **Setting Consistency**: Consistent with world settings, any deviations should be clearly explained
+- **Setting Consistency**: Consistent with world settings, any deviations should be clearly
+  explained
 - **Language Quality**: Fluent text, no obvious grammatical errors
 - **Format Standards**: Use correct Markdown formatting
 
@@ -543,7 +553,8 @@ All submitted works should meet the following requirements:
 
 ---
 
-- **Complete Metadata**: The `metadata.yaml` file must be fully filled, including the required `form_type` field
+- **Complete Metadata**: The `metadata.yaml` file must be fully filled, including the required
+  `form_type` field
 - **Clear README**: `README.md` should clearly introduce the work
 - **Optimized Images**: Image file sizes should be moderate, with standardized naming
 - **Correct Structure**: Directory structure and file placement should be correct

@@ -2,8 +2,10 @@
 
 ## 1. 简介
 
-本指南详细说明如何使用适配新命名体系的通用故事模板 v5.0 来创作故事。该模板完全遵循 Beastkin Universe 的标准化命名体系（版本2.3.0），并为
-**社区创作者**优化了引导流程。我们强烈建议新作者从**改编作品**开始，这是融入社区、理解世界观最顺畅的路径。请根据您的创作需求，遵循本指南的步骤与规范进行操作。
+本指南详细说明如何使用适配新命名体系的通用故事模板 v5.0 来创作故事。该模板完全遵循 Beastkin Universe
+的标准化命名体系（版本2.3.0），并为
+**社区创作者**优化了引导流程。我们强烈建议新作者从**改编作品**
+开始，这是融入社区、理解世界观最顺畅的路径。请根据您的创作需求，遵循本指南的步骤与规范进行操作。
 
 ---
 
@@ -14,10 +16,13 @@
 1. **从改编开始（推荐路径）**：`adaptation-works` 是社区创作的乐园。我们**建议所有新作者从此处开始**
    ，基于现有世界观进行创作，风险低、上手快，并能获得社区的直接反馈。
 2. **理解原作**：`original-archives` 存放由 **世界观第一作者** 或核心团队维护的官方作品。它是所有创作的基础和灵感来源。
-3. **明确的晋升机制**：优秀的、已完成的改编作品，在获得社区认可和原作者同意后，可以**晋升**至 `original-archives`
+3. **明确的晋升机制**：优秀的、已完成的改编作品，在获得社区认可和原作者同意后，可以**晋升**至
+   `original-archives`
    ，甚至发展为独立的世界观模块。
-4. **灵活的结构**：主线作品的文件直接放在 `main/` 目录下，但支持使用子目录（如 `volume-1/` ）来管理多卷本长篇，这属于作品内部组织方式。
-5. **世界观特性明确**：所有角色均为雌雄同体的雄兽人，人称代词默认为"他"，生殖方式为雄雄生殖。创作与评述时需注意这一设定。（当然变体/新世界观设定除外）
+4. **灵活的结构**：主线作品的文件直接放在 `main/` 目录下，但支持使用子目录（如 `volume-1/`
+   ）来管理多卷本长篇，这属于作品内部组织方式。
+5. **世界观特性明确**：所有角色均为雌雄同体的雄兽人，人称代词默认为"他"
+   ，生殖方式为雄雄生殖。创作与评述时需注意这一设定。（当然变体/新世界观设定除外）
 
 ---
 
@@ -48,8 +53,10 @@ flowchart TD
 **第一步：选择模板**
 根据创作语言，从 `/templates/` 目录中复制对应模板：
 
-- 中文创作：[universal-story-template-chinese.md](../templates/universal-story-template-chinese.md)（v5.0）
-- 英文创作：[universal-story-template-english.md](../templates/universal-story-template-english.md)（v5.0）
+- 中文创作：[universal-story-template-chinese.md](../templates/universal-story-template-chinese.md)
+  （v5.0）
+- 英文创作：[universal-story-template-english.md](../templates/universal-story-template-english.md)
+  （v5.0）
 
 **第二步：确定作品基础信息**
 
@@ -70,7 +77,8 @@ flowchart TD
 
 **第五步：创作与发布**
 
-1. 在 `worlds/{世界观}/adaptation-works/{对应形式}/` 目录下，**创建一个以你的"完整作品编码"命名的新文件夹**。
+1. 在 `worlds/{世界观}/adaptation-works/{对应形式}/` 目录下，**创建一个以你的"完整作品编码"命名的新文件夹
+   **。
 2. 将配置好的模板文件放入此文件夹，并重命名为正确的文件名。
 3. 开始你的故事创作！
 
@@ -241,7 +249,8 @@ worlds/{世界观}/original-archives/{语言}/{形式}/{子类型}/
 
 ## 9. 故事评述与感慨写作指南 v5.0
 
-此部分用于以感性、口语化的语言评述角色和事件，是作品的特色之一。v5.0 版本特别强调**深度人性化视角**和**感官细节描写**。
+此部分用于以感性、口语化的语言评述角色和事件，是作品的特色之一。v5.0 版本特别强调**深度人性化视角**和*
+*感官细节描写**。
 
 ### 9.1 写作结构
 
@@ -408,8 +417,12 @@ worlds/{世界观}/original-archives/{语言}/{形式}/{子类型}/
 ## 13. 相关文件参考
 
 1. **模板文件**：
-    - 中文模板：[universal-story-template-chinese.md](../templates/universal-story-template-chinese.md)（v5.0）
-    - 英文模板：[universal-story-template-english.md](../templates/universal-story-template-english.md)（v5.0）
+   -
+   中文模板：[universal-story-template-chinese.md](../templates/universal-story-template-chinese.md)
+   （v5.0）
+    -
+   英文模板：[universal-story-template-english.md](../templates/universal-story-template-english.md)
+   （v5.0）
 
 2. **命名指南**：
     - 中文命名指南：[work-naming-guide-chinese.md](../docs/work-naming-guide-chinese.md)（v2.3.0）

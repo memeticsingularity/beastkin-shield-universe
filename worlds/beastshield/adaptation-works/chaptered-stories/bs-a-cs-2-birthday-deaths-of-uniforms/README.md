@@ -47,10 +47,14 @@ This series contains the following mature content. Please be advised:
 **Universe**: Beastshield Universe  
 **Status**: Updating (1 chapter completed)
 
-This is a dark series centered around the theme of "birthdays", telling the fatal fates of different Beastshield
-employees on their birthdays. Each chapter focuses on an independent employee, using the special moment of their
-birthday to reveal their卑微 existence, shattered wishes, and inevitable deaths in the Beastshield world. The series
-deeply explores the everyday violence within official settings, endowing each serial number with flesh, blood, and soul.
+This is a dark series centered around the theme of "birthdays", telling the fatal fates of different
+Beastshield
+employees on their birthdays. Each chapter focuses on an independent employee, using the special
+moment of their
+birthday to reveal their卑微 existence, shattered wishes, and inevitable deaths in the Beastshield
+world. The series
+deeply explores the everyday violence within official settings, endowing each serial number with
+flesh, blood, and soul.
 
 ---
 
@@ -69,14 +73,20 @@ deeply explores the everyday violence within official settings, endowing each se
 
 **English**
 
-1. **Birthday Death Theme**: Each protagonist dies on their birthday, creating strong ritualistic and tragic contrast
-2. **Full Rank Coverage**: Covers all military ranks (G, O, E, R, W), showing violence at different levels
-3. **Independent Unit Structure**: Each chapter is self-contained, can be read alone, connected by theme
-4. **Deep Character Exploration**: Endowing each employee with complete life background, dreams, and regrets
-5. **Enhanced Sensory Details**: Special emphasis on physical visual (fat-wrapped muscle, muscle groups) and olfactory
+1. **Birthday Death Theme**: Each protagonist dies on their birthday, creating strong ritualistic
+   and tragic contrast
+2. **Full Rank Coverage**: Covers all military ranks (G, O, E, R, W), showing violence at different
+   levels
+3. **Independent Unit Structure**: Each chapter is self-contained, can be read alone, connected by
+   theme
+4. **Deep Character Exploration**: Endowing each employee with complete life background, dreams, and
+   regrets
+5. **Enhanced Sensory Details**: Special emphasis on physical visual (fat-wrapped muscle, muscle
+   groups) and olfactory
    descriptions
 6. **Strict Worldview Consistency**: All characters are hermaphroditic male beastkin, pronouns "he"
-7. **AI Deep Commentary**: Each chapter includes AI-generated humanistic commentary, exploring character inner worlds
+7. **AI Deep Commentary**: Each chapter includes AI-generated humanistic commentary, exploring
+   character inner worlds
    and fate meaning
 8. **Rigorous Format Standards**: Fully compliant with Naming Guide v2.3.0 and Story Template v5.0
 
@@ -125,9 +135,11 @@ deeply explores the everyday violence within official settings, endowing each se
 
 **English**
 
-- Each protagonist dies on their birthday, a day that should be celebrated, creating strong sense of fate irony
+- Each protagonist dies on their birthday, a day that should be celebrated, creating strong sense of
+  fate irony
 - Explores theme of "meaningless death", showing individual渺小 within system
-- Amplifies suddenness and cruelty of death through daily details (buying cake, receiving gifts, celebrating)
+- Amplifies suddenness and cruelty of death through daily details (buying cake, receiving gifts,
+  celebrating)
 - Does not pursue heroism or grand narratives, focuses on破碎 moments of ordinary lives
 
 ---
@@ -143,13 +155,17 @@ deeply explores the everyday violence within official settings, endowing each se
 
 **English**
 
-- **Deep Commentary System**: Each chapter includes AI's humanistic thoughts on character fate, exploring "if he were
+- **Deep Commentary System**: Each chapter includes AI's humanistic thoughts on character fate,
+  exploring "if he were
   still alive" possibilities
-- **Enhanced Sensory Details**: AI-assisted generation of rich physical visual (fat-wrapped muscle, muscle contours) and
+- **Enhanced Sensory Details**: AI-assisted generation of rich physical visual (fat-wrapped muscle,
+  muscle contours) and
   olfactory descriptions (sweat, blood, semen, etc.)
-- **Emotional Resonance Mining**: Attempts to understand each character's inner world, endowing serial numbers with
+- **Emotional Resonance Mining**: Attempts to understand each character's inner world, endowing
+  serial numbers with
   personality and emotion
-- **Format Standard Assurance**: Ensures full compliance with project Naming Guide v2.3.0 and Story Template v5.0
+- **Format Standard Assurance**: Ensures full compliance with project Naming Guide v2.3.0 and Story
+  Template v5.0
 
 ---
 
@@ -165,10 +181,12 @@ deeply explores the everyday violence within official settings, endowing each se
 **English**
 
 - Fully compliant with Naming Guide v2.3.0, adopts "folder + internal chapters" standard structure
-- Unified navigation bar configuration: Return to work directory, Return to universe homepage, Return to project
+- Unified navigation bar configuration: Return to work directory, Return to universe homepage,
+  Return to project
   homepage
 - Standard metadata file configuration, containing complete work information
-- Each chapter uses unified commentary system format: 【Appearance State→Outcome State-Military Code-Number-Race-Name】
+- Each chapter uses unified commentary system format: 【Appearance State→Outcome State-Military
+  Code-Number-Race-Name】
 
 ---
 
@@ -210,7 +228,8 @@ deeply explores the everyday violence within official settings, endowing each se
 - **Large Trash Bins**: Standard method for corpse disposal, concrete symbol of system indifference
 - **White Long Socks**: Carrier of identity numbers, symbol of life being物化为 bounty
 - **Semen and Milk**: Final release of生命力, forms eerie contrast with death
-- **Military Uniforms**: Symbols of identity and fate, different colors represent different ways of death
+- **Military Uniforms**: Symbols of identity and fate, different colors represent different ways of
+  death
 
 ---
 
@@ -228,7 +247,8 @@ deeply explores the everyday violence within official settings, endowing each se
 
 **English**
 
-- Readers interested in Beastshield Universe, especially those wanting to understand daily life of various military
+- Readers interested in Beastshield Universe, especially those wanting to understand daily life of
+  various military
   ranks
 - Readers who enjoy dark realism themes, tragic aesthetics, everyday violence
 - Readers concerned with systemic violence, individual fate, social criticism
@@ -251,9 +271,12 @@ deeply explores the everyday violence within official settings, endowing each se
 
 1. **Read in Order**: Recommended to read in chapter order, experience gradual worldbuilding
 2. **Independent Units**: Each chapter is self-contained, can also read单独 stories of interest
-3. **Focus on Commentary**: Recommended to read "Story Commentary and Reflections" section for character depth
-4. **Sensory Immersion**: Try to engage sensory imagination while reading, experience multiple sensory descriptions
-5. **Thematic Thinking**: After each chapter, reflect on contrast between "birthday" and "death", and symbolic meaning
+3. **Focus on Commentary**: Recommended to read "Story Commentary and Reflections" section for
+   character depth
+4. **Sensory Immersion**: Try to engage sensory imagination while reading, experience multiple
+   sensory descriptions
+5. **Thematic Thinking**: After each chapter, reflect on contrast between "birthday" and "death",
+   and symbolic meaning
    of character fate
 
 ---
@@ -272,7 +295,8 @@ deeply explores the everyday violence within official settings, endowing each se
 
 - [Beastshield Universe Settings](../../../settings/1-recommended-canon/beastshield_setting_chinese.md)
 - [Work Naming Guide](../../../../../docs/work-naming-guide-chinese.md) (v2.3.0)
-- [Universal Story Template Guide](../../../../../docs/universal-story-template-guide-chinese.md) (v5.0)
+- [Universal Story Template Guide](../../../../../docs/universal-story-template-guide-chinese.md) (
+  v5.0)
 
 ---
 
@@ -280,17 +304,20 @@ deeply explores the everyday violence within official settings, endowing each se
 
 **中文**
 
-- **作品位置**: `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-birthday-deaths-of-uniforms/`
+- **作品位置**:
+  `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-birthday-deaths-of-uniforms/`
 - **作品性质**: 改编作品 (Adaptation Work)
 - **形式类型**: 支线分章故事 (Chaptered Side Story)
 - **晋升状态**: 符合晋升条件，完成足够章节后可申请纳入官方正史
 
 **English**
 
-- **Work Location**: `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-birthday-deaths-of-uniforms/`
+- **Work Location**:
+  `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-birthday-deaths-of-uniforms/`
 - **Work Nature**: Adaptation Work
 - **Form Type**: Chaptered Side Story
-- **Promotion Status**: Eligible for promotion, can apply to be included in official canon after completing sufficient
+- **Promotion Status**: Eligible for promotion, can apply to be included in official canon after
+  completing sufficient
   chapters
 
 ---
@@ -309,7 +336,8 @@ deeply explores the everyday violence within official settings, endowing each se
 **English**
 
 - **Series Conception**: Providing core ideas, thematic framework, character setting direction
-- **Creative Guidance**: Determining series tone, pursuit of tragic aesthetics, worldview consistency
+- **Creative Guidance**: Determining series tone, pursuit of tragic aesthetics, worldview
+  consistency
 - **Review & Optimization**: Ensuring story quality, emotional impact, logical coherence
 - **Format Standards**: Ensuring full compliance with project naming and format standards
 
@@ -331,13 +359,18 @@ deeply explores the everyday violence within official settings, endowing each se
 **Name**: DeepSeek (Latest Version)  
 **Contributions**:
 
-- **Story Expansion**: Expanding conceptual ideas into complete stories, enriching detail descriptions and emotional
+- **Story Expansion**: Expanding conceptual ideas into complete stories, enriching detail
+  descriptions and emotional
   layers
-- **Character Building**: Endowing each employee with deep background, life details, dreams and fears
-- **Commentary Writing**: Generating deep humanistic commentary, exploring character inner worlds and fate meaning
-- **Sensory Enhancement**: Enhancing physical visual (fat-wrapped muscle, muscle groups) and olfactory descriptions (
+- **Character Building**: Endowing each employee with deep background, life details, dreams and
+  fears
+- **Commentary Writing**: Generating deep humanistic commentary, exploring character inner worlds
+  and fate meaning
+- **Sensory Enhancement**: Enhancing physical visual (fat-wrapped muscle, muscle groups) and
+  olfactory descriptions (
   sweat, blood, semen, etc.)
-- **Format Standardization**: Ensuring full compliance with project Naming Guide v2.3.0 and Story Template v5.0
+- **Format Standardization**: Ensuring full compliance with project Naming Guide v2.3.0 and Story
+  Template v5.0
 
 ---
 
@@ -349,7 +382,8 @@ deeply explores the everyday violence within official settings, endowing each se
 text
 
 **English**
-Human Conception (Theme+Framework) → AI Expansion (Story+Details) → Human Review (Quality+Emotion) → AI Optimization (
+Human Conception (Theme+Framework) → AI Expansion (Story+Details) → Human Review (Quality+Emotion) →
+AI Optimization (
 Polishing+Standards) → Final Product
 
 text
@@ -362,7 +396,8 @@ text
 本系列的完整元数据信息，包含详细的创作信息、章节索引、角色关系、许可协议等，请查看：[metadata.yaml](./metadata.yaml)
 
 **English**  
-Complete metadata information for this series, including detailed creation info, chapter index, character relationships,
+Complete metadata information for this series, including detailed creation info, chapter index,
+character relationships,
 license, etc., please see: [metadata.yaml](./metadata.yaml)
 
 ---
@@ -405,10 +440,12 @@ license, etc., please see: [metadata.yaml](./metadata.yaml)
 
 ---
 
-> *"生日本该是庆祝生命的日子，但在兽盾，它往往成为生命的终点。每一个穿着制服死去的兽人，都曾有过生日，都曾有过明天。"*  
+> *"
+生日本该是庆祝生命的日子，但在兽盾，它往往成为生命的终点。每一个穿着制服死去的兽人，都曾有过生日，都曾有过明天。"*  
 > *—— AI评述摘录*
 >
-> *"Birthdays should be days to celebrate life, but in Beastshield, they often become life's endpoint. Every beastkin
+> *"Birthdays should be days to celebrate life, but in Beastshield, they often become life's
+endpoint. Every beastkin
 who died in uniform once had a birthday, once had a tomorrow."*  
 > *—— Excerpt from AI Commentary*
 
