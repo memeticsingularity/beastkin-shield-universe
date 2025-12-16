@@ -1,0 +1,39 @@
+# metadata.yaml for 《夜哨无声》
+work:
+  code: "bsp-o-c-001-g-277-green-bull-azhuang"
+  title:
+    chinese: "夜哨无声"
+    english: "Silent Night Watch"
+  format: "chaptered-story"
+  subtype: "side"
+  status: "completed"
+  location: "original-archives"
+  promotion_status: "eligible"
+  work_type: "adapted-expansion"
+  tags:
+    - "redemption"
+    - "rescue"
+    - "new-beginning"
+    - "adapted-from-dark"
+  inspiration_sources:
+    - type: "direct-adaptation"
+      original_code: "bs-o-s-006-night-raid"
+      description: "改编自《夜袭》，重构了核心情节"
+    - type: "world-element"
+      reference: "beastshield-setting"
+      description: "使用了兽盾世界观元素"
+
+creation:
+  author: "memetic-singularity"
+  start_date: "2025-12-15"
+  last_update: "2025-12-15"
+  universe_based_on: "beastshield-paradise"
+  adaptation_info:
+    original_work: "bs-o-s-006-night-raid"
+    original_title: "夜袭"
+    adaptation_approach: "theme-inversion"
+    key_changes: |
+      1. 主角从施虐者变为救赎者
+      2. 主题从黑暗猎奇变为温柔治愈
+      3. 结局从死亡变为新生
+      4. 新增完整的前传与后日谈章节

@@ -22,3 +22,8 @@ structure
 # 但不忽略.gitkeep文件，即使它在structure目录中
 # But do not ignore .gitkeep files, even if they are in structure directories
 !structure/.gitkeep
+
+# 06 **/*prompt*
+# 忽略任何深度下，文件名包含prompt的文件
+# Ignore files with names containing prompt at any depth
+**/prompt*
