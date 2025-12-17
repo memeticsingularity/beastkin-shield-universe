@@ -435,11 +435,11 @@ new world module under `worlds/`.
 3. **Comprehensive Commentary System Upgrade**:
     - Introduced state tag system: 【Appearance State→Outcome State-Troop Code-Number-Race-Name】
     - Requires deep humanized commentary: Explore each character's life, dreams, regrets
-   - **Enhanced sensory detail description**: Emphasize beastmen's fat-wrapped muscle, muscle
-     groups, sweat scent and
+    - **Enhanced sensory detail description**: Emphasize beastmen's fat-wrapped muscle, muscle
+      groups, sweat scent and
       other sensory details
-   - **Fit male beastmen worldbuilding**: All characters are hermaphroditic male beastmen, pronouns
-     are "he", male-male
+    - **Fit male beastmen worldbuilding**: All characters are hermaphroditic male beastmen, pronouns
+      are "he", male-male
       reproduction
 
 4. **Default Configuration Adjustment**:
@@ -495,8 +495,8 @@ new world module under `worlds/`.
 
 3. **Project Structure**:
     - Project Structure Guide: [project-structure-guide.md](../docs/project-structure-guide.md)
-   - Generate Structure Script: [generate_structure.bat](../scripts/generate_structure.bat) (
-     Windows)
+    - Generate Structure Script: [generate_structure.bat](../scripts/generate_structure.bat) (
+      Windows)
       or [generate_structure.sh](../scripts/generate_structure.sh) (Linux/macOS)
 
 4. **Worldbuilding Settings**:

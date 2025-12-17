@@ -522,10 +522,10 @@ A: Quickly identify from file names:
 
 - **2025-12-13 v2.1.1**: Clarified adaptation work promotion pathways and positioning
     - Added core concept definitions section.
-  - Clarified two promotion pathways for adaptation works: promotion to official original work or
-    independent world.
-    - Added promotion status field to metadata.
-    - Updated FAQ with adaptation work promotion-related questions.
+    - Clarified two promotion pathways for adaptation works: promotion to official original work or
+      independent world.
+        - Added promotion status field to metadata.
+        - Updated FAQ with adaptation work promotion-related questions.
 
 - **2025-12-13 v2.1.0**: Updated according to latest project structure, unified naming formats for
   all work types
