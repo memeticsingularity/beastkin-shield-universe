@@ -23,20 +23,26 @@
 
 **Adult Content Warning / 18+ Only**
 
-This work contains a significant amount of adult-oriented content. Please be fully aware before reading:
+This work contains a significant amount of adult-oriented content. Please be fully aware before
+reading:
 
-- **Violence and Combat Descriptions**: Includes detailed scenes of gunfights, brawls, executions, torture, kills, and
+- **Violence and Combat Descriptions**: Includes detailed scenes of gunfights, brawls, executions,
+  torture, kills, and
   specialized "ejaculation executions".
-- **Sexual Implications and Explicit Sexual Content**: Involves the physiological traits of modified soldiers,
+- **Sexual Implications and Explicit Sexual Content**: Involves the physiological traits of modified
+  soldiers,
   sexual-stimulation executions, forced acts, semen consumption, etc.
-- **Dark and Brutal Narrative**: Includes heavy themes such as power oppression, human experimentation, genetic
+- **Dark and Brutal Narrative**: Includes heavy themes such as power oppression, human
+  experimentation, genetic
   modification, betrayal, revenge, and civilization annihilation.
-- **Scenes That May Cause Discomfort**: Including but not limited to corpse disposal, physiological humiliation,
+- **Scenes That May Cause Discomfort**: Including but not limited to corpse disposal, physiological
+  humiliation,
   ejaculation at death, semen as an energy source, etc.
 
 **Recommended Reader Age: 18+**
 
-All content is fictional, created to build dramatic conflict within a dark sci-fi setting. Do not imitate or carry out
+All content is fictional, created to build dramatic conflict within a dark sci-fi setting. Do not
+imitate or carry out
 any similar actions in reality.
 
 ---
@@ -45,7 +51,8 @@ any similar actions in reality.
 
 《帝国万岁》是一部由**虎涂**创作的**黑暗科幻军事题材长篇网络小说**，是"基尅兵宇宙"的核心作品。
 
-本作构建了一个由**皇帝陛下**统治的星际帝国，其核心武力是通过基因改造与纳米科技制造出的**基尅兵**。故事围绕多个关键角色与事件展开：
+本作构建了一个由**皇帝陛下**统治的星际帝国，其核心武力是通过基因改造与纳米科技制造出的**基尅兵**
+。故事围绕多个关键角色与事件展开：
 
 - **皇帝陛下**：被封印了三十万年的远古魔王，致力于集齐六把钥匙恢复完全体力量。
 - **虎猛**：从黑袜兵晋升至蓝袜兵大队长的虎兽人，深受皇帝与白狼长官宠爱，在忠诚与任务中挣扎成长的核心角色。
@@ -64,35 +71,51 @@ any similar actions in reality.
 
 ## 📖 About This Work
 
-*Long Live the Empire* is a **dark sci-fi military web novel** created by **Hu Tu**, serving as the cornerstone work of
+*Long Live the Empire* is a **dark sci-fi military web novel** created by **Hu Tu**, serving as the
+cornerstone work of
 the "Kiki Soldier Universe".
 
-The story builds an interstellar empire ruled by **His Majesty the Emperor**, whose core military force consists of *
-*Kiki Soldiers** created through genetic modification and nanotechnology. The narrative revolves around several key
+The story builds an interstellar empire ruled by **His Majesty the Emperor**, whose core military
+force consists of *
+*Kiki Soldiers** created through genetic modification and nanotechnology. The narrative revolves
+around several key
 characters and plotlines:
 
-- **His Majesty the Emperor**: An ancient demon king sealed away 300,000 years ago, striving to gather six keys to
+- **His Majesty the Emperor**: An ancient demon king sealed away 300,000 years ago, striving to
+  gather six keys to
   restore his complete power.
-- **Hu Meng**: A tiger beastman who rises from a Black Sock soldier to a Blue Sock Battalion Commander, cherished by
-  both the Emperor and Commander White Wolf. He is the central character struggling with loyalty and duty as he grows.
-- **The Hero**: A panda beastman who sealed the demon king 300,000 years ago, awakens in the present era to stop him
+- **Hu Meng**: A tiger beastman who rises from a Black Sock soldier to a Blue Sock Battalion
+  Commander, cherished by
+  both the Emperor and Commander White Wolf. He is the central character struggling with loyalty and
+  duty as he grows.
+- **The Hero**: A panda beastman who sealed the demon king 300,000 years ago, awakens in the present
+  era to stop him
   again, only to gradually uncover shocking truths about his own identity.
-- **White Sock Officers like White Wolf and Black Bear**: The Empire's elite commanders, each executing critical key
+- **White Sock Officers like White Wolf and Black Bear**: The Empire's elite commanders, each
+  executing critical key
   retrieval and military missions.
-- **The Key Retrieval Arc**: The search for six keys that seal the Emperor's ancient power, encountering deadly traps
+- **The Key Retrieval Arc**: The search for six keys that seal the Emperor's ancient power,
+  encountering deadly traps
   left by the ancient Hero specifically targeting Kiki Soldier weaknesses.
-- **The Colonization and Conquest Arc**: The Imperial fleet descends upon a primitive planet, conquers the Wolfraff
+- **The Colonization and Conquest Arc**: The Imperial fleet descends upon a primitive planet,
+  conquers the Wolfraff
   Kingdom, establishes colonial bases, and cultivates a new generation of Kiki Soldiers.
-- **Internal Conflict Arc**: The hierarchical system among Kiki Soldiers, internal punishments ("ejaculation kills"),
+- **Internal Conflict Arc**: The hierarchical system among Kiki Soldiers, internal punishments ("
+  ejaculation kills"),
   betrayal, and revenge.
-- **The Truth Arc**: The 300,000-year-old grudge between the Hero and the Demon King, and the ultimate truth about the
+- **The Truth Arc**: The 300,000-year-old grudge between the Hero and the Demon King, and the
+  ultimate truth about the
   cycle of civilization and the identity of the creator.
 
-The work blends elements such as **interstellar warfare, genetic modification, dark rule, ancient secrets, and a
-sexually-suggestive combat system**, constructing a cruel, grand, and logically consistent sci-fi world.
+The work blends elements such as **interstellar warfare, genetic modification, dark rule, ancient
+secrets, and a
+sexually-suggestive combat system**, constructing a cruel, grand, and logically consistent sci-fi
+world.
 
-"Ejaculation kill" (撸杀), as a signature setting of this work, serves not only as the Empire's brutal method of
-managing Kiki Soldiers but also as a fatal weakness in combat. It is deeply intertwined with the ancient power system,
+"Ejaculation kill" (撸杀), as a signature setting of this work, serves not only as the Empire's
+brutal method of
+managing Kiki Soldiers but also as a fatal weakness in combat. It is deeply intertwined with the
+ancient power system,
 forming a unique dark aesthetic.
 
 ---
@@ -145,7 +168,8 @@ The complete work consists of **113 chapters**, divided into **7 volumes**, stru
 #### Volume 1: Awakening Claws (Ch. 01-18)
 
 **Core**: Hu Meng's birth as a Kiki Soldier, his first missions, and promotion to Green Sock.
-**Summary**: Awakens from the cultivation pod, experiences his first ejaculation kill and retrieval missions, is
+**Summary**: Awakens from the cultivation pod, experiences his first ejaculation kill and retrieval
+missions, is
 promoted to squad leader, becomes White Wolf's slave, and receives his Green Sock promotion.
 
 ---
@@ -159,8 +183,10 @@ promoted to squad leader, becomes White Wolf's slave, and receives his Green Soc
 
 #### Volume 2: Bloodline Branding (Ch. 19-30)
 
-**Core**: Delving deeper into the Imperial power structure, encountering secrets, and meeting the Emperor.
-**Summary**: Patrols the inner circle, witnesses mine suppression and secret experiments, is promoted to Blue Sock,
+**Core**: Delving deeper into the Imperial power structure, encountering secrets, and meeting the
+Emperor.
+**Summary**: Patrols the inner circle, witnesses mine suppression and secret experiments, is
+promoted to Blue Sock,
 investigates Base 16, and witnesses the downfall of White Sock Tiger Noah.
 
 ---
@@ -175,7 +201,8 @@ investigates Base 16, and witnesses the downfall of White Sock Tiger Noah.
 #### Volume 3: Shadow Disguise (Ch. 31-41)
 
 **Core**: Executing an undercover mission, struggling with a dual identity.
-**Summary**: Implanted with false memories, infiltrates the resistance as "Black Tiger," relays intelligence, and
+**Summary**: Implanted with false memories, infiltrates the resistance as "Black Tiger," relays
+intelligence, and
 participates in rebellion plans.
 
 ---
@@ -190,7 +217,8 @@ participates in rebellion plans.
 #### Volume 4: Return and Promotion (Ch. 42-57)
 
 **Core**: Conclusion of undercover work, return to the Empire, promotion to Beast Captain.
-**Summary**: Destroys a watchtower, has his cover blown and is recalled, endures punishment and trials, and is
+**Summary**: Destroys a watchtower, has his cover blown and is recalled, endures punishment and
+trials, and is
 personally promoted by the Emperor to Blue Sock Battalion Commander and Beast Captain.
 
 ---
@@ -205,8 +233,10 @@ personally promoted by the Emperor to Blue Sock Battalion Commander and Beast Ca
 #### Volume 5: Colonial Storm (Ch. 58-75)
 
 **Core**: Interstellar expedition, establishing colonial footholds, suppressing rebellions.
-**Summary**: Leads beast troops to conquer a village on a new planet, participates in city conquest and modification,
-suppresses village chief rebellions, encounters revenge from Grey Sock soldiers, and witnesses the death of Commander
+**Summary**: Leads beast troops to conquer a village on a new planet, participates in city conquest
+and modification,
+suppresses village chief rebellions, encounters revenge from Grey Sock soldiers, and witnesses the
+death of Commander
 Black Bear during a key mission.
 
 ---
@@ -221,8 +251,10 @@ Black Bear during a key mission.
 #### Volume 6: Key Wars & Base Defense (Ch. 76-88)
 
 **Core**: Key retrieval missions intensify; the Hero appears and attacks for the first time.
-**Summary**: White Wolf retrieves the third key; Black Bear's squad is wiped out in a carbonated spring; the Emperor
-personally retrieves the fourth key. The Hero infiltrates Kaka City and the Hive Base, severely injuring Hu Meng. The
+**Summary**: White Wolf retrieves the third key; Black Bear's squad is wiped out in a carbonated
+spring; the Emperor
+personally retrieves the fourth key. The Hero infiltrates Kaka City and the Hive Base, severely
+injuring Hu Meng. The
 Emperor awakens, escalating the conflict.
 
 ---
@@ -230,16 +262,20 @@ Emperor awakens, escalating the conflict.
 #### 第七卷：冲突升级与真相揭露 | Vol. 7: Escalation & Truth (Ch. 89-113)
 
 **核心**：全面战争，钥匙集齐，真相揭露，文明终结。
-**概要**：勇者频繁袭击基地，吞噬精液恢复力量。皇帝惩罚白狼，复活并晋升虎猛。双方在多条战线激战。皇帝集齐六把钥匙，吞噬勇者（基兽001号），揭露上古真相，启动行星级飞船摧毁星球文明，建立永恒帝国。
+**概要**
+：勇者频繁袭击基地，吞噬精液恢复力量。皇帝惩罚白狼，复活并晋升虎猛。双方在多条战线激战。皇帝集齐六把钥匙，吞噬勇者（基兽001号），揭露上古真相，启动行星级飞船摧毁星球文明，建立永恒帝国。
 
 ---
 
 #### Volume 7: Escalation & Truth (Ch. 89-113)
 
 **Core**: All-out war, gathering of all keys, revelation of truth, and the end of civilization.
-**Summary**: The Hero frequently attacks bases, consuming semen to regain strength. The Emperor punishes White Wolf,
-revives and promotes Hu Meng. Both sides clash on multiple fronts. The Emperor gathers all six keys, devours the Hero (
-Beast 001), reveals the ancient truth, activates a planet-scale starship to destroy the planet's civilization, and
+**Summary**: The Hero frequently attacks bases, consuming semen to regain strength. The Emperor
+punishes White Wolf,
+revives and promotes Hu Meng. Both sides clash on multiple fronts. The Emperor gathers all six keys,
+devours the Hero (
+Beast 001), reveals the ancient truth, activates a planet-scale starship to destroy the planet's
+civilization, and
 establishes the Eternal Empire.
 
 ---
@@ -249,9 +285,12 @@ establishes the Eternal Empire.
 #### **1. 原作版权与性质**
 
 - 本分区所有内容，均基于以下作者原创作品进行的二次创作、学术性解构与叙事重构。
-- 原作包含大量成人内容 (R18)，涉及 **极端暴力、军事化性控制、精神操控及身体工具化** 等黑暗主题。原作本身为 **限制级创作**。
-- 本档案库的重点并非复现或传播这些成人内容，而是试图从中提取一种极端的社会学样本，并探讨在虚构语境下，灵魂于绝对压迫中重获"
-  人性"的可能性。
+- 原作包含大量成人内容 (R18)，涉及 **极端暴力、军事化性控制、精神操控及身体工具化** 等黑暗主题。原作本身为
+  **限制级创作**。
+-
+
+本档案库的重点并非复现或传播这些成人内容，而是试图从中提取一种极端的社会学样本，并探讨在虚构语境下，灵魂于绝对压迫中重获"
+人性"的可能性。
 
 ---
 
@@ -259,13 +298,18 @@ establishes the Eternal Empire.
 
 #### **1. Original Copyright and Nature**
 
-- All content in this section is based on the original works of the authors listed below, involving secondary creation,
+- All content in this section is based on the original works of the authors listed below, involving
+  secondary creation,
   academic deconstruction, and narrative reconstruction.
-- The original works contain a significant amount of adult content (R18), involving dark themes such as **extreme
-  violence, militarized sexual control, psychological manipulation, and bodily instrumentalization**. The original works
+- The original works contain a significant amount of adult content (R18), involving dark themes such
+  as **extreme
+  violence, militarized sexual control, psychological manipulation, and bodily instrumentalization
+  **. The original works
   themselves are **restricted creative works**.
-- The focus of this archive is **not** to reproduce or disseminate this adult content, but rather to attempt to extract
-  an extreme sociological sample from it and explore, within a fictional context, the possibility of the soul
+- The focus of this archive is **not** to reproduce or disseminate this adult content, but rather to
+  attempt to extract
+  an extreme sociological sample from it and explore, within a fictional context, the possibility of
+  the soul
   regaining "humanity" under absolute oppression.
 
 ---
@@ -282,10 +326,13 @@ establishes the Eternal Empire.
 #### **2. Positioning of Content in This Section**
 
 - **Genre**: Serious derivative fan works, world-view deconstruction, character arc reshaping.
-- **Core Themes**: **Identity stripping and reconstruction, analysis of systemic violence, post-traumatic resilience,
+- **Core Themes**: **Identity stripping and reconstruction, analysis of systemic violence,
+  post-traumatic resilience,
   and narrative experiments in "healing-oriented" storytelling that transcend the original text.**
-- **Content Warning**: Despite undergoing sanitization and redirection, the foundational settings under discussion still
-  involve **oppression, body politics, involuntary modification, and death mechanisms**. Readers are advised to assess
+- **Content Warning**: Despite undergoing sanitization and redirection, the foundational settings
+  under discussion still
+  involve **oppression, body politics, involuntary modification, and death mechanisms**. Readers are
+  advised to assess
   their own tolerance levels before proceeding.
 
 ---
@@ -302,7 +349,8 @@ establishes the Eternal Empire.
 | **Bilibili** | **精神凌迟**  | [个人空间](https://space.bilibili.com/15904196)                               | 世界观深度拓展与视觉化呈现 |
 | **小红书**      | **黑虎虎涂**  | [用户主页](https://www.xiaohongshu.com/user/profile/6787bd26000000000803c73b) | 角色设计与氛围营造     |
 
-> **请注意**：本档案库与原作作者 **无直接关联**，亦非官方设定。这是一个由读者发起、出于深度热爱与思考的 **同人学术项目**。
+> **请注意**：本档案库与原作作者 **无直接关联**，亦非官方设定。这是一个由读者发起、出于深度热爱与思考的
+**同人学术项目**。
 
 ---
 
@@ -310,7 +358,8 @@ establishes the Eternal Empire.
 
 #### **Credits to the Original Authors**
 
-The foundation for all the darkness and brilliance of this world originates from the creations of the following authors:
+The foundation for all the darkness and brilliance of this world originates from the creations of
+the following authors:
 
 | Platform         | Author/Translator     | Link                                                                              | Main Contribution                              |
 |:-----------------|:----------------------|:----------------------------------------------------------------------------------|:-----------------------------------------------|
@@ -318,8 +367,10 @@ The foundation for all the darkness and brilliance of this world originates from
 | **Bilibili**     | **Mental Lingchi**    | [Personal Space](https://space.bilibili.com/15904196)                             | In-depth Worldview Expansion and Visualization |
 | **Xiaohongshu**  | **Black Tiger Hu Tu** | [User Profile](https://www.xiaohongshu.com/user/profile/6787bd26000000000803c73b) | Character Design and Atmosphere Creation       |
 
-> **Please Note**: This archive has **no direct affiliation** with the original authors, nor is it an official setting.
-> This is a **fan-based academic project** initiated by readers out of deep appreciation and reflection.
+> **Please Note**: This archive has **no direct affiliation** with the original authors, nor is it
+> an official setting.
+> This is a **fan-based academic project** initiated by readers out of deep appreciation and
+> reflection.
 
 ---
 
@@ -328,26 +379,35 @@ The foundation for all the darkness and brilliance of this world originates from
 《帝国万岁》不仅是一个背景，它本身就是一个 **巨大的反乌托邦角色**。它提出了一系列极端假设：
 
 1. **效率至上的代价**：当一个社会将"生命"完全视为可计算、可消耗、可回收的 **资源**，其道德与情感的边界何在？
-2. **控制的技术**：通过 **生物芯片、服饰（如军袜）、阶级标识与生理弱点绑定** 等手段，实现从思想到身体、从出生到死亡的绝对掌控，其技术哲学与伦理为何？
+2. **控制的技术**：通过 **生物芯片、服饰（如军袜）、阶级标识与生理弱点绑定**
+   等手段，实现从思想到身体、从出生到死亡的绝对掌控，其技术哲学与伦理为何？
 3. **扭曲的荣誉体系**：在"忠诚"、"纪律"、"奉献"的宏大叙事下，系统性的羞辱与消耗如何被合理化？
-4. **"人"的消解与重构**：当个体被剥夺姓名、记忆、选择权，甚至定义痛苦与快乐的权利后，何以为"人"？又该如何重新找回"自我"的坐标？
+4. **"人"的消解与重构**：当个体被剥夺姓名、记忆、选择权，甚至定义痛苦与快乐的权利后，何以为"人"
+   ？又该如何重新找回"自我"的坐标？
 
 ---
 
 ### 🏛️ Core Worldview Theses
 
-*Long Live the Empire* is not merely a backdrop; it is itself a **massive dystopian character**. It posits a series of
+*Long Live the Empire* is not merely a backdrop; it is itself a **massive dystopian character**. It
+posits a series of
 extreme hypotheses:
 
-1. **The Cost of Efficiency Supremacy**: When a society completely regards "life" as a calculable, consumable, and
+1. **The Cost of Efficiency Supremacy**: When a society completely regards "life" as a calculable,
+   consumable, and
    recyclable **resource**, where do the boundaries of its morality and emotion lie?
-2. **The Technology of Control**: Through means such as **biochips, clothing (e.g., military socks), class identifiers
-   linked to physiological weaknesses**, achieving absolute control from thought to body, from birth to death—what is
+2. **The Technology of Control**: Through means such as **biochips, clothing (e.g., military socks),
+   class identifiers
+   linked to physiological weaknesses**, achieving absolute control from thought to body, from birth
+   to death—what is
    its technological philosophy and ethics?
-3. **The Distorted Honor System**: Under the grand narratives of "loyalty," "discipline," and "sacrifice," how is
+3. **The Distorted Honor System**: Under the grand narratives of "loyalty," "discipline," and "
+   sacrifice," how is
    systemic humiliation and consumption rationalized?
-4. **The Dissolution and Reconstruction of "Personhood"**: When an individual is stripped of their name, memory, right
-   to choose, and even the right to define pain and pleasure, what constitutes a "person"? And how does one rediscover
+4. **The Dissolution and Reconstruction of "Personhood"**: When an individual is stripped of their
+   name, memory, right
+   to choose, and even the right to define pain and pleasure, what constitutes a "person"? And how
+   does one rediscover
    the coordinates of the "self"?
 
 ---
@@ -415,7 +475,8 @@ We gaze into it not to identify with its darkness, but to see more clearly:
 
 - **署名** — 您必须给出适当的署名，提供指向本许可协议的链接，并**标明是否对原始作品作了修改**。
 - **非商业性使用** — 您不得将本作品用于商业目的。
-- **相同方式共享** — 如果您再混合、转换或者基于本作品进行创作，您必须基于**与原先许可协议相同的许可协议**分发您贡献的作品。
+- **相同方式共享** — 如果您再混合、转换或者基于本作品进行创作，您必须基于**与原先许可协议相同的许可协议
+  **分发您贡献的作品。
 
 **完整许可证文本**：
 [Creative Commons 官方网站](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
@@ -424,7 +485,8 @@ We gaze into it not to identify with its darkness, but to see more clearly:
 
 ## ⚖️ License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License**.
 
 **You are free to**:
 
@@ -433,10 +495,12 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 
 **Under the following terms**:
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and **indicate if changes were made
+- **Attribution** — You must give appropriate credit, provide a link to the license, and **indicate
+  if changes were made
   **.
 - **NonCommercial** — You may not use the material for commercial purposes.
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your
+  contributions under the
   **same license** as the original.
 
 **Full license text**:
