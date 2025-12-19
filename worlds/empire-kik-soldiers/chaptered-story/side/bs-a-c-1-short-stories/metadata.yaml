@@ -1,0 +1,140 @@
+# metadata.yaml - 针对《雪夜岗哨》故事的元数据
+
+work:
+  code: "eks-o-s-1-snowy-watchtower"
+  title:
+    chinese: "雪夜岗哨"
+    english: "Snowy Watchtower"
+  format: "short-story"
+  form_type: "s"
+  status: "completed"
+  location: "chaptered-story/side/eks-o-s-1-snowy-watchtower"
+  
+  # 故事描述
+  description:
+    chinese: |
+      一个关于帝国基尅兵B-23107在雪山哨塔执勤的独立短篇。故事描绘了基尅兵在严格纪律与生理本能之间的挣扎，以及帝国冰冷高效的回收系统。
+    english: |
+      A standalone short story about Empire Kik soldier B-23107 on duty in a snowy watchtower. The story depicts the struggle between strict discipline and physiological instincts, and the Empire's cold, efficient recycling system.
+  
+  # 标签
+  tags:
+    - "kik-soldiers"
+    - "empire-military"
+    - "dark-fantasy"
+    - "snow-setting"
+    - "beastkin"
+    - "military-discipline"
+    - "physiological-struggle"
+    - "death-and-recycling"
+    - "standalone-story"
+  
+  # 内容分级与警告
+  content_rating: "R18"
+  content_warnings:
+    - "graphic-violence"
+    - "sexual-content"
+    - "death"
+    - "body-horror"
+    - "medical-procedures"
+    - "psychological-distress"
+  
+  # 阅读统计
+  reading_time_estimate:
+    minutes: 30
+  word_count_estimate: 12000
+  
+  # 目标受众
+  target_audience: "adult"
+  
+  # 在系列中的位置
+  series_position: 1
+  is_standalone: true
+  
+  # 推广状态
+  promotion_status: "featured"
+
+creation:
+  author: "DeepSeek"
+  start_date: "2025-12-19"
+  last_update: "2025-12-19"
+  universe_based_on: "empire-kik-soldiers"
+  original_code: "eks-o-s-1-snowy-watchtower"
+  
+  # 创作说明
+  creation_notes: |
+    这个故事是根据《帝国万岁》世界观设定创作的独立短篇。
+    重点展现了基尅兵制度的残酷性、生理控制机制，以及帝国的资源循环系统。
+    旨在通过一个普通基尅兵的视角，展现世界观中"工具化生命"的主题。
+  
+  # 许可信息
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  
+  # 版本历史
+  revision_history:
+    - version: "1.0"
+      date: "2025-12-19"
+      changes: "初始创作版本"
+  
+  # 关联作品
+  related_works:
+    - code: "eks-o-cm-1-41"
+      title: "帝国万岁主线（1-41章）"
+      relation: "同一世界观"
+    - code: "eks-o-s-2"
+      title: "待创作的下一篇独立短篇"
+      relation: "同一系列"
+
+characters:
+  # 主要角色
+  - name: "B-23107"
+    role: "主角"
+    description: "狼兽人基尅兵，编号B-23107，在雪山哨塔执勤时因生理违规被处决"
+    status: "已死亡"
+
+  - name: "G-43011"
+    role: "执行者"
+    description: "雪豹兽人绿袜队长，编号G-43011，严格执行帝国军规，负责处置违规基尅兵"
+    status: "存活"
+
+  - name: "D-77022"
+    role: "解剖员"
+    description: "犬兽人医生，编号D-77022，负责基尅兵尸体的解剖和回收工作"
+    status: "存活"
+
+settings:
+  primary_setting: "雪山哨塔"
+  time_period: "帝国历208年1月"
+  locations:
+    - "雪山哨塔观察哨"
+    - "哨塔回收室"
+    - "哨塔大厅与走廊"
+    - "焚烧炉区域"
+
+themes:
+  - "纪律与本能的对立"
+  - "生命的工具化"
+  - "系统的冷酷效率"
+  - "资源的循环利用"
+  - "等级与权威"
+
+statistics:
+  death_count: 1
+  kik_soldiers_featured: 3
+  pages: 15
+  scenes: 12
+
+# 文件信息
+files:
+  main_story: "ch-1-snowy-watchtower.md"
+  metadata: "metadata.yaml"
+  template_used: "eks-story-template-chinese.md"
+  directory_structure: |
+    worlds/empire-kik-soldiers/
+    └── chaptered-story/
+        └── side/
+            └── eks-o-s-1-snowy-watchtower/
+                ├── ch-1-snowy-watchtower.md
+                └── metadata.yaml
