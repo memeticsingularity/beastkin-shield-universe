@@ -128,7 +128,7 @@ statistics:
 
 # 文件信息
 files:
-  main_story: "ch-1-snowy-watchtower.md"
+  main_story: "ch-1-feng-and-shuoshi.md"
   metadata: "metadata.yaml"
   template_used: "eks-story-template-chinese.md"
   directory_structure: |
