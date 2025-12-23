@@ -1,0 +1,27 @@
+### 20240715
+
+小说更新
+
+#### G-Bull 绿制服牛兽人
+
+![ch-11.jpg](ch-11.jpg)
+
+### 20240723
+
+小说配图画完
+
+#### E-Bear 黑制服熊兽人
+
+![ch-12-1.jpg](../main-story/ch-12-1.jpg)
+
+![ch-12-2.jpg](../main-story/ch-12-2.jpg)
+
+### 20240728
+
+小说摸鱼图 完整版
+
+#### E-Bear 黑制服熊兽人
+
+![ch-12-3.jpg](../main-story/ch-12-3.jpg)
+
+![ch-12-4.jpg](../main-story/ch-12-4.jpg)

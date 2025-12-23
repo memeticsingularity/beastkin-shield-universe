@@ -1,38 +1,166 @@
-### 20210223
+#### 20210516
+
+白虎特工进行潜入敌军基地任务 制服巡逻守卫拖进阴暗角落悄悄解决掉
+
+#### G-Dog 绿制服狗兽人
+
+![202105161.png](g-dog/20210516.png)
+
+### 20230601
+
+战败后被丢弃在角落的摔跤手们～
+
+#### W-Bear 摔跤兵熊兽人
+
+### 20230627
+
+战败后被丢弃在角落的摔跤手们～
+
+#### W-Bear 摔跤兵熊兽人
+
+![20230627.jpg](w-bear/20230627.jpg)
+
+### 20230629
+
+英雄又又又又战败了
+
+#### W-Bear 摔跤兵虎兽人
+
+![20230629.jpg](w-tiger/20230629.jpg)
+
+### 20230823
+
+中毒的犀牛守卫
+
+#### G-Rhino 绿制服犀牛兽人
+
+![20230823-1.jpg](g-rhino/20230823-1.jpg)
+
+![20230823-2.jpg](g-rhino/20230823-2.jpg)
+
+![20230823-3.jpg](g-rhino/20230823-3.jpg)
+
+### 20230928
+
+特工图文教程:
+
+对付话多的敌人推荐使用以下处决方式
+
+#### G-Tiger 绿制服虎兽人
+
+![20230928.jpg](o-tiger/20230928.jpg)
+
+### 20231012
+
+摸鱼
+
+#### G-Dog 绿制服狗兽人
+
+![20231012.jpg](g-dog/20231012.jpg)
+
+### 20231013
+
+捕捉军犬
+
+#### G-Dog 绿制服狗兽人
+
+![20231013.jpg](g-dog/20231013.jpg)
+
+### 20231030
+
+不正经的潜入摸哨～
+
+#### G-Tiger 绿制服虎兽人
+
+![20231030.jpg](g-tiger/20231030.jpg)
+
+### 20231031
+
+找个街机游戏贴图贴了个小怪杂兵被清理后的场景图 哈哈 要是真有这样的游戏就好了
+
+#### G-Bear 绿制服熊兽人
+
+![20231031.jpg](g-bear/20231031.jpg)
+
+### 20231101
+
+监控室守卫被摸哨（正常版和里世界观版）
+
+#### O-Tiger 蓝制服虎兽人
+
+![20231101-1.jpg](o-tiger/20231101-1.jpg)
+
+![20231101-2.jpg](o-tiger/20231101-2.jpg)
+
+### 20231108
+
+摸鱼
+
+#### G-Bear 绿制服熊兽人
+
+![20231030.jpg](e-tiger/20231030.jpg)
+
+### 20231110
+
+打包的俘虏～
+
+#### G-Bear 绿制服熊兽人
+
+![20231110.jpg](g-bear/20231110.jpg)
+
+### 20231115
+
+摸鱼
+
+#### G-Bear 绿制服熊兽人
+
+![20231115.jpg](g-bear/20231115.jpg)
+
+### 20240105
+
+在厕所里发现了失踪的熊熊守卫们
+
+（划重点:这些不是熊宝！）
+
+#### G-Bear 绿制服熊兽人
+
+![20240105.jpg](g-bear/20240105.jpg)
+
+### 20240223
 
 哪个比较好看
 
 #### E-Tiger 黑制服虎兽人
 
-![e-tiger-1.jpg](e-tiger/e-tiger-1.jpg)
+![20240223.jpg](e-tiger/20240223.jpg)
 
 #### O-Tiger 蓝制服虎兽人
 
-![o-tiger-1.jpg](o-tiger/o-tiger-1.jpg)
+![20240223.jpg](o-tiger/20240223.jpg)
 
-#### 20210516
+### 20240226
 
-白虎特工进行潜入敌军基地任务 制服巡逻守卫拖进阴暗角落悄悄解决掉
+摸鱼图
 
-#### G-Lion 绿制服狮兽人
+#### G-Bear 绿制服熊兽人
 
-![g-lion-1.png](g-lion-1.png)
+![20240226.jpg](g-bear/20240226.jpg)
 
 ### 20240306
 
 睡觉的叔叔们～
 
-#### O-Bear 绿制服熊兽人
+#### O-Bear 蓝制服熊兽人
 
-![o-bear-1.jpg](o-bear-1.jpg)
+![20240306.jpg](o-bear/20240306.jpg)
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-17.jpg](e-bear/e-bear-17.jpg)
+![20240306.jpg](e-bear/20240306.jpg)
 
 #### R-Bear 白制服熊兽人
 
-![r-bear-1.jpg](r-bear-1.jpg)
+![20240306.jpg](r-bear/20240306.jpg)
 
 ### 20240306
 
@@ -40,7 +168,7 @@
 
 #### O-Tiger 蓝制服虎兽人
 
-![o-tiger-2.jpg](o-tiger/o-tiger-2.jpg)
+![20240306.jpg](o-tiger/20240306.jpg)
 
 ### 20240314
 
@@ -48,9 +176,9 @@
 
 #### G-Tiger 绿制服虎兽人
 
-![g-tiger-7.jpg](g-tiger/g-tiger-7.jpg)
+![20240314-1.jpg](g-tiger/20240314-1.jpg)
 
-![g-tiger-8.jpg](g-tiger/g-tiger-8.jpg)
+![20240314-2.jpg](g-tiger/20240314-2.jpg)
 
 ### 20240315
 
@@ -58,7 +186,7 @@
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-16.jpg](e-bear/e-bear-16.jpg)
+![20240315.jpg](e-bear/20240315.jpg)
 
 ### 20240318
 
@@ -66,7 +194,7 @@
 
 #### G-Bull 绿制服牛兽人
 
-![g-bull-2.jpg](g-bull/g-bull-2.jpg)
+![20240318.jpg](g-bull/20240318.jpg)
 
 ### 20240320
 
@@ -78,9 +206,9 @@ end～
 
 #### R-Dog 白制服狗兽人
 
-![r-dog-1.jpg](r-dog/r-dog-1.jpg)
+![20240320-1.jpg](r-dog/20240320-1.jpg)
 
-![r-dog-2.jpg](r-dog/r-dog-2.jpg)
+![20240320-2.jpg](r-dog/20240320-2.jpg)
 
 ### 20240321
 
@@ -88,11 +216,11 @@ end～
 
 #### G-Tiger 绿制服虎兽人
 
-![g-tiger-6.jpg](g-tiger/g-tiger-6.jpg)
+![20240321.jpg](g-tiger/20240321.jpg)
 
 #### E-Tiger 黑制服虎兽人
 
-![e-tiger-8.jpg](e-tiger/e-tiger-8.jpg)
+![20240321.jpg](e-tiger/20240321.jpg)
 
 ### 20240325
 
@@ -100,11 +228,11 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-29.jpg](g-bear/g-bear-29.jpg)
+![20240325.jpg](g-bear/20240325.jpg)
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-15.jpg](e-bear/e-bear-15.jpg)
+![20240325.jpg](e-bear/20240325.jpg)
 
 ### 20240329
 
@@ -112,7 +240,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-28.jpg](g-bear/g-bear-28.jpg)
+![20240329.jpg](g-bear/20240329.jpg)
 
 ### 20240401
 
@@ -120,7 +248,7 @@ end～
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-14.jpg](e-bear/e-bear-14.jpg)
+![20240401.jpg](e-bear/20240401.jpg)
 
 ### 20240402
 
@@ -128,7 +256,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-27.jpg](g-bear/g-bear-27.jpg)
+![20240402.jpg](g-bear/20240402.jpg)
 
 ### 20240403
 
@@ -136,8 +264,9 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-25.jpg](g-bear/g-bear-25.jpg)
-![g-bear-26.jpg](g-bear/g-bear-26.jpg)
+![20240403-1.jpg](g-bear/20240403-1.jpg)
+
+![20240403-2.jpg](g-bear/20240403-2.jpg)
 
 ### 20240407
 
@@ -149,7 +278,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-24.jpg](g-bear/g-bear-24.jpg)
+![20240407.jpg](g-bear/20240407.jpg)
 
 ### 20240408
 
@@ -157,8 +286,9 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-22.jpg](g-bear/g-bear-22.jpg)
-![g-bear-23.jpg](g-bear/g-bear-23.jpg)
+![20240408-1.jpg](g-bear/20240408-1.jpg)
+
+![20240408-2.jpg](g-bear/20240408-2.jpg)
 
 ### 20240409
 
@@ -168,7 +298,7 @@ end～
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-13.jpg](e-bear/e-bear-13.jpg)
+![20240409.jpg](e-bear/20240409.jpg)
 
 ### 20240416
 
@@ -176,7 +306,7 @@ end～
 
 #### W-Bear 摔跤兵熊兽人
 
-![w-bear-4.jpg](w-bear/w-bear-4.jpg)
+![20240416.jpg](w-bear/20240416.jpg)
 
 ### 20240506
 
@@ -184,7 +314,7 @@ end～
 
 #### E-Lion 黑制服狮兽人
 
-![e-lion-2.jpg](e-lion/e-lion-2.jpg)
+![20240506.jpg](e-lion/20240506.jpg)
 
 ### 20240506
 
@@ -192,7 +322,7 @@ end～
 
 #### W-Bear 摔跤兵熊兽人
 
-![w-bear-3.jpg](w-bear/w-bear-3.jpg)
+![20240506.jpg](w-bear/20240506.jpg)
 
 ### 20240520
 
@@ -200,8 +330,17 @@ end～
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-11.jpg](e-bear/e-bear-11.jpg)
-![e-bear-12.jpg](e-bear/e-bear-12.jpg)
+![20240520-1.jpg](e-bear/20240520-1.jpg)
+
+![20240520-2.jpg](e-bear/20240520-2.jpg)
+
+### 20240527
+
+更新小说里高级兵种的制服
+
+#### E-Tiger 黑制服虎兽人
+
+![20240527.jpg](e-tiger/20240527.jpg)
 
 ### 20240529
 
@@ -209,7 +348,7 @@ end～
 
 #### E-Tiger 黑制服虎兽人
 
-![e-tiger-6.jpg](e-tiger/e-tiger-6.jpg)
+![20240529.jpg](e-tiger/20240529.jpg)
 
 ### 20240530
 
@@ -217,7 +356,7 @@ end～
 
 #### O-Tiger 蓝制服虎兽人
 
-![g-tiger-5.jpg](g-tiger/g-tiger-5.jpg)
+![20240530.jpg](g-tiger/20240530.jpg)
 
 ### 20240607
 
@@ -225,7 +364,7 @@ end～
 
 #### W-Bear 摔跤手熊兽人
 
-![w-bear-2.jpg](w-bear/w-bear-2.jpg)
+![20240607.jpg](w-bear/20240607.jpg)
 
 ### 20240626
 
@@ -233,15 +372,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-21.jpg](g-bear/g-bear-21.jpg)
-
-### 20240715
-
-小说更新
-
-#### G-Bull 绿制服牛兽人
-
-![g-bull-1.jpg](g-bull/g-bull-1.jpg)
+![20240626.jpg](g-bear/20240626.jpg)
 
 ### 20240716
 
@@ -249,8 +380,9 @@ end～
 
 #### E-Tiger 黑制服虎兽人
 
-![e-tiger-4.jpg](e-tiger/e-tiger-4.jpg)
-![e-tiger-5.jpg](e-tiger/e-tiger-5.jpg)
+![20240716-1.jpg](e-tiger/20240716-1.jpg)
+
+![20240716-2.jpg](e-tiger/20240716-2.jpg)
 
 ### 20240718
 
@@ -258,26 +390,9 @@ end～
 
 #### R-Wolf 白制服狼兽人
 
-![r-wolf-1.jpg](r-wolf/r-wolf-1.jpg)
-![r-wolf-2.jpg](r-wolf/r-wolf-2.jpg)
+![20240718-1.jpg](r-wolf/20240718-1.jpg)
 
-### 20240723
-
-小说配图画完
-
-#### E-Bear 黑制服熊兽人
-
-![e-bear-9.jpg](e-bear/e-bear-9.jpg)
-![e-bear-10.jpg](e-bear/e-bear-10.jpg)
-
-### 20240728
-
-小说摸鱼图 完整版
-
-#### E-Bear 黑制服熊兽人
-
-![e-bear-7.jpg](e-bear/e-bear-7.jpg)
-![e-bear-8.jpg](e-bear/e-bear-8.jpg)
+![20240718-2.jpg](r-wolf/20240718-2.jpg)
 
 ### 20240729
 
@@ -285,7 +400,7 @@ end～
 
 #### E-Tiger 黑制服虎兽人
 
-![e-tiger-3.jpg](e-tiger/e-tiger-3.jpg)
+![20240729.jpg](e-tiger/20240729.jpg)
 
 ### 20240827
 
@@ -295,12 +410,13 @@ end～
 
 #### G-Tiger 绿制服虎兽人
 
-![g-tiger-3.jpg](g-tiger/g-tiger-3.jpg)
-![g-tiger-4.jpg](g-tiger/g-tiger-4.jpg)
+![20240827-1.jpg](g-tiger/20240827-1.jpg)
+
+![20240827-2.jpg](g-tiger/20240827-2.jpg)
 
 #### E-Tiger 黑制服虎兽人
 
-![e-tiger-2.jpg](e-tiger/e-tiger-2.jpg)
+![20240827.jpg](e-tiger/20240827.jpg)
 
 ### 20240828
 
@@ -308,17 +424,19 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-18.jpg](g-bear/g-bear-18.jpg)
-![g-bear-19.jpg](g-bear/g-bear-19.jpg)
-![g-bear-20.jpg](g-bear/g-bear-20.jpg)
+![20240828-1.jpg](g-bear/20240828-1.jpg)
+
+![20240828-2.jpg](g-bear/20240828-2.jpg)
+
+![20240828-3.jpg](g-bear/20240828-3.jpg)
 
 ### 20240906
 
 摸鱼
 
-#### E-Tiger 黑制服牛兽人
+#### E-Bull 黑制服牛兽人
 
-![e-bull-1.jpg](e-bull-1.jpg)
+![20240906.jpg](e-bull/20240906.jpg)
 
 ### 20241107
 
@@ -326,7 +444,7 @@ end～
 
 #### G-Tiger 绿制服虎兽人
 
-![g-tiger-2.jpg](g-tiger/g-tiger-2.jpg)
+![20241107.jpg](g-tiger/20241107.jpg)
 
 ### 20241112
 
@@ -334,7 +452,7 @@ end～
 
 #### G-Tiger 绿制服虎兽人
 
-![g-tiger-1.jpg](g-tiger/g-tiger-1.jpg)
+![20241112.jpg](g-tiger/20241112.jpg)
 
 ### 20241119
 
@@ -342,7 +460,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-17.jpg](g-bear/g-bear-17.jpg)
+![20241119.jpg](g-bear/20241119.jpg)
 
 ### 20241216
 
@@ -350,7 +468,7 @@ end～
 
 #### R-Bull 白制服牛兽人
 
-![r-bull-1.jpg](r-bull-1.jpg)
+![20241216.jpg](r-bull/20241216.jpg)
 
 ### 20241217
 
@@ -358,7 +476,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-16.jpg](g-bear/g-bear-16.jpg)
+![20241217.jpg](g-bear/20241217.jpg)
 
 ### 20241223
 
@@ -366,9 +484,11 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-13.jpg](g-bear/g-bear-13.jpg)
-![g-bear-14.jpg](g-bear/g-bear-14.jpg)
-![g-bear-15.jpg](g-bear/g-bear-15.jpg)
+![20241223-1.jpg](g-bear/20241223-1.jpg)
+
+![20241223-2.jpg](g-bear/20241223-2.jpg)
+
+![20241223-3.jpg](g-bear/20241223-3.jpg)
 
 ### 20241225
 
@@ -376,7 +496,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-12.jpg](g-bear/g-bear-12.jpg)
+![20241225.jpg](g-bear/20241225.jpg)
 
 ### 20241226
 
@@ -384,7 +504,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-11.jpg](g-bear/g-bear-11.jpg)
+![20241226.jpg](g-bear/20241226.jpg)
 
 ### 20250102
 
@@ -392,13 +512,15 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-8.jpg](g-bear/g-bear-8.jpg)
-![g-bear-9.jpg](g-bear/g-bear-9.jpg)
+![20250102-1.jpg](g-bear/20250102-1.jpg)
+
+![20250102-2.jpg](g-bear/20250102-2.jpg)
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-5.jpg](e-bear/e-bear-5.jpg)
-![e-bear-6.jpg](e-bear/e-bear-6.jpg)
+![20250102-1.jpg](e-bear/20250102-1.jpg)
+
+![20250102-2.jpg](e-bear/20250102-2.jpg)
 
 ### 20250217
 
@@ -406,7 +528,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-7.jpg](g-bear/g-bear-7.jpg)
+![20250217.jpg](g-bear/20250217.jpg)
 
 ### 20250227
 
@@ -414,14 +536,15 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-4.jpg](g-bear/g-bear-4.jpg)
-![g-bear-5.jpg](g-bear/g-bear-5.jpg)
+![20250227-1.jpg](g-bear/20250227-1.jpg)
+
+![20250227-2.jpg](g-bear/20250227-2.jpg)
 
 ### 20250228
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-6.jpg](g-bear/g-bear-6.jpg)
+![20250228.jpg](g-bear/20250228.jpg)
 
 ### 20250324
 
@@ -429,8 +552,9 @@ end～
 
 #### W-Tiger 摔跤兵虎兽人
 
-![w-tiger-1.jpg](w-tiger/w-tiger-1.jpg)
-![w-tiger-2.jpg](w-tiger/w-tiger-2.jpg)
+![20250324-1.jpg](w-tiger/20250324-1.jpg)
+
+![20250324-2.jpg](w-tiger/20250324-2.jpg)
 
 ### 20250415
 
@@ -438,7 +562,7 @@ end～
 
 #### E-Lion 黑制服狮兽人
 
-![e-lion-1.jpg](e-lion/e-lion-1.jpg)
+![20250415.jpg](e-lion/20250415.jpg)
 
 ### 20250430
 
@@ -446,7 +570,7 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-3.jpg](g-bear/g-bear-3.jpg)
+![20250430.jpg](g-bear/20250430.jpg)
 
 ### 20250523
 
@@ -454,7 +578,7 @@ end～
 
 #### W-Bear 摔跤兵熊兽人
 
-![w-bear-1.jpg](w-bear/w-bear-1.jpg)
+![20250523.jpg](w-bear/20250523.jpg)
 
 ### 20250612
 
@@ -462,11 +586,11 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-2.jpg](g-bear/g-bear-2.jpg)
+![20250612.jpg](g-bear/20250612.jpg)
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-2.jpg](e-bear/e-bear-2.jpg)
+![20250612.jpg](e-bear/20250612.jpg)
 
 ### 20250624
 
@@ -474,11 +598,11 @@ end～
 
 #### G-Bear 绿制服熊兽人
 
-![g-bear-1.jpg](g-bear/g-bear-1.jpg)
+![20250624.jpg](g-bear/20250624.jpg)
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-1.jpg](e-bear/e-bear-1.jpg)
+![20250624.jpg](e-bear/20250624.jpg)
 
 ### 20250703
 
@@ -486,5 +610,6 @@ end～
 
 #### E-Bear 黑制服熊兽人
 
-![e-bear-3.jpg](e-bear/e-bear-3.jpg)
-![e-bear-4.jpg](e-bear/e-bear-4.jpg)
+![20250703-1.jpg](e-bear/20250703-1.jpg)
+
+![20250703-2.jpg](e-bear/20250703-2.jpg)
