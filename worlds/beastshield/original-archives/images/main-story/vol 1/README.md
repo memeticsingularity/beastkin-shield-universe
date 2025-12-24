@@ -12,9 +12,9 @@
 
 #### E-Bear 黑制服熊兽人
 
-![ch-12-1.jpg](../main-story/ch-12-1.jpg)
+![ch-12-1.jpg](ch-12-1.jpg)
 
-![ch-12-2.jpg](../main-story/ch-12-2.jpg)
+![ch-12-2.jpg](ch-12-2.jpg)
 
 ### 20240728
 
@@ -22,6 +22,6 @@
 
 #### E-Bear 黑制服熊兽人
 
-![ch-12-3.jpg](../main-story/ch-12-3.jpg)
+![ch-12-3.jpg](ch-12-3.jpg)
 
-![ch-12-4.jpg](../main-story/ch-12-4.jpg)
+![ch-12-4.jpg](ch-12-4.jpg)

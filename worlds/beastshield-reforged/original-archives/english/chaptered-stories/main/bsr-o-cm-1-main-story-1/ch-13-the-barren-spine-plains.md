@@ -121,7 +121,7 @@ eyeballs were still shifting left and right, seemingly trying to figure out what
 their gaze slowly
 rolled upward, gradually glazing over.
 
-![Mo Yunfeng Holds Heads on Blade](../../../../images/main-story/bsr_ch013_1_heads.png)
+![Mo Yunfeng Holds Heads on Blade](../../../../images/main-story/ch-13-heads.png)
 
 Apart from slight differences in build and skin tone, these **Savage Beasts** looked almost
 identical, as if cast from

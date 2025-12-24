@@ -177,7 +177,7 @@ The **ox beastman's** world suddenly rotated 45 degrees, and his mind went blank
 snapped a branch
 blocking the path.
 
-![Lei Zhou Snaps Ox Neck](../../../../images/main-story/bsr_ch002_1_necksnap.png)
+![Lei Zhou Snaps Ox Neck](../../../../images/main-story/ch-2-necksnap.png)
 
 **"Kkhh… khh… cough……"**
 

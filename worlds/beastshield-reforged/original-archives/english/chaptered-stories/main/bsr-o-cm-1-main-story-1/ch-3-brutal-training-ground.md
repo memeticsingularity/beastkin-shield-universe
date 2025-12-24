@@ -211,7 +211,7 @@ dragged him to the trash can, stuffed him inside to squeeze together with the **
 casually tossed the *
 *military boots** that fell off during the dragging into the can as well.
 
-![Corpses in Trash Can](../../../../images/main-story/bsr_ch003_1_trash_can.png)
+![Corpses in Trash Can](../../../../images/main-story/ch-3-trash_can.png)
 
 Time passed on the first day of military training. The two beastmen in the trash can were forgotten,
 ignored by

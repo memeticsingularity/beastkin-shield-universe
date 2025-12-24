@@ -330,7 +330,7 @@ nose.
 
 **"Already dead? How boring."** **Mo Ying** said, then stuffed the **sock** back in.
 
-![Brown Bear Corpse with Sock Gag](../../../../images/main-story/bsr_ch008_1_sock_gag.png)
+![Brown Bear Corpse with Sock Gag](../../../../images/main-story/ch-8-sock_gag.png)
 
 **"Alright then, since you performed so diligently, I'll tell you my identity. Darkroom Sixth Seat —
 Mo Ying, that's

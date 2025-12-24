@@ -215,7 +215,7 @@ Such a tragic death scene was no wonder it scared the **dog-bear Beast Shield So
 kneeling and begging for
 mercy.
 
-![Dog-bear Beastman Chopstick Execution](../../../../images/main-story/bsr_ch006_1_chopstick.png)
+![Dog-bear Beastman Chopstick Execution](../../../../images/main-story/ch-6-chopstick.png)
 
 The **dog-bear beastman** was taken to **Baihu Guluo's** workshop and studied for several hours, but
 still no valuable

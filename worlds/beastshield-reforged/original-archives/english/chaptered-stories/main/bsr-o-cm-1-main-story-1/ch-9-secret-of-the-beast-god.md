@@ -258,7 +258,7 @@ over ten times before **Kunnu** satisfyingly pulled out his red, swollen meat ro
 **bear beastman**,
 and stood behind **Lei Jue**.
 
-![Bear Beastman Ejaculating from Seven Orifices](../../../../images/main-story/bsr_ch009_1_creampie.png)
+![Bear Beastman Ejaculating from Seven Orifices](../../../../images/main-story/ch-9-creampie.png)
 
 **"What exactly are you experimenting on?"** **Lei Zhou**, seeing the farce end, finally couldn't
 help but ask.

@@ -281,7 +281,7 @@ usually received good
 care from the chief and couldn't help but show concern, their gaze also shifting downwards under the
 desk.
 
-![Chief Fu with the Suppressor](../../../../images/main-story/bsr_ch005_1_suppressor.png)
+![Chief Fu with the Suppressor](../../../../images/main-story/ch-5-suppressor.png)
 
 Although **Chief Fu** stood behind the desk, half of his bare buttocks were still exposed above it.
 Feeling guilty, he

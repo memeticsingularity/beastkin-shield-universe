@@ -321,7 +321,7 @@ bellies, constantly rubbing, his belly full of hot tiger semen, and with this im
 master ultimately
 couldn't hold back, releasing his own semen between their bellies...
 
-![Tiger Bodyguard and Young Master](../../../../images/main-story/bsr_ch004_1_sex.png)
+![Tiger Bodyguard and Young Master](../../../../images/main-story/ch-4-sex.png)
 
 Early the next morning, the **tiger bodyguard** yawned and woke up. He rubbed his bleary eyes and,
 seeing the young

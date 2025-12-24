@@ -145,7 +145,7 @@ semen-stained, thick white-socked legs were neatly stacked against the wall, lif
 unseeing bovine eyes
 stared forward, admiring the painting made from his own semen on the opposite wall.
 
-![Rhino Guard Semen Painting](../../../../images/main-story/bsr_ch007_1_wall_cum.png)
+![Rhino Guard Semen Painting](../../../../images/main-story/ch-7-1-wall_cum.png)
 
 Only one guard remained to be dealt with. **Zhi Li** no longer needed to sneak around. He stretched
 his limbs and

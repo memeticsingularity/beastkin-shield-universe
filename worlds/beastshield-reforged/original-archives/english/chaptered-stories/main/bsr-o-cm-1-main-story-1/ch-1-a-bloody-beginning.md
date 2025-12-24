@@ -41,7 +41,7 @@ headshot! After being shot in the head, the **tiger officer**'s eyes rolled back
 twice, then heavily
 collapsed to the ground. After a few convulsions, he lay still.
 
-![Tiger Police Officer Headshot](../../../../images/main-story/bsr_ch001_1_headshot.png)
+![Tiger Police Officer Headshot](../../../../images/main-story/ch-1-1-headshot.png)
 
 The remaining officers reacted and drew their pistols to return fire. At that moment, something
 bizarre happened: the *
@@ -62,7 +62,7 @@ The **bear beastman** walked up to him, raised his thick bear leg, and stomped, 
 officer's neck. Blood
 sprayed from the officer's mouth, staining the bear's white socks.
 
-![Bear Beastman Stomp Execution](../../../../images/main-story/bsr_ch001_2_stomp.png)
+![Bear Beastman Stomp Execution](../../../../images/main-story/ch-1-2-stomp.png)
 
 Finally, the **bear beastman** picked up the recorded statement and left. The entire process took
 less than three
