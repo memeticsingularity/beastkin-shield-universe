@@ -1,3 +1,5 @@
+- [原版.md](bs-o-s-7-graduation-internship.md)
+
 # Story 毕业实习
 
 ---
