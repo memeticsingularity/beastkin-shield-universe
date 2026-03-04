@@ -1,0 +1,95 @@
+title: 潜入者之焰
+title_en: The Infiltrator's Flame
+
+series:
+  name: 兽盾宇宙改编短篇集
+  name_en: Beast Shield Universe - Adaptation Short Stories
+
+story_info:
+  type: short_story
+  chapters: 1
+  scenes: 9
+  word_count: ~8500
+  status: completed
+  creation_date: "2026-03-04"
+  last_update: "2026-03-04"
+
+world_setting:
+  universe: beastshield
+  timeline: 主线时间线
+  location:
+    - 兽盾公司偏远仓库
+
+factions:
+  - name: 特工局
+    side: protagonist
+  - name: 兽盾公司
+    side: antagonist
+
+characters:
+  alive:
+    - id: lei-yanhuan
+      name: 雷炎寰
+      name_en: Lei Yanhuan
+      race: 红虎兽人
+      faction: 特工局
+      role: 年轻特工
+      special_skill: 灼流暗劲
+
+  deceased:
+    - id: g-533
+      name: G-533（猪大壮）
+      race: 野猪兽人
+      faction: 兽盾公司
+      role: G级杂兵
+      cause_of_death: 灼流暗劲-十股射精
+
+    - id: g-534
+      name: G-534（熊厚实）
+      race: 棕熊兽人
+      faction: 兽盾公司
+      role: G级杂兵
+      cause_of_death: 灼流暗劲-十三股射精
+
+    - id: g-536
+      name: G-536（狗来福）
+      race: 狗兽人
+      faction: 兽盾公司
+      role: G级杂兵
+      cause_of_death: 灼流暗劲最大功率-十八股射精
+
+    - id: g-535
+      name: G-535（虎兽人）
+      race: 虎兽人
+      faction: 兽盾公司
+      role: G级杂兵
+      cause_of_death: 灼流暗劲
+
+    - id: g-537
+      name: G-537（狼兽人）
+      race: 狼兽人
+      faction: 兽盾公司
+      role: G级杂兵
+      cause_of_death: 灼流暗劲
+
+themes:
+  - 力量控制
+  - 心性修炼
+  - 正义的暧昧性
+  - 成长
+  - 特工视角
+
+tags:
+  - 特工局
+  - 灼流暗劲
+  - 特殊技能
+  - 潜入任务
+  - G级杂兵
+  - 力量与克制
+  - 慢节奏叙事
+  - 感官细节
+
+author_notes: |
+  本作展示了兽盾世界观的另一面——不是赏金猎人的冷酷狩猎，而是特工局成员的"正义执行"。
+  雷炎寰的挣扎在于他拥有强大力量（灼流暗劲），但还在学习控制。
+  故事探讨了"正义"在这个世界的暧昧性：赏金猎人为了钱杀人，特工为了"正义"杀人——但死亡是一样的。
