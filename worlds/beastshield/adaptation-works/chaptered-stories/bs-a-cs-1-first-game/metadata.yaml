@@ -115,6 +115,12 @@ chapters:
     word_count: ~9500
 
   - number: 5
+    title: "战争前夜"
+    scenes: 9
+    status: "completed"
+    word_count: ~10000
+
+  - number: 6
     title: "待续"
     scenes: 0
     status: "planned"
