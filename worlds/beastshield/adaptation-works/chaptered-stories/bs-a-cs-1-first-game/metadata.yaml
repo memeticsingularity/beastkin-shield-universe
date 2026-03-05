@@ -88,25 +88,31 @@ creation:
     - version: "1.0"
       date: "2026-03-04"
       changes: "从短篇扩展为长篇，第一章完成"
+    - version: "2.0"
+      date: "2026-03-05"
+      changes: "全面修订前三章，增加感官细节、多视角叙事、制服体系和灰色产业链描写"
 
 chapters:
   - number: 1
     title: "降临"
     scenes: 9
-    status: "completed"
-    word_count: ~7500
+    status: "completed (revised)"
+    word_count: ~12000
+    revision_notes: "增加大量感官细节描写，放慢叙事节奏，强化肉体描写（脂包肌、肉垫触感等），添加卷首语和卷尾语"
 
   - number: 2
     title: "第一课"
     scenes: 9
-    status: "completed"
-    word_count: ~8500
+    status: "completed (revised)"
+    word_count: ~13000
+    revision_notes: "增加多视角叙事（G-734兽盾员工视角），详细描写兽盾制服体系（绿/蓝/黑/白/深蓝），加入俘虏快递灰色产业链，平民下单设定"
 
   - number: 3
     title: "觉醒"
     scenes: 9
-    status: "completed"
-    word_count: ~9000
+    status: "completed (revised)"
+    word_count: ~13000
+    revision_notes: "强化精神力觉醒的感官描写，增加契约印记细节，完善地下实验室的恐怖氛围"
 
   - number: 4
     title: "间谍"
