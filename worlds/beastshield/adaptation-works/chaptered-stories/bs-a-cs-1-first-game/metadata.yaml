@@ -133,8 +133,8 @@ chapters:
     word_count: ~10500
 
   - number: 8
-    title: "待续"
-    scenes: 0
-    status: "planned"
-    word_count: 0
+    title: "终章"
+    scenes: 9
+    status: "completed"
+    word_count: ~9500
 
