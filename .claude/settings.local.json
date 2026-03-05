@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python3 -c \":*)"
+      "Bash(python3 -c \":*)",
+      "Bash(\"worlds/beastshield/adaptation-works/chaptered-stories/08-sanguipendium/settings/story-setting.md\":*)"
+    ],
+    "additionalDirectories": [
+      "D:\\Users\\memeticsingularity\\IdeaProjects\\beastkin-universe\\worlds\\beastshield\\adaptation-works\\chaptered-stories\\08-sanguipendium"
     ]
   }
 }
