@@ -1,0 +1,200 @@
+# 《犬兵梦忆》元数据文件
+# Dog Soldier's Dreams - Metadata
+
+# 基本信息
+story_code: eks-o-cm-2-dog-soldier-dreams
+title:
+  chinese: 犬兵梦忆
+  english: Dog Soldier's Dreams
+worldview: empire-kik-soldiers
+nature: original
+format: chaptered-main
+serial_number: 2
+slug: dog-soldier-dreams
+language: chinese
+status: completed
+
+# 统计信息
+chapters:
+  total: 5
+  list:
+    - chapter_1:
+        title: 气味与灰烬
+        english_title: Scent and Ash
+        filename: ch-001-scent-and-ash.md
+        word_count: ~11500
+        status: completed
+    - chapter_2:
+        title: 雨夜与血
+        english_title: Rain and Blood
+        filename: ch-002-rain-and-blood.md
+        word_count: ~12800
+        status: completed
+    - chapter_3:
+        title: 牙齿与舌头
+        english_title: Teeth and Tongue
+        filename: ch-003-teeth-and-tongue.md
+        word_count: ~13500
+        status: completed
+    - chapter_4:
+        title: 镜子与面具
+        english_title: Mirror and Mask
+        filename: ch-004-mirror-and-mask.md
+        word_count: ~12500
+        status: completed
+    - chapter_5:
+        title: 吠叫与沉默
+        english_title: Bark and Silence
+        filename: ch-005-bark-and-silence.md
+        word_count: ~11800
+        status: completed
+
+total_word_count: ~62100
+
+# 时间信息
+creation_date: "2026-03-05"
+last_update: "2026-03-05"
+adapted_source: "帝国万岁完整设定集（1-113章）"
+template_version: "eks-story-template-chinese v1.0"
+
+# 作者信息
+author: DeepSeek
+
+# 核心主题
+themes:
+  - 嗅觉记忆与情感创伤的关联
+  - PTSD与生存罪恶感
+  - 记忆的选择性遗忘
+  - 忠诚的代价（对帝国的服从 vs 对同伴的义气）
+  - 轮回与报应
+  - 选择的可能性（第三条路）
+  - 复制与身份认同
+  - 执念与放手
+
+# 主要角色
+main_characters:
+  protagonist:
+    code: B-45231
+    race: 犬兽人（德牧/狼犬混血）
+    identity: 退役黑袜兵
+    traits:
+      - 嗅觉极度敏锐
+      - 深受PTSD困扰
+      - 情感丰富但自我厌恶
+
+  supporting:
+    - code: B-44502
+      race: 狼兽人
+      identity: B-45231的已故战友
+      note: 在雨夜为救平民孩子而死
+
+    - code: B-44502-2.0
+      race: 狼兽人（复制品）
+      identity: 帝国实验产物
+      note: 拥有原体全部记忆，但芯片存在缺陷
+
+    - code: B-44503
+      race: 狼兽人
+      identity: B-44502的弟弟，帝国实验对象
+      note: 自愿加入帝国实验试图复活哥哥
+
+    - name: 疤脸
+      race: 豺狼兽人（混血）
+      identity: 走私者
+      note: 前帝国"合作者"，帮助抵抗组织
+
+    - name: 小火
+      race: 狐狸兽人
+      identity: 走私学徒
+      note: 疤脸的侄子
+
+    - title: 白袜长官
+      race: 虎兽人
+      identity: 雪山基地高级军官
+      note: 测试的操控者
+
+    - code: B-38194
+      race: 豺狼/犬混血
+      identity: 帝国信使
+      note: B-45231的前战友
+
+# 内容分级
+content_rating:
+  violence: high
+  sexual_content: moderate
+  psychological_themes: high
+  warnings:
+    - 暴力与死亡描写
+    - 心理创伤与PTSD
+    - 控制与反抗主题
+    - 存在主义危机
+
+# 与原作设定关联
+connection_to_source:
+  locations:
+    - 雪山基地
+  mechanics:
+    - 芯片控制
+    - 射精即死机制
+    - 军袜等级制度
+    - 退役机制
+    - 培养舱技术
+  extended_lore:
+    - 嗅觉记忆机制（犬兽人特有）
+    - 复制品/克隆技术
+    - PTSD在基尅兵中的表现
+    - 抵抗组织的存在
+
+# 已知设定偏差
+known_deviations:
+  - item: 芯片位置
+    original: 大脑褶皱（脑回）之间
+    story: 多处描述为"颈椎深处"或"颈部"
+    note: 创作误差，应以原作设定为准
+  - item: 白袜长官的行为
+    original: 帝国精英应绝对服从皇帝
+    story: 默许主角逃离
+    note: 可解释为"实验设计的一部分"而非仁慈
+  - item: 屏蔽剂效果
+    original: 原作未明确提及此类技术
+    story: 可暂时干扰芯片信号24小时
+    note: 合理推测，但效果可能过于强大
+
+# 文件结构
+file_structure:
+  root: eks-o-cm-2-dog-soldier-dreams/
+  chinese: chinese/
+  settings: settings/
+  files:
+    readme: README.md
+    metadata: metadata.yaml
+    setting_doc: settings/story-setting.md
+    chapters:
+      - chinese/ch-001-scent-and-ash.md
+      - chinese/ch-002-rain-and-blood.md
+      - chinese/ch-003-teeth-and-tongue.md
+      - chinese/ch-004-mirror-and-mask.md
+      - chinese/ch-005-bark-and-silence.md
+
+# 标签
+tags:
+  - 帝国万岁
+  - 兽人
+  - 军事
+  - 反乌托邦
+  - 心理创伤
+  - 记忆
+  - 选择
+  - 克隆伦理
+  - PTSD
+  - 慢节奏
+  - 感官描写
+
+# 阅读建议
+reading_guide:
+  order: sequential
+  notes:
+    - 按章节顺序阅读（1→2→3→4→5），故事为线性叙事
+    - 每章包含记忆闪回，注意斜体/特殊排版区分
+    - 注意与《召回协议》的对比阅读（相同世界观不同走向）
+    - 本故事存在与原作设定偏差，详见"known_deviations"
