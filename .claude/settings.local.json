@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python3 -c \":*)",
-      "Bash(\"worlds/beastshield/adaptation-works/chaptered-stories/08-sanguipendium/settings/story-setting.md\":*)"
+      "Bash(\"worlds/beastshield/adaptation-works/chaptered-stories/08-sanguipendium/settings/story-setting.md\":*)",
+      "Bash(worlds/empire-kik-soldiers/setting/empire-kik-soldiers-setting-complete.md:*)"
     ],
     "additionalDirectories": [
       "D:\\Users\\memeticsingularity\\IdeaProjects\\beastkin-universe\\worlds\\beastshield\\adaptation-works\\chaptered-stories\\08-sanguipendium"
