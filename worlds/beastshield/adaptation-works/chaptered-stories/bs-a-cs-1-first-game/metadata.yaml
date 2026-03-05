@@ -121,6 +121,12 @@ chapters:
     word_count: ~10000
 
   - number: 6
+    title: "战争"
+    scenes: 9
+    status: "completed"
+    word_count: ~11000
+
+  - number: 7
     title: "待续"
     scenes: 0
     status: "planned"
