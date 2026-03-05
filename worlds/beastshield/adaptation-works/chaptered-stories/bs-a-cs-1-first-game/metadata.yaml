@@ -127,6 +127,12 @@ chapters:
     word_count: ~11000
 
   - number: 7
+    title: "余波"
+    scenes: 9
+    status: "completed"
+    word_count: ~10500
+
+  - number: 8
     title: "待续"
     scenes: 0
     status: "planned"
