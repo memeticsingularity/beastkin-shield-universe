@@ -1,0 +1,122 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章长篇小说元数据
+# ============================================
+# Form Type: cs (Chaptered Side)
+# 形式类型: cs (支线分章)
+
+work:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  code: "bs-a-cs-1-first-game"
+  # Format: [world]-a-cs-[natural_number]-[series_name]
+
+  title:
+    chinese: "第一场游戏"
+    english: "The First Game"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "updating"
+  location: "adaptation-works"
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  subtype: "side"
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  promotion_status: "not_eligible"
+  work_type: "adaptation"
+
+  tags:
+    - "VR-player"
+    - "first-game"
+    - "metaverse"
+    - "cross-dimensional"
+    - "growth"
+    - "original-character"
+    - "bear-beastkin"
+    - "rabbit-beastkin"
+    - "newbie-journey"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  content_warnings:
+    - "violence"
+    - "trauma"
+    - "death"
+
+  reading_time_estimate:
+    minutes: 180
+
+  target_audience: "general"
+
+  related_works:
+    - code: "bs-a-s-2-vr-newbie"
+      relation_type: "prequel"
+      note: "短篇版前传"
+
+creation:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  author: "AI Assistant"
+  start_date: "2026-03-04"
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  last_update: "2026-03-04"
+  universe_based_on: "beastshield-paradise"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-03-04"
+      changes: "从短篇扩展为长篇，第一章完成"
+
+chapters:
+  - number: 1
+    title: "降临"
+    scenes: 9
+    status: "completed"
+    word_count: ~7500
+
+  - number: 2
+    title: "第一课"
+    scenes: 9
+    status: "completed"
+    word_count: ~8500
+
+  - number: 3
+    title: "觉醒"
+    scenes: 9
+    status: "completed"
+    word_count: ~9000
+
+  - number: 4
+    title: "间谍"
+    scenes: 9
+    status: "completed"
+    word_count: ~9500
+
+  - number: 5
+    title: "待续"
+    scenes: 0
+    status: "planned"
+    word_count: 0
+

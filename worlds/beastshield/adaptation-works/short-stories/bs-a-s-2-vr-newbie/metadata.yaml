@@ -1,0 +1,96 @@
+title: 第一场游戏
+title_en: The First Game
+
+series:
+  name: 兽盾宇宙改编短篇集
+  name_en: Beast Shield Universe - Adaptation Short Stories
+
+story_info:
+  type: short_story
+  chapters: 1
+  scenes: 9
+  word_count: ~7500
+  status: completed
+  creation_date: "2026-03-04"
+  last_update: "2026-03-04"
+
+world_setting:
+  universe: beastshield
+  timeline: VR线 / 元兽御主线
+  location:
+    - 城市街区
+    - 老疤的酒馆
+    - 废弃工地
+
+factions:
+  - name: 降临者（VR玩家）
+    side: neutral
+  - name: 土生土长居民
+    side: neutral
+  - name: 兽盾公司
+    side: antagonist
+  - name: 赏金猎人
+    side: neutral
+
+characters:
+  alive:
+    - id: chen-mo
+      name: 陈默（小熊）
+      name_en: Chen Mo (Little Bear)
+      race: 棕熊兽人
+      faction: 降临者
+      role: 新人VR玩家
+      background: 27岁程序员，花了三个月工资买VR设备
+
+    - id: old-scar
+      name: 老疤
+      name_en: Old Scar
+      race: 棕熊兽人
+      faction: 土生土长居民
+      role: 新人引导员
+      background: 在VR世界生活多年的原住民，选择成为降临者的引导员
+
+    - id: white-fang
+      name: 白牙
+      name_en: White Fang
+      race: 白兔兽人
+      faction: 降临者
+      role: 导师
+      background: 神秘的资深降临者，教导新人如何在保持人性的前提下生存
+
+    - id: wolf-hunter
+      name: 狼人赏金猎人
+      race: 狼兽人
+      faction: 赏金猎人
+      role: 执行者
+      background: 前兽盾成员，被出卖后成为赏金猎人
+
+  deceased:
+    - id: g-892
+      name: G-892
+      race: 野猪兽人
+      faction: 兽盾公司
+      role: G级杂兵
+      cause_of_death: 被赏金猎人击杀
+
+themes:
+  - 真实与虚拟的边界
+  - 面对死亡的生理反应
+  - 跨世界认知冲突
+  - 人性的保持与丧失
+  - 成长起点
+
+tags:
+  - VR玩家
+  - 降临者
+  - 元兽御主
+  - 新手教程
+  - 第一次死亡
+  - 原住民视角
+  - 跨次元叙事
+
+author_notes: |
+  本作尝试一个全新的视角——VR玩家（降临者）第一次进入兽盾宇宙的经历。
+  主角不是特工，不是赏金猎人，只是一个普通的程序员，以为自己在玩游戏。
+  核心冲突不是"杀人"，而是"意识到这不是游戏"的认知冲击。
+  故事聚焦于真实的生理反应（呕吐、恐惧）和一个普通人的成长起点。
