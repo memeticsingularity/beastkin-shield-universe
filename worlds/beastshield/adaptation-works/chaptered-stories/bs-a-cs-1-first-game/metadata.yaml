@@ -117,30 +117,35 @@ chapters:
   - number: 4
     title: "间谍"
     scenes: 9
-    status: "completed"
-    word_count: ~9500
+    status: "completed (revised)"
+    word_count: ~13000
+    revision_notes: "增加小灰视角的多视角叙事，强化地下实验室的工作细节，添加小灰牺牲的完整评述"
 
   - number: 5
     title: "战争前夜"
     scenes: 9
-    status: "completed"
-    word_count: ~10000
+    status: "completed (revised)"
+    word_count: ~14000
+    revision_notes: "增加七人集结的感官描写，强化精神力训练的肉体感受，添加小灰的深度角色评述"
 
   - number: 6
     title: "战争"
     scenes: 9
-    status: "completed"
-    word_count: ~11000
+    status: "completed (revised)"
+    word_count: ~15000
+    revision_notes: "增加战斗场景感官细节（血腥味、金属味、汗味），强化肉体描写，深化铁心和小灰牺牲的情感冲击，添加完整故事评述"
 
   - number: 7
     title: "余波"
     scenes: 9
-    status: "completed"
-    word_count: ~10500
+    status: "completed (revised)"
+    word_count: ~16000
+    revision_notes: "增加疗伤场景感官细节、强化葬礼情感冲击、深化角色内心挣扎、添加完整故事评述"
 
   - number: 8
     title: "终章"
     scenes: 9
-    status: "completed"
-    word_count: ~9500
+    status: "completed (revised)"
+    word_count: ~14000
+    revision_notes: "增加最终决战感官细节、强化校长救赎的情感冲击、深化陈默回归现实的心理描写、添加完整故事评述与后记"
 

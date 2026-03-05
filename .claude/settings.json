@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(wc -l d:/Users/memeticsingularity/IdeaProjects/beastkin-universe/worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-first-game/ch-*.md)"
+      "Bash(wc -l d:/Users/memeticsingularity/IdeaProjects/beastkin-universe/worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-first-game/ch-*.md)",
+      "Bash(\"d:/Users/memeticsingularity/IdeaProjects/beastkin-universe/worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-first-game/ch-8-the-end.md\":*)"
     ]
   }
 }
