@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血酬淘汰赛 - 32强对阵系统</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #0d0d1a 0%, #1a1a2e 50%, #16213e 100%);
+            min-height: 100vh;
+            color: #eee;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* 顶部规则区 */
+        .rules-bar {
+            background: rgba(233, 69, 96, 0.15);
+            border-bottom: 2px solid #e94560;
+            padding: 12px 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+
+        .rule-item {
+            font-size: 0.85em;
+            color: #ccc;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .rule-item strong {
+            color: #e94560;
+        }
+
+        .camp-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            font-weight: bold;
+        }
+
+        .badge-tiger { background: rgba(255, 152, 0, 0.3); color: #ff9800; }
+        .badge-bear { background: rgba(121, 85, 72, 0.3); color: #8d6e63; }
+        .badge-ox { background: rgba(96, 125, 139, 0.3); color: #78909c; }
+        .badge-hound { background: rgba(63, 81, 181, 0.3); color: #7986cb; }
+
+        /* 标题区 */
+        .header {
+            text-align: center;
+            padding: 15px;
+        }
+
+        .header h1 {
+            font-size: 2em;
+            color: #e94560;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin-bottom: 5px;
+        }
+
+        .header p {
+            color: #888;
+            font-size: 0.9em;
+        }
+
+        /* 控制按钮 */
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            padding: 5px 20px 15px;
+        }
+
+        .btn {
+            padding: 10px 25px;
+            font-size: 0.95em;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #e94560, #c73e54);
+            color: white;
+        }
+
+        .btn-primary:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(233, 69, 96, 0.4);
+        }
+
+        .btn-primary:disabled {
+            background: #444;
+            cursor: not-allowed;
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #533483, #7b2cbf);
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(83, 52, 131, 0.4);
+        }
+
+        /* 选手池（上移到对阵图上方） */
+        .pool-section {
+            background: rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 8px;
+            margin: 0 20px 15px;
+            padding: 12px 20px;
+        }
+
+        .pool-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .pool-title {
+            font-size: 0.95em;
+            color: #fff;
+        }
+
+        .pool-counter {
+            background: #e94560;
+            color: white;
+            padding: 3px 12px;
+            border-radius: 12px;
+            font-size: 0.85em;
+        }
+
+        .pool-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .pool-camp {
+            background: rgba(255,255,255,0.03);
+            border-radius: 8px;
+            padding: 10px;
+        }
+
+        .pool-camp-header {
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .pool-characters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+
+        .pool-char {
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            background: rgba(255,255,255,0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .pool-char:hover:not(.drawn):not(.disabled) {
+            background: rgba(255,255,255,0.25);
+            transform: translateY(-2px);
+        }
+
+        .pool-char.drawn {
+            opacity: 0.3;
+            background: rgba(255,255,255,0.05);
+            text-decoration: line-through;
+            cursor: not-allowed;
+        }
+
+        .pool-char.disabled {
+            opacity: 0.4;
+            background: rgba(255,255,255,0.05);
+            cursor: not-allowed;
+        }
+
+        /* 主对阵区 */
+        .bracket-container {
+            flex: 1;
+            padding: 10px 20px;
+            overflow-x: auto;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+
+        .bracket-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            min-width: 1100px;
+            padding: 10px 0;
+        }
+
+        /* 每一轮 */
+        .round {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .round-label {
+            text-align: center;
+            color: #e94560;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        /* 比赛卡片 */
+        .match {
+            position: relative;
+            width: 140px;
+        }
+
+        .match-card {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 6px;
+            padding: 8px 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .match-card:hover:not(.empty):not(.eliminated) {
+            background: rgba(255,255,255,0.1);
+            border-color: rgba(255,255,255,0.3);
+        }
+
+        .match-card.empty {
+            background: rgba(255,255,255,0.02);
+            border-color: rgba(255,255,255,0.1);
+            cursor: default;
+            min-height: 50px;
+        }
+
+        .match-card.filled {
+            border-left-width: 3px;
+        }
+
+        .match-card.filled.tiger { border-left-color: #ff9800; background: rgba(255, 152, 0, 0.1); }
+        .match-card.filled.bear { border-left-color: #8d6e63; background: rgba(121, 85, 72, 0.1); }
+        .match-card.filled.ox { border-left-color: #78909c; background: rgba(96, 125, 139, 0.1); }
+        .match-card.filled.hound { border-left-color: #7986cb; background: rgba(63, 81, 181, 0.1); }
+
+        .match-card.winner {
+            box-shadow: 0 0 10px rgba(233, 69, 96, 0.5);
+            border-color: #e94560;
+        }
+
+        .match-card.eliminated {
+            opacity: 0.3;
+            filter: grayscale(0.8);
+            cursor: not-allowed;
+        }
+
+        .match-card.advance {
+            animation: advancePulse 0.5s ease;
+        }
+
+        @keyframes advancePulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); box-shadow: 0 0 20px rgba(233, 69, 96, 0.8); }
+            100% { transform: scale(1); }
+        }
+
+        .card-name {
+            font-size: 0.9em;
+            font-weight: 600;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .card-info {
+            font-size: 0.75em;
+            color: #888;
+            margin-top: 2px;
+        }
+
+        .card-position {
+            position: absolute;
+            top: 2px;
+            right: 5px;
+            font-size: 0.7em;
+            color: #e94560;
+            font-weight: bold;
+        }
+
+        /* 冠军区 */
+        .champion-area {
+            width: 160px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 0 20px;
+        }
+
+        .champion-title {
+            color: #e94560;
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .champion-card {
+            width: 140px;
+            background: linear-gradient(135deg, rgba(233, 69, 96, 0.2), rgba(201, 55, 84, 0.3));
+            border: 2px solid #e94560;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+            min-height: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .champion-card.empty {
+            background: rgba(255,255,255,0.03);
+            border-color: rgba(255,255,255,0.1);
+            cursor: default;
+        }
+
+        .champion-card:hover:not(.empty) {
+            box-shadow: 0 0 20px rgba(233, 69, 96, 0.6);
+            transform: scale(1.05);
+        }
+
+        .champion-name {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .champion-camp {
+            font-size: 0.9em;
+            color: #e94560;
+            margin-top: 5px;
+        }
+
+        /* 抽签动画 */
+        .draw-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.8);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .draw-modal.active {
+            display: flex;
+        }
+
+        .draw-card {
+            background: linear-gradient(135deg, #1a1a2e, #0f3460);
+            border: 2px solid #e94560;
+            border-radius: 16px;
+            padding: 40px 60px;
+            text-align: center;
+            animation: drawIn 0.5s ease;
+        }
+
+        @keyframes drawIn {
+            0% { transform: scale(0.5); opacity: 0; }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        .draw-camp {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .draw-name {
+            font-size: 2.5em;
+            color: #e94560;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .draw-position {
+            font-size: 1.1em;
+            color: #888;
+        }
+
+        /* 间距调整 */
+        .round-32 { gap: 8px; }
+        .round-16 { gap: 30px; margin-top: 20px; }
+        .round-8 { gap: 75px; margin-top: 45px; }
+        .round-4 { gap: 170px; margin-top: 95px; }
+        .round-2 { gap: 0; margin-top: 195px; }
+
+        /* 当前位置提示 */
+        .current-position-hint {
+            position: fixed;
+            top: 80px;
+            right: 20px;
+            background: rgba(233, 69, 96, 0.9);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 0.9em;
+            z-index: 100;
+        }
+    </style>
+</head>
+<body>
+    <!-- 顶部规则 -->
+    <div class="rules-bar">
+        <div class="rule-item">
+            <strong>规避原则：</strong>每个1/8区内四族各一人
+        </div>
+        <div class="rule-item">
+            <strong>操作方式：</strong>点击选手自动落位（遵循规避规则）
+        </div>
+        <div class="rule-item">
+            <span class="camp-badge badge-tiger">虎×8</span>
+            <span class="camp-badge badge-bear">熊×8</span>
+            <span class="camp-badge badge-ox">牛×8</span>
+            <span class="camp-badge badge-hound">犬×8</span>
+        </div>
+    </div>
+
+    <!-- 标题 -->
+    <div class="header">
+        <h1>血酬淘汰赛</h1>
+        <p>第一届兽盾四营血酬淘汰赛 · 32强对阵</p>
+    </div>
+
+    <!-- 控制按钮 -->
+    <div class="controls">
+        <button class="btn btn-primary" id="drawBtn" onclick="drawNext()">随机抽取</button>
+        <button class="btn btn-secondary" onclick="resetAll()">重置</button>
+    </div>
+
+    <!-- 选手池（上移到这里） -->
+    <div class="pool-section">
+        <div class="pool-header">
+            <div class="pool-title">选手池（点击选手自动落位到下一个位置）</div>
+            <div class="pool-counter" id="counter">0/32</div>
+        </div>
+        <div class="pool-grid">
+            <div class="pool-camp">
+                <div class="pool-camp-header badge-tiger">虎之阵营</div>
+                <div class="pool-characters" id="pool-tiger"></div>
+            </div>
+            <div class="pool-camp">
+                <div class="pool-camp-header badge-bear">熊之阵营</div>
+                <div class="pool-characters" id="pool-bear"></div>
+            </div>
+            <div class="pool-camp">
+                <div class="pool-camp-header badge-ox">牛之阵营</div>
+                <div class="pool-characters" id="pool-ox"></div>
+            </div>
+            <div class="pool-camp">
+                <div class="pool-camp-header badge-hound">犬之阵营</div>
+                <div class="pool-characters" id="pool-hound"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 当前位置提示 -->
+    <div class="current-position-hint" id="positionHint">下一个位置: #1 (1/8区)</div>
+
+    <!-- 对阵图 -->
+    <div class="bracket-container">
+        <div class="bracket-wrapper" id="bracket">
+            <!-- 左半区 -->
+            <div class="round round-32" id="left-32">
+                <div class="round-label">32强</div>
+            </div>
+
+            <div class="round round-16" id="left-16">
+                <div class="round-label">16强</div>
+            </div>
+
+            <div class="round round-8" id="left-8">
+                <div class="round-label">8强</div>
+            </div>
+
+            <div class="round round-4" id="left-4">
+                <div class="round-label">半决赛</div>
+            </div>
+
+            <div class="round round-2" id="left-2">
+                <div class="round-label">决赛</div>
+            </div>
+
+            <!-- 冠军 -->
+            <div class="champion-area">
+                <div class="champion-title">冠军</div>
+                <div class="champion-card empty" id="champion-card">
+                    <div class="champion-name">?</div>
+                    <div class="champion-camp">待定</div>
+                </div>
+            </div>
+
+            <!-- 右半区 -->
+            <div class="round round-2" id="right-2">
+                <div class="round-label">决赛</div>
+            </div>
+
+            <div class="round round-4" id="right-4">
+                <div class="round-label">半决赛</div>
+            </div>
+
+            <div class="round round-8" id="right-8">
+                <div class="round-label">8强</div>
+            </div>
+
+            <div class="round round-16" id="right-16">
+                <div class="round-label">16强</div>
+            </div>
+
+            <div class="round round-32" id="right-32">
+                <div class="round-label">32强</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 抽签动画 -->
+    <div class="draw-modal" id="drawModal">
+        <div class="draw-card">
+            <div class="draw-camp" id="drawCamp"></div>
+            <div class="draw-name" id="drawName"></div>
+            <div class="draw-position" id="drawPosition"></div>
+        </div>
+    </div>
+
+    <script>
+        // 选手数据（来自 story-setting.md）
+        const characters = {
+            tiger: [
+                { name: '锋牙', code: 'E-178', motive: '证明' },
+                { name: '烈影', code: 'E-201', motive: '复仇' },
+                { name: '岩爪', code: 'E-156', motive: '生存' },
+                { name: '幼爪', code: 'E-312', motive: '救父' },
+                { name: '夜瞳', code: 'E-267', motive: '野心' },
+                { name: '风啸', code: 'E-289', motive: '公道' },
+                { name: '金纹', code: 'E-223', motive: '荣耀' },
+                { name: '残耳', code: 'E-134', motive: '神秘' }
+            ],
+            bear: [
+                { name: '棕岩', code: 'E-145', motive: '还债' },
+                { name: '黑山', code: 'E-112', motive: '赎罪' },
+                { name: '白掌', code: 'E-287', motive: '还债' },
+                { name: '铁背', code: 'E-198', motive: '不甘' },
+                { name: '灰耳', code: 'E-268', motive: '生存' },
+                { name: '厚掌', code: 'E-290', motive: '野心' },
+                { name: '柔毛', code: 'E-224', motive: '证明' },
+                { name: '冬眠', code: 'E-135', motive: '告别' }
+            ],
+            ox: [
+                { name: '铁角', code: 'E-217', motive: '还债' },
+                { name: '铜皮', code: 'E-189', motive: '救弟' },
+                { name: '青石', code: 'E-256', motive: '赌徒' },
+                { name: '泥蹄', code: 'E-198', motive: '还债' },
+                { name: '砂岩', code: 'E-167', motive: '不想被卖' },
+                { name: '岩裂', code: 'E-233', motive: '逃命' },
+                { name: '黑土', code: 'E-245', motive: '救母' },
+                { name: '荒原', code: 'E-301', motive: '杀人' }
+            ],
+            hound: [
+                { name: '灰影', code: 'E-157', motive: '自由' },
+                { name: '黑獒', code: 'E-089', motive: '家' },
+                { name: '铁背', code: 'E-269', motive: '忠诚' },
+                { name: '疾风', code: 'E-291', motive: '荣耀' },
+                { name: '铁颚', code: 'E-225', motive: '生存' },
+                { name: '雪眼', code: 'E-302', motive: '好奇' },
+                { name: '铁锁', code: 'E-136', motive: '最后机会' },
+                { name: '白毛', code: 'E-199', motive: '证明自己' }
+            ]
+        };
+
+        const campNames = { tiger: '虎', bear: '熊', ox: '牛', hound: '犬' };
+        const campColors = { tiger: '#ff9800', bear: '#8d6e63', ox: '#78909c', hound: '#7986cb' };
+
+        // 对阵结构定义
+        const bracketStructure = {
+            'left-32': Array.from({length: 16}, (_, i) => ({
+                id: `L32-${i}`,
+                position: i + 1,
+                next: `L16-${Math.floor(i/2)}`,
+                round: 32
+            })),
+            'left-16': Array.from({length: 8}, (_, i) => ({
+                id: `L16-${i}`,
+                position: i + 1,
+                next: `L8-${Math.floor(i/2)}`,
+                round: 16
+            })),
+            'left-8': Array.from({length: 4}, (_, i) => ({
+                id: `L8-${i}`,
+                position: i + 1,
+                next: `L4-${Math.floor(i/2)}`,
+                round: 8
+            })),
+            'left-4': Array.from({length: 2}, (_, i) => ({
+                id: `L4-${i}`,
+                position: i + 1,
+                next: `L2-0`,
+                round: 4
+            })),
+            'left-2': [{
+                id: 'L2-0',
+                position: 1,
+                next: 'champion',
+                round: 2
+            }],
+            'right-32': Array.from({length: 16}, (_, i) => ({
+                id: `R32-${i}`,
+                position: i + 17,
+                next: `R16-${Math.floor(i/2)}`,
+                round: 32
+            })),
+            'right-16': Array.from({length: 8}, (_, i) => ({
+                id: `R16-${i}`,
+                position: i + 1,
+                next: `R8-${Math.floor(i/2)}`,
+                round: 16
+            })),
+            'right-8': Array.from({length: 4}, (_, i) => ({
+                id: `R8-${i}`,
+                position: i + 1,
+                next: `R4-${Math.floor(i/2)}`,
+                round: 8
+            })),
+            'right-4': Array.from({length: 2}, (_, i) => ({
+                id: `R4-${i}`,
+                position: i + 1,
+                next: `R2-0`,
+                round: 4
+            })),
+            'right-2': [{
+                id: 'R2-0',
+                position: 1,
+                next: 'champion',
+                round: 2
+            }]
+        };
+
+        // 状态
+        let state = {
+            currentPos: 0,
+            drawn: new Set(),
+            slots: {},
+            winners: {},
+            zoneCamps: {}
+        };
+
+        let isDrawing = false;
+
+        // 初始化
+        function init() {
+            renderPool();
+            renderBracket();
+            updatePositionHint();
+        }
+
+        // 渲染选手池
+        function renderPool() {
+            Object.keys(characters).forEach(camp => {
+                const container = document.getElementById(`pool-${camp}`);
+                container.innerHTML = characters[camp].map((char, idx) => `
+                    <span class="pool-char ${camp}"
+                          data-camp="${camp}"
+                          data-idx="${idx}"
+                          id="pool-${camp}-${idx}"
+                          onclick="clickPoolChar('${camp}', ${idx})"
+                          title="${char.code} · ${char.motive}">
+                        ${char.name}
+                    </span>
+                `).join('');
+            });
+            updatePoolDisabledState();
+        }
+
+        // 更新选手池禁用状态
+        function updatePoolDisabledState() {
+            if (state.currentPos >= 32) return;
+
+            const availableCamps = getRequiredCamp(state.currentPos);
+
+            document.querySelectorAll('.pool-char').forEach(el => {
+                if (el.classList.contains('drawn')) return;
+
+                const camp = el.dataset.camp;
+                if (!availableCamps.includes(camp)) {
+                    el.classList.add('disabled');
+                } else {
+                    el.classList.remove('disabled');
+                }
+            });
+        }
+
+        // 点击选手池中的选手
+        function clickPoolChar(camp, idx) {
+            if (isDrawing) return;
+            if (state.currentPos >= 32) {
+                alert('抽签已完成！');
+                return;
+            }
+
+            // 检查是否已抽取
+            if (state.drawn.has(`${camp}-${idx}`)) {
+                return;
+            }
+
+            // 检查当前位置是否允许该阵营
+            const availableCamps = getRequiredCamp(state.currentPos);
+            if (!availableCamps.includes(camp)) {
+                // 尝试找下一个允许的位置
+                let foundPos = -1;
+                for (let i = state.currentPos + 1; i < 32; i++) {
+                    const campsAtPos = getRequiredCamp(i);
+                    if (campsAtPos.includes(camp)) {
+                        foundPos = i;
+                        break;
+                    }
+                }
+
+                if (foundPos === -1) {
+                    alert(`该选手无法放置在当前1/8区，且后续无合适位置！\n当前1/8区(${Math.floor(state.currentPos/4)+1}/8)已有${campNames[camp]}阵营选手`);
+                    return;
+                }
+
+                // 询问是否跳到下一个可放置位置
+                const zone = Math.floor(foundPos / 4) + 1;
+                if (confirm(`当前1/8区无法放置${campNames[camp]}阵营选手。\n是否跳到第${zone}/8区放置？`)) {
+                    state.currentPos = foundPos;
+                    placeChar(camp, idx);
+                }
+                return;
+            }
+
+            placeChar(camp, idx);
+        }
+
+        // 放置选手
+        function placeChar(camp, idx) {
+            isDrawing = true;
+
+            const char = characters[camp][idx];
+            const position = state.currentPos;
+            const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
+
+            // 更新状态
+            state.slots[slotId] = { ...char, camp, idx, position: position + 1 };
+            state.drawn.add(`${camp}-${idx}`);
+            state.zoneCamps[Math.floor(position / 4)].push(camp);
+            state.currentPos++;
+
+            // 显示动画
+            showDrawAnim(char, camp, position + 1);
+
+            setTimeout(() => {
+                updateCard(slotId, char, camp, position + 1);
+                updatePool(camp, idx);
+                updateCounter();
+                updatePositionHint();
+                updatePoolDisabledState();
+
+                isDrawing = false;
+
+                if (state.currentPos >= 32) {
+                    document.getElementById('drawBtn').disabled = true;
+                    document.getElementById('drawBtn').textContent = '抽签完成';
+                    document.getElementById('positionHint').style.display = 'none';
+                }
+            }, 1000);
+        }
+
+        // 随机抽取
+        function drawNext() {
+            if (isDrawing) return;
+            if (state.currentPos >= 32) {
+                alert('抽签已完成！');
+                return;
+            }
+
+            isDrawing = true;
+            document.getElementById('drawBtn').disabled = true;
+
+            const position = state.currentPos;
+            const availableCamps = getRequiredCamp(position);
+            const camp = availableCamps[Math.floor(Math.random() * availableCamps.length)];
+
+            const availableChars = characters[camp].filter((_, idx) =>
+                !state.drawn.has(`${camp}-${idx}`)
+            );
+
+            if (availableChars.length === 0) {
+                isDrawing = false;
+                document.getElementById('drawBtn').disabled = false;
+                drawNext();
+                return;
+            }
+
+            const charIdx = Math.floor(Math.random() * availableChars.length);
+            const char = availableChars[charIdx];
+            const originalIdx = characters[camp].indexOf(char);
+
+            const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
+            state.slots[slotId] = { ...char, camp, idx: originalIdx, position: position + 1 };
+            state.drawn.add(`${camp}-${originalIdx}`);
+            state.zoneCamps[Math.floor(position / 4)].push(camp);
+            state.currentPos++;
+
+            showDrawAnim(char, camp, position + 1);
+
+            setTimeout(() => {
+                updateCard(slotId, char, camp, position + 1);
+                updatePool(camp, originalIdx);
+                updateCounter();
+                updatePositionHint();
+                updatePoolDisabledState();
+
+                isDrawing = false;
+                if (state.currentPos < 32) {
+                    document.getElementById('drawBtn').disabled = false;
+                } else {
+                    document.getElementById('drawBtn').textContent = '抽签完成';
+                    document.getElementById('positionHint').style.display = 'none';
+                }
+            }, 1000);
+        }
+
+        function showDrawAnim(char, camp, position) {
+            const modal = document.getElementById('drawModal');
+            document.getElementById('drawCamp').textContent = `${campNames[camp]}之阵营`;
+            document.getElementById('drawCamp').style.color = campColors[camp];
+            document.getElementById('drawName').textContent = char.name;
+            document.getElementById('drawPosition').textContent = `签位 #${position}`;
+            modal.classList.add('active');
+            setTimeout(() => modal.classList.remove('active'), 1000);
+        }
+
+        function updateCard(slotId, char, camp, position) {
+            const card = document.getElementById(slotId);
+            card.className = `match-card filled ${camp}`;
+            card.innerHTML = `
+                <div class="card-position">#${position}</div>
+                <div class="card-name">${char.name}</div>
+                <div class="card-info">${char.code} · ${char.motive}</div>
+            `;
+        }
+
+        function updatePool(camp, idx) {
+            const el = document.getElementById(`pool-${camp}-${idx}`);
+            if (el) {
+                el.classList.add('drawn');
+                el.classList.remove('disabled');
+            }
+        }
+
+        function updateCounter() {
+            document.getElementById('counter').textContent = `${state.currentPos}/32`;
+        }
+
+        function updatePositionHint() {
+            if (state.currentPos >= 32) return;
+            const zone = Math.floor(state.currentPos / 4) + 1;
+            const hint = document.getElementById('positionHint');
+            hint.textContent = `下一个位置: #${state.currentPos + 1} (${zone}/8区)`;
+        }
+
+        // 渲染对阵图
+        function renderBracket() {
+            Object.keys(bracketStructure).forEach(roundId => {
+                const container = document.getElementById(roundId);
+                if (!container) return;
+                const label = container.querySelector('.round-label');
+                container.innerHTML = '';
+                if (label) container.appendChild(label);
+                bracketStructure[roundId].forEach(slot => {
+                    const card = createCard(slot);
+                    container.appendChild(card);
+                });
+            });
+        }
+
+        function createCard(slot) {
+            const div = document.createElement('div');
+            div.className = 'match';
+            div.innerHTML = `
+                <div class="match-card empty" id="${slot.id}" onclick="selectWinner('${slot.id}')">
+                    <div class="card-position">#${slot.position}</div>
+                    <div class="card-name">待定</div>
+                    <div class="card-info">点击选择胜者</div>
+                </div>
+            `;
+            return div;
+        }
+
+        // 获取位置需要的阵营
+        function getRequiredCamp(position) {
+            const zone = Math.floor(position / 4);
+            if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
+            const used = state.zoneCamps[zone];
+            return Object.keys(characters).filter(c => !used.includes(c));
+        }
+
+        // 选择胜者
+        function selectWinner(slotId) {
+            const card = document.getElementById(slotId);
+            if (!card || card.classList.contains('eliminated')) return;
+            if (!state.slots[slotId]) return;
+
+            const slot = findSlot(slotId);
+            if (!slot || !slot.next) return;
+
+            if (state.winners[slotId]) {
+                clearWinner(slotId);
+                return;
+            }
+
+            const opponentId = findOpponentId(slotId);
+            if (opponentId && state.winners[opponentId]) {
+                alert('该场比赛已确定胜者，请先取消对方选择');
+                return;
+            }
+
+            if (slot.next === 'champion') {
+                const otherFinalId = slotId.startsWith('L') ? 'R2-0' : 'L2-0';
+                if (state.slots[otherFinalId]) {
+                    const otherCard = document.getElementById(otherFinalId);
+                    otherCard.classList.add('eliminated');
+                }
+                setChampion(slotId);
+                return;
+            }
+
+            state.winners[slotId] = true;
+            card.classList.add('winner');
+            advanceWinner(slotId, slot.next);
+            markOpponentEliminated(slotId);
+        }
+
+        function findSlot(slotId) {
+            for (const round of Object.values(bracketStructure)) {
+                const slot = round.find(s => s.id === slotId);
+                if (slot) return slot;
+            }
+            return null;
+        }
+
+        function findOpponentId(slotId) {
+            const slot = findSlot(slotId);
+            if (!slot) return null;
+            const roundId = Object.keys(bracketStructure).find(key =>
+                bracketStructure[key].some(s => s.id === slotId)
+            );
+            if (!roundId) return null;
+            const round = bracketStructure[roundId];
+            const matchIndex = round.findIndex(s => s.id === slotId);
+            let opponentId = null;
+            if (matchIndex % 2 === 0 && matchIndex + 1 < round.length) {
+                opponentId = round[matchIndex + 1].id;
+            } else if (matchIndex % 2 === 1) {
+                opponentId = round[matchIndex - 1].id;
+            }
+            return opponentId;
+        }
+
+        function advanceWinner(fromId, toId) {
+            const char = state.slots[fromId];
+            const toSlot = findSlot(toId);
+            state.slots[toId] = { ...char, position: toSlot ? toSlot.position : '' };
+            setTimeout(() => {
+                const card = document.getElementById(toId);
+                const position = toSlot ? toSlot.position : '';
+                card.className = `match-card filled ${char.camp} advance`;
+                card.innerHTML = `
+                    <div class="card-position">#${position}</div>
+                    <div class="card-name">${char.name}</div>
+                    <div class="card-info">${char.code} · ${char.motive}</div>
+                `;
+            }, 100);
+        }
+
+        function markOpponentEliminated(winnerId) {
+            const opponentId = findOpponentId(winnerId);
+            if (opponentId && state.slots[opponentId] && !state.winners[opponentId]) {
+                const opponentCard = document.getElementById(opponentId);
+                opponentCard.classList.add('eliminated');
+            }
+        }
+
+        function setChampion(slotId) {
+            const prevChampion = document.getElementById('champion-card');
+            prevChampion.className = 'champion-card';
+            const char = state.slots[slotId];
+            const card = document.getElementById('champion-card');
+            card.className = 'champion-card';
+            card.innerHTML = `
+                <div class="champion-name">${char.name}</div>
+                <div class="champion-camp">${campNames[char.camp]}之阵营 · ${char.code}</div>
+            `;
+            state.winners[slotId] = true;
+            const winnerCard = document.getElementById(slotId);
+            winnerCard.classList.add('winner');
+        }
+
+        function clearWinner(slotId) {
+            delete state.winners[slotId];
+            const card = document.getElementById(slotId);
+            card.classList.remove('winner');
+
+            const opponentId = findOpponentId(slotId);
+            if (opponentId) {
+                const opponentCard = document.getElementById(opponentId);
+                opponentCard.classList.remove('eliminated');
+            }
+
+            const slot = findSlot(slotId);
+            if (slot && slot.next === 'champion') {
+                const otherFinalId = slotId.startsWith('L') ? 'R2-0' : 'L2-0';
+                const otherCard = document.getElementById(otherFinalId);
+                if (otherCard) otherCard.classList.remove('eliminated');
+
+                const championCard = document.getElementById('champion-card');
+                championCard.className = 'champion-card empty';
+                championCard.innerHTML = `
+                    <div class="champion-name">?</div>
+                    <div class="champion-camp">待定</div>
+                `;
+            }
+
+            if (slot && slot.next && slot.next !== 'champion') {
+                delete state.slots[slot.next];
+                delete state.winners[slot.next];
+                const nextCard = document.getElementById(slot.next);
+                const nextSlot = findSlot(slot.next);
+                const position = nextSlot ? nextSlot.position : '';
+                nextCard.className = 'match-card empty';
+                nextCard.innerHTML = `
+                    <div class="card-position">#${position}</div>
+                    <div class="card-name">待定</div>
+                    <div class="card-info">点击选择胜者</div>
+                `;
+                clearWinner(slot.next);
+            }
+        }
+
+        // 重置
+        function resetAll() {
+            state = {
+                currentPos: 0,
+                drawn: new Set(),
+                slots: {},
+                winners: {},
+                zoneCamps: {}
+            };
+            isDrawing = false;
+
+            const btn = document.getElementById('drawBtn');
+            btn.disabled = false;
+            btn.textContent = '随机抽取';
+            document.getElementById('positionHint').style.display = 'block';
+
+            const championCard = document.getElementById('champion-card');
+            championCard.className = 'champion-card empty';
+            championCard.innerHTML = `
+                <div class="champion-name">?</div>
+                <div class="champion-camp">待定</div>
+            `;
+
+            init();
+        }
+
+        // 启动
+        init();
+    </script>
+</body>
+</html>

@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血酬淘汰赛 - 32强抽签系统</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #eee;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 2px solid #e94560;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 2.2em;
+            color: #e94560;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            color: #aaa;
+            font-size: 1em;
+        }
+
+        .main-layout {
+            display: grid;
+            grid-template-columns: 260px 1fr;
+            gap: 20px;
+            max-width: 1800px;
+            margin: 0 auto;
+        }
+
+        /* 左侧选手池 */
+        .pool-panel {
+            background: rgba(0,0,0,0.4);
+            border-radius: 12px;
+            padding: 15px;
+            border: 1px solid rgba(255,255,255,0.1);
+            height: fit-content;
+            position: sticky;
+            top: 20px;
+        }
+
+        .pool-title {
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            text-align: center;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .draw-counter {
+            background: #e94560;
+            color: white;
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 0.8em;
+        }
+
+        .camp-section {
+            margin-bottom: 12px;
+        }
+
+        .camp-header {
+            font-weight: bold;
+            padding: 6px 10px;
+            border-radius: 6px;
+            margin-bottom: 6px;
+            font-size: 0.9em;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .camp-tiger { background: rgba(255, 152, 0, 0.25); color: #ff9800; }
+        .camp-bear { background: rgba(121, 85, 72, 0.25); color: #8d6e63; }
+        .camp-ox { background: rgba(96, 125, 139, 0.25); color: #78909c; }
+        .camp-hound { background: rgba(63, 81, 181, 0.25); color: #7986cb; }
+
+        .character-list {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .character-item {
+            padding: 6px 10px;
+            border-radius: 6px;
+            font-size: 0.85em;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+        }
+
+        .character-item:hover:not(.drawn) {
+            background: rgba(255,255,255,0.1);
+            cursor: pointer;
+        }
+
+        .character-item.tiger { border-left: 3px solid #ff9800; }
+        .character-item.bear { border-left: 3px solid #8d6e63; }
+        .character-item.ox { border-left: 3px solid #78909c; }
+        .character-item.hound { border-left: 3px solid #7986cb; }
+
+        .character-item.drawn {
+            opacity: 0.3;
+            background: rgba(255,255,255,0.05);
+        }
+
+        .character-item.drawn::after {
+            content: '✓';
+            color: #4caf50;
+            font-weight: bold;
+        }
+
+        .char-name {
+            font-weight: 500;
+        }
+
+        .char-code {
+            font-size: 0.75em;
+            color: #888;
+        }
+
+        /* 右侧晋级图 */
+        .bracket-wrapper {
+            background: rgba(0,0,0,0.3);
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid rgba(255,255,255,0.1);
+            overflow-x: auto;
+        }
+
+        .bracket-title {
+            text-align: center;
+            font-size: 1.1em;
+            color: #e94560;
+            margin-bottom: 15px;
+        }
+
+        .bracket-svg {
+            width: 1400px;
+            height: 900px;
+        }
+
+        /* SVG样式 */
+        .connection-line {
+            fill: none;
+            stroke: rgba(255,255,255,0.2);
+            stroke-width: 2;
+        }
+
+        .connection-line.active {
+            stroke: #e94560;
+            stroke-width: 3;
+        }
+
+        .slot-rect {
+            fill: rgba(255,255,255,0.05);
+            stroke: rgba(255,255,255,0.2);
+            stroke-width: 1;
+            rx: 6;
+        }
+
+        .slot-rect.filled {
+            stroke: rgba(255,255,255,0.4);
+        }
+
+        .slot-rect.tiger { fill: rgba(255, 152, 0, 0.15); stroke: #ff9800; }
+        .slot-rect.bear { fill: rgba(121, 85, 72, 0.15); stroke: #8d6e63; }
+        .slot-rect.ox { fill: rgba(96, 125, 139, 0.15); stroke: #78909c; }
+        .slot-rect.hound { fill: rgba(63, 81, 181, 0.15); stroke: #7986cb; }
+
+        .slot-text {
+            fill: #fff;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .slot-code {
+            fill: #888;
+            font-size: 10px;
+        }
+
+        .slot-position {
+            fill: #e94560;
+            font-size: 10px;
+            font-weight: bold;
+        }
+
+        .zone-label {
+            fill: #666;
+            font-size: 11px;
+        }
+
+        .round-label {
+            fill: #e94560;
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        /* 控制按钮 */
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .btn {
+            padding: 12px 30px;
+            font-size: 1em;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #e94560, #c73e54);
+            color: white;
+        }
+
+        .btn-primary:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(233, 69, 96, 0.4);
+        }
+
+        .btn-primary:disabled {
+            background: #555;
+            cursor: not-allowed;
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #533483, #7b2cbf);
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(83, 52, 131, 0.4);
+        }
+
+        /* 当前抽签显示 */
+        .current-draw {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: linear-gradient(135deg, #1a1a2e, #0f3460);
+            border: 2px solid #e94560;
+            border-radius: 16px;
+            padding: 30px 50px;
+            text-align: center;
+            display: none;
+            z-index: 1000;
+            box-shadow: 0 0 50px rgba(233, 69, 96, 0.5);
+        }
+
+        .current-draw.active {
+            display: block;
+            animation: drawPop 0.5s ease;
+        }
+
+        @keyframes drawPop {
+            0% { transform: translate(-50%, -50%) scale(0.5); opacity: 0; }
+            50% { transform: translate(-50%, -50%) scale(1.1); }
+            100% { transform: translate(-50%, -50%) scale(1); opacity: 1; }
+        }
+
+        .draw-camp {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .draw-name {
+            font-size: 2.5em;
+            color: #e94560;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .draw-position {
+            font-size: 1.2em;
+            color: #888;
+        }
+
+        /* 遮罩层 */
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.7);
+            display: none;
+            z-index: 999;
+        }
+
+        .overlay.active {
+            display: block;
+        }
+
+        /* 规则面板 */
+        .rules-panel {
+            max-width: 1800px;
+            margin: 20px auto;
+            background: rgba(0,0,0,0.3);
+            border-radius: 12px;
+            padding: 15px;
+            border: 1px solid rgba(233, 69, 96, 0.3);
+        }
+
+        .rules-title {
+            color: #e94560;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+
+        .rules-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 10px;
+            font-size: 0.9em;
+        }
+
+        .rule-item {
+            background: rgba(255,255,255,0.05);
+            padding: 10px 12px;
+            border-radius: 6px;
+            border-left: 3px solid #e94560;
+        }
+
+        /* 高亮动画 */
+        @keyframes slotHighlight {
+            0% { stroke-width: 1; }
+            50% { stroke-width: 4; filter: brightness(1.5); }
+            100% { stroke-width: 2; }
+        }
+
+        .slot-rect.highlight {
+            animation: slotHighlight 0.6s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🩸 血酬淘汰赛</h1>
+        <p>第一届兽盾四营血酬淘汰赛 - 32强抽签系统</p>
+    </div>
+
+    <div class="controls">
+        <button class="btn btn-primary" id="drawBtn" onclick="drawNext()">🎲 抽取下一位</button>
+        <button class="btn btn-secondary" onclick="resetAll()">🔄 重新开始</button>
+    </div>
+
+    <div class="main-layout">
+        <!-- 左侧选手池 -->
+        <div class="pool-panel">
+            <div class="pool-title">
+                选手池
+                <span class="draw-counter" id="counter">0/32</span>
+            </div>
+
+            <div class="camp-section">
+                <div class="camp-header camp-tiger">🐯 虎之阵营</div>
+                <div class="character-list" id="tiger-list"></div>
+            </div>
+
+            <div class="camp-section">
+                <div class="camp-header camp-bear">🐻 熊之阵营</div>
+                <div class="character-list" id="bear-list"></div>
+            </div>
+
+            <div class="camp-section">
+                <div class="camp-header camp-ox">🐮 牛之阵营</div>
+                <div class="character-list" id="ox-list"></div>
+            </div>
+
+            <div class="camp-section">
+                <div class="camp-header camp-hound">🐺 犬之阵营</div>
+                <div class="character-list" id="hound-list"></div>
+            </div>
+        </div>
+
+        <!-- 右侧晋级图 -->
+        <div class="bracket-wrapper">
+            <div class="bracket-title">32强晋级图（左右半区对称）</div>
+            <svg class="bracket-svg" id="bracketSvg" viewBox="0 0 1400 900">
+                <!-- 背景网格线 -->
+                <defs>
+                    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+                        <path d="M 50 0 L 0 0 0 50" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+                    </pattern>
+                </defs>
+                <rect width="100%" height="100%" fill="url(#grid)" />
+
+                <!-- 轮次标签 -->
+                <text x="150" y="30" class="round-label" text-anchor="middle">32强</text>
+                <text x="350" y="30" class="round-label" text-anchor="middle">16强</text>
+                <text x="550" y="30" class="round-label" text-anchor="middle">8强</text>
+                <text x="750" y="30" class="round-label" text-anchor="middle">半决赛</text>
+                <text x="950" y="30" class="round-label" text-anchor="middle">决赛</text>
+                <text x="700" y="480" class="round-label" text-anchor="middle">冠军</text>
+
+                <!-- 左半区 -->
+                <g id="left-bracket"></g>
+
+                <!-- 右半区 -->
+                <g id="right-bracket"></g>
+
+                <!-- 决赛连接线 -->
+                <path id="final-line-left" class="connection-line" d="M 850 250 L 900 250 L 900 440 L 950 440" />
+                <path id="final-line-right" class="connection-line" d="M 850 630 L 900 630 L 900 440 L 950 440" />
+            </svg>
+        </div>
+    </div>
+
+    <div class="rules-panel">
+        <div class="rules-title">📋 抽签规则</div>
+        <div class="rules-grid">
+            <div class="rule-item">
+                <strong>逐个抽签</strong><br>
+                点击"抽取下一位"按钮，系统按固定顺序依次抽取32个位置
+            </div>
+            <div class="rule-item">
+                <strong>规避原则</strong><br>
+                每个1/8区内四族各一人，前两轮同阵营不会相遇
+            </div>
+            <div class="rule-item">
+                <strong>1/8区划分</strong><br>
+                左半区：区1-4，右半区：区5-8
+            </div>
+            <div class="rule-item">
+                <strong>动态奖金</strong><br>
+                单场奖金 = 500 × (9 - 己方存活) × (9 - 对方存活)
+            </div>
+        </div>
+    </div>
+
+    <!-- 抽签动画 -->
+    <div class="overlay" id="overlay"></div>
+    <div class="current-draw" id="currentDraw">
+        <div class="draw-camp" id="drawCamp"></div>
+        <div class="draw-name" id="drawName"></div>
+        <div class="draw-position" id="drawPosition"></div>
+    </div>
+
+    <script>
+        // 32名选手数据
+        const characters = {
+            tiger: [
+                { name: '锋牙', code: 'E-178', motive: '证明' },
+                { name: '烈影', code: 'E-201', motive: '复仇' },
+                { name: '岩爪', code: 'E-156', motive: '生存' },
+                { name: '幼爪', code: 'E-312', motive: '救父' },
+                { name: '夜瞳', code: 'E-267', motive: '野心' },
+                { name: '风啸', code: 'E-289', motive: '公道' },
+                { name: '金纹', code: 'E-223', motive: '荣耀' },
+                { name: '残耳', code: 'E-134', motive: '神秘' }
+            ],
+            bear: [
+                { name: '棕岩', code: 'E-145', motive: '还债' },
+                { name: '黑山', code: 'E-112', motive: '赎罪' },
+                { name: '白掌', code: 'E-287', motive: '还债' },
+                { name: '铁背', code: 'E-198', motive: '不甘' },
+                { name: '灰耳', code: 'E-267', motive: '生存' },
+                { name: '厚掌', code: 'E-289', motive: '野心' },
+                { name: '柔毛', code: 'E-223', motive: '证明' },
+                { name: '冬眠', code: 'E-134', motive: '告别' }
+            ],
+            ox: [
+                { name: '铁角', code: 'E-217', motive: '还债' },
+                { name: '铜皮', code: 'E-189', motive: '救弟' },
+                { name: '青石', code: 'E-256', motive: '赌徒' },
+                { name: '泥蹄', code: 'E-198', motive: '还债' },
+                { name: '砂岩', code: 'E-167', motive: '不想被卖' },
+                { name: '岩裂', code: 'E-233', motive: '逃命' },
+                { name: '黑土', code: 'E-245', motive: '救母' },
+                { name: '荒原', code: 'E-301', motive: '杀人' }
+            ],
+            hound: [
+                { name: '灰影', code: 'E-156', motive: '自由' },
+                { name: '黑獒', code: 'E-089', motive: '家' },
+                { name: '铁背(犬)', code: 'E-267', motive: '忠诚' },
+                { name: '疾风', code: 'E-289', motive: '荣耀' },
+                { name: '铁颚', code: 'E-223', motive: '生存' },
+                { name: '雪眼', code: 'E-301', motive: '好奇' },
+                { name: '铁锁', code: 'E-134', motive: '最后机会' },
+                { name: '白毛', code: 'E-145', motive: '证明自己' }
+            ]
+        };
+
+        const campNames = { tiger: '虎', bear: '熊', ox: '牛', hound: '犬' };
+        const campColors = { tiger: '#ff9800', bear: '#8d6e63', ox: '#78909c', hound: '#7986cb' };
+
+        // 抽签状态
+        let drawState = {
+            currentPosition: 0,
+            drawn: new Set(),
+            slots: new Array(32).fill(null),
+            zoneCamps: {} // 记录每个区已有的阵营
+        };
+
+        // 初始化
+        function init() {
+            renderPool();
+            initBracket();
+            updateCounter();
+        }
+
+        // 渲染选手池
+        function renderPool() {
+            Object.keys(characters).forEach(camp => {
+                const list = document.getElementById(`${camp}-list`);
+                list.innerHTML = characters[camp].map((char, idx) => `
+                    <div class="character-item ${camp}" data-camp="${camp}" data-idx="${idx}">
+                        <div>
+                            <div class="char-name">${char.name}</div>
+                            <div class="char-code">${char.code} · ${char.motive}</div>
+                        </div>
+                    </div>
+                `).join('');
+            });
+        }
+
+        // 初始化晋级图SVG结构
+        function initBracket() {
+            const leftGroup = document.getElementById('left-bracket');
+            const rightGroup = document.getElementById('right-bracket');
+
+            // 生成左半区（区1-4）
+            leftGroup.innerHTML = generateHalfBracket('left', 4);
+
+            // 生成右半区（区5-8）
+            rightGroup.innerHTML = generateHalfBracket('right', 4);
+        }
+
+        function generateHalfBracket(side, zoneCount) {
+            let html = '';
+            const startZone = side === 'left' ? 1 : 5;
+            const xOffset = side === 'left' ? 0 : 700;
+
+            // 每个区的高度
+            const zoneHeight = 200;
+
+            for (let z = 0; z < zoneCount; z++) {
+                const zoneNum = startZone + z;
+                const zoneY = z * zoneHeight + 60;
+
+                // 区标签
+                html += `<text x="${xOffset + 30}" y="${zoneY - 10}" class="zone-label">1/8区${zoneNum}</text>`;
+
+                // 32强位置（4个）
+                const slotHeight = 35;
+                const slotGap = 10;
+
+                for (let i = 0; i < 4; i++) {
+                    const slotY = zoneY + i * (slotHeight + slotGap);
+                    const position = (zoneNum - 1) * 4 + i + 1;
+
+                    html += createSlot(xOffset + 50, slotY, position, `slot-${position - 1}`);
+                }
+
+                // 16强位置（2个）
+                for (let i = 0; i < 2; i++) {
+                    const slotY = zoneY + i * 2 * (slotHeight + slotGap) + (slotHeight + slotGap) / 2;
+                    const position = `16强-${zoneNum}-${i + 1}`;
+
+                    html += createSlot(xOffset + 250, slotY, position, `slot-r2-${side}-${z}-${i}`, true);
+
+                    // 连接线（从32强到16强）
+                    const fromY1 = zoneY + i * 2 * (slotHeight + slotGap);
+                    const fromY2 = fromY1 + slotHeight + slotGap;
+                    html += createConnection(xOffset + 200, fromY1 + slotHeight / 2, xOffset + 230, fromY1 + slotHeight / 2, xOffset + 230, slotY + slotHeight / 2, xOffset + 250, slotY + slotHeight / 2);
+                }
+
+                // 8强位置（1个）
+                const r3Y = zoneY + 1.5 * (slotHeight + slotGap);
+                html += createSlot(xOffset + 450, r3Y, `8强-${zoneNum}`, `slot-r3-${side}-${z}`, true);
+
+                // 连接线（从16强到8强）
+                const r2Y1 = zoneY + (slotHeight + slotGap) / 2;
+                const r2Y2 = zoneY + 3 * (slotHeight + slotGap) + (slotHeight + slotGap) / 2;
+                html += createConnection(xOffset + 450, r2Y1 + slotHeight / 2, xOffset + 480, r2Y1 + slotHeight / 2, xOffset + 480, r3Y + slotHeight / 2, xOffset + 500, r3Y + slotHeight / 2);
+
+                // 半决赛连接线（从8强到半决赛）
+                html += createConnection(xOffset + 650, r3Y + slotHeight / 2, xOffset + 680, r3Y + slotHeight / 2, xOffset + 680, zoneNum % 2 === 1 ? 265 : 615, xOffset + 700, zoneNum % 2 === 1 ? 265 : 615);
+            }
+
+            // 半决赛位置（每个半区2个合成1个）
+            const semiY1 = 250;
+            const semiY2 = 630;
+            html += createSlot(xOffset + 700, semiY1 - slotHeight / 2, '半决赛', `slot-semi-${side}-1`, true);
+            html += createSlot(xOffset + 700, semiY2 - slotHeight / 2, '半决赛', `slot-semi-${side}-2`, true);
+
+            return html;
+        }
+
+        function createSlot(x, y, position, id, isPlaceholder = false) {
+            const width = 140;
+            const height = 35;
+
+            return `
+                <g id="${id}" class="slot-group" data-position="${position}">
+                    <rect x="${x}" y="${y}" width="${width}" height="${height}" class="slot-rect" rx="6" />
+                    <text x="${x + width - 8}" y="${y + 12}" class="slot-position" text-anchor="end">${typeof position === 'number' ? '#' + position : position}</text>
+                    <text x="${x + 10}" y="${y + 22}" class="slot-name" id="${id}-name"></text>
+                    <text x="${x + 10}" y="${y + 32}" class="slot-code" id="${id}-code"></text>
+                </g>
+            `;
+        }
+
+        function createConnection(x1, y1, x2, y2, x3, y3, x4, y4) {
+            return `<path class="connection-line" d="M ${x1} ${y1} L ${x2} ${y2} L ${x3} ${y3} L ${x4} ${y4}" />`;
+        }
+
+        // 获取下一个位置需要的阵营
+        function getRequiredCampForPosition(position) {
+            // 计算这个位置属于哪个区
+            const zone = Math.floor(position / 4);
+            const posInZone = position % 4;
+
+            if (!drawState.zoneCamps[zone]) {
+                drawState.zoneCamps[zone] = [];
+            }
+
+            const usedCamps = drawState.zoneCamps[zone];
+            const availableCamps = Object.keys(characters).filter(c => !usedCamps.includes(c));
+
+            return { zone, availableCamps };
+        }
+
+        // 抽取下一个
+        function drawNext() {
+            if (drawState.currentPosition >= 32) {
+                alert('抽签已完成！');
+                return;
+            }
+
+            const position = drawState.currentPosition;
+            const { zone, availableCamps } = getRequiredCampForPosition(position);
+
+            // 从可用阵营中随机选择一个
+            const selectedCamp = availableCamps[Math.floor(Math.random() * availableCamps.length)];
+
+            // 从该阵营中随机选择一个未抽中的选手
+            const availableChars = characters[selectedCamp].filter((_, idx) => {
+                return !drawState.drawn.has(`${selectedCamp}-${idx}`);
+            });
+
+            if (availableChars.length === 0) {
+                // 如果该阵营没有可用选手，重新选择
+                drawNext();
+                return;
+            }
+
+            const selectedCharIdx = Math.floor(Math.random() * availableChars.length);
+            const selectedChar = availableChars[selectedCharIdx];
+            const originalIdx = characters[selectedCamp].indexOf(selectedChar);
+
+            // 更新状态
+            drawState.slots[position] = { ...selectedChar, camp: selectedCamp };
+            drawState.drawn.add(`${selectedCamp}-${originalIdx}`);
+            drawState.zoneCamps[zone].push(selectedCamp);
+            drawState.currentPosition++;
+
+            // 显示抽签动画
+            showDrawAnimation(selectedChar, selectedCamp, position + 1);
+
+            // 更新UI
+            setTimeout(() => {
+                updatePoolUI(selectedCamp, originalIdx);
+                updateSlotUI(position, selectedChar, selectedCamp);
+                updateCounter();
+            }, 1500);
+
+            // 检查是否完成
+            if (drawState.currentPosition >= 32) {
+                document.getElementById('drawBtn').disabled = true;
+                document.getElementById('drawBtn').textContent = '✓ 抽签完成';
+            }
+        }
+
+        function showDrawAnimation(char, camp, position) {
+            const overlay = document.getElementById('overlay');
+            const drawDiv = document.getElementById('currentDraw');
+
+            document.getElementById('drawCamp').textContent = `${campNames[camp]}之阵营`;
+            document.getElementById('drawCamp').style.color = campColors[camp];
+            document.getElementById('drawName').textContent = char.name;
+            document.getElementById('drawPosition').textContent = `签位 #${position}`;
+
+            overlay.classList.add('active');
+            drawDiv.classList.add('active');
+
+            setTimeout(() => {
+                overlay.classList.remove('active');
+                drawDiv.classList.remove('active');
+            }, 1500);
+        }
+
+        function updatePoolUI(camp, idx) {
+            const list = document.getElementById(`${camp}-list`);
+            const item = list.children[idx];
+            item.classList.add('drawn');
+        }
+
+        function updateSlotUI(position, char, camp) {
+            const slotId = `slot-${position}`;
+            const rect = document.querySelector(`#${slotId} rect`);
+            const nameText = document.getElementById(`${slotId}-name`);
+            const codeText = document.getElementById(`${slotId}-code`);
+
+            rect.classList.add(camp, 'filled', 'highlight');
+            nameText.textContent = char.name;
+            codeText.textContent = `${char.code} · ${char.motive}`;
+        }
+
+        function updateCounter() {
+            document.getElementById('counter').textContent = `${drawState.currentPosition}/32`;
+        }
+
+        // 重置
+        function resetAll() {
+            drawState = {
+                currentPosition: 0,
+                drawn: new Set(),
+                slots: new Array(32).fill(null),
+                zoneCamps: {}
+            };
+
+            document.getElementById('drawBtn').disabled = false;
+            document.getElementById('drawBtn').textContent = '🎲 抽取下一位';
+
+            renderPool();
+            initBracket();
+            updateCounter();
+        }
+
+        // 启动
+        init();
+    </script>
+</body>
+</html>
