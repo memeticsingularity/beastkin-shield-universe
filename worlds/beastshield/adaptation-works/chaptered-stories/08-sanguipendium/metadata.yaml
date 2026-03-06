@@ -1,0 +1,160 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章故事元数据
+# ============================================
+# Compatible with Naming Guide v2.3.0
+# 适配命名指南 v2.3.0
+# For adaptation works based on Beastshield universe
+# 用于基于兽盾世界观的改编作品
+
+work:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  code: "bs-a-cm-1-sanguipendium"
+  # Format: [world]-a-[form_type]-[natural_number]-[series_name]
+  # 格式: [世界观]-a-[形式类型]-[自然数序号]-[系列名]
+
+  title:
+    chinese: "血酬淘汰赛"
+    english: "Sanguipendium - The Blood Bounty Tournament"
+
+  format: "chaptered-story"
+  form_type: "cm"  # Main story adaptation
+  status: "updating"
+  location: "adaptation-works"  # Fixed for adaptation works
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  subtype: "main"  # For form_type: "cm", automatically main
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  promotion_status: "eligible"
+
+  # Work Type Detail - For adaptation works
+  # 作品类型细分 - 用于改编作品
+  work_type: "world-building"  # Expanding the Beastshield universe with new narrative
+
+  tags:
+    - "adaptation"
+    - "tournament"
+    - "death-game"
+    - "multi-pov"
+    - "character-study"
+    - "dark-themes"
+    - "economic-desperation"
+    - "racial-diversity"
+    - "32-characters"
+    - "beastshield-lore"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  # Inspiration Sources - World-building based on Beastshield setting
+  # 灵感来源 - 基于兽盾世界观的原创构建
+  inspiration_sources:
+    - type: "world-building"
+      universe: "beastshield"
+      description: "Original story created within Beastshield universe, exploring the economic desperation of E-rank enforcers and the brutal entertainment culture of the White Capital"
+
+  content_warnings:
+    - "extreme-violence"
+    - "death"
+    - "sexual-content"
+    - "dark-themes"
+    - "economic-desperation"
+    - "gambling"
+    - "suicidal-ideation"
+
+  reading_time_estimate:
+    minutes: 600  # Estimated 10+ hours for full story
+
+  target_audience: "mature"
+
+  # Story arc information
+  story_arc:
+    total_chapters: 9
+    current_chapters: 5
+    completion_percentage: 55
+
+  # Character roster
+  characters:
+    total: 32
+    by_camp:
+      - camp: "ox"
+        count: 8
+        names: ["铁角", "铜皮", "青石", "泥蹄", "砂岩", "岩裂", "黑土", "荒原"]
+      - camp: "tiger"
+        count: 8
+        names: ["锋牙", "烈影", "岩爪", "幼爪", "夜瞳", "风啸", "金纹", "残耳"]
+      - camp: "bear"
+        count: 8
+        names: ["棕岩", "黑山", "白掌", "铁背", "灰耳", "厚掌", "柔毛", "冬眠"]
+      - camp: "hound"
+        count: 8
+        names: ["灰影", "黑獒", "铁背", "疾风", "铁颚", "雪眼", "铁锁", "白毛", "尖耳"]
+
+creation:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  author: "memeticsingularity"
+  start_date: "2025-03-04"
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  # Adaptation Information - World-building within Beastshield
+  # 改编信息 - 在兽盾世界观内的原创构建
+  adaptation_info:
+    original_work: "beastshield-universe"
+    original_title: "兽盾世界观"
+    original_author: "memeticsingularity & community"
+    adaptation_approach: "world-building"
+    key_changes: |
+      Original story created within Beastshield universe, expanding on:
+
+      1. E-rank enforcer camp culture and internal dynamics
+      2. Economic desperation driving characters to death games
+      3. Detailed biological characteristics of four beastkin races
+      4. The "blood bounty" tournament as corporate entertainment
+      5. Dynamic prize formula creating intra-faction tension
+      6. The 32-character roster with individual motivations and backstories
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  last_update: "2026-03-06"
+  universe_based_on: "beastshield"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2025-03-04"
+      changes: "Project initialization and story setting documentation / 项目初始化和故事设定文档"
+    - version: "1.1"
+      date: "2025-03-05"
+      changes: "Chapter 1 completed - High-level decision making / 完成第一章 - 高层决策"
+    - version: "2.0"
+      date: "2025-03-06"
+      changes: "Chapter 2 rewritten - Ox camp 8 characters / 重写第二章 - 牛营8人"
+    - version: "2.1"
+      date: "2026-03-06"
+      changes: "Chapters 3-5 completed - Tiger, Bear, Hound camps / 完成第3-5章 - 虎熊犬三营"

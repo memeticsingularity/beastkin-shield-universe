@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血酬淘汰赛 - 32强抽签系统</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #eee;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 2px solid #e94560;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            color: #e94560;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #aaa;
+            font-size: 1.1em;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 15px 40px;
+            font-size: 1.2em;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #e94560, #c73e54);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(233, 69, 96, 0.4);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #533483, #7b2cbf);
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(83, 52, 131, 0.4);
+        }
+
+        .main-container {
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            gap: 20px;
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        .pool-panel {
+            background: rgba(0,0,0,0.3);
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .pool-title {
+            font-size: 1.3em;
+            margin-bottom: 15px;
+            text-align: center;
+            color: #fff;
+        }
+
+        .camp-section {
+            margin-bottom: 15px;
+        }
+
+        .camp-header {
+            font-weight: bold;
+            padding: 8px 12px;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .camp-tiger { background: rgba(255, 152, 0, 0.3); color: #ff9800; }
+        .camp-bear { background: rgba(121, 85, 72, 0.3); color: #8d6e63; }
+        .camp-ox { background: rgba(96, 125, 139, 0.3); color: #78909c; }
+        .camp-hound { background: rgba(63, 81, 181, 0.3); color: #7986cb; }
+
+        .character-tag {
+            display: inline-block;
+            padding: 4px 10px;
+            margin: 3px;
+            border-radius: 15px;
+            font-size: 0.85em;
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .bracket-container {
+            overflow-x: auto;
+            padding: 20px;
+            background: rgba(0,0,0,0.2);
+            border-radius: 12px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .bracket {
+            display: flex;
+            justify-content: space-between;
+            min-width: 1200px;
+            padding: 20px 0;
+        }
+
+        .round {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            width: 200px;
+            margin: 0 10px;
+        }
+
+        .round-title {
+            text-align: center;
+            font-weight: bold;
+            color: #e94560;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+
+        .match {
+            background: rgba(255,255,255,0.05);
+            border: 2px solid rgba(255,255,255,0.1);
+            border-radius: 8px;
+            margin: 10px 0;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .match::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            right: -22px;
+            width: 20px;
+            height: 2px;
+            background: rgba(255,255,255,0.3);
+        }
+
+        .match::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            right: -22px;
+            width: 2px;
+            height: 60px;
+            background: rgba(255,255,255,0.3);
+            transform: translateY(-50%);
+        }
+
+        .round:last-child .match::before,
+        .round:last-child .match::after {
+            display: none;
+        }
+
+        .match:nth-child(odd)::after {
+            transform: translateY(0);
+            top: 50%;
+        }
+
+        .match:nth-child(even)::after {
+            transform: translateY(-100%);
+            top: 50%;
+        }
+
+        .participant {
+            padding: 10px 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            transition: all 0.3s ease;
+        }
+
+        .participant:last-child {
+            border-bottom: none;
+        }
+
+        .participant.tiger { background: rgba(255, 152, 0, 0.15); border-left: 4px solid #ff9800; }
+        .participant.bear { background: rgba(121, 85, 72, 0.15); border-left: 4px solid #8d6e63; }
+        .participant.ox { background: rgba(96, 125, 139, 0.15); border-left: 4px solid #78909c; }
+        .participant.hound { background: rgba(63, 81, 181, 0.15); border-left: 4px solid #7986cb; }
+
+        .participant.empty {
+            background: rgba(255,255,255,0.02);
+            color: #666;
+            font-style: italic;
+        }
+
+        .name {
+            font-weight: 600;
+            font-size: 0.95em;
+        }
+
+        .code {
+            font-size: 0.75em;
+            color: #888;
+        }
+
+        .zone-info {
+            font-size: 0.7em;
+            color: #666;
+            margin-top: 5px;
+            text-align: center;
+        }
+
+        .rules-panel {
+            max-width: 1600px;
+            margin: 30px auto;
+            background: rgba(0,0,0,0.3);
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid rgba(233, 69, 96, 0.3);
+        }
+
+        .rules-title {
+            color: #e94560;
+            font-size: 1.3em;
+            margin-bottom: 15px;
+        }
+
+        .rules-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 15px;
+        }
+
+        .rule-item {
+            background: rgba(255,255,255,0.05);
+            padding: 12px 15px;
+            border-radius: 8px;
+            border-left: 3px solid #e94560;
+        }
+
+        .rule-item strong {
+            color: #e94560;
+        }
+
+        .animation-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.9);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            flex-direction: column;
+        }
+
+        .animation-overlay.active {
+            display: flex;
+        }
+
+        .drawing-ball {
+            width: 150px;
+            height: 150px;
+            background: linear-gradient(135deg, #e94560, #c73e54);
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 3em;
+            animation: bounce 0.5s ease infinite;
+            box-shadow: 0 0 50px rgba(233, 69, 96, 0.5);
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        .drawing-text {
+            margin-top: 30px;
+            font-size: 1.5em;
+            color: #fff;
+        }
+
+        .camp-legend {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+        }
+
+        .legend-tiger { background: #ff9800; }
+        .legend-bear { background: #8d6e63; }
+        .legend-ox { background: #78909c; }
+        .legend-hound { background: #7986cb; }
+
+        @media (max-width: 1200px) {
+            .main-container {
+                grid-template-columns: 1fr;
+            }
+            .bracket {
+                transform: scale(0.8);
+                transform-origin: left top;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🩸 血酬淘汰赛</h1>
+        <p>第一届兽盾四营血酬淘汰赛 - 32强抽签系统</p>
+    </div>
+
+    <div class="camp-legend">
+        <div class="legend-item">
+            <div class="legend-color legend-tiger"></div>
+            <span>虎之阵营 (8人)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color legend-bear"></div>
+            <span>熊之阵营 (8人)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color legend-ox"></div>
+            <span>牛之阵营 (8人)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color legend-hound"></div>
+            <span>犬之阵营 (8人)</span>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button class="btn btn-primary" onclick="startDrawing()">🎲 开始抽签</button>
+        <button class="btn btn-secondary" onclick="clearBracket()">🔄 重置</button>
+    </div>
+
+    <div class="main-container">
+        <div class="pool-panel">
+            <div class="pool-title">选手池</div>
+
+            <div class="camp-section">
+                <div class="camp-header camp-tiger">🐯 虎之阵营</div>
+                <div id="tiger-pool"></div>
+            </div>
+
+            <div class="camp-section">
+                <div class="camp-header camp-bear">🐻 熊之阵营</div>
+                <div id="bear-pool"></div>
+            </div>
+
+            <div class="camp-section">
+                <div class="camp-header camp-ox">🐮 牛之阵营</div>
+                <div id="ox-pool"></div>
+            </div>
+
+            <div class="camp-section">
+                <div class="camp-header camp-hound">🐺 犬之阵营</div>
+                <div id="hound-pool"></div>
+            </div>
+        </div>
+
+        <div class="bracket-container">
+            <div class="bracket" id="bracket">
+                <!-- Round 1: 32进16 -->
+                <div class="round" data-round="1">
+                    <div class="round-title">32进16</div>
+                    <!-- 16 matches -->
+                </div>
+
+                <!-- Round 2: 16进8 -->
+                <div class="round" data-round="2">
+                    <div class="round-title">16进8</div>
+                    <!-- 8 matches -->
+                </div>
+
+                <!-- Round 3: 8进4 -->
+                <div class="round" data-round="3">
+                    <div class="round-title">8进4</div>
+                    <!-- 4 matches -->
+                </div>
+
+                <!-- Round 4: 半决赛 -->
+                <div class="round" data-round="4">
+                    <div class="round-title">半决赛</div>
+                    <!-- 2 matches -->
+                </div>
+
+                <!-- Round 5: 决赛 -->
+                <div class="round" data-round="5">
+                    <div class="round-title">决赛</div>
+                    <!-- 1 match -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="rules-panel">
+        <div class="rules-title">📋 抽签规则</div>
+        <div class="rules-list">
+            <div class="rule-item">
+                <strong>1/8区划分</strong><br>
+                32个签位分为8个区，每区4人（签位1-4, 5-8, 9-12, 13-16, 17-20, 21-24, 25-28, 29-32）
+            </div>
+            <div class="rule-item">
+                <strong>规避原则</strong><br>
+                每个1/8区内必须包含四个不同阵营（虎、熊、牛、犬各一人），确保前两轮同阵营不会相遇
+            </div>
+            <div class="rule-item">
+                <strong>第一轮对阵</strong><br>
+                同一区内：签位1 vs 签位4，签位2 vs 签位3
+            </div>
+            <div class="rule-item">
+                <strong>第二轮对阵</strong><br>
+                同一区内：第一轮的两名胜者对决
+            </div>
+            <div class="rule-item">
+                <strong>第三轮起</strong><br>
+                规避原则失效，同阵营选手可能相遇
+            </div>
+            <div class="rule-item">
+                <strong>动态奖金</strong><br>
+                单场奖金 = 500 × (9 - 己方存活) × (9 - 对方存活)
+            </div>
+        </div>
+    </div>
+
+    <div class="animation-overlay" id="overlay">
+        <div class="drawing-ball">🎲</div>
+        <div class="drawing-text" id="drawing-text">正在抽签...</div>
+    </div>
+
+    <script>
+        // 32名选手数据
+        const characters = {
+            tiger: [
+                { name: '锋牙', code: 'E-178', age: 32, motive: '证明' },
+                { name: '烈影', code: 'E-201', age: 27, motive: '复仇' },
+                { name: '岩爪', code: 'E-156', age: 35, motive: '生存' },
+                { name: '幼爪', code: 'E-312', age: 20, motive: '救父' },
+                { name: '夜瞳', code: 'E-267', age: 29, motive: '野心' },
+                { name: '风啸', code: 'E-289', age: 26, motive: '公道' },
+                { name: '金纹', code: 'E-223', age: 31, motive: '荣耀' },
+                { name: '残耳', code: 'E-134', age: 38, motive: '神秘' }
+            ],
+            bear: [
+                { name: '棕岩', code: 'E-145', age: 35, motive: '还债' },
+                { name: '黑山', code: 'E-112', age: 32, motive: '赎罪' },
+                { name: '白掌', code: 'E-287', age: 24, motive: '还债' },
+                { name: '铁背', code: 'E-198', age: 38, motive: '不甘' },
+                { name: '灰耳', code: 'E-267', age: 33, motive: '生存' },
+                { name: '厚掌', code: 'E-289', age: 29, motive: '野心' },
+                { name: '柔毛', code: 'E-223', age: 27, motive: '证明' },
+                { name: '冬眠', code: 'E-134', age: 42, motive: '告别' }
+            ],
+            ox: [
+                { name: '铁角', code: 'E-217', age: 37, motive: '还债' },
+                { name: '铜皮', code: 'E-189', age: 30, motive: '救弟' },
+                { name: '青石', code: 'E-256', age: 29, motive: '赌徒' },
+                { name: '泥蹄', code: 'E-198', age: 30, motive: '还债' },
+                { name: '砂岩', code: 'E-167', age: 43, motive: '不想被卖' },
+                { name: '岩裂', code: 'E-233', age: 24, motive: '逃命' },
+                { name: '黑土', code: 'E-245', age: 35, motive: '救母' },
+                { name: '荒原', code: 'E-301', age: 22, motive: '杀人' }
+            ],
+            hound: [
+                { name: '灰影', code: 'E-156', age: 30, motive: '自由' },
+                { name: '黑獒', code: 'E-089', age: 28, motive: '家' },
+                { name: '铁背(犬)', code: 'E-267', age: 31, motive: '忠诚' },
+                { name: '疾风', code: 'E-289', age: 25, motive: '荣耀' },
+                { name: '铁颚', code: 'E-223', age: 29, motive: '生存' },
+                { name: '雪眼', code: 'E-301', age: 22, motive: '好奇' },
+                { name: '铁锁', code: 'E-134', age: 35, motive: '最后机会' },
+                { name: '白毛', code: 'E-145', age: 26, motive: '证明自己' }
+            ]
+        };
+
+        let currentDraw = [];
+
+        // 初始化显示选手池
+        function initPools() {
+            Object.keys(characters).forEach(camp => {
+                const pool = document.getElementById(`${camp}-pool`);
+                pool.innerHTML = characters[camp].map(c =>
+                    `<span class="character-tag">${c.name}</span>`
+                ).join('');
+            });
+        }
+
+        // 生成抽签结果（带规避原则）
+        function generateDrawing() {
+            const zones = [];
+
+            // 为每个阵营创建随机排序的数组
+            const shuffled = {
+                tiger: [...characters.tiger].sort(() => Math.random() - 0.5),
+                bear: [...characters.bear].sort(() => Math.random() - 0.5),
+                ox: [...characters.ox].sort(() => Math.random() - 0.5),
+                hound: [...characters.hound].sort(() => Math.random() - 0.5)
+            };
+
+            // 创建8个区，每个区包含四个阵营各一人
+            for (let i = 0; i < 8; i++) {
+                const zone = [
+                    { ...shuffled.tiger[i], camp: 'tiger' },
+                    { ...shuffled.bear[i], camp: 'bear' },
+                    { ...shuffled.ox[i], camp: 'ox' },
+                    { ...shuffled.hound[i], camp: 'hound' }
+                ];
+                // 在区内随机排序
+                zones.push(zone.sort(() => Math.random() - 0.5));
+            }
+
+            // 展平为32人数组
+            currentDraw = zones.flat();
+            return currentDraw;
+        }
+
+        // 创建对阵表HTML
+        function createBracket(draw) {
+            const bracket = document.getElementById('bracket');
+
+            // 清空现有内容，保留round容器
+            bracket.querySelectorAll('.round').forEach(round => {
+                const title = round.querySelector('.round-title');
+                round.innerHTML = '';
+                round.appendChild(title);
+            });
+
+            const round1 = bracket.querySelector('[data-round="1"]');
+            const round2 = bracket.querySelector('[data-round="2"]');
+            const round3 = bracket.querySelector('[data-round="3"]');
+            const round4 = bracket.querySelector('[data-round="4"]');
+            const round5 = bracket.querySelector('[data-round="5"]');
+
+            // Round 1: 32进16 (16场比赛，每区2场)
+            for (let zone = 0; zone < 8; zone++) {
+                const zoneStart = zone * 4;
+                const zonePlayers = draw.slice(zoneStart, zoneStart + 4);
+
+                // 区内对阵: 0 vs 3, 1 vs 2
+                const match1 = createMatch([
+                    { ...zonePlayers[0], position: zoneStart + 1 },
+                    { ...zonePlayers[3], position: zoneStart + 4 }
+                ], `1/8区${zone + 1}-1`);
+
+                const match2 = createMatch([
+                    { ...zonePlayers[1], position: zoneStart + 2 },
+                    { ...zonePlayers[2], position: zoneStart + 3 }
+                ], `1/8区${zone + 1}-2`);
+
+                round1.appendChild(match1);
+                round1.appendChild(match2);
+            }
+
+            // Round 2: 16进8 (8场比赛)
+            for (let i = 0; i < 8; i++) {
+                const match = createMatch([
+                    { name: `1/8区${i + 1}胜方1`, camp: 'empty', position: '-' },
+                    { name: `1/8区${i + 1}胜方2`, camp: 'empty', position: '-' }
+                ], `1/8区${i + 1}决赛`);
+                round2.appendChild(match);
+            }
+
+            // Round 3: 8进4 (4场比赛)
+            for (let i = 0; i < 4; i++) {
+                const match = createMatch([
+                    { name: `上半区胜者`, camp: 'empty', position: '-' },
+                    { name: `下半区胜者`, camp: 'empty', position: '-' }
+                ], `1/4决赛${i + 1}`);
+                round3.appendChild(match);
+            }
+
+            // Round 4: 半决赛 (2场比赛)
+            for (let i = 0; i < 2; i++) {
+                const match = createMatch([
+                    { name: `晋级选手`, camp: 'empty', position: '-' },
+                    { name: `晋级选手`, camp: 'empty', position: '-' }
+                ], `半决赛${i + 1}`);
+                round4.appendChild(match);
+            }
+
+            // Round 5: 决赛 (1场比赛)
+            const finalMatch = createMatch([
+                { name: '决赛选手A', camp: 'empty', position: '-' },
+                { name: '决赛选手B', camp: 'empty', position: '-' }
+            ], '冠军之战');
+            round5.appendChild(finalMatch);
+        }
+
+        function createMatch(players, zoneInfo) {
+            const match = document.createElement('div');
+            match.className = 'match';
+
+            players.forEach(player => {
+                const participant = document.createElement('div');
+                participant.className = `participant ${player.camp}`;
+                participant.innerHTML = `
+                    <div>
+                        <div class="name">${player.name}</div>
+                        <div class="code">${player.code} ${player.motive ? `· ${player.motive}` : ''}</div>
+                    </div>
+                    <div class="code">#${player.position}</div>
+                `;
+                match.appendChild(participant);
+            });
+
+            const zoneDiv = document.createElement('div');
+            zoneDiv.className = 'zone-info';
+            zoneDiv.textContent = zoneInfo;
+            match.appendChild(zoneDiv);
+
+            return match;
+        }
+
+        // 开始抽签动画
+        function startDrawing() {
+            const overlay = document.getElementById('overlay');
+            const text = document.getElementById('drawing-text');
+
+            overlay.classList.add('active');
+
+            const steps = [
+                '正在分配阵营...',
+                '正在随机排序...',
+                '正在应用规避原则...',
+                '正在生成对阵表...',
+                '抽签完成！'
+            ];
+
+            let step = 0;
+            const interval = setInterval(() => {
+                if (step < steps.length) {
+                    text.textContent = steps[step];
+                    step++;
+                } else {
+                    clearInterval(interval);
+                    setTimeout(() => {
+                        const draw = generateDrawing();
+                        createBracket(draw);
+                        overlay.classList.remove('active');
+                    }, 500);
+                }
+            }, 400);
+        }
+
+        // 清空对阵表
+        function clearBracket() {
+            currentDraw = [];
+            const bracket = document.getElementById('bracket');
+            bracket.querySelectorAll('.round').forEach(round => {
+                const title = round.querySelector('.round-title');
+                round.innerHTML = '';
+                round.appendChild(title);
+            });
+        }
+
+        // 初始化
+        initPools();
+    </script>
+</body>
+</html>
