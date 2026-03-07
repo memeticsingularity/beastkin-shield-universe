@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(wc -l d:/Users/memeticsingularity/IdeaProjects/beastkin-universe/worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-first-game/ch-*.md)",
-      "Bash(\"d:/Users/memeticsingularity/IdeaProjects/beastkin-universe/worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-first-game/ch-8-the-end.md\":*)"
+      "Bash(\"d:/Users/memeticsingularity/IdeaProjects/beastkin-universe/worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-first-game/ch-8-the-end.md\":*)",
+      "Bash(wc -c worlds/beastshield/adaptation-works/chaptered-stories/side/bs-a-cs-2-auction-show/*.md)",
+      "Bash(worlds/beastshield/adaptation-works/chaptered-stories/side/bs-a-cs-2-auction-show/settings/story-setting.md:*)",
+      "Bash(worlds/beastshield/adaptation-works/chaptered-stories/side/bs-a-cs-2-auction-show/ch-6-the-leopard.md:*)",
+      "Bash(worlds/beastshield/adaptation-works/chaptered-stories/side/bs-a-cs-2-auction-show/ch-7-the-boar.md:*)",
+      "Bash(worlds/beastshield/adaptation-works/chaptered-stories/side/bs-a-cs-2-auction-show/ch-8-the-deer.md:*)",
+      "Bash(worlds/beastshield/adaptation-works/chaptered-stories/side/bs-a-cs-2-auction-show/README.md:*)"
     ]
   }
 }
