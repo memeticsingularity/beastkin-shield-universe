@@ -867,10 +867,169 @@
             justify-content: center;
             gap: 5px;
         }
+
+        /* Toast 提示 */
+        .toast {
+            position: fixed;
+            bottom: 80px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background: rgba(0,0,0,0.9);
+            color: #fff;
+            padding: 12px 24px;
+            border-radius: 25px;
+            font-size: 0.9em;
+            z-index: 3000;
+            opacity: 0;
+            transition: all 0.3s ease;
+            pointer-events: none;
+            white-space: nowrap;
+            border: 1px solid rgba(233, 69, 96, 0.5);
+        }
+
+        .toast.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+        }
+
+        .toast.success {
+            border-color: #4caf50;
+            background: rgba(76, 175, 80, 0.95);
+        }
+
+        .toast.warning {
+            border-color: #ff9800;
+            background: rgba(255, 152, 0, 0.95);
+        }
+
+        /* 确认对话框 */
+        .confirm-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.7);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 4000;
+        }
+
+        .confirm-modal.active {
+            display: flex;
+        }
+
+        .confirm-box {
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            border: 2px solid #e94560;
+            border-radius: 15px;
+            padding: 25px;
+            width: 85%;
+            max-width: 320px;
+            text-align: center;
+            animation: confirmPop 0.3s ease;
+        }
+
+        @keyframes confirmPop {
+            0% { transform: scale(0.8); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        .confirm-title {
+            font-size: 1.1em;
+            color: #e94560;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .confirm-text {
+            font-size: 0.9em;
+            color: #ccc;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .confirm-buttons {
+            display: flex;
+            gap: 12px;
+        }
+
+        .confirm-btn {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            font-size: 0.95em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .confirm-btn-cancel {
+            background: rgba(255,255,255,0.1);
+            color: #ccc;
+        }
+
+        .confirm-btn-ok {
+            background: linear-gradient(135deg, #e94560, #c73e54);
+            color: white;
+        }
+
+        /* 触摸反馈 */
+        .btn:active, .pool-char:active, .match-card:active, .pool-tab:active {
+            transform: scale(0.95);
+        }
+
+        /* 保存状态指示器 */
+        .save-indicator {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: rgba(76, 175, 80, 0.9);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 0.7em;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            z-index: 1000;
+        }
+
+        .save-indicator.show {
+            opacity: 1;
+        }
+
+        /* 返回顶栏 */
+        .sticky-header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: linear-gradient(135deg, #0d0d1a 0%, #1a1a2e 50%, #16213e 100%);
+        }
     </style>
 </head>
 <body>
+    <!-- 保存状态指示器 -->
+    <div class="save-indicator" id="saveIndicator">💾 已自动保存</div>
+
+    <!-- Toast 提示 -->
+    <div class="toast" id="toast"></div>
+
+    <!-- 确认对话框 -->
+    <div class="confirm-modal" id="confirmModal">
+        <div class="confirm-box">
+            <div class="confirm-title" id="confirmTitle">确认操作</div>
+            <div class="confirm-text" id="confirmText"></div>
+            <div class="confirm-buttons">
+                <button class="confirm-btn confirm-btn-cancel" onclick="closeConfirm()">取消</button>
+                <button class="confirm-btn confirm-btn-ok" id="confirmOkBtn">确定</button>
+            </div>
+        </div>
+    </div>
+
     <!-- 顶部规则 -->
+    <div class="sticky-header">
     <div class="rules-bar">
         <div class="rules-toggle" onclick="toggleRules()">
             <span>📋 比赛规则与阵营分布</span>
@@ -893,6 +1052,7 @@
                 <span class="camp-badge badge-hound">犬×8</span>
             </div>
         </div>
+    </div>
     </div>
 
     <!-- 标题 -->
@@ -1062,6 +1222,135 @@
 
     <script>
         // 手机端特有功能函数
+
+        // ===== Toast提示系统 =====
+        function showToast(message, type = 'normal') {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.className = 'toast show ' + type;
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 2500);
+        }
+
+        // ===== 确认对话框系统 =====
+        let confirmCallback = null;
+
+        function showConfirm(title, text, onOk) {
+            document.getElementById('confirmTitle').textContent = title;
+            document.getElementById('confirmText').textContent = text;
+            confirmCallback = onOk;
+            document.getElementById('confirmModal').classList.add('active');
+
+            document.getElementById('confirmOkBtn').onclick = function() {
+                closeConfirm();
+                if (confirmCallback) confirmCallback();
+            };
+        }
+
+        function closeConfirm() {
+            document.getElementById('confirmModal').classList.remove('active');
+            confirmCallback = null;
+        }
+
+        // ===== 自动保存系统 =====
+        const SAVE_KEY = 'bloodReward_tournament_save_v1';
+
+        function saveState() {
+            try {
+                const saveData = {
+                    filledPositions: state.filledPositions,
+                    drawn: Array.from(state.drawn),
+                    slots: state.slots,
+                    winners: state.winners,
+                    zoneCamps: state.zoneCamps,
+                    stageCompleted: state.stageCompleted,
+                    stageWinners: state.stageWinners,
+                    campAlive: state.campAlive,
+                    playerMoney: state.playerMoney,
+                    campMoney: state.campMoney,
+                    timestamp: Date.now()
+                };
+                localStorage.setItem(SAVE_KEY, JSON.stringify(saveData));
+
+                // 显示保存指示器
+                const indicator = document.getElementById('saveIndicator');
+                indicator.classList.add('show');
+                setTimeout(() => indicator.classList.remove('show'), 1500);
+            } catch (e) {
+                console.log('保存失败:', e);
+            }
+        }
+
+        function loadState() {
+            try {
+                const saved = localStorage.getItem(SAVE_KEY);
+                if (!saved) return false;
+
+                const data = JSON.parse(saved);
+
+                // 恢复状态
+                state.filledPositions = data.filledPositions || new Array(32).fill(false);
+                state.drawn = new Set(data.drawn || []);
+                state.slots = data.slots || {};
+                state.winners = data.winners || {};
+                state.zoneCamps = data.zoneCamps || {};
+                state.stageCompleted = data.stageCompleted || { 32: false, 16: false, 8: false, 4: false, 2: false };
+                state.stageWinners = data.stageWinners || { 32: 0, 16: 0, 8: 0, 4: 0, 2: 0 };
+                state.campAlive = data.campAlive || { tiger: 8, bear: 8, ox: 8, hound: 8 };
+                state.playerMoney = data.playerMoney || {};
+                state.campMoney = data.campMoney || { tiger: 0, bear: 0, ox: 0, hound: 0 };
+
+                return true;
+            } catch (e) {
+                console.log('加载失败:', e);
+                return false;
+            }
+        }
+
+        function hasSavedState() {
+            return localStorage.getItem(SAVE_KEY) !== null;
+        }
+
+        function clearSavedState() {
+            localStorage.removeItem(SAVE_KEY);
+        }
+
+        // ===== 防止意外退出 =====
+        let hasChanges = false;
+
+        function markChanged() {
+            hasChanges = true;
+            saveState();
+        }
+
+        window.addEventListener('beforeunload', function(e) {
+            if (hasChanges) {
+                e.preventDefault();
+                e.returnValue = '当前有未保存的进度，确定要离开吗？';
+            }
+        });
+
+        // ===== 覆盖原有函数以添加保存 =====
+        const originalPlaceChar = placeChar;
+        placeChar = function(camp, idx, position) {
+            originalPlaceChar(camp, idx, position);
+            markChanged();
+        };
+
+        const originalSelectWinner = selectWinner;
+        selectWinner = function(slotId) {
+            originalSelectWinner(slotId);
+            markChanged();
+        };
+
+        const originalClearWinner = clearWinner;
+        clearWinner = function(slotId) {
+            originalClearWinner(slotId);
+            markChanged();
+        };
+
+        // ===== UI功能 =====
         function toggleRules() {
             const content = document.getElementById('rulesContent');
             const arrow = document.getElementById('rulesArrow');
@@ -1096,6 +1385,26 @@
                 showFateCommentary('L2-0');
             }
         }
+
+        // ===== 覆盖重置函数添加确认 =====
+        const originalResetAll = resetAll;
+        resetAll = function() {
+            if (!hasChanges && !state.drawn.size) {
+                showToast('已经是初始状态', 'warning');
+                return;
+            }
+
+            showConfirm(
+                '⚠️ 确认重置',
+                '重置将清除所有抽签结果和比赛进度，此操作不可恢复！',
+                function() {
+                    originalResetAll();
+                    clearSavedState();
+                    hasChanges = false;
+                    showToast('已重置', 'success');
+                }
+            );
+        };
 
         // 选手数据（含小传）
         const characters = {
@@ -1655,6 +1964,17 @@
 
         // 初始化
         function init() {
+            // 尝试加载保存的状态
+            if (hasSavedState()) {
+                const loaded = loadState();
+                if (loaded) {
+                    // 恢复所有卡片显示
+                    restoreAllCards();
+                    showToast('已恢复上次进度', 'success');
+                    hasChanges = true;
+                }
+            }
+
             renderPool();
             renderBracket();
             updateStageStatus();
@@ -1662,6 +1982,67 @@
             updateMultiplierDisplay();
             lockRounds();
             setupTooltip();
+        }
+
+        // 恢复所有卡片显示（用于加载保存的状态）
+        function restoreAllCards() {
+            // 恢复32强
+            for (let i = 0; i < 32; i++) {
+                const slotId = i < 16 ? `L32-${i}` : `R32-${i - 16}`;
+                const data = state.slots[slotId];
+                if (data) {
+                    updateCard(slotId, data, data.camp, i + 1, state.playerMoney[`${data.camp}-${data.idx}`] || 0);
+                }
+            }
+            // 恢复后续轮次
+            ['L16', 'R16', 'L8', 'R8', 'L4', 'R4', 'L2', 'R2'].forEach(prefix => {
+                const count = prefix.includes('16') ? 8 : prefix.includes('8') ? 4 : prefix.includes('4') ? 2 : 1;
+                for (let i = 0; i < count; i++) {
+                    const slotId = `${prefix}-${i}`;
+                    const data = state.slots[slotId];
+                    if (data) {
+                        const playerId = `${data.camp}-${data.idx}`;
+                        const totalMoney = state.playerMoney[playerId] || 0;
+                        const nextBonus = getMaxPotentialBonus(data.camp);
+                        const card = document.getElementById(slotId);
+                        const position = data.position || (i + 1);
+                        const campIcon = campIcons[data.camp] || '';
+                        card.className = `match-card filled ${data.camp} advance`;
+                        card.innerHTML = `
+                            <div class="card-position">#${position}</div>
+                            <div class="card-name">${campIcon} ${data.name}</div>
+                            <div class="card-info">${data.code} · ${data.motive}</div>
+                            <div class="card-money">累计 💰 ${totalMoney.toLocaleString()}</div>
+                            <div class="card-bonus-detail">预计下轮 💰${nextBonus.amount.toLocaleString()} (500×${nextBonus.ownFactor}×${nextBonus.otherFactor})</div>
+                        `;
+                    }
+                    // 恢复胜者标记
+                    if (state.winners[slotId]) {
+                        document.getElementById(slotId).classList.add('winner');
+                    }
+                }
+            });
+            // 恢复淘汰标记
+            Object.keys(state.winners).forEach(winnerId => {
+                if (winnerId !== 'champion') {
+                    markOpponentEliminated(winnerId);
+                }
+            });
+            // 恢复冠军
+            const championData = state.slots['champion'];
+            if (championData) {
+                const playerId = `${championData.camp}-${championData.idx}`;
+                const totalMoney = state.playerMoney[playerId] || 0;
+                const campIcon = campIcons[championData.camp] || '';
+                const card = document.getElementById('champion-card');
+                card.className = 'champion-card';
+                card.innerHTML = `
+                    <div class="champion-name">${campIcon} ${championData.name}</div>
+                    <div class="champion-camp">${campNames[championData.camp]}之阵营 · ${championData.code}</div>
+                    <div class="champion-money">累计 💰 ${totalMoney.toLocaleString()}</div>
+                    <div style="font-size: 0.7em; color: #888; margin-top: 5px;">本轮获得 💰${state.playerMoney[playerId] > 0 ? '冠军奖金' : '0'}</div>
+                `;
+            }
         }
 
         // 获取位置所在的zone
