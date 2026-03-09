@@ -27,3 +27,5 @@ structure
 # 忽略任何深度下，文件名包含prompt的文件
 # Ignore files with names containing prompt at any depth
 **/prompt*
+
+.claude

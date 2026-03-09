@@ -99,7 +99,8 @@ work:
         names: ["棕岩", "黑山", "白掌", "铁背", "灰耳", "厚掌", "柔毛", "冬眠"]
       - camp: "hound"
         count: 8
-        names: ["灰影", "黑獒", "铁背", "疾风", "铁颚", "雪眼", "铁锁", "白毛", "尖耳"]
+        names: ["灰影", "黑獒", "铁背", "疾风", "铁颚", "雪眼", "铁锁", "白毛"]
+        alternate: "尖耳"
 
 creation:
   # ============================================
@@ -134,7 +135,7 @@ creation:
   # RECOMMENDED FIELDS / 推荐字段
   # ============================================
 
-  last_update: "2026-03-06"
+  last_update: "2026-03-09"
   universe_based_on: "beastshield"
 
   # ============================================
@@ -158,3 +159,6 @@ creation:
     - version: "2.1"
       date: "2026-03-06"
       changes: "Chapters 3-5 completed - Tiger, Bear, Hound camps / 完成第3-5章 - 虎熊犬三营"
+    - version: "2.2"
+      date: "2026-03-09"
+      changes: "Chapters 2-5 expanded - Added sensory details, character interactions, psychological depth / 扩写第2-5章 - 增加感官细节、人物互动、心理深度"
