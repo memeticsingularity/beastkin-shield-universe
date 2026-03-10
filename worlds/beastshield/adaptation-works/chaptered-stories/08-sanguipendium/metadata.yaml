@@ -135,7 +135,7 @@ creation:
   # RECOMMENDED FIELDS / 推荐字段
   # ============================================
 
-  last_update: "2026-03-09"
+  last_update: "2026-03-10"
   universe_based_on: "beastshield"
 
   # ============================================
@@ -162,3 +162,6 @@ creation:
     - version: "2.2"
       date: "2026-03-09"
       changes: "Chapters 2-5 expanded - Added sensory details, character interactions, psychological depth / 扩写第2-5章 - 增加感官细节、人物互动、心理深度"
+    - version: "2.3"
+      date: "2026-03-10"
+      changes: "Fixed bear camp character name - changed 犬何守 to 熊孙铁 (E-147), updated all related settings files / 修复熊营角色名 - 将犬何守改为熊孙铁(E-147)，更新所有相关设定文件"
