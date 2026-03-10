@@ -1,0 +1,2186 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血酬淘汰赛 - 32强对阵系统（命运版）</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #0d0d1a 0%, #1a1a2e 50%, #16213e 100%);
+            min-height: 100vh;
+            color: #eee;
+            display: flex;
+            flex-direction: column;
+        }
+        .rules-bar {
+            background: rgba(233, 69, 96, 0.15);
+            border-bottom: 2px solid #e94560;
+            padding: 12px 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+        .rule-item {
+            font-size: 0.85em;
+            color: #ccc;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .rule-item strong { color: #e94560; }
+        .camp-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            font-weight: bold;
+        }
+        .badge-tiger { background: rgba(255, 152, 0, 0.3); color: #ff9800; }
+        .badge-bear { background: rgba(121, 85, 72, 0.3); color: #8d6e63; }
+        .badge-ox { background: rgba(96, 125, 139, 0.3); color: #78909c; }
+        .badge-hound { background: rgba(63, 81, 181, 0.3); color: #7986cb; }
+        .header {
+            text-align: center;
+            padding: 15px;
+        }
+        .header h1 {
+            font-size: 2em;
+            color: #e94560;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin-bottom: 5px;
+        }
+        .header p { color: #888; font-size: 0.9em; }
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            padding: 5px 20px 15px;
+        }
+        .btn {
+            padding: 10px 25px;
+            font-size: 0.95em;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #e94560, #c73e54);
+            color: white;
+        }
+        .btn-primary:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(233, 69, 96, 0.4);
+        }
+        .btn-primary:disabled { background: #444; cursor: not-allowed; }
+        .btn-secondary {
+            background: linear-gradient(135deg, #533483, #7b2cbf);
+            color: white;
+        }
+        .btn-secondary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(83, 52, 131, 0.4);
+        }
+        .btn-accent {
+            background: linear-gradient(135deg, #ff9800, #f57c00);
+            color: white;
+        }
+        .btn-accent:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255, 152, 0, 0.4);
+        }
+        .btn-accent:disabled { background: #444; cursor: not-allowed; }
+        .main-content {
+            display: flex;
+            flex: 1;
+            padding: 0 20px 20px;
+            gap: 20px;
+            overflow-x: auto;
+        }
+        .pool-sidebar {
+            width: 280px;
+            flex-shrink: 0;
+            background: rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 8px;
+            padding: 12px;
+            display: flex;
+            flex-direction: column;
+        }
+        .pool-sidebar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .pool-sidebar-title { font-size: 0.95em; color: #fff; font-weight: bold; }
+        .pool-sidebar-counter {
+            background: #e94560;
+            color: white;
+            padding: 2px 10px;
+            border-radius: 10px;
+            font-size: 0.8em;
+        }
+        .pool-grid-2x2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            gap: 10px;
+            flex: 1;
+        }
+        .pool-camp-box {
+            background: rgba(255,255,255,0.03);
+            border-radius: 8px;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+        }
+        .pool-camp-header {
+            font-size: 0.8em;
+            font-weight: bold;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .pool-characters-vertical {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            flex: 1;
+        }
+        .pool-char {
+            padding: 5px 8px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            background: rgba(255,255,255,0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: relative;
+            border: 1px solid transparent;
+        }
+        .pool-char:hover:not(.drawn):not(.disabled) {
+            background: rgba(255,255,255,0.25);
+            transform: translateX(3px);
+        }
+        .pool-char.drawn {
+            opacity: 0.3;
+            background: rgba(255,255,255,0.05);
+            text-decoration: line-through;
+            cursor: not-allowed;
+        }
+        .pool-char.disabled {
+            opacity: 0.4;
+            background: rgba(255,255,255,0.05);
+            cursor: not-allowed;
+        }
+        .pool-char.clickable {
+            border: 1px dashed rgba(255,255,255,0.3);
+        }
+        .pool-char.clickable:hover {
+            border-color: #e94560;
+            box-shadow: 0 0 8px rgba(233, 69, 96, 0.3);
+        }
+        .char-code { font-size: 0.75em; opacity: 0.7; }
+        .char-tooltip {
+            position: fixed;
+            background: rgba(30, 30, 50, 0.95);
+            border: 1px solid rgba(233, 69, 96, 0.5);
+            border-radius: 8px;
+            padding: 12px;
+            width: 300px;
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+            pointer-events: none;
+        }
+        .char-tooltip.active { display: block; }
+        .tooltip-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .tooltip-name { font-size: 1em; font-weight: bold; color: #e94560; }
+        .tooltip-code { font-size: 0.75em; color: #888; }
+        .tooltip-story { font-size: 0.8em; line-height: 1.5; color: #ccc; }
+        .tooltip-info {
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            font-size: 0.75em;
+        }
+        .tooltip-info-item { display: flex; gap: 5px; margin-top: 3px; }
+        .tooltip-info-label { color: #888; }
+        .tooltip-info-value { color: #ff9800; }
+        .empty-slots-info {
+            background: rgba(255, 152, 0, 0.15);
+            border: 1px solid rgba(255, 152, 0, 0.3);
+            border-radius: 6px;
+            padding: 8px;
+            margin-top: 10px;
+            font-size: 0.75em;
+            color: #ff9800;
+            text-align: center;
+            line-height: 1.4;
+        }
+        .stage-status {
+            background: rgba(233, 69, 96, 0.1);
+            border: 1px solid rgba(233, 69, 96, 0.3);
+            border-radius: 6px;
+            padding: 10px;
+            margin-top: 10px;
+            text-align: center;
+        }
+        .stage-status.completed {
+            background: rgba(76, 175, 80, 0.1);
+            border-color: rgba(76, 175, 80, 0.3);
+        }
+        .stage-status-text { font-size: 0.85em; color: #e94560; font-weight: bold; }
+        .stage-status.completed .stage-status-text { color: #4caf50; }
+        .stage-progress { font-size: 0.75em; color: #888; margin-top: 4px; }
+        .click-hint {
+            background: rgba(76, 175, 80, 0.15);
+            border: 1px solid rgba(76, 175, 80, 0.3);
+            border-radius: 6px;
+            padding: 8px;
+            margin-top: 10px;
+            font-size: 0.75em;
+            color: #4caf50;
+            text-align: center;
+        }
+        .bracket-area {
+            flex: 1;
+            overflow-x: auto;
+            min-width: 800px;
+        }
+        .bracket-container {
+            padding: 10px 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+        .bracket-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            padding: 10px 0;
+        }
+        .round {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .round-label {
+            text-align: center;
+            color: #e94560;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .match { position: relative; width: 160px; }
+        .match-card {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 6px;
+            padding: 8px 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .match-card:hover:not(.empty):not(.eliminated):not(.locked) {
+            background: rgba(255,255,255,0.1);
+            border-color: rgba(255,255,255,0.3);
+        }
+        .match-card.empty {
+            background: rgba(255,255,255,0.02);
+            border-color: rgba(255,255,255,0.1);
+            cursor: default;
+            min-height: 70px;
+        }
+        .match-card.locked {
+            background: rgba(0,0,0,0.2);
+            border-color: rgba(255,255,255,0.05);
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+        .match-card.filled { border-left-width: 3px; }
+        .match-card.filled.tiger { border-left-color: #ff9800; background: rgba(255, 152, 0, 0.1); }
+        .match-card.filled.bear { border-left-color: #8d6e63; background: rgba(121, 85, 72, 0.1); }
+        .match-card.filled.ox { border-left-color: #78909c; background: rgba(96, 125, 139, 0.1); }
+        .match-card.filled.hound { border-left-color: #7986cb; background: rgba(63, 81, 181, 0.1); }
+        .match-card.winner {
+            box-shadow: 0 0 10px rgba(233, 69, 96, 0.5);
+            border-color: #e94560;
+        }
+        .match-card.eliminated {
+            opacity: 0.3;
+            filter: grayscale(0.8);
+            cursor: not-allowed;
+        }
+        .match-card.advance { animation: advancePulse 0.5s ease; }
+        @keyframes advancePulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); box-shadow: 0 0 20px rgba(233, 69, 96, 0.8); }
+            100% { transform: scale(1); }
+        }
+        .card-name {
+            font-size: 0.9em;
+            font-weight: 600;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .card-info { font-size: 0.7em; color: #888; margin-top: 2px; }
+        .card-position {
+            position: absolute;
+            top: 2px;
+            right: 5px;
+            font-size: 0.7em;
+            color: #e94560;
+            font-weight: bold;
+        }
+        .card-money {
+            font-size: 0.75em;
+            color: #ffd700;
+            margin-top: 4px;
+            font-weight: bold;
+        }
+        .card-bonus-detail { font-size: 0.65em; color: #aaa; margin-top: 2px; }
+        .champion-area {
+            width: 170px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 0 20px;
+        }
+        .champion-title { color: #e94560; font-size: 1.2em; font-weight: bold; margin-bottom: 15px; }
+        .champion-card {
+            width: 150px;
+            background: linear-gradient(135deg, rgba(233, 69, 96, 0.2), rgba(201, 55, 84, 0.3));
+            border: 2px solid #e94560;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+            min-height: 100px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+        .champion-card.empty { background: rgba(255,255,255,0.03); border-color: rgba(255,255,255,0.1); cursor: default; }
+        .champion-card.locked { background: rgba(0,0,0,0.2); border-color: rgba(255,255,255,0.1); cursor: not-allowed; }
+        .champion-card:hover:not(.empty):not(.locked) {
+            box-shadow: 0 0 20px rgba(233, 69, 96, 0.6);
+            transform: scale(1.05);
+        }
+        .champion-name { font-size: 1.3em; font-weight: bold; color: #fff; }
+        .champion-camp { font-size: 0.85em; color: #e94560; margin-top: 5px; }
+        .champion-money { font-size: 1em; color: #ffd700; margin-top: 8px; font-weight: bold; }
+        .money-stats {
+            background: rgba(255, 215, 0, 0.1);
+            border: 1px solid rgba(255, 215, 0, 0.3);
+            border-radius: 6px;
+            padding: 10px;
+            margin-top: 10px;
+        }
+        .money-stats-title { font-size: 0.8em; color: #ffd700; font-weight: bold; margin-bottom: 8px; text-align: center; }
+        .camp-money-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 4px 0;
+            font-size: 0.8em;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .camp-money-item:last-child { border-bottom: none; }
+        .camp-money-name { display: flex; align-items: center; gap: 5px; }
+        .camp-money-value { color: #ffd700; font-weight: bold; }
+        .alive-count { font-size: 0.75em; color: #888; }
+        .current-multiplier {
+            background: rgba(76, 175, 80, 0.1);
+            border: 1px solid rgba(76, 175, 80, 0.3);
+            border-radius: 6px;
+            padding: 8px;
+            margin-top: 8px;
+            text-align: center;
+        }
+        .current-multiplier-text { font-size: 0.75em; color: #4caf50; }
+        .current-multiplier-value { font-size: 1.1em; color: #ffd700; font-weight: bold; }
+        .draw-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.8);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        .draw-modal.active { display: flex; }
+        .draw-card {
+            background: linear-gradient(135deg, #1a1a2e, #0f3460);
+            border: 2px solid #e94560;
+            border-radius: 16px;
+            padding: 40px 60px;
+            text-align: center;
+            animation: drawIn 0.5s ease;
+        }
+        @keyframes drawIn {
+            0% { transform: scale(0.5); opacity: 0; }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); opacity: 1; }
+        }
+        .draw-camp { font-size: 1.2em; margin-bottom: 10px; }
+        .draw-name { font-size: 2.5em; color: #e94560; font-weight: bold; margin-bottom: 10px; }
+        .draw-position { font-size: 1.1em; color: #888; }
+        .round-32 { gap: 8px; }
+        .round-16 { gap: 30px; margin-top: 20px; }
+        .round-8 { gap: 75px; margin-top: 45px; }
+        .round-4 { gap: 170px; margin-top: 95px; }
+        .round-2 { gap: 0; margin-top: 195px; }
+        .lock-icon { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 1.5em; opacity: 0.3; }
+        .fate-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+        }
+        .fate-modal.active { display: flex; }
+        .fate-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.85); }
+        .fate-content {
+            position: relative;
+            background: linear-gradient(135deg, #1a1a2e, #0f3460);
+            border: 2px solid #e94560;
+            border-radius: 16px;
+            padding: 0;
+            width: 90%;
+            max-width: 850px;
+            max-height: 90vh;
+            overflow: hidden;
+            animation: fateIn 0.3s ease;
+        }
+        @keyframes fateIn {
+            0% { transform: scale(0.9); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+        .fate-header {
+            background: rgba(233, 69, 96, 0.2);
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(233, 69, 96, 0.3);
+        }
+        .fate-title { font-size: 1.2em; font-weight: bold; color: #e94560; }
+        .fate-close { background: none; border: none; color: #fff; font-size: 1.5em; cursor: pointer; opacity: 0.7; transition: opacity 0.2s; }
+        .fate-close:hover { opacity: 1; }
+        .fate-body { padding: 20px; overflow-y: auto; max-height: calc(90vh - 60px); }
+        .fate-char-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .fate-camp { padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
+        .fate-camp.tiger { background: rgba(255, 152, 0, 0.3); color: #ff9800; }
+        .fate-camp.bear { background: rgba(121, 85, 72, 0.3); color: #8d6e63; }
+        .fate-camp.ox { background: rgba(96, 125, 139, 0.3); color: #78909c; }
+        .fate-camp.hound { background: rgba(63, 81, 181, 0.3); color: #7986cb; }
+        .fate-name { font-size: 1.3em; font-weight: bold; color: #fff; }
+        .fate-code { font-size: 0.85em; color: #888; }
+        .fate-section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: rgba(0,0,0,0.2);
+            border-radius: 8px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .fate-section-title {
+            font-size: 1em;
+            font-weight: bold;
+            color: #e94560;
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid rgba(233, 69, 96, 0.3);
+        }
+        .fate-text {
+            font-size: 0.95em;
+            line-height: 1.8;
+            color: #ccc;
+            text-align: justify;
+            white-space: pre-wrap;
+        }
+        .fate-result {
+            margin-top: 15px;
+            padding: 10px;
+            background: rgba(0,0,0,0.3);
+            border-radius: 8px;
+            font-size: 0.9em;
+            color: #888;
+            text-align: center;
+        }
+        .fate-result.win { background: rgba(76, 175, 80, 0.2); color: #4caf50; }
+        .fate-result.loss { background: rgba(244, 67, 54, 0.2); color: #f44336; }
+
+        /* 人物小传 */
+        .fate-bio {
+            font-size: 0.9em;
+            line-height: 1.7;
+            color: #ddd;
+            margin-bottom: 12px;
+            text-align: justify;
+        }
+
+        /* 人物小传信息行 */
+        .fate-info-row {
+            display: flex;
+            gap: 20px;
+            font-size: 0.85em;
+            color: #aaa;
+        }
+        .fate-info-row strong {
+            color: #ff9800;
+        }
+
+        /* 命运历程时间线 */
+        .fate-timeline {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .fate-timeline-item {
+            padding: 12px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 6px;
+            border-left: 3px solid rgba(255,255,255,0.2);
+        }
+        .fate-timeline-item.current {
+            border-left-color: #ff9800;
+            background: rgba(255, 152, 0, 0.1);
+        }
+        .fate-timeline-item.reached {
+            border-left-color: #4caf50;
+            background: rgba(76, 175, 80, 0.1);
+        }
+        .fate-timeline-item.future {
+            opacity: 0.5;
+        }
+        .fate-timeline-stage {
+            font-size: 0.85em;
+            font-weight: bold;
+            color: #e94560;
+            margin-bottom: 6px;
+        }
+        .fate-timeline-text {
+            font-size: 0.85em;
+            line-height: 1.6;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="rules-bar">
+        <div class="rule-item"><strong>规避原则：</strong>每个1/8区内四族各一人</div>
+        <div class="rule-item"><strong>晋级规则：</strong>需完成当前轮次才能进入下一轮</div>
+        <div class="rule-item"><strong>奖金公式：</strong>500 × (9-己方存活) × (9-对方存活)</div>
+        <div class="rule-item">
+            <span class="camp-badge badge-tiger">虎×8</span>
+            <span class="camp-badge badge-bear">熊×8</span>
+            <span class="camp-badge badge-ox">牛×8</span>
+            <span class="camp-badge badge-hound">犬×8</span>
+        </div>
+    </div>
+
+    <div class="header">
+        <h1>血酬淘汰赛</h1>
+        <p>第一届兽盾四营血酬淘汰赛 · 32强对阵（命运版v2）</p>
+    </div>
+
+    <div class="controls">
+        <button class="btn btn-primary" id="drawBtn" onclick="drawNext()">下一位</button>
+        <button class="btn btn-accent" id="autoDrawBtn" onclick="autoDrawAll()">一键完成</button>
+        <button class="btn btn-secondary" onclick="resetAll()">重置</button>
+    </div>
+
+    <div class="main-content">
+        <div class="pool-sidebar">
+            <div class="pool-sidebar-header">
+                <div class="pool-sidebar-title">选手池（悬停看故事/点击落位）</div>
+                <div class="pool-sidebar-counter" id="counter">0/32</div>
+            </div>
+            <div class="pool-grid-2x2">
+                <div class="pool-camp-box">
+                    <div class="pool-camp-header badge-tiger">虎之阵营</div>
+                    <div class="pool-characters-vertical" id="pool-tiger"></div>
+                </div>
+                <div class="pool-camp-box">
+                    <div class="pool-camp-header badge-bear">熊之阵营</div>
+                    <div class="pool-characters-vertical" id="pool-bear"></div>
+                </div>
+                <div class="pool-camp-box">
+                    <div class="pool-camp-header badge-ox">牛之阵营</div>
+                    <div class="pool-characters-vertical" id="pool-ox"></div>
+                </div>
+                <div class="pool-camp-box">
+                    <div class="pool-camp-header badge-hound">犬之阵营</div>
+                    <div class="pool-characters-vertical" id="pool-hound"></div>
+                </div>
+            </div>
+            <div class="stage-status" id="stageStatus">
+                <div class="stage-status-text">阶段：32强抽签中</div>
+                <div class="stage-progress">需填满32个位置</div>
+            </div>
+            <div class="click-hint" id="clickHint">💡 点击选手可直接落位到对应签位</div>
+            <div class="money-stats">
+                <div class="money-stats-title">阵营奖金统计</div>
+                <div id="campMoneyStats"></div>
+            </div>
+            <div class="current-multiplier" id="currentMultiplier">
+                <div class="current-multiplier-text">当前奖金系数</div>
+                <div class="current-multiplier-value" id="multiplierValue">500 × 1 × 1 = 500</div>
+            </div>
+            <div class="empty-slots-info" id="emptySlotsInfo">空位: 1-32（全部空闲）</div>
+        </div>
+
+        <div class="bracket-area">
+            <div class="bracket-container">
+                <div class="bracket-wrapper" id="bracket">
+                    <div class="round round-32" id="left-32"><div class="round-label">32强</div></div>
+                    <div class="round round-16" id="left-16"><div class="round-label">16强</div></div>
+                    <div class="round round-8" id="left-8"><div class="round-label">8强</div></div>
+                    <div class="round round-4" id="left-4"><div class="round-label">半决赛</div></div>
+                    <div class="round round-2" id="left-2"><div class="round-label">决赛</div></div>
+                    <div class="champion-area">
+                        <div class="champion-title">冠军</div>
+                        <div class="champion-card empty locked" id="champion-card">
+                            <div class="lock-icon">🔒</div>
+                            <div class="champion-name">?</div>
+                            <div class="champion-camp">待决赛完成</div>
+                        </div>
+                    </div>
+                    <div class="round round-2" id="right-2"><div class="round-label">决赛</div></div>
+                    <div class="round round-4" id="right-4"><div class="round-label">半决赛</div></div>
+                    <div class="round round-8" id="right-8"><div class="round-label">8强</div></div>
+                    <div class="round round-16" id="right-16"><div class="round-label">16强</div></div>
+                    <div class="round round-32" id="right-32"><div class="round-label">32强</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="char-tooltip" id="charTooltip">
+        <div class="tooltip-header">
+            <span class="tooltip-name" id="tooltipName"></span>
+            <span class="tooltip-code" id="tooltipCode"></span>
+        </div>
+        <div class="tooltip-story" id="tooltipStory"></div>
+        <div class="tooltip-info">
+            <div class="tooltip-info-item">
+                <span class="tooltip-info-label">动机：</span>
+                <span class="tooltip-info-value" id="tooltipMotive"></span>
+            </div>
+            <div class="tooltip-info-item">
+                <span class="tooltip-info-label">年龄：</span>
+                <span class="tooltip-info-value" id="tooltipAge"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="draw-modal" id="drawModal">
+        <div class="draw-card">
+            <div class="draw-camp" id="drawCamp"></div>
+            <div class="draw-name" id="drawName"></div>
+            <div class="draw-position" id="drawPosition"></div>
+        </div>
+    </div>
+
+    <div class="fate-modal" id="fateModal">
+        <div class="fate-overlay" onclick="closeFateModal()"></div>
+        <div class="fate-content">
+            <div class="fate-header">
+                <span class="fate-title">角色档案</span>
+                <button class="fate-close" onclick="closeFateModal()">×</button>
+            </div>
+            <div class="fate-body">
+                <div class="fate-char-info">
+                    <span class="fate-camp" id="fateCamp"></span>
+                    <span class="fate-name" id="fateName"></span>
+                    <span class="fate-code" id="fateCode"></span>
+                </div>
+                <div class="fate-section">
+                    <div class="fate-section-title">📖 人物小传</div>
+                    <div class="fate-bio" id="fateBio"></div>
+                    <div class="fate-info-row">
+                        <span><strong>动机：</strong><span id="fateMotive"></span></span>
+                        <span><strong>年龄：</strong><span id="fateAge"></span>岁</span>
+                    </div>
+                </div>
+                <div class="fate-section">
+                    <div class="fate-section-title">📜 命运历程</div>
+                    <div class="fate-timeline" id="fateTimeline"></div>
+                </div>
+                <div class="fate-result" id="fateResult"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 选手数据（含完整命运感慨v2）
+        const characters = {
+            tiger: [
+                { name: '虎赵军', code: 'E-223', age: 31, motive: '荣耀', story: '家族曾是白之都显赫家族，political斗争中失势。要让所有人知道，我家族的名字不应该被遗忘。' },
+                { name: '虎王武', code: 'E-178', age: 32, motive: '违抗命令晋升', story: '违抗命令救了G级兵被记过。冠军可以直接晋升营地头目。' },
+                { name: '虎张强', code: 'E-156', age: 35, motive: '拒绝降级', story: '拒绝处决平民被标记，面临降级为G级。死也要作为E级兵死去。' },
+                { name: '虎刘辉', code: 'E-312', age: 20, motive: '救父', story: '最年轻，父亲患矿石病，需要昂贵的药物维持生命。' },
+                { name: '虎陈刚', code: 'E-267', age: 29, motive: '野心', story: '想往上爬，正常渠道太慢。纯黑毛色，在虎兽人中是罕见的变异。' },
+                { name: '虎杨志', code: 'E-289', age: 26, motive: '讨公道', story: '伴侣被友军误杀，想讨公道没人听。' },
+                { name: '虎李勇', code: 'E-201', age: 27, motive: '复仇', story: '被兄长卖给赏金猎人的事被人知道了。' },
+                { name: '虎黄明', code: 'E-134', age: 38, motive: '神秘', story: '不知道，从来不说话。在兽盾服役十七年，从未晋升。' }
+            ],
+            bear: [
+                { name: '熊朱强', code: 'E-290', age: 29, motive: '力量至上', story: '手掌厚度著称，每一只手掌都有十厘米厚，肉垫坚硬如石。想当最强的。' },
+                { name: '熊胡军', code: 'E-224', age: 27, motive: '证明软毛', story: '毛质异常柔软在熊兽人中是异类，常被嘲笑不像熊。' },
+                { name: '熊吴刚', code: 'E-112', age: 32, motive: '赎罪', story: '任务中杀了被陷害的伴侣。想死得有尊严。' },
+                { name: '熊周平', code: 'E-145', age: 35, motive: '还债救弟', story: '弟弟矿石病，欠了地下钱庄一万。' },
+                { name: '熊林生', code: 'E-135', age: 42, motive: '体面结局', story: '最年长，二十三年E级兵生涯。想死在擂台上，给自己一个体面的结局。' },
+                { name: '熊郑华', code: 'E-287', age: 24, motive: '还债', story: '赌马输了两万撸币，债主是营房长官。' },
+                { name: '熊孙铁', code: 'E-147', age: 38, motive: '不服', story: '背肌如铁板，二十年E级没晋升，不服。' },
+                { name: '熊马忠', code: 'E-268', age: 33, motive: '证明清白', story: '被俘过一次，左耳被割，被人说是叛徒。' }
+            ],
+            ox: [
+                { name: '牛何平', code: 'E-301', age: 22, motive: '合法杀人', story: '最年轻，训练中多次失手重伤同僚，被诊断为具有反社会倾向。' },
+                { name: '牛胡辉', code: 'E-167', age: 43, motive: '不想被卖', story: '最年长，酗酒多年。年满45岁的E级兵如果没有特殊贡献会被卖掉。' },
+                { name: '牛马军', code: 'E-256', age: 29, motive: '赌徒', story: '欠赌坊两万，被债主堵过三次，最后一次打断了一根肋骨。' },
+                { name: '牛孙勇', code: 'E-189', age: 30, motive: '救弟', story: '弟弟矿石病早期，需要三千治疗费。十二岁的弟弟是他捡来的孤儿。' },
+                { name: '牛徐强', code: 'E-217', age: 37, motive: '还债', story: '欠钱庄五万二。三年前为给父亲治矿石病借了八千，利滚利到现在变成五万二。' },
+                { name: '牛朱志', code: 'E-198', age: 30, motive: '还债', story: '欠营房长官一万，每月还五百还五年，但上个月只还了三百，被打断了一根肋骨。' },
+                { name: '牛林刚', code: 'E-233', age: 24, motive: '逃命', story: '三个月前杀了一名赏金猎人——那人是兽盾某位高层的私人承包商。' },
+                { name: '牛郭明', code: 'E-245', age: 35, motive: '救母', story: '母亲患有慢性病，需要长期服药。为了母亲，他可以赌上自己的生命。' }
+            ],
+            hound: [
+                { name: '犬何守', code: 'E-269', age: 31, motive: '忠诚', story: '就想忠诚，但忠诚不值钱。' },
+                { name: '犬林义', code: 'E-089', age: 28, motive: '家', story: '被前主人卖了，想找个家。' },
+                { name: '犬梁强', code: 'E-225', age: 29, motive: '生存', story: '欠钱庄钱，还不上。斗牛犬，矮壮结实头部巨大下颚强壮。我不想死。' },
+                { name: '犬谢军', code: 'E-199', age: 26, motive: '证明自己', story: '被说像宠物，想证明。萨摩耶，毛色雪白如棉花糖。' },
+                { name: '犬罗勇', code: 'E-291', age: 25, motive: '速度荣耀', story: '速度最快但力气小，被人看不起。' },
+                { name: '犬郑威', code: 'E-136', age: 35, motive: '最后机会', story: '最后一次晋升机会。如果不能晋升，将被强制退役，而退役意味着被出售。' },
+                { name: '犬宋亮', code: 'E-302', age: 22, motive: '好玩', story: '觉得好玩。哈士奇，眼睛是罕见的冰蓝色透着好奇和玩味。' },
+                { name: '犬高忠', code: 'E-157', age: 30, motive: '自由', story: '野狼出身，想自由。如果我赢了，我可以要求兽盾解除我的契约。' }
+            ]
+        };
+
+        // 固定签位分配
+        const fixedSignOrder = [
+            { num: 223, name: '虎赵军', camp: 'tiger', position: 1 },
+            { num: 290, name: '熊朱强', camp: 'bear', position: 2 },
+            { num: 301, name: '牛何平', camp: 'ox', position: 3 },
+            { num: 269, name: '犬何守', camp: 'hound', position: 4 },
+            { num: 167, name: '牛胡辉', camp: 'ox', position: 5 },
+            { num: 224, name: '熊胡军', camp: 'bear', position: 6 },
+            { num: 89, name: '犬林义', camp: 'hound', position: 7 },
+            { num: 178, name: '虎王武', camp: 'tiger', position: 8 },
+            { num: 112, name: '熊吴刚', camp: 'bear', position: 9 },
+            { num: 256, name: '牛马军', camp: 'ox', position: 10 },
+            { num: 225, name: '犬梁强', camp: 'hound', position: 11 },
+            { num: 156, name: '虎张强', camp: 'tiger', position: 12 },
+            { num: 189, name: '牛孙勇', camp: 'ox', position: 13 },
+            { num: 145, name: '熊周平', camp: 'bear', position: 14 },
+            { num: 199, name: '犬谢军', camp: 'hound', position: 15 },
+            { num: 312, name: '虎刘辉', camp: 'tiger', position: 16 },
+            { num: 135, name: '熊林生', camp: 'bear', position: 17 },
+            { num: 217, name: '牛徐强', camp: 'ox', position: 18 },
+            { num: 291, name: '犬罗勇', camp: 'hound', position: 19 },
+            { num: 267, name: '虎陈刚', camp: 'tiger', position: 20 },
+            { num: 198, name: '牛朱志', camp: 'ox', position: 21 },
+            { num: 136, name: '犬郑威', camp: 'hound', position: 22 },
+            { num: 287, name: '熊郑华', camp: 'bear', position: 23 },
+            { num: 201, name: '虎李勇', camp: 'tiger', position: 24 },
+            { num: 147, name: '熊孙铁', camp: 'bear', position: 25 },
+            { num: 302, name: '犬宋亮', camp: 'hound', position: 26 },
+            { num: 233, name: '牛林刚', camp: 'ox', position: 27 },
+            { num: 289, name: '虎杨志', camp: 'tiger', position: 28 },
+            { num: 157, name: '犬高忠', camp: 'hound', position: 29 },
+            { num: 268, name: '熊马忠', camp: 'bear', position: 30 },
+            { num: 245, name: '牛郭明', camp: 'ox', position: 31 },
+            { num: 134, name: '虎黄明', camp: 'tiger', position: 32 }
+        ];
+
+        // 命运感慨数据 - v2版本
+        const fateCommentary = {
+            tiger: {
+                '虎赵军': {
+                    entry: '虎赵军站在选手村中央，整理着自己的制服。三十一岁，E-223。他的家族曾是白之都的显赫家族，但在一次政治斗争中失势。橙色皮毛如丝绸般光滑，黑色条纹呈现出独特的金色光泽。要让所有人知道，我家族的名字不应该被遗忘。',
+                    r32win: '胜利。虎赵军站在擂台中央，金色镶边黑色三角裤紧贴着股间。橙色皮毛如丝绸般光滑。他看着熊朱强倒下的身躯——终于倒在他的贵族剑术下了。这只是开始。',
+                    r32loss: '死亡。他的身躯倒在擂台之上，金色镶边黑色三角裤被精华浸透。生命随着最后的生理释放而流逝。贵族的荣耀，终究没能护他周全。',
+                    r16win: '胜利。虎赵军站在擂台中央。他看着对手倒下的身躯，感受着胜利的喜悦。每一道伤痕都是勋章，都是通往荣耀的阶梯。',
+                    r16loss: '死亡。他的身躯倒在八强之路上。他累积的所有赏金归了胜者，一切归零。家族的荣耀，终究只能成为历史。',
+                    r8win: '胜利。虎赵军站在擂台中央，感受着四强的荣耀。他证明了虎赵军家族的价值，证明了贵族的血统不会被轻易击垮。',
+                    r8loss: '死亡。他倒在四强门槛前。至少，他曾经战斗过。',
+                    semiWin: '胜利。虎赵军站在擂台中央。决赛。为了家族，为了荣耀，为了所有相信他的人。',
+                    semiLoss: '死亡。决赛的门槛触手可及，却变成了永远无法跨越的鸿沟。他微笑着，仿佛看到了祖先们在天空中迎接他。',
+                    finalWin: '冠军！虎赵军站在擂台中央。赢了，真的赢了。他的家族名字将被所有人记住。',
+                    finalLoss: '亚军。虎赵军倒在冠军奖杯前。虽然没有拿到冠军，但他证明了虎赵军家族的价值。'
+                },
+                '虎王武': {
+                    entry: '虎王武站在训练场中央。三十二岁，E-178，在E级干了十一年。一年前违抗上级命令，拒绝处决一名手无寸铁的G级杂兵。被标记为不稳定因素，失去晋升机会。冠军可以直接晋升营地头目。',
+                    r32win: '胜利。虎王武看着犬林义倒下的身躯。为了晋升，为了那个被他救下的少年，他必须赢。',
+                    r32loss: '死亡。他不后悔违抗命令，不后悔救那个少年。他睁着眼睛，仿佛还在看着那个少年的眼神。',
+                    r16win: '胜利。虎王武看着对手倒下的身躯。他要走得更远，还要证明违抗命令的人也可以成功。',
+                    r16loss: '死亡。他倒在八强之路上。他不后悔，因为他已经证明了原则比晋升更重要。',
+                    r8win: '四强。虎王武证明了原则，证明了正义。',
+                    r8loss: '死亡。他倒在四强门槛前。他已经做了正确的事。',
+                    semiWin: '胜利。虎王武看着对手倒下的身躯。他终于要证明最后一件事——原则可以胜利。',
+                    semiLoss: '死亡。决赛的门槛触手可及。他已经证明了原则。',
+                    finalWin: '冠军！虎王武用原则赢得了胜利，用正义证明了价值。',
+                    finalLoss: '亚军。虽然没有拿到冠军，但他已经证明了原则。这就够了。'
+                },
+                '虎张强': {
+                    entry: '虎张强站在报名队伍里，脸上那道疤痕从眉骨延伸到颧骨。三十五岁，E-156。三个月前拒绝执行处决平民的命令。被标记为不可靠分子，面临降级为G级的处罚。死也要作为E级兵死去。',
+                    r32win: '胜利。虎张强看着犬梁强倒下的身躯。他摸了摸脸上的疤痕，那是他的勋章。他没有降级。',
+                    r32loss: '死亡。他的身躯倒在擂台之上。他睁着眼睛，想起那些平民的眼神。',
+                    r16win: '胜利。虎张强看着对手倒下的身躯。那道疤痕是他的勋章。',
+                    r16loss: '死亡。他倒在八强之路上。他还是没能避免降级。',
+                    r8win: '四强。虎张强像一尊倔强的雕像。他证明了原则，证明了不屈。',
+                    r8loss: '死亡。他倒在四强门槛前。他已经守住了底线。',
+                    semiWin: '胜利。虎张强看着对手倒下的身躯。他终于要证明最后一件事——原则可以胜利。',
+                    semiLoss: '死亡。决赛的门槛触手可及。他已经证明了原则。',
+                    finalWin: '冠军！虎张强用原则赢得了胜利。',
+                    finalLoss: '亚军。虽然没有拿到冠军，但他已经证明了原则。这就够了。'
+                },
+                '虎刘辉': {
+                    entry: '虎刘辉站在报名队伍里，耳朵因为紧张而微微抖动。二十岁，E-312，虎营里最年轻的E级兵。父亲患了矿石病，需要昂贵的药物维持生命。',
+                    r32win: '胜利。虎刘辉看着犬谢军倒下的身躯。他赢了，为父亲赢得了一线生机。',
+                    r32loss: '死亡。他没能赢，没能为父亲赢得药费。他睁着眼睛，想起父亲的病情。',
+                    r16win: '胜利。虎刘辉看着对手倒下的身躯。他要继续为父亲赢得药费。',
+                    r16loss: '死亡。他倒在八强之路上。他还是没能为父亲赢得足够的药费。',
+                    r8win: '四强。虎刘辉证明了年轻的力量，证明了为父亲而战的决心。',
+                    r8loss: '死亡。他倒在四强门槛前。他的救赎之路走到了尽头。',
+                    semiWin: '胜利。虎刘辉看着对手倒下的身躯。他终于要证明最后一件事——年轻可以胜利。',
+                    semiLoss: '死亡。决赛的门槛触手可及。他还是没能为父亲赢得一切。',
+                    finalWin: '冠军！虎刘辉赢了足够的药费，让父亲可以彻底康复。',
+                    finalLoss: '亚军。虽然没有拿到冠军，但他已经赢了足够的药费。这就够了。'
+                },
+                '虎陈刚': {
+                    entry: '虎陈刚站在阴影里，纯黑色的皮毛如夜色般浓郁。二十九岁，E-267。冠军可以直接晋升营地头目。他想往上爬。',
+                    r32win: '胜利。虎陈刚看着犬罗勇倒下的身躯。计算正确。',
+                    r32loss: '死亡。他计算错了，速度击败了他。',
+                    r16win: '胜利。虎陈刚看着对手倒下的身躯。他要继续计算，继续往上爬。',
+                    r16loss: '死亡。他倒在八强之路上。他还是没能爬上去。',
+                    r8win: '四强。虎陈刚证明了计算，证明了野心。',
+                    r8loss: '死亡。他倒在四强门槛前。',
+                    semiWin: '胜利。虎陈刚终于要证明最后一件事——野心可以胜利。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！虎陈刚用野心赢得了胜利。',
+                    finalLoss: '亚军。虽然没有拿到冠军，但他已经证明了野心。'
+                },
+                '虎杨志': {
+                    entry: '虎杨志站在高处。二十六岁，E-289。一年前伴侣被友军误杀。没人听他讨公道。即使死，也要让那个凶手睡不着觉。',
+                    r32win: '胜利。虎杨志看着牛林刚倒下的身躯。他摸了摸左胸的凹陷疤痕。',
+                    r32loss: '死亡。他还是没能说出真相，还是没能讨回公道。',
+                    r16win: '胜利。那是那次意外留下的纪念。他要继续讨公道。',
+                    r16loss: '死亡。他倒在八强之路上。他还是没能说出真相。',
+                    r8win: '四强。虎杨志证明了愤怒，证明了不屈。',
+                    r8loss: '死亡。他倒在四强门槛前。他的公道之路走到了尽头。',
+                    semiWin: '胜利。虎杨志终于有机会说出真相。',
+                    semiLoss: '死亡。决赛的门槛触手可及。他还是没能说出真相。',
+                    finalWin: '冠军！终于能让那个凶手睡不着觉。',
+                    finalLoss: '亚军。虽然不是冠军，他已经尽力了。'
+                },
+                '虎李勇': {
+                    entry: '虎李勇靠在墙边，左前臂的疤痕在晨光中格外醒目。二十七岁，E-201。五年前被自己的亲兄长卖给赏金猎人。',
+                    r32win: '胜利。虎李勇看着熊郑华倒下的身躯。他摸了摸左前臂的疤痕，那是他的勋章。',
+                    r32loss: '死亡。他还是没能证明什么。',
+                    r16win: '胜利。他要继续战斗，继续证明。',
+                    r16loss: '死亡。他倒在八强之路上。他还是没能证明够。',
+                    r8win: '四强。虎李勇证明了幸存，证明了反抗。',
+                    r8loss: '死亡。他倒在四强门槛前。他的证明之路走到了尽头。',
+                    semiWin: '胜利。他终于要证明最后一件事——幸存者可以胜利。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！用幸存赢得了胜利，用反抗证明了价值。',
+                    finalLoss: '亚军。虽然没有拿到冠军，他已经证明了幸存。这就够了。'
+                },
+                '虎黄明': {
+                    entry: '虎黄明站在营房门口，左耳只剩下一半。三十八岁，E-134，在兽盾服役了十七年，从未晋升。参赛原因不明，没人知道为什么。',
+                    r32win: '胜利。虎黄明看着牛郭明倒下的身躯。他摸了摸只剩下一半的左耳。',
+                    r32loss: '死亡。他终于不用再沉默了，但真相也随之消逝。',
+                    r16win: '胜利。他要继续战斗，继续沉默。',
+                    r16loss: '死亡。他倒在八强之路上。他还是没能说出真相。',
+                    r8win: '四强。虎黄明证明了神秘，证明了沉默。',
+                    r8loss: '死亡。他倒在四强门槛前。他的沉默之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会说出真相。',
+                    semiLoss: '死亡。决赛的门槛触手可及。他还是没能说出真相。',
+                    finalWin: '冠军！终于能让所有人知道十七年的沉默。',
+                    finalLoss: '亚军。虽然不是冠军，他已经证明了沉默的力量。'
+                }
+            },
+            bear: {
+                '熊朱强': {
+                    entry: '熊朱强站在报名队伍里，手掌垂在身侧，巨大而厚实——每一只手掌都有十厘米厚。二十九岁，E-290。想当最强的。',
+                    r32win: '胜利。熊朱强看着虎赵军倒下的身影。这就是力量，这就是一切。',
+                    r32loss: '死亡。他不明白，为什么力量会输给优雅？',
+                    r16win: '胜利。每一道伤痕都是力量的证明。',
+                    r16loss: '死亡。他想起那些嘲笑他的人。',
+                    r8win: '四强。他就是最强，他就是一切。',
+                    r8loss: '死亡。力量终究还是有极限的。',
+                    semiWin: '胜利。他已经证明了力量，现在他要证明更多。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！用力量证明了一切。',
+                    finalLoss: '亚军。但他知道，他已经够强了。'
+                },
+                '熊胡军': {
+                    entry: '熊胡军站在报名队伍里。二十七岁，E-224。常被嘲笑为不像熊，养成了暴躁的性格。',
+                    r32win: '胜利。那些嘲笑他的人，现在该闭嘴了。',
+                    r32loss: '死亡。他来不及让那些嘲笑者闭嘴。',
+                    r16win: '胜利。他证明了自己，证明了软毛不代表软弱。',
+                    r16loss: '死亡。他没能证明够，没能堵住那些嘲笑者的嘴。',
+                    r8win: '四强。他证明了软毛也可以战斗。',
+                    r8loss: '死亡。他的证明之路走到了尽头。',
+                    semiWin: '胜利。他不再是为了证明而战，他是为了自己而战。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！用软毛赢得了胜利。',
+                    finalLoss: '亚军。他已经证明了软毛也可以战斗。'
+                },
+                '熊吴刚': {
+                    entry: '熊吴刚坐在温泉池边。三十二岁，E-112。两年前亲手杀死了自己的伴侣——他被陷害，以为伴侣是叛徒。',
+                    r32win: '胜利。这一次，他没有杀死无辜的人。',
+                    r32loss: '死亡。终于，他可以结束这一切了。',
+                    r16win: '胜利。他还没有找到正确的事，还没有赎清罪过。',
+                    r16loss: '死亡。他还是没找到正确的事，还是没赎清罪过。',
+                    r8win: '四强。他也许还没有赎清罪过，但他已经走了这么远。',
+                    r8loss: '死亡。他的赎罪之路走到了尽头。',
+                    semiWin: '胜利。他终于找到了正确的事——不是为了赎罪，是为了自己。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！终于做了正确的事，终于赎清了罪过。',
+                    finalLoss: '亚军。虽然已经做了正确的事。'
+                },
+                '熊周平': {
+                    entry: '熊周平坐在广场边缘的大石头上。三十五岁，E-145。弟弟得了矿石病，欠了地下钱庄一万。',
+                    r32win: '胜利。他不恨牛孙勇，他们都是为了家人而战。',
+                    r32loss: '死亡。他没能赢，没能为弟弟赢得治疗费。',
+                    r16win: '胜利。他要继续为弟弟赢得治疗费。',
+                    r16loss: '死亡。他还是没能为弟弟赢得足够的治疗费。',
+                    r8win: '四强。他证明了兄长的爱，证明了为家人而战的力量。',
+                    r8loss: '死亡。他的救赎之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会还清所有债务。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！还清债务，还能给弟弟娶亲。',
+                    finalLoss: '亚军。已经赢了足够的钱还清债务。'
+                },
+                '熊林生': {
+                    entry: '熊林生站在报名队伍的最后。四十二岁，E-135。没有债务，没有家人需要照顾。他想死在擂台上，给自己一个体面的结局。',
+                    r32win: '胜利。老骨头还能用。',
+                    r32loss: '死亡。他终于得到了想要的结局——死在擂台上。',
+                    r16win: '胜利。他已经走得很远了。',
+                    r16loss: '死亡。他终于得到了结局。',
+                    r8win: '四强。他证明了年龄不是界限。',
+                    r8loss: '死亡。他的结局之路走到了尽头。',
+                    semiWin: '胜利。他终于要走向最后的结局。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！没有想到会走到这一步。',
+                    finalLoss: '亚军。虽然不是冠军，但他已经得到了体面的结局。'
+                },
+                '熊郑华': {
+                    entry: '熊郑华站在报名队伍里。二十四岁，E-287。赌马输了两万撸币，债主是营房长官。',
+                    r32win: '胜利。老骨头还能用。',
+                    r32loss: '死亡。苍白的手掌再也不会颤抖。',
+                    r16win: '胜利。他要继续还债。',
+                    r16loss: '死亡。脂肪层只有三厘米的身躯无法保护他。',
+                    r8win: '四强。他证明了绝望的力量。',
+                    r8loss: '死亡。他的还债之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会还清所有债务。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！还清所有债务。',
+                    finalLoss: '亚军。虽然没有拿到冠军，他已经尽力了。'
+                },
+                '熊孙铁': {
+                    entry: '熊孙铁站在报名队伍里。三十八岁，E-147。背肌如铁板，二十年E级没晋升，不服。',
+                    r32win: '胜利。老骨头还能用。',
+                    r32loss: '死亡。背部肌肉再坚硬也无法保护他。',
+                    r16win: '胜利。他已经走得很远了。',
+                    r16loss: '死亡。他还是没能获得体面结局。',
+                    r8win: '四强。他证明了不服，证明了坚持。',
+                    r8loss: '死亡。他的体面之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会获得体面结局。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！证明了二十年的不服。',
+                    finalLoss: '亚军。虽然已经证明了自己还能打。'
+                },
+                '熊马忠': {
+                    entry: '熊马忠站在报名队伍里。三十三岁，E-268。左耳只剩下一半，是那次被俘时留下的纪念。',
+                    r32win: '胜利。老骨头还能用。',
+                    r32loss: '死亡。他还是没能证明清白。',
+                    r16win: '胜利。他要继续证明清白。',
+                    r16loss: '死亡。他还是没能证明清白。',
+                    r8win: '四强。他证明了生存，证明了清白。',
+                    r8loss: '死亡。他的清白之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会证明清白。',
+                    semiLoss: '死亡。决赛的门槛触手可及。',
+                    finalWin: '冠军！证明了不是叛徒。',
+                    finalLoss: '亚军。虽然已经证明了自己是战士。'
+                }
+            },
+            ox: {
+                '牛何平': {
+                    entry: '牛何平看着报名表，眼神空洞。二十二岁，E-301，牛营里最年轻的E级兵，但已经失手重伤过三个同僚。长官说他具有反社会倾向。',
+                    r32win: '胜利。这就是他想要的，合法地杀人。他微笑着，走向出口。',
+                    r32loss: '死亡。那反社会的扭曲灵魂终于找到了归宿。他闭上眼睛，嘴角依然挂着那个诡异的微笑。',
+                    r16win: '胜利。身上沾满的不是他的血，是对手的血。他伸出舌头，舔了舔嘴唇。',
+                    r16loss: '死亡。那反社会的渴望终于得到了终结。',
+                    r8win: '四强。他已经不记得自己杀了多少人。',
+                    r8loss: '死亡。杀戮之路终于走到了尽头。',
+                    semiWin: '胜利。决赛。最后一战，最后的杀戮。',
+                    semiLoss: '死亡。他微笑着，因为他知道，至少他战斗过，杀戮过。',
+                    finalWin: '冠军！杀了所有人，成为了最后的幸存者。但他没有喜悦，只有空虚。',
+                    finalLoss: '亚军。他闭上眼睛，带着满足的笑容。'
+                },
+                '牛胡辉': {
+                    entry: '牛胡辉坐在营房角落，面前摆着半杯劣酒。四十三岁，E-167。知道年满45岁的E级兵会被卖掉。',
+                    r32win: '胜利。老骨头还能用。',
+                    r32loss: '死亡。他终于不用再喝酒了，不用再害怕被卖掉了。',
+                    r16win: '胜利。老骨头还能战斗。',
+                    r16loss: '死亡。他终于醉了，永远的醉了。',
+                    r8win: '四强。也许衰老不是终点。',
+                    r8loss: '死亡。他已经活了四十三年，见过了太多生死。',
+                    semiWin: '胜利。他证明了年龄不是界限。',
+                    semiLoss: '死亡。他已经尽了全力。',
+                    finalWin: '冠军！年龄不是界限，放弃才是。',
+                    finalLoss: '亚军。对于一个四十三岁的老头来说，这已经足够了。'
+                },
+                '牛马军': {
+                    entry: '牛马军盘腿坐在床铺上。二十九岁，E-256。欠了地下赌坊两万，被债主堵过三次。',
+                    r32win: '胜利。他摸了摸肋骨——那根被打断的肋骨——疼痛感消失了。他赢了，赌对了。',
+                    r32loss: '死亡。他计算错了，赌输了。',
+                    r16win: '胜利。每一道伤痕都是赌注，都是概率。',
+                    r16loss: '死亡。他赌输了，概率没有站在他这边。',
+                    r8win: '四强。他还要走得更远，还要赢得更多。',
+                    r8loss: '死亡。他赌输了，但这就是赌徒的命运。',
+                    semiWin: '胜利。如果他赢了，他将还清所有债务。',
+                    semiLoss: '死亡。他赌输了，但他已经尽力了。',
+                    finalWin: '冠军！计算正确，赌对了所有。',
+                    finalLoss: '亚军。虽然没有拿到冠军，但他已经还清了大部分债务。'
+                },
+                '牛孙勇': {
+                    entry: '牛孙勇站在报名处，背脊挺得笔直。三十岁，E-189。十二岁的弟弟是他捡来的孤儿，上个月确诊矿石病早期，治疗费需要三千。',
+                    r32win: '胜利。他不恨熊周平，他们都是为了家人而战。',
+                    r32loss: '死亡。他没能赢，没能为小牛赢得药费。',
+                    r16win: '胜利。他要继续为小牛赢得药费。',
+                    r16loss: '死亡。他还是没能为小牛赢得足够的药费。',
+                    r8win: '四强。他证明了兄长的爱。',
+                    r8loss: '死亡。他的救赎之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会赢得足够的药费。',
+                    semiLoss: '死亡。他还是没能为小牛赢得足够的一切。',
+                    finalWin: '冠军！让小牛可以彻底康复。',
+                    finalLoss: '亚军。虽然已经赢了足够的药费。'
+                },
+                '牛徐强': {
+                    entry: '牛徐强站在选手村的走廊里，右手无意识地抚摸着左角尖的缺口。三十七岁，E-217。三年前为给父亲治矿石病借了八千，利滚利到现在变成五万二。',
+                    r32win: '胜利。他摸了摸角尖的缺口，老骨头还能用。',
+                    r32loss: '死亡。钱庄的匕首，他终于不用再害怕了。',
+                    r16win: '胜利。他要继续还债。',
+                    r16loss: '死亡。五万二依然悬在头上。',
+                    r8win: '四强。他证明了绝望的力量。',
+                    r8loss: '死亡。他的还债之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会还清所有债务。',
+                    semiLoss: '死亡。债务依然压顶。',
+                    finalWin: '冠军！还清所有债务。',
+                    finalLoss: '亚军。债务依然悬在头顶，但他已经不能再去想了。'
+                },
+                '牛朱志': {
+                    entry: '牛朱志拖着那条跛腿走进选手村。三十岁，E-198。欠营房长官一万，上个月只还了三百，被打断了一根肋骨。',
+                    r32win: '胜利。他摸了摸左侧胸腹的凹陷，老骨头还能用。',
+                    r32loss: '死亡。他终于得到了解脱——债务清零。',
+                    r16win: '胜利。那条跛腿每天都在嘲笑他，但他还在继续。',
+                    r16loss: '死亡。跛腿终于不用再走了。',
+                    r8win: '四强。他证明了跛腿也可以战斗。',
+                    r8loss: '死亡。他的解脱之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会还清所有债务。',
+                    semiLoss: '死亡。他还是没能还清债务。',
+                    finalWin: '冠军！没有想到会走到这一步。',
+                    finalLoss: '亚军。虽然不是冠军，他已经尽力了。'
+                },
+                '牛林刚': {
+                    entry: '牛林刚站在营房门口，右肩的刀疤还在隐隐作痛。二十四岁，E-233。三个月前杀了一名赏金猎人。',
+                    r32win: '胜利。他摸了摸右肩的刀疤，老骨头还能用。',
+                    r32loss: '死亡。他终于不用再逃亡了，可以休息了。',
+                    r16win: '胜利。他要继续战斗，继续活下去。',
+                    r16loss: '死亡。他还是没能活下去。',
+                    r8win: '四强。他证明了逃亡，证明了生存。',
+                    r8loss: '死亡。他的逃亡之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会活下去。',
+                    semiLoss: '死亡。他终于不用再逃亡了。',
+                    finalWin: '冠军！赢得了生存的权利，赢得了不再被追杀的自由。',
+                    finalLoss: '亚军。虽然已经赢得了生存的权利。'
+                },
+                '牛郭明': {
+                    entry: '牛郭明坐在营房角落，手里拿着母亲的信。三十五岁，E-245。母亲患有慢性病，需要长期服药。',
+                    r32win: '胜利。他摸了摸口袋里的信，老骨头还能用。',
+                    r32loss: '死亡。温柔的眼神逐渐失去光芒，他还是没能为母亲买到药。',
+                    r16win: '胜利。他要继续战斗，继续为母亲买药。',
+                    r16loss: '死亡。他还是没能为母亲买到足够的药。',
+                    r8win: '四强。他证明了孝心，证明了牵挂。',
+                    r8loss: '死亡。他的尽孝之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会为母亲买到足够的药。',
+                    semiLoss: '死亡。温柔的眼神逐渐失去光芒。',
+                    finalWin: '冠军！为母亲买到足够的药。',
+                    finalLoss: '亚军。虽然没有拿到冠军，他已经尽力了。'
+                }
+            },
+            hound: {
+                '犬何守': {
+                    entry: '犬何守站在报名队伍里，背部笔直如尺，耳朵竖立如刀。三十一岁，E-269。在兽盾干了十年，忠诚于命令。',
+                    r32win: '胜利。他整理了一下制服，背脊依然笔直。忠诚，纪律，这些才是胜利的关键。',
+                    r32loss: '死亡。他不明白，为什么忠诚会输给疯狂？也许，忠诚真的不值钱。',
+                    r16win: '胜利。他证明了忠诚的价值，证明了纪律的力量。',
+                    r16loss: '死亡。他的忠诚，他的纪律，都没有保护他。',
+                    r8win: '四强。这就是训练，这就是纪律，这就是忠诚的力量。',
+                    r8loss: '死亡。',
+                    semiWin: '胜利。这是他的最后机会，证明忠诚不是空话。',
+                    semiLoss: '死亡。',
+                    finalWin: '冠军！用忠诚和纪律赢得了胜利。',
+                    finalLoss: '亚军。虽然没有拿到冠军，但他证明了忠诚的价值。'
+                },
+                '犬林义': {
+                    entry: '犬林义靠在墙边，纯黑色皮毛如墨染般浓郁。二十八岁，E-089。被前主人卖给兽盾。渴望一个不会抛弃他的家。',
+                    r32win: '胜利。这一次，他没有被抛弃，他是抛弃者。',
+                    r32loss: '死亡。他不恨失败，只恨自己再次证明了没有人要我。',
+                    r16win: '胜利。他证明了力量，证明了存在。但意义呢？',
+                    r16loss: '死亡。他还是没找到意义，还是没找到家。',
+                    r8win: '四强。他也许还没有找到意义，但他已经走了这么远。',
+                    r8loss: '死亡。他的寻找之路走到了尽头。',
+                    semiWin: '胜利。他终于找到了意义——不是为了家，是为了自己。',
+                    semiLoss: '死亡。他已经找到了自己的意义。',
+                    finalWin: '冠军！他不需要家了，不需要被要了。他自己就是家，自己就是意义。',
+                    finalLoss: '亚军。他已经找到了意义。'
+                },
+                '犬梁强': {
+                    entry: '犬梁强站在报名队伍里，头部巨大，下颚强壮。二十九岁，E-225。欠了地下钱庄一笔钱。我不想死。',
+                    r32win: '胜利。他呼吸着，喘息着，感受着活着的滋味。',
+                    r32loss: '死亡。他不想死，但死亡还是来了。',
+                    r16win: '胜利。他要继续战斗，继续活下去。',
+                    r16loss: '死亡。他还是没能活下去。',
+                    r8win: '四强。他证明了生存的欲望。',
+                    r8loss: '死亡。他的生存之路走到了尽头。',
+                    semiWin: '胜利。他终于要证明最后一件事——不想死的人，可以活下去。',
+                    semiLoss: '死亡。他不想死，但他已经尽力了。',
+                    finalWin: '冠军！他活下来了，他赢了。',
+                    finalLoss: '亚军。他已经活过了。这就够了。'
+                },
+                '犬谢军': {
+                    entry: '犬谢军站在报名队伍里，毛色雪白如棉花糖。二十六岁，E-199。总是被嘲笑为宠物犬。',
+                    r32win: '胜利。那些嘲笑他的人，现在该闭嘴了。',
+                    r32loss: '死亡。他不甘心，真的不甘心。',
+                    r16win: '胜利。每一根毛发都是证明，都是对嘲笑的反击。',
+                    r16loss: '死亡。他还是没有证明够。',
+                    r8win: '四强。他证明了宠物也可以战斗。',
+                    r8loss: '死亡。他的证明之路走到了尽头。',
+                    semiWin: '胜利。他不再是为了证明而战，他是为了自己而战。',
+                    semiLoss: '死亡。他已经证明了够多了。',
+                    finalWin: '冠军！用微笑赢得了胜利。',
+                    finalLoss: '亚军。他已经证明了宠物也可以战斗。'
+                },
+                '犬罗勇': {
+                    entry: '犬罗勇站在报名队伍里，身形瘦长如流线型。二十五岁，E-291。从小到大，所有人都叫他细狗，说他弱。',
+                    r32win: '胜利。他感受着风从身边掠过的感觉，那就是速度，那就是一切。',
+                    r32loss: '死亡。他的速度没有保护他。',
+                    r16win: '胜利。他要继续奔跑，继续证明速度就是一切。',
+                    r16loss: '死亡。他还是没能证明够。',
+                    r8win: '四强。他证明了速度，证明了敏捷。',
+                    r8loss: '死亡。他的速度之路走到了尽头。',
+                    semiWin: '胜利。他终于要证明最后一件事——速度可以胜利。',
+                    semiLoss: '死亡。',
+                    finalWin: '冠军！用速度赢得了胜利。',
+                    finalLoss: '亚军。他已经证明了速度。'
+                },
+                '犬郑威': {
+                    entry: '犬郑威站在报名队伍里，肌肉紧实，透着老兵的沧桑。三十五岁，E-136。最后一次晋升机会。',
+                    r32win: '胜利。老骨头还能用。',
+                    r32loss: '死亡。想起那些年的服务，那些年的忠诚，一切都随风而去。',
+                    r16win: '胜利。十二年，他已经走得很远了。',
+                    r16loss: '死亡。他还是没能晋升。',
+                    r8win: '四强。他证明了经验，证明了坚持。',
+                    r8loss: '死亡。他的晋升之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会获得晋升。',
+                    semiLoss: '死亡。',
+                    finalWin: '冠军！赢得了晋升，赢得了不被出售的权利。',
+                    finalLoss: '亚军。虽然已经尽力了。'
+                },
+                '犬宋亮': {
+                    entry: '犬宋亮站在报名队伍里，眼睛是罕见的冰蓝色。二十二岁，E-302。参赛动机是好玩。',
+                    r32win: '胜利。好玩。',
+                    r32loss: '死亡。他终于玩够了，终于知道死亡不好玩。',
+                    r16win: '胜利。他要继续玩，继续好奇。',
+                    r16loss: '死亡。他还是没能玩够。',
+                    r8win: '四强。他证明了玩味，证明了好奇。',
+                    r8loss: '死亡。他的玩味之路走到了尽头。',
+                    semiWin: '胜利。他终于要玩到最后了。',
+                    semiLoss: '死亡。',
+                    finalWin: '冠军！没有想到会走到这一步，但好玩就够了。',
+                    finalLoss: '亚军。他已经玩够了。'
+                },
+                '犬高忠': {
+                    entry: '犬高忠靠在院墙边，身形修长而精瘦。三十岁，E-157。曾经是野狼，渴望自由。',
+                    r32win: '胜利。老骨头还能用。',
+                    r32loss: '死亡。他还是没能获得自由，还是被困在笼子里。',
+                    r16win: '胜利。他要继续战斗，继续追求自由。',
+                    r16loss: '死亡。他还是没能获得自由。',
+                    r8win: '四强。他证明了自由，证明了不屈。',
+                    r8loss: '死亡。他的自由之路走到了尽头。',
+                    semiWin: '胜利。他终于有机会获得自由。',
+                    semiLoss: '死亡。',
+                    finalWin: '冠军！赢得了自由，赢得了回归草原的权利。',
+                    finalLoss: '亚军。他已经证明了自己是野狼。'
+                }
+            }
+        };
+
+        const campNames = { tiger: '虎', bear: '熊', ox: '牛', hound: '犬' };
+        const campColors = { tiger: '#ff9800', bear: '#8d6e63', ox: '#78909c', hound: '#7986cb' };
+
+        // 对阵结构定义（与 drawing-v5-32.html 一致）
+        const bracketStructure = {
+            'left-32': Array.from({length: 16}, (_, i) => ({
+                id: `L32-${i}`,
+                position: i + 1,
+                next: `L16-${Math.floor(i/2)}`,
+                round: 32
+            })),
+            'left-16': Array.from({length: 8}, (_, i) => ({
+                id: `L16-${i}`,
+                position: i + 1,
+                next: `L8-${Math.floor(i/2)}`,
+                round: 16
+            })),
+            'left-8': Array.from({length: 4}, (_, i) => ({
+                id: `L8-${i}`,
+                position: i + 1,
+                next: `L4-${Math.floor(i/2)}`,
+                round: 8
+            })),
+            'left-4': Array.from({length: 2}, (_, i) => ({
+                id: `L4-${i}`,
+                position: i + 1,
+                next: `L2-0`,
+                round: 4
+            })),
+            'left-2': [{
+                id: 'L2-0',
+                position: 1,
+                next: 'champion',
+                round: 2
+            }],
+            'right-32': Array.from({length: 16}, (_, i) => ({
+                id: `R32-${i}`,
+                position: i + 17,
+                next: `R16-${Math.floor(i/2)}`,
+                round: 32
+            })),
+            'right-16': Array.from({length: 8}, (_, i) => ({
+                id: `R16-${i}`,
+                position: i + 1,
+                next: `R8-${Math.floor(i/2)}`,
+                round: 16
+            })),
+            'right-8': Array.from({length: 4}, (_, i) => ({
+                id: `R8-${i}`,
+                position: i + 1,
+                next: `R4-${Math.floor(i/2)}`,
+                round: 8
+            })),
+            'right-4': Array.from({length: 2}, (_, i) => ({
+                id: `R4-${i}`,
+                position: i + 1,
+                next: `R2-0`,
+                round: 4
+            })),
+            'right-2': [{
+                id: 'R2-0',
+                position: 1,
+                next: 'champion',
+                round: 2
+            }]
+        };
+
+        // 状态管理
+        let state = {
+            filledPositions: new Set(),
+            slots: {},
+            winners: {},
+            stageCompleted: { 32: false, 16: false, 8: false, 4: false, 2: false },
+            stageWinners: { 32: 0, 16: 0, 8: 0, 4: 0, 2: 0 },
+            campAlive: { tiger: 8, bear: 8, ox: 8, hound: 8 },
+            playerMoney: {},
+            campMoney: { tiger: 0, bear: 0, ox: 0, hound: 0 }
+        };
+
+        // 保持向后兼容的变量
+        let currentSignIndex = 0;
+        let campMoney = state.campMoney;
+        let eliminated = [];
+
+        function init() {
+            renderPool();
+            createBracket();
+            updateStats();
+            setupTooltip();
+        }
+
+        // 设置Tooltip - hover显示当前轮次命运感慨
+        function setupTooltip() {
+            const tooltip = document.getElementById('charTooltip');
+
+            document.addEventListener('mouseover', (e) => {
+                const poolCharEl = e.target.closest('.pool-char');
+                const cardEl = e.target.closest('.match-card.filled');
+
+                let camp, idx, char, slotId = null;
+
+                if (poolCharEl) {
+                    camp = poolCharEl.dataset.camp;
+                    idx = parseInt(poolCharEl.dataset.idx);
+                    char = characters[camp][idx];
+                    // 如果已抽取，找到对应的slotId
+                    if (poolCharEl.classList.contains('drawn')) {
+                        for (const [sid, data] of Object.entries(state.slots)) {
+                            if (data.camp === camp && data.idx === idx) {
+                                slotId = sid;
+                                break;
+                            }
+                        }
+                    }
+                } else if (cardEl && state.slots[cardEl.id]) {
+                    const slotData = state.slots[cardEl.id];
+                    camp = slotData.camp;
+                    idx = slotData.idx;
+                    char = characters[camp][idx];
+                    slotId = cardEl.id;
+                }
+
+                if (!char) {
+                    tooltip.classList.remove('active');
+                    return;
+                }
+
+                // 获取当前轮次的命运感慨
+                const fateText = getCurrentFateText(char, slotId, camp);
+
+                document.getElementById('tooltipName').textContent = char.name;
+                document.getElementById('tooltipCode').textContent = char.code;
+                document.getElementById('tooltipStory').textContent = fateText;
+                document.getElementById('tooltipMotive').textContent = char.motive;
+                document.getElementById('tooltipAge').textContent = char.age + '岁';
+
+                // 定位tooltip
+                const targetEl = poolCharEl || cardEl;
+                const rect = targetEl.getBoundingClientRect();
+                let left = rect.right + 10;
+                let top = rect.top;
+
+                // 防止超出屏幕
+                if (left + 280 > window.innerWidth) {
+                    left = rect.left - 290;
+                }
+                if (top + 200 > window.innerHeight) {
+                    top = window.innerHeight - 210;
+                }
+
+                tooltip.style.left = left + 'px';
+                tooltip.style.top = top + 'px';
+                tooltip.classList.add('active');
+            });
+
+            document.addEventListener('mouseout', (e) => {
+                const charEl = e.target.closest('.pool-char') || e.target.closest('.match-card.filled');
+                if (charEl) {
+                    tooltip.classList.remove('active');
+                }
+            });
+        }
+
+        // 获取当前轮次的命运感慨文本
+        function getCurrentFateText(char, slotId, charCamp) {
+            // 使用传入的camp或从char中获取
+            const camp = charCamp || char.camp;
+
+            if (!slotId) {
+                // 选手池中的角色，显示入场感慨
+                const campFate = fateCommentary[camp];
+                if (campFate && campFate[char.name]) {
+                    return '【32强入场】\n' + campFate[char.name].entry;
+                }
+                return char.story;
+            }
+
+            const slot = findSlot(slotId);
+            if (!slot) return char.story;
+
+            const campFate = fateCommentary[camp];
+            if (!campFate || !campFate[char.name]) return char.story;
+
+            const charFate = campFate[char.name];
+            const round = slot.round;
+            const isWinner = state.winners[slotId];
+            const opponentId = findOpponentId(slotId);
+            const isEliminated = opponentId && state.winners[opponentId];
+
+            if (round === 32) {
+                if (isWinner) return '【32进16 胜利】\n' + charFate.r32win;
+                if (isEliminated) return '【32进16 失败】\n' + charFate.r32loss;
+                return '【32强入场】\n' + charFate.entry;
+            } else if (round === 16) {
+                if (isWinner) return '【16进8 胜利】\n' + charFate.r16win;
+                if (isEliminated) return '【16进8 失败】\n' + charFate.r16loss;
+                return '【16强入场】\n' + charFate.r32win;
+            } else if (round === 8) {
+                if (isWinner) return '【8进4 胜利】\n' + charFate.r8win;
+                if (isEliminated) return '【8进4 失败】\n' + charFate.r8loss;
+                return '【8强入场】\n' + charFate.r16win;
+            } else if (round === 4) {
+                if (isWinner) return '【半决赛 胜利】\n' + charFate.semiWin;
+                if (isEliminated) return '【半决赛 失败】\n' + charFate.semiLoss;
+                return '【4强入场】\n' + charFate.r8win;
+            } else if (round === 2 || slotId === 'champion') {
+                const isChampion = state.winners['champion'] && state.slots['champion']?.name === char.name;
+                if (isChampion) return '【决赛 胜利 - 冠军】\n' + charFate.finalWin;
+                if (isEliminated || (state.winners['champion'] && !isChampion)) return '【决赛 失败 - 亚军】\n' + charFate.finalLoss;
+                return '【决赛入场】\n' + charFate.semiWin;
+            }
+            return char.story;
+        }
+
+        function renderPool() {
+            Object.keys(characters).forEach(camp => {
+                const container = document.getElementById(`pool-${camp}`);
+                container.innerHTML = '';
+                characters[camp].forEach(char => {
+                    const el = document.createElement('div');
+                    el.className = 'pool-char clickable';
+                    el.dataset.name = char.name;
+                    el.dataset.camp = camp;
+                    el.innerHTML = `<span>${char.name}</span><span class="char-code">${char.code}</span>`;
+
+                    el.addEventListener('mouseenter', (e) => showTooltip(e, char, camp));
+                    el.addEventListener('mouseleave', hideTooltip);
+                    el.addEventListener('click', () => clickPoolChar(char.name, camp));
+
+                    container.appendChild(el);
+                });
+            });
+        }
+
+        function showTooltip(e, char, camp) {
+            const tooltip = document.getElementById('charTooltip');
+            document.getElementById('tooltipName').textContent = char.name;
+            document.getElementById('tooltipCode').textContent = char.code;
+            document.getElementById('tooltipStory').textContent = char.story;
+            document.getElementById('tooltipMotive').textContent = char.motive;
+            document.getElementById('tooltipAge').textContent = char.age;
+
+            const rect = e.target.getBoundingClientRect();
+            tooltip.style.left = (rect.right + 10) + 'px';
+            tooltip.style.top = rect.top + 'px';
+            tooltip.classList.add('active');
+        }
+
+        function hideTooltip() {
+            document.getElementById('charTooltip').classList.remove('active');
+        }
+
+        // 点击选手池角色 - 按固定签位落位
+        function clickPoolChar(name, camp) {
+            if (state.filledPositions.size >= 32) return;
+
+            const signInfo = fixedSignOrder.find(s => s.name === name);
+            if (!signInfo) return;
+
+            // 检查该位置是否已填充
+            if (state.filledPositions.has(signInfo.position)) return;
+
+            const charEl = document.querySelector(`.pool-char[data-name="${name}"]`);
+            if (charEl && charEl.classList.contains('drawn')) return;
+
+            showDrawAnimation(signInfo);
+
+            setTimeout(() => {
+                placeCharacter(signInfo);
+            }, 600);
+        }
+
+        function showDrawAnimation(signInfo) {
+            const modal = document.getElementById('drawModal');
+            document.getElementById('drawCamp').textContent = campNames[signInfo.camp] + '之阵营';
+            document.getElementById('drawCamp').style.color = campColors[signInfo.camp];
+            document.getElementById('drawName').textContent = signInfo.name;
+            document.getElementById('drawPosition').textContent = `签位 ${signInfo.position}`;
+
+            modal.classList.add('active');
+            setTimeout(() => modal.classList.remove('active'), 1000);
+        }
+
+        function placeCharacter(signInfo) {
+            const { name, camp, position } = signInfo;
+
+            // 检查该位置是否已填充
+            if (state.filledPositions.has(position)) return;
+
+            const charEl = document.querySelector(`.pool-char[data-name="${name}"]`);
+            if (charEl) charEl.classList.add('drawn');
+
+            // 找到对应的 slot ID
+            const slotId = position <= 16
+                ? `L32-${position - 1}`
+                : `R32-${position - 17}`;
+            const slot = document.getElementById(slotId);
+
+            if (slot) {
+                const char = characters[camp].find(c => c.name === name);
+                const charIdx = characters[camp].findIndex(c => c.name === name);
+
+                // 保存到 state
+                state.slots[slotId] = { ...char, camp, idx: charIdx, position, slotId };
+
+                slot.innerHTML = `
+                    <div class="card-position">${position}</div>
+                    <div class="card-name">${name}</div>
+                    <div class="card-info">${char.code} | ${char.motive}</div>
+                `;
+                slot.classList.remove('empty');
+                slot.classList.add('filled', camp);
+            }
+
+            state.filledPositions.add(position);
+            currentSignIndex++;
+            updateStats();
+
+            if (state.filledPositions.size >= 32) {
+                document.getElementById('drawBtn').disabled = true;
+                document.getElementById('autoDrawBtn').disabled = true;
+                document.getElementById('stageStatus').classList.add('completed');
+                document.querySelector('.stage-status-text').textContent = '32强抽签完成，点击角色选择胜者';
+                document.querySelector('.stage-progress').textContent = '当前阶段：32进16';
+            }
+        }
+
+        function createBracket() {
+            // 创建左侧32强
+            const left32 = document.getElementById('left-32');
+            bracketStructure['left-32'].forEach(slot => {
+                left32.appendChild(createMatchCard(slot, true));
+            });
+
+            // 创建右侧32强
+            const right32 = document.getElementById('right-32');
+            bracketStructure['right-32'].forEach(slot => {
+                right32.appendChild(createMatchCard(slot, true));
+            });
+
+            // 创建其他轮次
+            const rounds = ['left-16', 'left-8', 'left-4', 'left-2', 'right-2', 'right-4', 'right-8', 'right-16'];
+            rounds.forEach(roundId => {
+                const round = document.getElementById(roundId);
+                bracketStructure[roundId].forEach(slot => {
+                    round.appendChild(createMatchCard(slot, false));
+                });
+            });
+        }
+
+        function createMatchCard(slot, is32Round) {
+            const match = document.createElement('div');
+            match.className = 'match';
+            const card = document.createElement('div');
+            card.className = 'match-card empty' + (is32Round ? '' : ' locked');
+            card.id = slot.id;
+            if (is32Round) {
+                card.innerHTML = `<div class="card-position">${slot.position}</div>`;
+            } else {
+                card.innerHTML = '<div class="lock-icon">🔒</div>';
+            }
+            card.onclick = () => handleMatchClick(slot.id);
+            match.appendChild(card);
+            return match;
+        }
+
+        function handleMatchClick(slotId) {
+            const card = document.getElementById(slotId);
+            if (!card || card.classList.contains('locked')) return;
+
+            // 被淘汰的选手点击查看命运感慨
+            if (card.classList.contains('eliminated')) {
+                if (state.slots[slotId]) {
+                    showFateCommentary(slotId);
+                }
+                return;
+            }
+
+            if (!state.slots[slotId]) return;
+
+            const slot = findSlot(slotId);
+            if (!slot || !slot.next) return;
+
+            if (!canSelectWinner(slot.round)) {
+                // 无法选择胜者时，点击查看命运感慨
+                showFateCommentary(slotId);
+                return;
+            }
+
+            // 已产生的晋级不可回退
+            if (state.winners[slotId]) {
+                showFateCommentary(slotId);
+                return;
+            }
+
+            const opponentId = findOpponentId(slotId);
+            if (opponentId && state.winners[opponentId]) {
+                // 对手已晋级，点击查看自己的命运感慨
+                showFateCommentary(slotId);
+                return;
+            }
+
+            // 选择胜者
+            selectWinner(slotId);
+        }
+
+        function showFateModal(name, camp, stage) {
+            const fateData = fateCommentary[camp] && fateCommentary[camp][name];
+            const modal = document.getElementById('fateModal');
+            const char = characters[camp].find(c => c.name === name);
+
+            document.getElementById('fateCamp').textContent = campNames[camp] + '之阵营';
+            document.getElementById('fateCamp').className = `fate-camp ${camp}`;
+            document.getElementById('fateName').textContent = name;
+            document.getElementById('fateCode').textContent = char.code;
+
+            // 更新人物小传（与老版本一致）
+            document.getElementById('fateBio').textContent = char.story;
+            document.getElementById('fateMotive').textContent = char.motive;
+            document.getElementById('fateAge').textContent = char.age;
+
+            if (fateData) {
+                // 32强阶段：只显示入场，其他显示待定
+                let timelineHTML = '';
+
+                // 已到达的阶段：32强入场
+                timelineHTML += `
+                    <div class="fate-timeline-item current">
+                        <div class="fate-timeline-stage">【32强入场】</div>
+                        <div class="fate-timeline-text">${fateData.entry}</div>
+                    </div>
+                `;
+
+                // 未来阶段：显示待定
+                const futureStages = [
+                    '【32进16 待定】',
+                    '【16进8 待定】',
+                    '【8进4 待定】',
+                    '【半决赛 待定】',
+                    '【决赛 待定】'
+                ];
+
+                futureStages.forEach(label => {
+                    timelineHTML += `
+                        <div class="fate-timeline-item future">
+                            <div class="fate-timeline-stage">${label}</div>
+                            <div class="fate-timeline-text"></div>
+                        </div>
+                    `;
+                });
+
+                document.getElementById('fateTimeline').innerHTML = timelineHTML;
+
+                // 更新结果状态
+                const resultEl = document.getElementById('fateResult');
+                resultEl.textContent = '比赛进行中...';
+                resultEl.className = 'fate-result';
+            } else {
+                document.getElementById('fateTimeline').innerHTML = '<div class="fate-timeline-item">暂无命运数据</div>';
+                document.getElementById('fateResult').textContent = '等待比赛结果';
+                document.getElementById('fateResult').className = 'fate-result';
+            }
+
+            modal.classList.add('active');
+        }
+
+        function closeFateModal() {
+            document.getElementById('fateModal').classList.remove('active');
+        }
+
+        // ==================== 晋级功能 ====================
+
+        function findSlot(slotId) {
+            for (const round of Object.values(bracketStructure)) {
+                const slot = round.find(s => s.id === slotId);
+                if (slot) return slot;
+            }
+            return null;
+        }
+
+        function findOpponentId(slotId) {
+            const slot = findSlot(slotId);
+            if (!slot) return null;
+            const roundId = Object.keys(bracketStructure).find(key =>
+                bracketStructure[key].some(s => s.id === slotId)
+            );
+            if (!roundId) return null;
+            const round = bracketStructure[roundId];
+            const matchIndex = round.findIndex(s => s.id === slotId);
+            let opponentId = null;
+            if (matchIndex % 2 === 0 && matchIndex + 1 < round.length) {
+                opponentId = round[matchIndex + 1].id;
+            } else if (matchIndex % 2 === 1) {
+                opponentId = round[matchIndex - 1].id;
+            }
+            return opponentId;
+        }
+
+        function canSelectWinner(round) {
+            if (round === 32) {
+                return state.filledPositions.size >= 32;
+            } else if (round === 16) {
+                return state.stageCompleted[32];
+            } else if (round === 8) {
+                return state.stageCompleted[16];
+            } else if (round === 4) {
+                return state.stageCompleted[8];
+            } else if (round === 2) {
+                return state.stageCompleted[4];
+            } else if (round === 'champion') {
+                return state.stageCompleted[2];
+            }
+            return false;
+        }
+
+        function calculateBonus(winnerCamp, loserCamp) {
+            const ownAlive = state.campAlive[winnerCamp];
+            const ownFactor = 9 - ownAlive;
+            const otherAlive = state.campAlive[loserCamp];
+            const otherFactor = 9 - otherAlive;
+            return {
+                amount: 500 * ownFactor * otherFactor,
+                ownFactor,
+                otherFactor,
+                ownAlive,
+                otherAlive
+            };
+        }
+
+        function selectWinner(slotId) {
+            const card = document.getElementById(slotId);
+            if (!card || card.classList.contains('locked')) return;
+
+            if (card.classList.contains('eliminated')) {
+                if (state.slots[slotId]) showFateCommentary(slotId);
+                return;
+            }
+
+            if (!state.slots[slotId]) return;
+
+            const slot = findSlot(slotId);
+            if (!slot || !slot.next) return;
+
+            if (!canSelectWinner(slot.round)) {
+                showFateCommentary(slotId);
+                return;
+            }
+
+            if (state.winners[slotId]) {
+                showFateCommentary(slotId);
+                return;
+            }
+
+            const opponentId = findOpponentId(slotId);
+            if (opponentId && state.winners[opponentId]) {
+                showFateCommentary(slotId);
+                return;
+            }
+
+            const opponent = opponentId ? state.slots[opponentId] : null;
+            const winner = state.slots[slotId];
+            const loserCamp = opponent ? opponent.camp : winner.camp;
+            const bonus = calculateBonus(winner.camp, loserCamp);
+
+            const playerId = `${winner.camp}-${winner.idx}`;
+            if (!state.playerMoney[playerId]) state.playerMoney[playerId] = 0;
+            state.playerMoney[playerId] += bonus.amount;
+            state.campMoney[winner.camp] += bonus.amount;
+
+            if (opponentId && state.slots[opponentId]) {
+                state.campAlive[opponent.camp]--;
+            }
+
+            state.stageWinners[slot.round]++;
+
+            const requiredWinners = slot.round === 32 ? 16 : slot.round === 16 ? 8 : slot.round === 8 ? 4 : slot.round === 4 ? 2 : 1;
+            if (state.stageWinners[slot.round] >= requiredWinners) {
+                state.stageCompleted[slot.round] = true;
+                updateStageStatus();
+            }
+
+            const bonusDetail = `本轮获得 💰${bonus.amount.toLocaleString()} (500×${bonus.ownFactor}×${bonus.otherFactor})`;
+
+            if (slot.next === 'champion') {
+                const otherFinalId = slotId.startsWith('L') ? 'R2-0' : 'L2-0';
+                if (state.slots[otherFinalId]) {
+                    document.getElementById(otherFinalId).classList.add('eliminated');
+                }
+                setChampion(slotId, bonus.amount, bonusDetail);
+            } else {
+                state.winners[slotId] = true;
+                card.classList.add('winner');
+                advanceWinner(slotId, slot.next, bonus.amount, bonusDetail, opponent ? opponent.camp : null);
+                markOpponentEliminated(slotId);
+            }
+
+            updateStats();
+        }
+
+        function advanceWinner(fromId, toId, bonusAmount, bonusDetail, lastOpponentCamp) {
+            const char = state.slots[fromId];
+            const toSlot = findSlot(toId);
+            state.slots[toId] = { ...char, position: toSlot ? toSlot.position : '' };
+
+            setTimeout(() => {
+                const card = document.getElementById(toId);
+                const position = toSlot ? toSlot.position : '';
+                const playerId = `${char.camp}-${char.idx}`;
+                const totalMoney = state.playerMoney[playerId] || 0;
+
+                card.className = `match-card filled ${char.camp} advance`;
+                card.innerHTML = `
+                    <div class="card-position">#${position}</div>
+                    <div class="card-name">${char.name}</div>
+                    <div class="card-info">${char.code} · ${char.motive}</div>
+                    <div class="card-money">累计 💰 ${totalMoney.toLocaleString()}</div>
+                `;
+            }, 100);
+        }
+
+        function markOpponentEliminated(winnerId) {
+            const opponentId = findOpponentId(winnerId);
+            if (opponentId && state.slots[opponentId] && !state.winners[opponentId]) {
+                const opponentCard = document.getElementById(opponentId);
+                opponentCard.classList.add('eliminated');
+            }
+        }
+
+        function setChampion(slotId, bonusAmount, bonusDetail) {
+            const char = state.slots[slotId];
+            const playerId = `${char.camp}-${char.idx}`;
+            const totalMoney = state.playerMoney[playerId] || 0;
+            const card = document.getElementById('champion-card');
+            card.className = 'champion-card';
+            card.innerHTML = `
+                <div class="champion-name">${char.name}</div>
+                <div class="champion-camp">${campNames[char.camp]}之阵营 · ${char.code}</div>
+                <div class="champion-money">累计 💰 ${totalMoney.toLocaleString()}</div>
+            `;
+            state.winners[slotId] = true;
+            state.stageCompleted[2] = true;
+            document.getElementById(slotId).classList.add('winner');
+        }
+
+        function updateStageStatus() {
+            const statusEl = document.querySelector('.stage-status-text');
+            const progressEl = document.querySelector('.stage-progress');
+
+            if (!state.stageCompleted[32]) {
+                statusEl.textContent = '阶段：32强抽签完成';
+                progressEl.textContent = '当前阶段：32进16 - 点击选手选择胜者';
+            } else if (!state.stageCompleted[16]) {
+                statusEl.textContent = '阶段：32进16完成';
+                progressEl.textContent = '当前阶段：16进8';
+            } else if (!state.stageCompleted[8]) {
+                statusEl.textContent = '阶段：16进8完成';
+                progressEl.textContent = '当前阶段：8进4';
+            } else if (!state.stageCompleted[4]) {
+                statusEl.textContent = '阶段：8进4完成';
+                progressEl.textContent = '当前阶段：半决赛';
+            } else if (!state.stageCompleted[2]) {
+                statusEl.textContent = '阶段：半决赛完成';
+                progressEl.textContent = '当前阶段：决赛';
+            } else {
+                statusEl.textContent = '阶段：决赛完成';
+                progressEl.textContent = '冠军已产生';
+            }
+        }
+
+        function showFateCommentary(slotId) {
+            const char = state.slots[slotId];
+            if (!char) return;
+
+            const slot = findSlot(slotId);
+            const campFate = fateCommentary[char.camp];
+            const charFate = campFate ? campFate[char.name] : null;
+
+            let currentProgress = 0;
+            let finalResult = '';
+
+            if (slot) {
+                const round = slot.round;
+                const isWinner = state.winners[slotId];
+                const opponentId = findOpponentId(slotId);
+                const isEliminated = opponentId && state.winners[opponentId];
+
+                if (round === 32) {
+                    if (isWinner) currentProgress = 1;
+                    else if (isEliminated) { currentProgress = 1; finalResult = '止步32强'; }
+                } else if (round === 16) {
+                    if (isWinner) currentProgress = 2;
+                    else if (isEliminated) { currentProgress = 2; finalResult = '止步16强'; }
+                    else currentProgress = 1;
+                } else if (round === 8) {
+                    if (isWinner) currentProgress = 3;
+                    else if (isEliminated) { currentProgress = 3; finalResult = '止步8强'; }
+                    else currentProgress = 2;
+                } else if (round === 4) {
+                    if (isWinner) currentProgress = 4;
+                    else if (isEliminated) { currentProgress = 4; finalResult = '止步4强'; }
+                    else currentProgress = 3;
+                } else if (round === 2 || slotId === 'champion') {
+                    const isChampion = state.winners['champion'] && slotId === 'champion';
+                    if (isChampion) { currentProgress = 5; finalResult = '👑 冠军'; }
+                    else if (isEliminated) { currentProgress = 5; finalResult = '🥈 亚军'; }
+                    else currentProgress = 4;
+                }
+            }
+
+            document.getElementById('fateCamp').textContent = campNames[char.camp] + '之阵营';
+            document.getElementById('fateCamp').className = 'fate-camp ' + char.camp;
+            document.getElementById('fateName').textContent = char.name;
+            document.getElementById('fateCode').textContent = char.code;
+            document.getElementById('fateBio').textContent = char.story;
+            document.getElementById('fateMotive').textContent = char.motive;
+            document.getElementById('fateAge').textContent = char.age;
+
+            const timelineEl = document.getElementById('fateTimeline');
+            let timelineHTML = '';
+
+            const stages = [
+                { key: 'entry', name: '32强入场', progress: 0 },
+                { key: 'r32win', name: '32进16 胜利', altName: '32进16 失败', altKey: 'r32loss', progress: 1 },
+                { key: 'r16win', name: '16进8 胜利', altName: '16进8 失败', altKey: 'r16loss', progress: 2 },
+                { key: 'r8win', name: '8进4 胜利', altName: '8进4 失败', altKey: 'r8loss', progress: 3 },
+                { key: 'semiWin', name: '半决赛 胜利', altName: '半决赛 失败', altKey: 'semiLoss', progress: 4 },
+                { key: 'finalWin', name: '决赛 胜利 - 冠军', altName: '决赛 失败 - 亚军', altKey: 'finalLoss', progress: 5 }
+            ];
+
+            stages.forEach((stage, index) => {
+                let itemClass = 'fate-timeline-item ';
+                let stageName = stage.name;
+                let stageText = '';
+
+                if (charFate) {
+                    if (currentProgress > stage.progress) {
+                        itemClass += 'reached';
+                        stageText = charFate[stage.key];
+                    } else if (currentProgress === stage.progress) {
+                        itemClass += 'current';
+                        if (finalResult.includes('止步') || finalResult.includes('亚军')) {
+                            stageName = stage.altName;
+                            stageText = charFate[stage.altKey];
+                        } else {
+                            stageText = charFate[stage.key];
+                        }
+                    } else {
+                        if (finalResult.includes('止步')) return;
+                        itemClass += 'future';
+                        // 对于决赛阶段，特殊处理待定文本
+                        if (stage.name.includes('决赛')) {
+                            stageName = '决赛 待定';
+                        } else {
+                            stageName = stage.name.replace(' 胜利', ' 待定');
+                        }
+                        stageText = '';
+                    }
+                } else {
+                    stageText = '（暂无命运数据）';
+                }
+
+                timelineHTML += `
+                    <div class="${itemClass}">
+                        <div class="fate-timeline-stage">【${stageName}】</div>
+                        <div class="fate-timeline-text">${stageText}</div>
+                    </div>
+                `;
+            });
+
+            timelineEl.innerHTML = timelineHTML;
+
+            const resultEl = document.getElementById('fateResult');
+            if (finalResult) {
+                resultEl.textContent = '最终结果：' + finalResult;
+                resultEl.className = 'fate-result ' + (finalResult.includes('冠军') ? 'win' : 'loss');
+            } else {
+                resultEl.textContent = '比赛进行中...';
+                resultEl.className = 'fate-result';
+            }
+
+            document.getElementById('fateModal').classList.add('active');
+        }
+
+        function drawNext() {
+            if (state.filledPositions.size >= 32) return;
+            // 找到第一个未填充的签位
+            const signInfo = fixedSignOrder.find(s => !state.filledPositions.has(s.position));
+            if (!signInfo) return;
+            showDrawAnimation(signInfo);
+            setTimeout(() => placeCharacter(signInfo), 600);
+        }
+
+        function autoDrawAll() {
+            if (state.filledPositions.size >= 32) return;
+            document.getElementById('drawBtn').disabled = true;
+            document.getElementById('autoDrawBtn').disabled = true;
+
+            // 获取所有未填充的签位
+            const unfilledSigns = fixedSignOrder.filter(s => !state.filledPositions.has(s.position));
+            const startCount = state.filledPositions.size;
+
+            function batchDraw() {
+                if (unfilledSigns.length > 0) {
+                    const signInfo = unfilledSigns.shift();
+                    // 直接落位，不显示动画
+                    placeCharacter(signInfo);
+                    // 使用较短的延迟继续下一个
+                    setTimeout(batchDraw, 50);
+                } else {
+                    // 全部完成后显示一次完成动画
+                    showCompletionAnimation(startCount);
+                }
+            }
+            batchDraw();
+        }
+
+        function showCompletionAnimation(startCount) {
+            const modal = document.getElementById('drawModal');
+            const count = state.filledPositions.size - startCount;
+            document.getElementById('drawCamp').textContent = '抽签完成';
+            document.getElementById('drawCamp').style.color = '#4caf50';
+            document.getElementById('drawName').textContent = `已完成 ${count} 个签位`;
+            document.getElementById('drawPosition').textContent = '32强对阵已确定';
+
+            modal.classList.add('active');
+            setTimeout(() => modal.classList.remove('active'), 1500);
+        }
+
+        function resetAll() {
+            state = {
+                filledPositions: new Set(),
+                slots: {},
+                winners: {},
+                stageCompleted: { 32: false, 16: false, 8: false, 4: false, 2: false },
+                stageWinners: { 32: 0, 16: 0, 8: 0, 4: 0, 2: 0 },
+                campAlive: { tiger: 8, bear: 8, ox: 8, hound: 8 },
+                playerMoney: {},
+                campMoney: { tiger: 0, bear: 0, ox: 0, hound: 0 }
+            };
+            currentSignIndex = 0;
+            campMoney = state.campMoney;
+            eliminated = [];
+
+            document.getElementById('drawBtn').disabled = false;
+            document.getElementById('autoDrawBtn').disabled = false;
+            document.getElementById('stageStatus').classList.remove('completed');
+            document.querySelector('.stage-status-text').textContent = '阶段：32强抽签中';
+            document.querySelector('.stage-progress').textContent = '需填满32个位置';
+            document.getElementById('clickHint').style.display = 'block';
+
+            document.querySelectorAll('.pool-char').forEach(el => el.classList.remove('drawn'));
+
+            // 清空对阵表
+            Object.values(bracketStructure).forEach(round => {
+                round.forEach(slotInfo => {
+                    const slot = document.getElementById(slotInfo.id);
+                    if (slot) {
+                        const is32Round = slotInfo.round === 32;
+                        slot.innerHTML = is32Round ? `<div class="card-position">${slotInfo.position}</div>` : '<div class="lock-icon">🔒</div>';
+                        slot.className = 'match-card empty' + (is32Round ? '' : ' locked');
+                    }
+                });
+            });
+
+            // 清空冠军区
+            const championCard = document.getElementById('champion-card');
+            if (championCard) {
+                championCard.innerHTML = `
+                    <div class="lock-icon">🔒</div>
+                    <div class="champion-name">?</div>
+                    <div class="champion-camp">待决赛完成</div>
+                `;
+                championCard.className = 'champion-card empty locked';
+            }
+
+            updateStats();
+        }
+
+        function updateStats() {
+            const filledCount = state.filledPositions.size;
+            document.getElementById('counter').textContent = `${filledCount}/32`;
+
+            const remaining = 32 - filledCount;
+            if (remaining > 0) {
+                // 获取未填充的签位
+                const unfilledPositions = fixedSignOrder
+                    .filter(s => !state.filledPositions.has(s.position))
+                    .slice(0, 5);
+                document.getElementById('emptySlotsInfo').textContent =
+                    `空位: ${unfilledPositions.map(p => p.position).join(', ')}${remaining > 5 ? '...' : ''}`;
+            } else {
+                document.getElementById('emptySlotsInfo').textContent = '所有签位已填满';
+                document.getElementById('clickHint').style.display = 'none';
+            }
+
+            const statsHTML = Object.keys(campNames).map(camp => {
+                const aliveCount = state.campAlive[camp];
+                return `
+                    <div class="camp-money-item">
+                        <span class="camp-money-name">
+                            <span class="camp-badge badge-${camp}">${campNames[camp]}</span>
+                            <span class="alive-count">(${aliveCount}/8)</span>
+                        </span>
+                        <span class="camp-money-value">${state.campMoney[camp]}撸</span>
+                    </div>
+                `;
+            }).join('');
+            document.getElementById('campMoneyStats').innerHTML = statsHTML;
+
+            // 计算当前奖金系数（使用存活最少的阵营）
+            const aliveCounts = Object.values(state.campAlive);
+            const minAlive = Math.min(...aliveCounts);
+            const maxAlive = Math.max(...aliveCounts);
+            const multiplier = 500 * (9 - minAlive) * (9 - maxAlive);
+            document.getElementById('multiplierValue').textContent =
+                `500 × ${9 - minAlive} × ${9 - maxAlive} = ${multiplier}`;
+        }
+
+        init();
+    </script>
+</body>
+</html>
