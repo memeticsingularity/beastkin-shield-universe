@@ -104,6 +104,7 @@
         }
         .pool-sidebar {
             width: 280px;
+            min-width: 280px;
             flex-shrink: 0;
             background: rgba(0,0,0,0.3);
             border: 1px solid rgba(255,255,255,0.1);
@@ -267,13 +268,14 @@
         .bracket-area {
             flex: 1;
             overflow-x: auto;
-            min-width: 800px;
+            min-width: 0;
         }
         .bracket-container {
-            padding: 10px 0;
+            padding: 10px 20px;
             display: flex;
-            justify-content: center;
+            justify-content: flex-start;
             align-items: flex-start;
+            min-width: fit-content;
         }
         .bracket-wrapper {
             display: flex;
@@ -604,6 +606,139 @@
             font-size: 0.85em;
             line-height: 1.6;
             color: #ccc;
+        }
+
+        /* 响应式设计 - 适配不同屏幕宽度 */
+        /* 大屏幕 (1400px以上) */
+        @media (min-width: 1400px) {
+            .match { width: 170px; }
+            .bracket-wrapper { gap: 25px; }
+            .champion-area { width: 180px; padding: 0 25px; }
+        }
+
+        /* 中等屏幕 (1200px - 1399px) */
+        @media (max-width: 1399px) and (min-width: 1200px) {
+            .match { width: 150px; }
+            .bracket-wrapper { gap: 20px; }
+            .champion-area { width: 160px; padding: 0 20px; }
+        }
+
+        /* 小屏幕 (992px - 1199px) */
+        @media (max-width: 1199px) and (min-width: 992px) {
+            .match { width: 130px; }
+            .bracket-wrapper { gap: 15px; }
+            .champion-area { width: 140px; padding: 0 15px; }
+            .champion-card { width: 130px; padding: 12px; }
+            .champion-name { font-size: 1.1em; }
+            .card-name { font-size: 0.8em; }
+        }
+
+        /* 平板/小屏幕 (768px - 991px) */
+        @media (max-width: 991px) and (min-width: 768px) {
+            .pool-sidebar { width: 220px; min-width: 220px; }
+            .match { width: 110px; }
+            .bracket-wrapper { gap: 12px; }
+            .champion-area { width: 120px; padding: 0 10px; }
+            .champion-card { width: 110px; padding: 10px; min-height: 80px; }
+            .champion-name { font-size: 1em; }
+            .champion-camp { font-size: 0.75em; }
+            .card-name { font-size: 0.75em; }
+            .card-info { font-size: 0.65em; }
+            .card-money { font-size: 0.7em; }
+            .pool-char { font-size: 0.8em; padding: 3px 6px; }
+            .sidebar { width: 160px; padding: 10px; }
+        }
+
+        /* 超小屏幕 (767px以下) */
+        @media (max-width: 767px) {
+            .main-content { padding: 0 10px 10px; gap: 10px; }
+            .pool-sidebar { width: 160px; min-width: 160px; padding: 8px; }
+            .pool-grid-2x2 { gap: 6px; }
+            .match { width: 90px; }
+            .bracket-wrapper { gap: 8px; }
+            .champion-area { width: 100px; padding: 0 8px; }
+            .champion-card { width: 90px; padding: 8px; min-height: 70px; }
+            .champion-name { font-size: 0.9em; }
+            .champion-camp { font-size: 0.7em; }
+            .champion-money { font-size: 0.85em; }
+            .card-name { font-size: 0.7em; }
+            .card-info { font-size: 0.6em; }
+            .card-money { font-size: 0.65em; }
+            .card-position { font-size: 0.6em; }
+            .pool-char { font-size: 0.75em; padding: 2px 5px; }
+            .sidebar { width: 140px; padding: 8px; }
+            .rules-bar { font-size: 0.8em; padding: 8px 10px; flex-wrap: wrap; gap: 8px; }
+            .rule-item { font-size: 0.85em; }
+            .stage-status { font-size: 0.85em; padding: 8px 12px; }
+            .round-label { font-size: 0.75em; }
+        }
+
+        /* 极窄屏幕 (600px以下) - 进一步缩小 */
+        @media (max-width: 600px) {
+            .main-content { padding: 0 5px 10px; gap: 8px; }
+            .pool-sidebar { width: 130px; min-width: 130px; padding: 6px; }
+            .pool-sidebar-title { font-size: 0.85em; }
+            .match { width: 75px; }
+            .bracket-wrapper { gap: 6px; }
+            .champion-area { width: 85px; padding: 0 5px; }
+            .champion-card { width: 75px; padding: 6px; min-height: 60px; }
+            .champion-name { font-size: 0.8em; }
+            .champion-camp { font-size: 0.6em; }
+            .champion-money { font-size: 0.75em; }
+            .card-name { font-size: 0.65em; }
+            .card-info { font-size: 0.55em; }
+            .card-money { font-size: 0.6em; }
+            .pool-char { font-size: 0.7em; }
+            .sidebar { width: 120px; }
+            .fate-modal-content { max-width: 95vw; padding: 15px; }
+        }
+
+        /* 横向滚动优化 */
+        .bracket-area {
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: thin;
+            scrollbar-color: rgba(233, 69, 96, 0.5) rgba(0,0,0,0.3);
+        }
+        .bracket-area::-webkit-scrollbar {
+            height: 8px;
+        }
+        .bracket-area::-webkit-scrollbar-track {
+            background: rgba(0,0,0,0.3);
+            border-radius: 4px;
+        }
+        .bracket-area::-webkit-scrollbar-thumb {
+            background: rgba(233, 69, 96, 0.5);
+            border-radius: 4px;
+        }
+        .bracket-area::-webkit-scrollbar-thumb:hover {
+            background: rgba(233, 69, 96, 0.8);
+        }
+
+        /* 小屏幕下侧边栏和主内容优化 */
+        @media (max-width: 991px) {
+            .main-content { gap: 10px; padding: 0 10px 10px; }
+            .pool-sidebar { width: 220px; padding: 10px; }
+            .pool-sidebar-title { font-size: 0.85em; }
+            .pool-camp-box { padding: 8px; }
+            .pool-grid-2x2 { gap: 8px; }
+        }
+
+        @media (max-width: 767px) {
+            .main-content { gap: 8px; padding: 0 8px 8px; }
+            .pool-sidebar { width: 180px; padding: 8px; }
+            .pool-sidebar-title { font-size: 0.8em; }
+            .pool-camp-box { padding: 6px; }
+            .pool-grid-2x2 { gap: 6px; }
+            .pool-camp-header { font-size: 0.75em; margin-bottom: 6px; padding-bottom: 4px; }
+        }
+
+        @media (max-width: 600px) {
+            .main-content { gap: 5px; padding: 0 5px 5px; }
+            .pool-sidebar { width: 150px; padding: 6px; }
+            .pool-sidebar-title { font-size: 0.75em; }
+            .pool-camp-box { padding: 5px; border-radius: 6px; }
+            .pool-grid-2x2 { gap: 5px; }
+            .pool-char { padding: 2px 4px; font-size: 0.7em; }
         }
     </style>
 </head>
@@ -2349,6 +2484,14 @@
             document.getElementById('multiplierValue').textContent =
                 `500 × ${9 - minAlive} × ${9 - maxAlive} = ${multiplier}`;
         }
+
+        // 页面加载完成后，自动滚动对阵表到最左侧（显示32强）
+        window.addEventListener('load', function() {
+            const bracketArea = document.querySelector('.bracket-area');
+            if (bracketArea) {
+                bracketArea.scrollLeft = 0;
+            }
+        });
 
         init();
     </script>
