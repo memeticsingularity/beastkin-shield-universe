@@ -59,6 +59,7 @@ ai-discussion/
 |------|----------|------|
 | [`2026-03-16-worldview-discussion.md`](discussion/2026-03-16-worldview-discussion.md) | 世界观设定讨论 | 里版vs常版差异分析、纯兽人社会决策、人类存在性讨论、社会结构重新设计 |
 | [`2026-03-16-image-organization.md`](discussion/2026-03-16-image-organization.md) | 图片整理方案讨论 | 31张图片按日期分组、场景描述标准化、章节与图片对照表设计、readme格式统一 |
+| [`2026-03-16-worldview-comparison.md`](discussion/2026-03-16-worldview-comparison.md) | 常版vs里版世界观详细对比 | 核心世界观差异、兽盾公司设定对比、科技/种族/社会/地点/经济系统全面对照表、改编思路总结 |
 
 ---
 
