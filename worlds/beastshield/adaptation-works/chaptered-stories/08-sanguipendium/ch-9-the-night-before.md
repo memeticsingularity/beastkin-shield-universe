@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-8-the-sauna.md) | [返回作品目录](../README.md) | [下一章](ch-10-the-drawing.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-8-the-sauna.md) | [返回作品目录](../README.md) | [下一章](ch-10-the-other-half.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -768,4 +768,4 @@
 
 ---
 
-[上一章](ch-8-the-sauna.md) | [返回作品目录](../README.md) | [下一章](ch-10-the-drawing.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-8-the-sauna.md) | [返回作品目录](../README.md) | [下一章](ch-10-the-other-half.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
