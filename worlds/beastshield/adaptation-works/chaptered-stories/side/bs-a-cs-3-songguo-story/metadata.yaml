@@ -1,0 +1,109 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章故事元数据
+# ============================================
+# Compatible with Naming Guide v2.3.0
+# 适配命名指南 v2.3.0
+# For adaptation works (nature: a)
+# 用于改编作品（性质: a）
+
+work:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  code: "bs-a-cs-3-songguo-story"
+  # Format: [world]-a-[form_type]-[natural_number]-[series_name]
+  # 格式: [世界观]-a-[形式类型]-[自然数序号]-[系列名]
+
+  title:
+    chinese: "松果的领养日记"
+    english: "Songguo's Adoption Diary"
+
+  format: "chaptered-story"
+  form_type: "cs"  # Side story adaptation
+  status: "updating"
+  location: "adaptation-works"
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  subtype: "side"
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  promotion_status: "eligible"
+
+  work_type: "direct-adaptation"
+
+  tags:
+    - "adaptation"
+    - "faithful"
+    - "character-expansion"
+    - "romance"
+    - "healing"
+    - "furry"
+    - "military"
+    - "slice-of-life"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  inspiration_sources:
+    - type: "direct-adaptation"
+      original_code: "original-songguo-image-series"
+      description: "Adapted from Songguo image series with story expansion"
+
+  content_warnings:
+    - "mild-suggestive-content"
+    - "emotional-themes"
+
+  reading_time_estimate:
+    minutes: 120
+
+  target_audience: "mature"
+
+creation:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  author: "Adaptation Author"
+  start_date: "2026-03-16"
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  adaptation_info:
+    original_work: "songguo-image-series"
+    original_title: "松果系列图片故事"
+    original_author: "Original Artist"
+    adaptation_approach: "faithful"
+    key_changes: |
+      Expanded the image series into a full chaptered story with:
+      1. Detailed character backgrounds and motivations
+      2. Expanded dialogue and internal monologues
+      3. Additional scenes between key moments
+      4. Deepened emotional arcs and relationship development
+      5. Added world-building for Beastshield universe
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  last_update: "2026-03-16"
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-03-16"
+      changes: "Initial adaptation structure / 初始改编结构"
