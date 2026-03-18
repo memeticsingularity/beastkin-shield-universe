@@ -296,6 +296,48 @@
 
 ---
 
+## 附录：全卷章节目录
+
+| 章节 | 标题 | 文件路径 | 核心特点 |
+|------|------|----------|----------|
+| CH-01 | 游戏入门 | [ch-1-game-entry.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) | 被踩射死亡、偷袭捏卵、破包皮撸杀 |
+| CH-02 | 逃离仓库 | [ch-2-escape-warehouse.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) | 扭断脖子射精、精槽机制、属性加点 |
+| CH-03 | 前往市中心 | [ch-3-head-to-downtown.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-3-head-to-downtown.md) | 驾驶系统、随从系统、牛兽人司机 |
+| CH-04 | 商店购物 | [ch-4-store-shopping.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-4-store-shopping.md) | 武器商店、赏金系统、野猪兄弟 |
+| CH-05 | 初试换装 | [ch-5-first-costume-change.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md) | 换装技能、苏联大坐、白袜赏金 |
+| CH-06 | 闯入敌营 | [ch-6-break-into-enemy-camp.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) | 伪装潜入、误杀警长、尸堆翘臀 |
+| CH-07 | 调教下属 | [ch-7-training-subordinates.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-7-training-subordinates.md) | 忠诚度测验、捏龟头忍耐、包皮敏感 |
+| CH-08 | 转职任务 | [ch-8-class-change-quest.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) | 摔跤兵种、扭断腿关节、背摔射精 |
+| CH-09 | 挑战本部 | [ch-9-challenge-headquarters.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) | 单挑众兵、连续处决、尸体堆叠 |
+| CH-10 | 初见boss | [ch-10-first-encounter-boss.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) | 太刀捅腹射精、群体屠杀、身份暴露 |
+| CH-11 | 特工局 | [ch-11-agent-bureau.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) | 银针封穴、青雉缚阳锁、缚阳花 |
+| CH-12 | 夜闯武斗兵营 | [ch-12-night-raid-fight-camp.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md) | 银针封穴、流墟吞噬精液、站岗射精 |
+| CH-13 | 开锁 | [ch-13-unlocking.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-13-unlocking.md) | 力量暴增、南海云顶、传说兽人 |
+
+---
+
+## 分类标签
+
+### 按玩法类型
+- **潜入暗杀**：CH-06《闯入敌营》、CH-12《夜闯武斗兵营》
+- **正面战斗**：CH-02《逃离仓库》、CH-08《转职任务》、CH-10《初见boss》
+- **调教玩弄**：CH-07《调教下属》、CH-09《挑战本部》
+- **系统教学**：CH-01《游戏入门》、CH-03《前往市中心》、CH-04《商店购物》、CH-05《初试换装》
+
+### 按处决方式
+- **扭脖射精**：CH-02、CH-08、CH-12
+- **捅腹射精**：CH-10
+- **撸杀射精**：CH-01、CH-07、CH-09
+- **吞噬射精**：CH-12《流墟吞噬》
+
+### 按特殊机制
+- **精槽系统**：CH-01、CH-02
+- **换装技能**：CH-05
+- **银针封穴**：CH-11、CH-12
+- **诈死技能**：CH-07
+
+---
+
 *分析完成时间：2026-03-17*
 *分析者：AI Assistant*
 *基于：《兽游世界》第一卷第1-13章*
