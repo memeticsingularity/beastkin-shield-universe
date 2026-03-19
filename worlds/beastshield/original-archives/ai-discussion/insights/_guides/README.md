@@ -196,6 +196,7 @@ _guides/
 | main-story-2 | 16 (15章+overview) | 2026-03-19 | ✅ 完成 |
 | main-story-3 | 23 (22章+overview+README) | 2026-03-19 | ✅ 完成 |
 | short-stories | 8 (7篇+overview) | 2026-03-19 | ✅ 完成 |
+| side-story-yan-liang | 4 (3章+overview) | 2026-03-19 | ✅ 完成 |
 
 ---
 
@@ -252,6 +253,44 @@ _guides/
 
 ---
 
+### 2026-03-19 更新：外传《炎魉》加入
+
+**新增分析目录**: `side-story-yan-liang/`
+
+**分析文件**:
+- ch-1-infiltration-analysis.md（第一章：潜入基地）
+- ch-2-office-clearance-analysis.md（第二章：清理办公室）
+- ch-3-deep-confrontation-analysis.md（第三章：基地深处的激战）
+- overview.md（整体分析）
+
+** Guides 文档同步更新**:
+
+1. **gameplay-elements-library.md** - 新增玩法元素：
+   - 钓鱼执法（Baiting tactic）
+   - 秒数计时（Timing practice）
+   - 临界暂停（Edge play）
+   - 塞袜羞辱（Sock gagging）
+   - 乳头搓揉（Nipple stimulation - for bulls）
+   - 楼梯地形杀（Staircase massacre）
+   - 空手接春药弹（Aphrodisiac dart catch）
+   - 权力处决/强迫自裁（Power execution）
+   - 人道安乐死（Mercy kill）
+   - 统计更新：近战处决 35+ → 40+，特殊玩法 35+ → 40+
+
+2. **writing-style-comparison.md** - 新增对比维度：
+   - 外传《炎魉》整体定位
+   - 第三人称双主角视角
+   - 职业猎人纪实风格
+   - 核心标签：`双主角配合`、`职业猎人`、`赏金系统`、`神武体系引入`
+
+3. **writing-style-guide.md** - 新增角色模板：
+   - 外传《炎魉》双主角模式
+   - 炎（执行者）性格基调与写作要点
+   - 魉（善后者）性格基调与写作要点
+   - 双主角配合写作技巧
+
+---
+
 ## 后续维护建议
 
 1. **定期同步**: 当原文有修改时，同步更新分析文件
@@ -259,6 +298,7 @@ _guides/
 3. **模板迭代**: 如有需要可继续优化模板v3.0
 4. **跨卷关联**: 保持四大系列分析的一致性
 5. **玩法库更新**: 当原作新增章节时，同步更新 `gameplay-elements-library.md`
+6. **外传系列**: 继续补充其他外传故事的分析和 Guides 更新
 
 ---
 
