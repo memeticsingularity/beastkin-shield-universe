@@ -85,7 +85,7 @@ story/
 
 本系列使用**原作者写作风格**，具体规范参见：
 
-📄 [`worlds/beastshield/original-archives/ai-discussion/insights/writing-style-guide.md`](../../../../../original-archives/ai-discussion/insights/writing-style-guide.md)
+📄 [`worlds/beastshield/original-archives/ai-discussion/insights/writing-style-guide.md`](../../../../../original-archives/ai-discussion/insights/writing-style-guide-v2.md)
 
 **核心要点**：
 - **第一人称口语化**：直播式叙述，弹幕吐槽
