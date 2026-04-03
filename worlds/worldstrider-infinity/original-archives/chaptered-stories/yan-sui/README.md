@@ -11,8 +11,8 @@
 | **当前进度** | [CURRENT_STATUS.md](./CURRENT_STATUS.md) |
 | **故事走向/大纲** | [STORY_ROADMAP.md](./STORY_ROADMAP.md) |
 | **角色设定** | [角色档案目录](../../character-archive/) |
+| **世界观设定（融合版）** | [WORLD_SETTING.md](./WORLD_SETTING.md) |
 | **历史版本** | [history/](./history/) 文件夹 |
-| **世界观设定** | [worlds/worldstrider-infinity/setting/](../../setting/) |
 
 ---
 
