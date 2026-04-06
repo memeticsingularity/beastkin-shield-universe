@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>血酬淘汰赛 - 32强抽签系统</title>
     <style>
         * {
@@ -356,357 +356,357 @@
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>🩸 血酬淘汰赛</h1>
-        <p>第一届兽盾四营血酬淘汰赛 - 32强抽签系统</p>
+<div class="header">
+    <h1>🩸 血酬淘汰赛</h1>
+    <p>第一届兽盾四营血酬淘汰赛 - 32强抽签系统</p>
+</div>
+
+<div class="camp-legend">
+    <div class="legend-item">
+        <div class="legend-color legend-tiger"></div>
+        <span>虎之阵营 (8人)</span>
     </div>
-
-    <div class="camp-legend">
-        <div class="legend-item">
-            <div class="legend-color legend-tiger"></div>
-            <span>虎之阵营 (8人)</span>
-        </div>
-        <div class="legend-item">
-            <div class="legend-color legend-bear"></div>
-            <span>熊之阵营 (8人)</span>
-        </div>
-        <div class="legend-item">
-            <div class="legend-color legend-ox"></div>
-            <span>牛之阵营 (8人)</span>
-        </div>
-        <div class="legend-item">
-            <div class="legend-color legend-hound"></div>
-            <span>犬之阵营 (8人)</span>
-        </div>
+    <div class="legend-item">
+        <div class="legend-color legend-bear"></div>
+        <span>熊之阵营 (8人)</span>
     </div>
-
-    <div class="controls">
-        <button class="btn btn-primary" onclick="startDrawing()">🎲 开始抽签</button>
-        <button class="btn btn-secondary" onclick="clearBracket()">🔄 重置</button>
+    <div class="legend-item">
+        <div class="legend-color legend-ox"></div>
+        <span>牛之阵营 (8人)</span>
     </div>
+    <div class="legend-item">
+        <div class="legend-color legend-hound"></div>
+        <span>犬之阵营 (8人)</span>
+    </div>
+</div>
 
-    <div class="main-container">
-        <div class="pool-panel">
-            <div class="pool-title">选手池</div>
+<div class="controls">
+    <button class="btn btn-primary" onclick="startDrawing()">🎲 开始抽签</button>
+    <button class="btn btn-secondary" onclick="clearBracket()">🔄 重置</button>
+</div>
 
-            <div class="camp-section">
-                <div class="camp-header camp-tiger">🐯 虎之阵营</div>
-                <div id="tiger-pool"></div>
-            </div>
+<div class="main-container">
+    <div class="pool-panel">
+        <div class="pool-title">选手池</div>
 
-            <div class="camp-section">
-                <div class="camp-header camp-bear">🐻 熊之阵营</div>
-                <div id="bear-pool"></div>
-            </div>
-
-            <div class="camp-section">
-                <div class="camp-header camp-ox">🐮 牛之阵营</div>
-                <div id="ox-pool"></div>
-            </div>
-
-            <div class="camp-section">
-                <div class="camp-header camp-hound">🐺 犬之阵营</div>
-                <div id="hound-pool"></div>
-            </div>
+        <div class="camp-section">
+            <div class="camp-header camp-tiger">🐯 虎之阵营</div>
+            <div id="tiger-pool"></div>
         </div>
 
-        <div class="bracket-container">
-            <div class="bracket" id="bracket">
-                <!-- Round 1: 32进16 -->
-                <div class="round" data-round="1">
-                    <div class="round-title">32进16</div>
-                    <!-- 16 matches -->
-                </div>
+        <div class="camp-section">
+            <div class="camp-header camp-bear">🐻 熊之阵营</div>
+            <div id="bear-pool"></div>
+        </div>
 
-                <!-- Round 2: 16进8 -->
-                <div class="round" data-round="2">
-                    <div class="round-title">16进8</div>
-                    <!-- 8 matches -->
-                </div>
+        <div class="camp-section">
+            <div class="camp-header camp-ox">🐮 牛之阵营</div>
+            <div id="ox-pool"></div>
+        </div>
 
-                <!-- Round 3: 8进4 -->
-                <div class="round" data-round="3">
-                    <div class="round-title">8进4</div>
-                    <!-- 4 matches -->
-                </div>
-
-                <!-- Round 4: 半决赛 -->
-                <div class="round" data-round="4">
-                    <div class="round-title">半决赛</div>
-                    <!-- 2 matches -->
-                </div>
-
-                <!-- Round 5: 决赛 -->
-                <div class="round" data-round="5">
-                    <div class="round-title">决赛</div>
-                    <!-- 1 match -->
-                </div>
-            </div>
+        <div class="camp-section">
+            <div class="camp-header camp-hound">🐺 犬之阵营</div>
+            <div id="hound-pool"></div>
         </div>
     </div>
 
-    <div class="rules-panel">
-        <div class="rules-title">📋 抽签规则</div>
-        <div class="rules-list">
-            <div class="rule-item">
-                <strong>1/8区划分</strong><br>
-                32个签位分为8个区，每区4人（签位1-4, 5-8, 9-12, 13-16, 17-20, 21-24, 25-28, 29-32）
+    <div class="bracket-container">
+        <div class="bracket" id="bracket">
+            <!-- Round 1: 32进16 -->
+            <div class="round" data-round="1">
+                <div class="round-title">32进16</div>
+                <!-- 16 matches -->
             </div>
-            <div class="rule-item">
-                <strong>规避原则</strong><br>
-                每个1/8区内必须包含四个不同阵营（虎、熊、牛、犬各一人），确保前两轮同阵营不会相遇
+
+            <!-- Round 2: 16进8 -->
+            <div class="round" data-round="2">
+                <div class="round-title">16进8</div>
+                <!-- 8 matches -->
             </div>
-            <div class="rule-item">
-                <strong>第一轮对阵</strong><br>
-                同一区内：签位1 vs 签位4，签位2 vs 签位3
+
+            <!-- Round 3: 8进4 -->
+            <div class="round" data-round="3">
+                <div class="round-title">8进4</div>
+                <!-- 4 matches -->
             </div>
-            <div class="rule-item">
-                <strong>第二轮对阵</strong><br>
-                同一区内：第一轮的两名胜者对决
+
+            <!-- Round 4: 半决赛 -->
+            <div class="round" data-round="4">
+                <div class="round-title">半决赛</div>
+                <!-- 2 matches -->
             </div>
-            <div class="rule-item">
-                <strong>第三轮起</strong><br>
-                规避原则失效，同阵营选手可能相遇
-            </div>
-            <div class="rule-item">
-                <strong>动态奖金</strong><br>
-                单场奖金 = 500 × (9 - 己方存活) × (9 - 对方存活)
+
+            <!-- Round 5: 决赛 -->
+            <div class="round" data-round="5">
+                <div class="round-title">决赛</div>
+                <!-- 1 match -->
             </div>
         </div>
     </div>
+</div>
 
-    <div class="animation-overlay" id="overlay">
-        <div class="drawing-ball">🎲</div>
-        <div class="drawing-text" id="drawing-text">正在抽签...</div>
+<div class="rules-panel">
+    <div class="rules-title">📋 抽签规则</div>
+    <div class="rules-list">
+        <div class="rule-item">
+            <strong>1/8区划分</strong><br>
+            32个签位分为8个区，每区4人（签位1-4, 5-8, 9-12, 13-16, 17-20, 21-24, 25-28, 29-32）
+        </div>
+        <div class="rule-item">
+            <strong>规避原则</strong><br>
+            每个1/8区内必须包含四个不同阵营（虎、熊、牛、犬各一人），确保前两轮同阵营不会相遇
+        </div>
+        <div class="rule-item">
+            <strong>第一轮对阵</strong><br>
+            同一区内：签位1 vs 签位4，签位2 vs 签位3
+        </div>
+        <div class="rule-item">
+            <strong>第二轮对阵</strong><br>
+            同一区内：第一轮的两名胜者对决
+        </div>
+        <div class="rule-item">
+            <strong>第三轮起</strong><br>
+            规避原则失效，同阵营选手可能相遇
+        </div>
+        <div class="rule-item">
+            <strong>动态奖金</strong><br>
+            单场奖金 = 500 × (9 - 己方存活) × (9 - 对方存活)
+        </div>
     </div>
+</div>
 
-    <script>
-        // 32名选手数据
-        const characters = {
-            tiger: [
-                { name: '锋牙', code: 'E-178', age: 32, motive: '证明' },
-                { name: '烈影', code: 'E-201', age: 27, motive: '复仇' },
-                { name: '岩爪', code: 'E-156', age: 35, motive: '生存' },
-                { name: '幼爪', code: 'E-312', age: 20, motive: '救父' },
-                { name: '夜瞳', code: 'E-267', age: 29, motive: '野心' },
-                { name: '风啸', code: 'E-289', age: 26, motive: '公道' },
-                { name: '金纹', code: 'E-223', age: 31, motive: '荣耀' },
-                { name: '残耳', code: 'E-134', age: 38, motive: '神秘' }
-            ],
-            bear: [
-                { name: '棕岩', code: 'E-145', age: 35, motive: '还债' },
-                { name: '黑山', code: 'E-112', age: 32, motive: '赎罪' },
-                { name: '白掌', code: 'E-287', age: 24, motive: '还债' },
-                { name: '铁背', code: 'E-198', age: 38, motive: '不甘' },
-                { name: '灰耳', code: 'E-267', age: 33, motive: '生存' },
-                { name: '厚掌', code: 'E-289', age: 29, motive: '野心' },
-                { name: '柔毛', code: 'E-223', age: 27, motive: '证明' },
-                { name: '冬眠', code: 'E-134', age: 42, motive: '告别' }
-            ],
-            ox: [
-                { name: '铁角', code: 'E-217', age: 37, motive: '还债' },
-                { name: '铜皮', code: 'E-189', age: 30, motive: '救弟' },
-                { name: '青石', code: 'E-256', age: 29, motive: '赌徒' },
-                { name: '泥蹄', code: 'E-198', age: 30, motive: '还债' },
-                { name: '砂岩', code: 'E-167', age: 43, motive: '不想被卖' },
-                { name: '岩裂', code: 'E-233', age: 24, motive: '逃命' },
-                { name: '黑土', code: 'E-245', age: 35, motive: '救母' },
-                { name: '荒原', code: 'E-301', age: 22, motive: '杀人' }
-            ],
-            hound: [
-                { name: '灰影', code: 'E-156', age: 30, motive: '自由' },
-                { name: '黑獒', code: 'E-089', age: 28, motive: '家' },
-                { name: '铁背(犬)', code: 'E-267', age: 31, motive: '忠诚' },
-                { name: '疾风', code: 'E-289', age: 25, motive: '荣耀' },
-                { name: '铁颚', code: 'E-223', age: 29, motive: '生存' },
-                { name: '雪眼', code: 'E-301', age: 22, motive: '好奇' },
-                { name: '铁锁', code: 'E-134', age: 35, motive: '最后机会' },
-                { name: '白毛', code: 'E-145', age: 26, motive: '证明自己' }
-            ]
+<div class="animation-overlay" id="overlay">
+    <div class="drawing-ball">🎲</div>
+    <div class="drawing-text" id="drawing-text">正在抽签...</div>
+</div>
+
+<script>
+    // 32名选手数据
+    const characters = {
+        tiger: [
+            { name: '锋牙', code: 'E-178', age: 32, motive: '证明' },
+            { name: '烈影', code: 'E-201', age: 27, motive: '复仇' },
+            { name: '岩爪', code: 'E-156', age: 35, motive: '生存' },
+            { name: '幼爪', code: 'E-312', age: 20, motive: '救父' },
+            { name: '夜瞳', code: 'E-267', age: 29, motive: '野心' },
+            { name: '风啸', code: 'E-289', age: 26, motive: '公道' },
+            { name: '金纹', code: 'E-223', age: 31, motive: '荣耀' },
+            { name: '残耳', code: 'E-134', age: 38, motive: '神秘' }
+        ],
+        bear: [
+            { name: '棕岩', code: 'E-145', age: 35, motive: '还债' },
+            { name: '黑山', code: 'E-112', age: 32, motive: '赎罪' },
+            { name: '白掌', code: 'E-287', age: 24, motive: '还债' },
+            { name: '铁背', code: 'E-198', age: 38, motive: '不甘' },
+            { name: '灰耳', code: 'E-267', age: 33, motive: '生存' },
+            { name: '厚掌', code: 'E-289', age: 29, motive: '野心' },
+            { name: '柔毛', code: 'E-223', age: 27, motive: '证明' },
+            { name: '冬眠', code: 'E-134', age: 42, motive: '告别' }
+        ],
+        ox: [
+            { name: '铁角', code: 'E-217', age: 37, motive: '还债' },
+            { name: '铜皮', code: 'E-189', age: 30, motive: '救弟' },
+            { name: '青石', code: 'E-256', age: 29, motive: '赌徒' },
+            { name: '泥蹄', code: 'E-198', age: 30, motive: '还债' },
+            { name: '砂岩', code: 'E-167', age: 43, motive: '不想被卖' },
+            { name: '岩裂', code: 'E-233', age: 24, motive: '逃命' },
+            { name: '黑土', code: 'E-245', age: 35, motive: '救母' },
+            { name: '荒原', code: 'E-301', age: 22, motive: '杀人' }
+        ],
+        hound: [
+            { name: '灰影', code: 'E-156', age: 30, motive: '自由' },
+            { name: '黑獒', code: 'E-089', age: 28, motive: '家' },
+            { name: '铁背(犬)', code: 'E-267', age: 31, motive: '忠诚' },
+            { name: '疾风', code: 'E-289', age: 25, motive: '荣耀' },
+            { name: '铁颚', code: 'E-223', age: 29, motive: '生存' },
+            { name: '雪眼', code: 'E-301', age: 22, motive: '好奇' },
+            { name: '铁锁', code: 'E-134', age: 35, motive: '最后机会' },
+            { name: '白毛', code: 'E-145', age: 26, motive: '证明自己' }
+        ]
+    };
+
+    let currentDraw = [];
+
+    // 初始化显示选手池
+    function initPools() {
+        Object.keys(characters).forEach(camp => {
+            const pool = document.getElementById(`${camp}-pool`);
+            pool.innerHTML = characters[camp].map(c =>
+                `<span class="character-tag">${c.name}</span>`
+            ).join('');
+        });
+    }
+
+    // 生成抽签结果（带规避原则）
+    function generateDrawing() {
+        const zones = [];
+
+        // 为每个阵营创建随机排序的数组
+        const shuffled = {
+            tiger: [...characters.tiger].sort(() => Math.random() - 0.5),
+            bear: [...characters.bear].sort(() => Math.random() - 0.5),
+            ox: [...characters.ox].sort(() => Math.random() - 0.5),
+            hound: [...characters.hound].sort(() => Math.random() - 0.5)
         };
 
-        let currentDraw = [];
-
-        // 初始化显示选手池
-        function initPools() {
-            Object.keys(characters).forEach(camp => {
-                const pool = document.getElementById(`${camp}-pool`);
-                pool.innerHTML = characters[camp].map(c =>
-                    `<span class="character-tag">${c.name}</span>`
-                ).join('');
-            });
-        }
-
-        // 生成抽签结果（带规避原则）
-        function generateDrawing() {
-            const zones = [];
-
-            // 为每个阵营创建随机排序的数组
-            const shuffled = {
-                tiger: [...characters.tiger].sort(() => Math.random() - 0.5),
-                bear: [...characters.bear].sort(() => Math.random() - 0.5),
-                ox: [...characters.ox].sort(() => Math.random() - 0.5),
-                hound: [...characters.hound].sort(() => Math.random() - 0.5)
-            };
-
-            // 创建8个区，每个区包含四个阵营各一人
-            for (let i = 0; i < 8; i++) {
-                const zone = [
-                    { ...shuffled.tiger[i], camp: 'tiger' },
-                    { ...shuffled.bear[i], camp: 'bear' },
-                    { ...shuffled.ox[i], camp: 'ox' },
-                    { ...shuffled.hound[i], camp: 'hound' }
-                ];
-                // 在区内随机排序
-                zones.push(zone.sort(() => Math.random() - 0.5));
-            }
-
-            // 展平为32人数组
-            currentDraw = zones.flat();
-            return currentDraw;
-        }
-
-        // 创建对阵表HTML
-        function createBracket(draw) {
-            const bracket = document.getElementById('bracket');
-
-            // 清空现有内容，保留round容器
-            bracket.querySelectorAll('.round').forEach(round => {
-                const title = round.querySelector('.round-title');
-                round.innerHTML = '';
-                round.appendChild(title);
-            });
-
-            const round1 = bracket.querySelector('[data-round="1"]');
-            const round2 = bracket.querySelector('[data-round="2"]');
-            const round3 = bracket.querySelector('[data-round="3"]');
-            const round4 = bracket.querySelector('[data-round="4"]');
-            const round5 = bracket.querySelector('[data-round="5"]');
-
-            // Round 1: 32进16 (16场比赛，每区2场)
-            for (let zone = 0; zone < 8; zone++) {
-                const zoneStart = zone * 4;
-                const zonePlayers = draw.slice(zoneStart, zoneStart + 4);
-
-                // 区内对阵: 0 vs 3, 1 vs 2
-                const match1 = createMatch([
-                    { ...zonePlayers[0], position: zoneStart + 1 },
-                    { ...zonePlayers[3], position: zoneStart + 4 }
-                ], `1/8区${zone + 1}-1`);
-
-                const match2 = createMatch([
-                    { ...zonePlayers[1], position: zoneStart + 2 },
-                    { ...zonePlayers[2], position: zoneStart + 3 }
-                ], `1/8区${zone + 1}-2`);
-
-                round1.appendChild(match1);
-                round1.appendChild(match2);
-            }
-
-            // Round 2: 16进8 (8场比赛)
-            for (let i = 0; i < 8; i++) {
-                const match = createMatch([
-                    { name: `1/8区${i + 1}胜方1`, camp: 'empty', position: '-' },
-                    { name: `1/8区${i + 1}胜方2`, camp: 'empty', position: '-' }
-                ], `1/8区${i + 1}决赛`);
-                round2.appendChild(match);
-            }
-
-            // Round 3: 8进4 (4场比赛)
-            for (let i = 0; i < 4; i++) {
-                const match = createMatch([
-                    { name: `上半区胜者`, camp: 'empty', position: '-' },
-                    { name: `下半区胜者`, camp: 'empty', position: '-' }
-                ], `1/4决赛${i + 1}`);
-                round3.appendChild(match);
-            }
-
-            // Round 4: 半决赛 (2场比赛)
-            for (let i = 0; i < 2; i++) {
-                const match = createMatch([
-                    { name: `晋级选手`, camp: 'empty', position: '-' },
-                    { name: `晋级选手`, camp: 'empty', position: '-' }
-                ], `半决赛${i + 1}`);
-                round4.appendChild(match);
-            }
-
-            // Round 5: 决赛 (1场比赛)
-            const finalMatch = createMatch([
-                { name: '决赛选手A', camp: 'empty', position: '-' },
-                { name: '决赛选手B', camp: 'empty', position: '-' }
-            ], '冠军之战');
-            round5.appendChild(finalMatch);
-        }
-
-        function createMatch(players, zoneInfo) {
-            const match = document.createElement('div');
-            match.className = 'match';
-
-            players.forEach(player => {
-                const participant = document.createElement('div');
-                participant.className = `participant ${player.camp}`;
-                participant.innerHTML = `
-                    <div>
-                        <div class="name">${player.name}</div>
-                        <div class="code">${player.code} ${player.motive ? `· ${player.motive}` : ''}</div>
-                    </div>
-                    <div class="code">#${player.position}</div>
-                `;
-                match.appendChild(participant);
-            });
-
-            const zoneDiv = document.createElement('div');
-            zoneDiv.className = 'zone-info';
-            zoneDiv.textContent = zoneInfo;
-            match.appendChild(zoneDiv);
-
-            return match;
-        }
-
-        // 开始抽签动画
-        function startDrawing() {
-            const overlay = document.getElementById('overlay');
-            const text = document.getElementById('drawing-text');
-
-            overlay.classList.add('active');
-
-            const steps = [
-                '正在分配阵营...',
-                '正在随机排序...',
-                '正在应用规避原则...',
-                '正在生成对阵表...',
-                '抽签完成！'
+        // 创建8个区，每个区包含四个阵营各一人
+        for (let i = 0; i < 8; i++) {
+            const zone = [
+                { ...shuffled.tiger[i], camp: 'tiger' },
+                { ...shuffled.bear[i], camp: 'bear' },
+                { ...shuffled.ox[i], camp: 'ox' },
+                { ...shuffled.hound[i], camp: 'hound' }
             ];
-
-            let step = 0;
-            const interval = setInterval(() => {
-                if (step < steps.length) {
-                    text.textContent = steps[step];
-                    step++;
-                } else {
-                    clearInterval(interval);
-                    setTimeout(() => {
-                        const draw = generateDrawing();
-                        createBracket(draw);
-                        overlay.classList.remove('active');
-                    }, 500);
-                }
-            }, 400);
+            // 在区内随机排序
+            zones.push(zone.sort(() => Math.random() - 0.5));
         }
 
-        // 清空对阵表
-        function clearBracket() {
-            currentDraw = [];
-            const bracket = document.getElementById('bracket');
-            bracket.querySelectorAll('.round').forEach(round => {
-                const title = round.querySelector('.round-title');
-                round.innerHTML = '';
-                round.appendChild(title);
-            });
+        // 展平为32人数组
+        currentDraw = zones.flat();
+        return currentDraw;
+    }
+
+    // 创建对阵表HTML
+    function createBracket(draw) {
+        const bracket = document.getElementById('bracket');
+
+        // 清空现有内容，保留round容器
+        bracket.querySelectorAll('.round').forEach(round => {
+            const title = round.querySelector('.round-title');
+            round.innerHTML = '';
+            round.appendChild(title);
+        });
+
+        const round1 = bracket.querySelector('[data-round="1"]');
+        const round2 = bracket.querySelector('[data-round="2"]');
+        const round3 = bracket.querySelector('[data-round="3"]');
+        const round4 = bracket.querySelector('[data-round="4"]');
+        const round5 = bracket.querySelector('[data-round="5"]');
+
+        // Round 1: 32进16 (16场比赛，每区2场)
+        for (let zone = 0; zone < 8; zone++) {
+            const zoneStart = zone * 4;
+            const zonePlayers = draw.slice(zoneStart, zoneStart + 4);
+
+            // 区内对阵: 0 vs 3, 1 vs 2
+            const match1 = createMatch([
+                { ...zonePlayers[0], position: zoneStart + 1 },
+                { ...zonePlayers[3], position: zoneStart + 4 }
+            ], `1/8区${zone + 1}-1`);
+
+            const match2 = createMatch([
+                { ...zonePlayers[1], position: zoneStart + 2 },
+                { ...zonePlayers[2], position: zoneStart + 3 }
+            ], `1/8区${zone + 1}-2`);
+
+            round1.appendChild(match1);
+            round1.appendChild(match2);
         }
 
-        // 初始化
-        initPools();
-    </script>
+        // Round 2: 16进8 (8场比赛)
+        for (let i = 0; i < 8; i++) {
+            const match = createMatch([
+                { name: `1/8区${i + 1}胜方1`, camp: 'empty', position: '-' },
+                { name: `1/8区${i + 1}胜方2`, camp: 'empty', position: '-' }
+            ], `1/8区${i + 1}决赛`);
+            round2.appendChild(match);
+        }
+
+        // Round 3: 8进4 (4场比赛)
+        for (let i = 0; i < 4; i++) {
+            const match = createMatch([
+                { name: `上半区胜者`, camp: 'empty', position: '-' },
+                { name: `下半区胜者`, camp: 'empty', position: '-' }
+            ], `1/4决赛${i + 1}`);
+            round3.appendChild(match);
+        }
+
+        // Round 4: 半决赛 (2场比赛)
+        for (let i = 0; i < 2; i++) {
+            const match = createMatch([
+                { name: `晋级选手`, camp: 'empty', position: '-' },
+                { name: `晋级选手`, camp: 'empty', position: '-' }
+            ], `半决赛${i + 1}`);
+            round4.appendChild(match);
+        }
+
+        // Round 5: 决赛 (1场比赛)
+        const finalMatch = createMatch([
+            { name: '决赛选手A', camp: 'empty', position: '-' },
+            { name: '决赛选手B', camp: 'empty', position: '-' }
+        ], '冠军之战');
+        round5.appendChild(finalMatch);
+    }
+
+    function createMatch(players, zoneInfo) {
+        const match = document.createElement('div');
+        match.className = 'match';
+
+        players.forEach(player => {
+            const participant = document.createElement('div');
+            participant.className = `participant ${player.camp}`;
+            participant.innerHTML = `
+                <div>
+                    <div class="name">${player.name}</div>
+                    <div class="code">${player.code} ${player.motive ? `· ${player.motive}` : ''}</div>
+                </div>
+                <div class="code">#${player.position}</div>
+            `;
+            match.appendChild(participant);
+        });
+
+        const zoneDiv = document.createElement('div');
+        zoneDiv.className = 'zone-info';
+        zoneDiv.textContent = zoneInfo;
+        match.appendChild(zoneDiv);
+
+        return match;
+    }
+
+    // 开始抽签动画
+    function startDrawing() {
+        const overlay = document.getElementById('overlay');
+        const text = document.getElementById('drawing-text');
+
+        overlay.classList.add('active');
+
+        const steps = [
+            '正在分配阵营...',
+            '正在随机排序...',
+            '正在应用规避原则...',
+            '正在生成对阵表...',
+            '抽签完成！'
+        ];
+
+        let step = 0;
+        const interval = setInterval(() => {
+            if (step < steps.length) {
+                text.textContent = steps[step];
+                step++;
+            } else {
+                clearInterval(interval);
+                setTimeout(() => {
+                    const draw = generateDrawing();
+                    createBracket(draw);
+                    overlay.classList.remove('active');
+                }, 500);
+            }
+        }, 400);
+    }
+
+    // 清空对阵表
+    function clearBracket() {
+        currentDraw = [];
+        const bracket = document.getElementById('bracket');
+        bracket.querySelectorAll('.round').forEach(round => {
+            const title = round.querySelector('.round-title');
+            round.innerHTML = '';
+            round.appendChild(title);
+        });
+    }
+
+    // 初始化
+    initPools();
+</script>
 </body>
 </html>

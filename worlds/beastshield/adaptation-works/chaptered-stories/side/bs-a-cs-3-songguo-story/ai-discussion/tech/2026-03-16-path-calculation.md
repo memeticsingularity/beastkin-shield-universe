@@ -40,14 +40,14 @@ worlds/beastshield/original-archives/images/songguo/20260122-1.jpg
 
 从 `readme.md` 出发，向上回溯：
 
-| 层级 | 目录 | 说明 |
-|-----|------|------|
-| 0 | `images/` | 当前目录 |
-| 1 | `bs-a-cs-3-songguo-story/` | 第1层父目录 |
-| 2 | `side/` | 第2层父目录 |
-| 3 | `chaptered-stories/` | 第3层父目录 |
-| 4 | `adaptation-works/` | 第4层父目录 |
-| 5 | `beastshield/` | 第5层父目录（关键交汇点）|
+| 层级 | 目录                         | 说明            |
+|----|----------------------------|---------------|
+| 0  | `images/`                  | 当前目录          |
+| 1  | `bs-a-cs-3-songguo-story/` | 第1层父目录        |
+| 2  | `side/`                    | 第2层父目录        |
+| 3  | `chaptered-stories/`       | 第3层父目录        |
+| 4  | `adaptation-works/`        | 第4层父目录        |
+| 5  | `beastshield/`             | 第5层父目录（关键交汇点） |
 
 ### 3.4 路径推导
 
@@ -76,6 +76,7 @@ beastshield/
 **错误路径**：`../../../../../../../../../original-archives/...`
 
 **错误原因**：
+
 - 对目录层级理解不清
 - 多计算了2层
 - 混淆了绝对路径和相对路径的概念
@@ -154,6 +155,7 @@ ls worlds/beastshield/original-archives/images/songguo/20260122-1.jpg
 ### 7.2 如何快速计算层级？
 
 方法1：手动数文件夹
+
 ```
 current: a/b/c/d/e/f/file.md
 target:  a/b/x/y/z/image.jpg
@@ -163,6 +165,7 @@ target:  a/b/x/y/z/image.jpg
 ```
 
 方法2：使用工具
+
 - VSCode 等IDE会自动提示路径
 - 使用 `realpath --relative-to` 命令（Linux）
 
@@ -183,6 +186,7 @@ target:  a/b/x/y/z/image.jpg
 4. **文档记录**便于后续维护
 
 本次正确路径：
+
 ```
 ../../../../../original-archives/images/songguo/20260122-1.jpg
 ```

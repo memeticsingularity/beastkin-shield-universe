@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>血酬淘汰赛 - 32强对阵系统</title>
     <style>
         * {
@@ -478,697 +478,658 @@
     </style>
 </head>
 <body>
-    <!-- 顶部规则 -->
-    <div class="rules-bar">
-        <div class="rule-item">
-            <strong>规避原则：</strong>每个1/8区内四族各一人
-        </div>
-        <div class="rule-item">
-            <strong>操作方式：</strong>点击左侧选手自动落位（自动填补空位）
-        </div>
-        <div class="rule-item">
-            <span class="camp-badge badge-tiger">虎×8</span>
-            <span class="camp-badge badge-bear">熊×8</span>
-            <span class="camp-badge badge-ox">牛×8</span>
-            <span class="camp-badge badge-hound">犬×8</span>
-        </div>
+<!-- 顶部规则 -->
+<div class="rules-bar">
+    <div class="rule-item">
+        <strong>规避原则：</strong>每个1/8区内四族各一人
     </div>
-
-    <!-- 标题 -->
-    <div class="header">
-        <h1>血酬淘汰赛</h1>
-        <p>第一届兽盾四营血酬淘汰赛 · 32强对阵</p>
+    <div class="rule-item">
+        <strong>操作方式：</strong>点击左侧选手自动落位（自动填补空位）
     </div>
-
-    <!-- 控制按钮 -->
-    <div class="controls">
-        <button class="btn btn-primary" id="drawBtn" onclick="drawNext()">随机抽取</button>
-        <button class="btn btn-secondary" onclick="resetAll()">重置</button>
+    <div class="rule-item">
+        <span class="camp-badge badge-tiger">虎×8</span>
+        <span class="camp-badge badge-bear">熊×8</span>
+        <span class="camp-badge badge-ox">牛×8</span>
+        <span class="camp-badge badge-hound">犬×8</span>
     </div>
+</div>
 
-    <!-- 主内容区 - 左右布局 -->
-    <div class="main-content">
-        <!-- 左侧选手池 -->
-        <div class="pool-sidebar">
-            <div class="pool-sidebar-header">
-                <div class="pool-sidebar-title">选手池</div>
-                <div class="pool-sidebar-counter" id="counter">0/32</div>
+<!-- 标题 -->
+<div class="header">
+    <h1>血酬淘汰赛</h1>
+    <p>第一届兽盾四营血酬淘汰赛 · 32强对阵</p>
+</div>
+
+<!-- 控制按钮 -->
+<div class="controls">
+    <button class="btn btn-primary" id="drawBtn" onclick="drawNext()">随机抽取</button>
+    <button class="btn btn-secondary" onclick="resetAll()">重置</button>
+</div>
+
+<!-- 主内容区 - 左右布局 -->
+<div class="main-content">
+    <!-- 左侧选手池 -->
+    <div class="pool-sidebar">
+        <div class="pool-sidebar-header">
+            <div class="pool-sidebar-title">选手池</div>
+            <div class="pool-sidebar-counter" id="counter">0/32</div>
+        </div>
+
+        <div class="pool-grid-2x2">
+            <div class="pool-camp-box">
+                <div class="pool-camp-header badge-tiger">🐯 虎之阵营</div>
+                <div class="pool-characters-vertical" id="pool-tiger"></div>
             </div>
-
-            <div class="pool-grid-2x2">
-                <div class="pool-camp-box">
-                    <div class="pool-camp-header badge-tiger">🐯 虎之阵营</div>
-                    <div class="pool-characters-vertical" id="pool-tiger"></div>
-                </div>
-                <div class="pool-camp-box">
-                    <div class="pool-camp-header badge-bear">🐻 熊之阵营</div>
-                    <div class="pool-characters-vertical" id="pool-bear"></div>
-                </div>
-                <div class="pool-camp-box">
-                    <div class="pool-camp-header badge-ox">🐮 牛之阵营</div>
-                    <div class="pool-characters-vertical" id="pool-ox"></div>
-                </div>
-                <div class="pool-camp-box">
-                    <div class="pool-camp-header badge-hound">🐺 犬之阵营</div>
-                    <div class="pool-characters-vertical" id="pool-hound"></div>
-                </div>
+            <div class="pool-camp-box">
+                <div class="pool-camp-header badge-bear">🐻 熊之阵营</div>
+                <div class="pool-characters-vertical" id="pool-bear"></div>
             </div>
-
-            <div class="empty-slots-info" id="emptySlotsInfo">
-                空位: 1-32（全部空闲）
+            <div class="pool-camp-box">
+                <div class="pool-camp-header badge-ox">🐮 牛之阵营</div>
+                <div class="pool-characters-vertical" id="pool-ox"></div>
+            </div>
+            <div class="pool-camp-box">
+                <div class="pool-camp-header badge-hound">🐺 犬之阵营</div>
+                <div class="pool-characters-vertical" id="pool-hound"></div>
             </div>
         </div>
 
-        <!-- 右侧对阵区 -->
-        <div class="bracket-area">
-            <div class="bracket-container">
-                <div class="bracket-wrapper" id="bracket">
-                    <!-- 左半区 -->
-                    <div class="round round-32" id="left-32">
-                        <div class="round-label">32强</div>
-                    </div>
+        <div class="empty-slots-info" id="emptySlotsInfo">
+            空位: 1-32（全部空闲）
+        </div>
+    </div>
 
-                    <div class="round round-16" id="left-16">
-                        <div class="round-label">16强</div>
-                    </div>
+    <!-- 右侧对阵区 -->
+    <div class="bracket-area">
+        <div class="bracket-container">
+            <div class="bracket-wrapper" id="bracket">
+                <!-- 左半区 -->
+                <div class="round round-32" id="left-32">
+                    <div class="round-label">32强</div>
+                </div>
 
-                    <div class="round round-8" id="left-8">
-                        <div class="round-label">8强</div>
-                    </div>
+                <div class="round round-16" id="left-16">
+                    <div class="round-label">16强</div>
+                </div>
 
-                    <div class="round round-4" id="left-4">
-                        <div class="round-label">半决赛</div>
-                    </div>
+                <div class="round round-8" id="left-8">
+                    <div class="round-label">8强</div>
+                </div>
 
-                    <div class="round round-2" id="left-2">
-                        <div class="round-label">决赛</div>
-                    </div>
+                <div class="round round-4" id="left-4">
+                    <div class="round-label">半决赛</div>
+                </div>
 
-                    <!-- 冠军 -->
-                    <div class="champion-area">
-                        <div class="champion-title">冠军</div>
-                        <div class="champion-card empty" id="champion-card">
-                            <div class="champion-name">?</div>
-                            <div class="champion-camp">待定</div>
-                        </div>
-                    </div>
+                <div class="round round-2" id="left-2">
+                    <div class="round-label">决赛</div>
+                </div>
 
-                    <!-- 右半区 -->
-                    <div class="round round-2" id="right-2">
-                        <div class="round-label">决赛</div>
+                <!-- 冠军 -->
+                <div class="champion-area">
+                    <div class="champion-title">冠军</div>
+                    <div class="champion-card empty" id="champion-card">
+                        <div class="champion-name">?</div>
+                        <div class="champion-camp">待定</div>
                     </div>
+                </div>
 
-                    <div class="round round-4" id="right-4">
-                        <div class="round-label">半决赛</div>
-                    </div>
+                <!-- 右半区 -->
+                <div class="round round-2" id="right-2">
+                    <div class="round-label">决赛</div>
+                </div>
 
-                    <div class="round round-8" id="right-8">
-                        <div class="round-label">8强</div>
-                    </div>
+                <div class="round round-4" id="right-4">
+                    <div class="round-label">半决赛</div>
+                </div>
 
-                    <div class="round round-16" id="right-16">
-                        <div class="round-label">16强</div>
-                    </div>
+                <div class="round round-8" id="right-8">
+                    <div class="round-label">8强</div>
+                </div>
 
-                    <div class="round round-32" id="right-32">
-                        <div class="round-label">32强</div>
-                    </div>
+                <div class="round round-16" id="right-16">
+                    <div class="round-label">16强</div>
+                </div>
+
+                <div class="round round-32" id="right-32">
+                    <div class="round-label">32强</div>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
-    <!-- 抽签动画 -->
-    <div class="draw-modal" id="drawModal">
-        <div class="draw-card">
-            <div class="draw-camp" id="drawCamp"></div>
-            <div class="draw-name" id="drawName"></div>
-            <div class="draw-position" id="drawPosition"></div>
-        </div>
+<!-- 抽签动画 -->
+<div class="draw-modal" id="drawModal">
+    <div class="draw-card">
+        <div class="draw-camp" id="drawCamp"></div>
+        <div class="draw-name" id="drawName"></div>
+        <div class="draw-position" id="drawPosition"></div>
     </div>
+</div>
 
-    <script>
-        // 选手数据（来自 story-setting.md）
-        const characters = {
-            tiger: [
-                { name: '锋牙', code: 'E-178', motive: '证明' },
-                { name: '烈影', code: 'E-201', motive: '复仇' },
-                { name: '岩爪', code: 'E-156', motive: '生存' },
-                { name: '幼爪', code: 'E-312', motive: '救父' },
-                { name: '夜瞳', code: 'E-267', motive: '野心' },
-                { name: '风啸', code: 'E-289', motive: '公道' },
-                { name: '金纹', code: 'E-223', motive: '荣耀' },
-                { name: '残耳', code: 'E-134', motive: '神秘' }
-            ],
-            bear: [
-                { name: '棕岩', code: 'E-145', motive: '还债' },
-                { name: '黑山', code: 'E-112', motive: '赎罪' },
-                { name: '白掌', code: 'E-287', motive: '还债' },
-                { name: '铁背', code: 'E-198', motive: '不甘' },
-                { name: '灰耳', code: 'E-268', motive: '生存' },
-                { name: '厚掌', code: 'E-290', motive: '野心' },
-                { name: '柔毛', code: 'E-224', motive: '证明' },
-                { name: '冬眠', code: 'E-135', motive: '告别' }
-            ],
-            ox: [
-                { name: '铁角', code: 'E-217', motive: '还债' },
-                { name: '铜皮', code: 'E-189', motive: '救弟' },
-                { name: '青石', code: 'E-256', motive: '赌徒' },
-                { name: '泥蹄', code: 'E-198', motive: '还债' },
-                { name: '砂岩', code: 'E-167', motive: '不想被卖' },
-                { name: '岩裂', code: 'E-233', motive: '逃命' },
-                { name: '黑土', code: 'E-245', motive: '救母' },
-                { name: '荒原', code: 'E-301', motive: '杀人' }
-            ],
-            hound: [
-                { name: '灰影', code: 'E-157', motive: '自由' },
-                { name: '黑獒', code: 'E-089', motive: '家' },
-                { name: '铁背', code: 'E-269', motive: '忠诚' },
-                { name: '疾风', code: 'E-291', motive: '荣耀' },
-                { name: '铁颚', code: 'E-225', motive: '生存' },
-                { name: '雪眼', code: 'E-302', motive: '好奇' },
-                { name: '铁锁', code: 'E-136', motive: '最后机会' },
-                { name: '白毛', code: 'E-199', motive: '证明自己' }
-            ]
-        };
+<script>
+    // 选手数据（来自 story-setting.md）
+    const characters = {
+        tiger: [
+            { name: '锋牙', code: 'E-178', motive: '证明' },
+            { name: '烈影', code: 'E-201', motive: '复仇' },
+            { name: '岩爪', code: 'E-156', motive: '生存' },
+            { name: '幼爪', code: 'E-312', motive: '救父' },
+            { name: '夜瞳', code: 'E-267', motive: '野心' },
+            { name: '风啸', code: 'E-289', motive: '公道' },
+            { name: '金纹', code: 'E-223', motive: '荣耀' },
+            { name: '残耳', code: 'E-134', motive: '神秘' }
+        ],
+        bear: [
+            { name: '棕岩', code: 'E-145', motive: '还债' },
+            { name: '黑山', code: 'E-112', motive: '赎罪' },
+            { name: '白掌', code: 'E-287', motive: '还债' },
+            { name: '铁背', code: 'E-198', motive: '不甘' },
+            { name: '灰耳', code: 'E-268', motive: '生存' },
+            { name: '厚掌', code: 'E-290', motive: '野心' },
+            { name: '柔毛', code: 'E-224', motive: '证明' },
+            { name: '冬眠', code: 'E-135', motive: '告别' }
+        ],
+        ox: [
+            { name: '铁角', code: 'E-217', motive: '还债' },
+            { name: '铜皮', code: 'E-189', motive: '救弟' },
+            { name: '青石', code: 'E-256', motive: '赌徒' },
+            { name: '泥蹄', code: 'E-198', motive: '还债' },
+            { name: '砂岩', code: 'E-167', motive: '不想被卖' },
+            { name: '岩裂', code: 'E-233', motive: '逃命' },
+            { name: '黑土', code: 'E-245', motive: '救母' },
+            { name: '荒原', code: 'E-301', motive: '杀人' }
+        ],
+        hound: [
+            { name: '灰影', code: 'E-157', motive: '自由' },
+            { name: '黑獒', code: 'E-089', motive: '家' },
+            { name: '铁背', code: 'E-269', motive: '忠诚' },
+            { name: '疾风', code: 'E-291', motive: '荣耀' },
+            { name: '铁颚', code: 'E-225', motive: '生存' },
+            { name: '雪眼', code: 'E-302', motive: '好奇' },
+            { name: '铁锁', code: 'E-136', motive: '最后机会' },
+            { name: '白毛', code: 'E-199', motive: '证明自己' }
+        ]
+    };
 
-        const campNames = { tiger: '虎', bear: '熊', ox: '牛', hound: '犬' };
-        const campColors = { tiger: '#ff9800', bear: '#8d6e63', ox: '#78909c', hound: '#7986cb' };
+    const campNames = { tiger: '虎', bear: '熊', ox: '牛', hound: '犬' };
+    const campColors = { tiger: '#ff9800', bear: '#8d6e63', ox: '#78909c', hound: '#7986cb' };
 
-        // 对阵结构定义
-        const bracketStructure = {
-            'left-32': Array.from({length: 16}, (_, i) => ({
-                id: `L32-${i}`,
-                position: i + 1,
-                next: `L16-${Math.floor(i/2)}`,
-                round: 32
-            })),
-            'left-16': Array.from({length: 8}, (_, i) => ({
-                id: `L16-${i}`,
-                position: i + 1,
-                next: `L8-${Math.floor(i/2)}`,
-                round: 16
-            })),
-            'left-8': Array.from({length: 4}, (_, i) => ({
-                id: `L8-${i}`,
-                position: i + 1,
-                next: `L4-${Math.floor(i/2)}`,
-                round: 8
-            })),
-            'left-4': Array.from({length: 2}, (_, i) => ({
-                id: `L4-${i}`,
-                position: i + 1,
-                next: `L2-0`,
-                round: 4
-            })),
-            'left-2': [{
-                id: 'L2-0',
-                position: 1,
-                next: 'champion',
-                round: 2
-            }],
-            'right-32': Array.from({length: 16}, (_, i) => ({
-                id: `R32-${i}`,
-                position: i + 17,
-                next: `R16-${Math.floor(i/2)}`,
-                round: 32
-            })),
-            'right-16': Array.from({length: 8}, (_, i) => ({
-                id: `R16-${i}`,
-                position: i + 1,
-                next: `R8-${Math.floor(i/2)}`,
-                round: 16
-            })),
-            'right-8': Array.from({length: 4}, (_, i) => ({
-                id: `R8-${i}`,
-                position: i + 1,
-                next: `R4-${Math.floor(i/2)}`,
-                round: 8
-            })),
-            'right-4': Array.from({length: 2}, (_, i) => ({
-                id: `R4-${i}`,
-                position: i + 1,
-                next: `R2-0`,
-                round: 4
-            })),
-            'right-2': [{
-                id: 'R2-0',
-                position: 1,
-                next: 'champion',
-                round: 2
-            }]
-        };
+    // 对阵结构定义
+    const bracketStructure = {
+        'left-32': Array.from({length: 16}, (_, i) => ({
+            id: `L32-${i}`,
+            position: i + 1,
+            next: `L16-${Math.floor(i/2)}`,
+            round: 32
+        })),
+        'left-16': Array.from({length: 8}, (_, i) => ({
+            id: `L16-${i}`,
+            position: i + 1,
+            next: `L8-${Math.floor(i/2)}`,
+            round: 16
+        })),
+        'left-8': Array.from({length: 4}, (_, i) => ({
+            id: `L8-${i}`,
+            position: i + 1,
+            next: `L4-${Math.floor(i/2)}`,
+            round: 8
+        })),
+        'left-4': Array.from({length: 2}, (_, i) => ({
+            id: `L4-${i}`,
+            position: i + 1,
+            next: `L2-0`,
+            round: 4
+        })),
+        'left-2': [{
+            id: 'L2-0',
+            position: 1,
+            next: 'champion',
+            round: 2
+        }],
+        'right-32': Array.from({length: 16}, (_, i) => ({
+            id: `R32-${i}`,
+            position: i + 17,
+            next: `R16-${Math.floor(i/2)}`,
+            round: 32
+        })),
+        'right-16': Array.from({length: 8}, (_, i) => ({
+            id: `R16-${i}`,
+            position: i + 1,
+            next: `R8-${Math.floor(i/2)}`,
+            round: 16
+        })),
+        'right-8': Array.from({length: 4}, (_, i) => ({
+            id: `R8-${i}`,
+            position: i + 1,
+            next: `R4-${Math.floor(i/2)}`,
+            round: 8
+        })),
+        'right-4': Array.from({length: 2}, (_, i) => ({
+            id: `R4-${i}`,
+            position: i + 1,
+            next: `R2-0`,
+            round: 4
+        })),
+        'right-2': [{
+            id: 'R2-0',
+            position: 1,
+            next: 'champion',
+            round: 2
+        }]
+    };
 
-        // 状态
-        let state = {
-            filledPositions: new Array(32).fill(false),
-            drawn: new Set(),
-            slots: {},
-            winners: {},
-            zoneCamps: {}
-        };
+    // 状态
+    let state = {
+        filledPositions: new Array(32).fill(false),
+        drawn: new Set(),
+        slots: {},
+        winners: {},
+        zoneCamps: {}
+    };
 
-        let isDrawing = false;
+    let isDrawing = false;
 
-        // 初始化
-        function init() {
-            renderPool();
-            renderBracket();
-            updateEmptySlotsInfo();
-        }
+    // 初始化
+    function init() {
+        renderPool();
+        renderBracket();
+        updateEmptySlotsInfo();
+    }
 
-        // 获取位置所在的zone
-        function getZone(position) {
-            return Math.floor(position / 4);
-        }
+    // 获取位置所在的zone
+    function getZone(position) {
+        return Math.floor(position / 4);
+    }
 
-        // 检查某个位置是否可以放置某阵营
-        function canPlaceAtPosition(position, camp) {
-            if (state.filledPositions[position]) return false;
-            const zone = getZone(position);
-            if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
-            return !state.zoneCamps[zone].includes(camp);
-        }
+    // 检查某个位置是否可以放置某阵营
+    function canPlaceAtPosition(position, camp) {
+        if (state.filledPositions[position]) return false;
+        const zone = getZone(position);
+        if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
+        return !state.zoneCamps[zone].includes(camp);
+    }
 
-        // 找到第一个可以放置该阵营的空位
-        function findFirstEmptySlot(camp) {
-            for (let pos = 0; pos < 32; pos++) {
-                if (canPlaceAtPosition(pos, camp)) {
-                    return pos;
-                }
+    // 找到第一个可以放置该阵营的空位
+    function findFirstEmptySlot(camp) {
+        for (let pos = 0; pos < 32; pos++) {
+            if (canPlaceAtPosition(pos, camp)) {
+                return pos;
             }
-            return -1;
         }
+        return -1;
+    }
 
-        // 获取所有空位
-        function getAllEmptySlots() {
-            const empty = [];
-            for (let pos = 0; pos < 32; pos++) {
-                if (!state.filledPositions[pos]) {
-                    empty.push(pos + 1);
-                }
+    // 获取所有空位
+    function getAllEmptySlots() {
+        const empty = [];
+        for (let pos = 0; pos < 32; pos++) {
+            if (!state.filledPositions[pos]) {
+                empty.push(pos + 1);
             }
-            return empty;
         }
+        return empty;
+    }
 
-        // 渲染选手池
-        function renderPool() {
-            Object.keys(characters).forEach(camp => {
-                const container = document.getElementById(`pool-${camp}`);
-                container.innerHTML = characters[camp].map((char, idx) => `
-                    <span class="pool-char ${camp}"
-                          data-camp="${camp}"
-                          data-idx="${idx}"
-                          id="pool-${camp}-${idx}"
-                          onclick="clickPoolChar('${camp}', ${idx})"
-                          title="${char.motive}">
-                        <span>${char.name}</span>
-                        <span class="char-code">${char.code}</span>
-                    </span>
-                `).join('');
-            });
-            updatePoolDisabledState();
-        }
+    // 渲染选手池
+    function renderPool() {
+        Object.keys(characters).forEach(camp => {
+            const container = document.getElementById(`pool-${camp}`);
+            container.innerHTML = characters[camp].map((char, idx) => `
+                <span class="pool-char ${camp}"
+                      data-camp="${camp}"
+                      data-idx="${idx}"
+                      id="pool-${camp}-${idx}"
+                      onclick="clickPoolChar('${camp}', ${idx})"
+                      title="${char.motive}">
+                    <span>${char.name}</span>
+                    <span class="char-code">${char.code}</span>
+                </span>
+            `).join('');
+        });
+        updatePoolDisabledState();
+    }
 
-        // 更新选手池禁用状态
-        function updatePoolDisabledState() {
-            if (getAllEmptySlots().length === 0) return;
+    // 更新选手池禁用状态
+    function updatePoolDisabledState() {
+        if (getAllEmptySlots().length === 0) return;
 
-            document.querySelectorAll('.pool-char').forEach(el => {
-                if (el.classList.contains('drawn')) return;
+        document.querySelectorAll('.pool-char').forEach(el => {
+            if (el.classList.contains('drawn')) return;
 
-                const camp = el.dataset.camp;
-                const canPlace = findFirstEmptySlot(camp) !== -1;
+            const camp = el.dataset.camp;
+            const canPlace = findFirstEmptySlot(camp) !== -1;
 
-                if (!canPlace) {
-                    el.classList.add('disabled');
-                } else {
-                    el.classList.remove('disabled');
-                }
-            });
-        }
-
-        // 更新空位信息显示
-        function updateEmptySlotsInfo() {
-            const empty = getAllEmptySlots();
-            const info = document.getElementById('emptySlotsInfo');
-
-            if (empty.length === 0) {
-                info.textContent = '所有位置已填满';
-                info.style.background = 'rgba(76, 175, 80, 0.2)';
-                info.style.borderColor = 'rgba(76, 175, 80, 0.5)';
-                info.style.color = '#4caf50';
-            } else if (empty.length === 32) {
-                info.textContent = '空位: 1-32（全部空闲）';
+            if (!canPlace) {
+                el.classList.add('disabled');
             } else {
-                // 简化显示
-                if (empty.length <= 8) {
-                    info.textContent = `剩余空位: ${empty.join(', ')}`;
-                } else {
-                    info.textContent = `剩余空位: ${empty.length}个 (自动分配)`;
-                }
+                el.classList.remove('disabled');
+            }
+        });
+    }
+
+    // 更新空位信息显示
+    function updateEmptySlotsInfo() {
+        const empty = getAllEmptySlots();
+        const info = document.getElementById('emptySlotsInfo');
+
+        if (empty.length === 0) {
+            info.textContent = '所有位置已填满';
+            info.style.background = 'rgba(76, 175, 80, 0.2)';
+            info.style.borderColor = 'rgba(76, 175, 80, 0.5)';
+            info.style.color = '#4caf50';
+        } else if (empty.length === 32) {
+            info.textContent = '空位: 1-32（全部空闲）';
+        } else {
+            // 简化显示
+            if (empty.length <= 8) {
+                info.textContent = `剩余空位: ${empty.join(', ')}`;
+            } else {
+                info.textContent = `剩余空位: ${empty.length}个 (自动分配)`;
             }
         }
+    }
 
-        // 点击选手池中的选手
-        function clickPoolChar(camp, idx) {
-            if (isDrawing) return;
+    // 点击选手池中的选手
+    function clickPoolChar(camp, idx) {
+        if (isDrawing) return;
 
-            if (state.drawn.has(`${camp}-${idx}`)) {
-                return;
-            }
-
-            const position = findFirstEmptySlot(camp);
-
-            if (position === -1) {
-                alert('没有可用的空位放置该阵营选手！每个1/8区已有该阵营选手。');
-                return;
-            }
-
-            placeChar(camp, idx, position);
+        if (state.drawn.has(`${camp}-${idx}`)) {
+            return;
         }
 
-        // 放置选手
-        function placeChar(camp, idx, position) {
-            isDrawing = true;
+        const position = findFirstEmptySlot(camp);
 
-            const char = characters[camp][idx];
-            const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
-
-            state.filledPositions[position] = true;
-            state.slots[slotId] = { ...char, camp, idx, position: position + 1 };
-            state.drawn.add(`${camp}-${idx}`);
-
-            const zone = getZone(position);
-            if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
-            state.zoneCamps[zone].push(camp);
-
-            showDrawAnim(char, camp, position + 1);
-
-            setTimeout(() => {
-                updateCard(slotId, char, camp, position + 1);
-                updatePool(camp, idx);
-                updateCounter();
-                updateEmptySlotsInfo();
-                updatePoolDisabledState();
-
-                isDrawing = false;
-
-                if (getAllEmptySlots().length === 0) {
-                    document.getElementById('drawBtn').disabled = true;
-                    document.getElementById('drawBtn').textContent = '抽签完成';
-                }
-            }, 800);
+        if (position === -1) {
+            alert('没有可用的空位放置该阵营选手！每个1/8区已有该阵营选手。');
+            return;
         }
 
-        // 随机抽取
-        function drawNext() {
-            if (isDrawing) return;
+        placeChar(camp, idx, position);
+    }
 
-            const emptySlots = getAllEmptySlots();
-            if (emptySlots.length === 0) {
-                alert('抽签已完成！');
-                return;
+    // 放置选手
+    function placeChar(camp, idx, position) {
+        isDrawing = true;
+
+        const char = characters[camp][idx];
+        const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
+
+        state.filledPositions[position] = true;
+        state.slots[slotId] = { ...char, camp, idx, position: position + 1 };
+        state.drawn.add(`${camp}-${idx}`);
+
+        const zone = getZone(position);
+        if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
+        state.zoneCamps[zone].push(camp);
+
+        showDrawAnim(char, camp, position + 1);
+
+        setTimeout(() => {
+            updateCard(slotId, char, camp, position + 1);
+            updatePool(camp, idx);
+            updateCounter();
+            updateEmptySlotsInfo();
+            updatePoolDisabledState();
+
+            isDrawing = false;
+
+            if (getAllEmptySlots().length === 0) {
+                document.getElementById('drawBtn').disabled = true;
+                document.getElementById('drawBtn').textContent = '抽签完成';
             }
+        }, 800);
+    }
 
-            isDrawing = true;
-            document.getElementById('drawBtn').disabled = true;
+    // 随机抽取
+    function drawNext() {
+        if (isDrawing) return;
 
-            const availableCamps = Object.keys(characters).filter(camp =>
-                findFirstEmptySlot(camp) !== -1
-            );
+        const emptySlots = getAllEmptySlots();
+        if (emptySlots.length === 0) {
+            alert('抽签已完成！');
+            return;
+        }
 
-            if (availableCamps.length === 0) {
-                alert('无法继续抽签，规避规则导致无可用位置！');
-                isDrawing = false;
+        isDrawing = true;
+        document.getElementById('drawBtn').disabled = true;
+
+        const availableCamps = Object.keys(characters).filter(camp =>
+            findFirstEmptySlot(camp) !== -1
+        );
+
+        if (availableCamps.length === 0) {
+            alert('无法继续抽签，规避规则导致无可用位置！');
+            isDrawing = false;
+            document.getElementById('drawBtn').disabled = false;
+            return;
+        }
+
+        const camp = availableCamps[Math.floor(Math.random() * availableCamps.length)];
+        const position = findFirstEmptySlot(camp);
+
+        const availableChars = characters[camp].filter((_, idx) =>
+            !state.drawn.has(`${camp}-${idx}`)
+        );
+
+        if (availableChars.length === 0) {
+            isDrawing = false;
+            document.getElementById('drawBtn').disabled = false;
+            drawNext();
+            return;
+        }
+
+        const charIdx = Math.floor(Math.random() * availableChars.length);
+        const char = availableChars[charIdx];
+        const originalIdx = characters[camp].indexOf(char);
+
+        const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
+
+        state.filledPositions[position] = true;
+        state.slots[slotId] = { ...char, camp, idx: originalIdx, position: position + 1 };
+        state.drawn.add(`${camp}-${originalIdx}`);
+
+        const zone = getZone(position);
+        if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
+        state.zoneCamps[zone].push(camp);
+
+        showDrawAnim(char, camp, position + 1);
+
+        setTimeout(() => {
+            updateCard(slotId, char, camp, position + 1);
+            updatePool(camp, originalIdx);
+            updateCounter();
+            updateEmptySlotsInfo();
+            updatePoolDisabledState();
+
+            isDrawing = false;
+
+            if (getAllEmptySlots().length > 0) {
                 document.getElementById('drawBtn').disabled = false;
-                return;
+            } else {
+                document.getElementById('drawBtn').textContent = '抽签完成';
             }
+        }, 800);
+    }
 
-            const camp = availableCamps[Math.floor(Math.random() * availableCamps.length)];
-            const position = findFirstEmptySlot(camp);
+    function showDrawAnim(char, camp, position) {
+        const modal = document.getElementById('drawModal');
+        document.getElementById('drawCamp').textContent = `${campNames[camp]}之阵营`;
+        document.getElementById('drawCamp').style.color = campColors[camp];
+        document.getElementById('drawName').textContent = char.name;
+        document.getElementById('drawPosition').textContent = `签位 #${position}`;
+        modal.classList.add('active');
+        setTimeout(() => modal.classList.remove('active'), 800);
+    }
 
-            const availableChars = characters[camp].filter((_, idx) =>
-                !state.drawn.has(`${camp}-${idx}`)
-            );
+    function updateCard(slotId, char, camp, position) {
+        const card = document.getElementById(slotId);
+        card.className = `match-card filled ${camp}`;
+        card.innerHTML = `
+            <div class="card-position">#${position}</div>
+            <div class="card-name">${char.name}</div>
+            <div class="card-info">${char.code} · ${char.motive}</div>
+        `;
+    }
 
-            if (availableChars.length === 0) {
-                isDrawing = false;
-                document.getElementById('drawBtn').disabled = false;
-                drawNext();
-                return;
-            }
+    function updatePool(camp, idx) {
+        const el = document.getElementById(`pool-${camp}-${idx}`);
+        if (el) {
+            el.classList.add('drawn');
+            el.classList.remove('disabled');
+        }
+    }
 
-            const charIdx = Math.floor(Math.random() * availableChars.length);
-            const char = availableChars[charIdx];
-            const originalIdx = characters[camp].indexOf(char);
+    function updateCounter() {
+        const filled = state.filledPositions.filter(p => p).length;
+        document.getElementById('counter').textContent = `${filled}/32`;
+    }
 
-            const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
+    // 渲染对阵图
+    function renderBracket() {
+        Object.keys(bracketStructure).forEach(roundId => {
+            const container = document.getElementById(roundId);
+            if (!container) return;
+            const label = container.querySelector('.round-label');
+            container.innerHTML = '';
+            if (label) container.appendChild(label);
+            bracketStructure[roundId].forEach(slot => {
+                const card = createCard(slot);
+                container.appendChild(card);
+            });
+        });
+    }
 
-            state.filledPositions[position] = true;
-            state.slots[slotId] = { ...char, camp, idx: originalIdx, position: position + 1 };
-            state.drawn.add(`${camp}-${originalIdx}`);
+    function createCard(slot) {
+        const div = document.createElement('div');
+        div.className = 'match';
+        div.innerHTML = `
+            <div class="match-card empty" id="${slot.id}" onclick="selectWinner('${slot.id}')">
+                <div class="card-position">#${slot.position}</div>
+                <div class="card-name">待定</div>
+                <div class="card-info">点击选择胜者</div>
+            </div>
+        `;
+        return div;
+    }
 
-            const zone = getZone(position);
-            if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
-            state.zoneCamps[zone].push(camp);
+    // 选择胜者
+    function selectWinner(slotId) {
+        const card = document.getElementById(slotId);
+        if (!card || card.classList.contains('eliminated')) return;
+        if (!state.slots[slotId]) return;
 
-            showDrawAnim(char, camp, position + 1);
+        const slot = findSlot(slotId);
+        if (!slot || !slot.next) return;
 
-            setTimeout(() => {
-                updateCard(slotId, char, camp, position + 1);
-                updatePool(camp, originalIdx);
-                updateCounter();
-                updateEmptySlotsInfo();
-                updatePoolDisabledState();
-
-                isDrawing = false;
-
-                if (getAllEmptySlots().length > 0) {
-                    document.getElementById('drawBtn').disabled = false;
-                } else {
-                    document.getElementById('drawBtn').textContent = '抽签完成';
-                }
-            }, 800);
+        if (state.winners[slotId]) {
+            clearWinner(slotId);
+            return;
         }
 
-        function showDrawAnim(char, camp, position) {
-            const modal = document.getElementById('drawModal');
-            document.getElementById('drawCamp').textContent = `${campNames[camp]}之阵营`;
-            document.getElementById('drawCamp').style.color = campColors[camp];
-            document.getElementById('drawName').textContent = char.name;
-            document.getElementById('drawPosition').textContent = `签位 #${position}`;
-            modal.classList.add('active');
-            setTimeout(() => modal.classList.remove('active'), 800);
+        const opponentId = findOpponentId(slotId);
+        if (opponentId && state.winners[opponentId]) {
+            alert('该场比赛已确定胜者，请先取消对方选择');
+            return;
         }
 
-        function updateCard(slotId, char, camp, position) {
-            const card = document.getElementById(slotId);
-            card.className = `match-card filled ${camp}`;
+        if (slot.next === 'champion') {
+            const otherFinalId = slotId.startsWith('L') ? 'R2-0' : 'L2-0';
+            if (state.slots[otherFinalId]) {
+                const otherCard = document.getElementById(otherFinalId);
+                otherCard.classList.add('eliminated');
+            }
+            setChampion(slotId);
+            return;
+        }
+
+        state.winners[slotId] = true;
+        card.classList.add('winner');
+        advanceWinner(slotId, slot.next);
+        markOpponentEliminated(slotId);
+    }
+
+    function findSlot(slotId) {
+        for (const round of Object.values(bracketStructure)) {
+            const slot = round.find(s => s.id === slotId);
+            if (slot) return slot;
+        }
+        return null;
+    }
+
+    function findOpponentId(slotId) {
+        const slot = findSlot(slotId);
+        if (!slot) return null;
+        const roundId = Object.keys(bracketStructure).find(key =>
+            bracketStructure[key].some(s => s.id === slotId)
+        );
+        if (!roundId) return null;
+        const round = bracketStructure[roundId];
+        const matchIndex = round.findIndex(s => s.id === slotId);
+        let opponentId = null;
+        if (matchIndex % 2 === 0 && matchIndex + 1 < round.length) {
+            opponentId = round[matchIndex + 1].id;
+        } else if (matchIndex % 2 === 1) {
+            opponentId = round[matchIndex - 1].id;
+        }
+        return opponentId;
+    }
+
+    function advanceWinner(fromId, toId) {
+        const char = state.slots[fromId];
+        const toSlot = findSlot(toId);
+        state.slots[toId] = { ...char, position: toSlot ? toSlot.position : '' };
+        setTimeout(() => {
+            const card = document.getElementById(toId);
+            const position = toSlot ? toSlot.position : '';
+            card.className = `match-card filled ${char.camp} advance`;
             card.innerHTML = `
                 <div class="card-position">#${position}</div>
                 <div class="card-name">${char.name}</div>
                 <div class="card-info">${char.code} · ${char.motive}</div>
             `;
+        }, 100);
+    }
+
+    function markOpponentEliminated(winnerId) {
+        const opponentId = findOpponentId(winnerId);
+        if (opponentId && state.slots[opponentId] && !state.winners[opponentId]) {
+            const opponentCard = document.getElementById(opponentId);
+            opponentCard.classList.add('eliminated');
+        }
+    }
+
+    function setChampion(slotId) {
+        const prevChampion = document.getElementById('champion-card');
+        prevChampion.className = 'champion-card';
+        const char = state.slots[slotId];
+        const card = document.getElementById('champion-card');
+        card.className = 'champion-card';
+        card.innerHTML = `
+            <div class="champion-name">${char.name}</div>
+            <div class="champion-camp">${campNames[char.camp]}之阵营 · ${char.code}</div>
+        `;
+        state.winners[slotId] = true;
+        const winnerCard = document.getElementById(slotId);
+        winnerCard.classList.add('winner');
+    }
+
+    function clearWinner(slotId) {
+        delete state.winners[slotId];
+        const card = document.getElementById(slotId);
+        card.classList.remove('winner');
+
+        const opponentId = findOpponentId(slotId);
+        if (opponentId) {
+            const opponentCard = document.getElementById(opponentId);
+            opponentCard.classList.remove('eliminated');
         }
 
-        function updatePool(camp, idx) {
-            const el = document.getElementById(`pool-${camp}-${idx}`);
-            if (el) {
-                el.classList.add('drawn');
-                el.classList.remove('disabled');
-            }
-        }
-
-        function updateCounter() {
-            const filled = state.filledPositions.filter(p => p).length;
-            document.getElementById('counter').textContent = `${filled}/32`;
-        }
-
-        // 渲染对阵图
-        function renderBracket() {
-            Object.keys(bracketStructure).forEach(roundId => {
-                const container = document.getElementById(roundId);
-                if (!container) return;
-                const label = container.querySelector('.round-label');
-                container.innerHTML = '';
-                if (label) container.appendChild(label);
-                bracketStructure[roundId].forEach(slot => {
-                    const card = createCard(slot);
-                    container.appendChild(card);
-                });
-            });
-        }
-
-        function createCard(slot) {
-            const div = document.createElement('div');
-            div.className = 'match';
-            div.innerHTML = `
-                <div class="match-card empty" id="${slot.id}" onclick="selectWinner('${slot.id}')">
-                    <div class="card-position">#${slot.position}</div>
-                    <div class="card-name">待定</div>
-                    <div class="card-info">点击选择胜者</div>
-                </div>
-            `;
-            return div;
-        }
-
-        // 选择胜者
-        function selectWinner(slotId) {
-            const card = document.getElementById(slotId);
-            if (!card || card.classList.contains('eliminated')) return;
-            if (!state.slots[slotId]) return;
-
-            const slot = findSlot(slotId);
-            if (!slot || !slot.next) return;
-
-            if (state.winners[slotId]) {
-                clearWinner(slotId);
-                return;
-            }
-
-            const opponentId = findOpponentId(slotId);
-            if (opponentId && state.winners[opponentId]) {
-                alert('该场比赛已确定胜者，请先取消对方选择');
-                return;
-            }
-
-            if (slot.next === 'champion') {
-                const otherFinalId = slotId.startsWith('L') ? 'R2-0' : 'L2-0';
-                if (state.slots[otherFinalId]) {
-                    const otherCard = document.getElementById(otherFinalId);
-                    otherCard.classList.add('eliminated');
-                }
-                setChampion(slotId);
-                return;
-            }
-
-            state.winners[slotId] = true;
-            card.classList.add('winner');
-            advanceWinner(slotId, slot.next);
-            markOpponentEliminated(slotId);
-        }
-
-        function findSlot(slotId) {
-            for (const round of Object.values(bracketStructure)) {
-                const slot = round.find(s => s.id === slotId);
-                if (slot) return slot;
-            }
-            return null;
-        }
-
-        function findOpponentId(slotId) {
-            const slot = findSlot(slotId);
-            if (!slot) return null;
-            const roundId = Object.keys(bracketStructure).find(key =>
-                bracketStructure[key].some(s => s.id === slotId)
-            );
-            if (!roundId) return null;
-            const round = bracketStructure[roundId];
-            const matchIndex = round.findIndex(s => s.id === slotId);
-            let opponentId = null;
-            if (matchIndex % 2 === 0 && matchIndex + 1 < round.length) {
-                opponentId = round[matchIndex + 1].id;
-            } else if (matchIndex % 2 === 1) {
-                opponentId = round[matchIndex - 1].id;
-            }
-            return opponentId;
-        }
-
-        function advanceWinner(fromId, toId) {
-            const char = state.slots[fromId];
-            const toSlot = findSlot(toId);
-            state.slots[toId] = { ...char, position: toSlot ? toSlot.position : '' };
-            setTimeout(() => {
-                const card = document.getElementById(toId);
-                const position = toSlot ? toSlot.position : '';
-                card.className = `match-card filled ${char.camp} advance`;
-                card.innerHTML = `
-                    <div class="card-position">#${position}</div>
-                    <div class="card-name">${char.name}</div>
-                    <div class="card-info">${char.code} · ${char.motive}</div>
-                `;
-            }, 100);
-        }
-
-        function markOpponentEliminated(winnerId) {
-            const opponentId = findOpponentId(winnerId);
-            if (opponentId && state.slots[opponentId] && !state.winners[opponentId]) {
-                const opponentCard = document.getElementById(opponentId);
-                opponentCard.classList.add('eliminated');
-            }
-        }
-
-        function setChampion(slotId) {
-            const prevChampion = document.getElementById('champion-card');
-            prevChampion.className = 'champion-card';
-            const char = state.slots[slotId];
-            const card = document.getElementById('champion-card');
-            card.className = 'champion-card';
-            card.innerHTML = `
-                <div class="champion-name">${char.name}</div>
-                <div class="champion-camp">${campNames[char.camp]}之阵营 · ${char.code}</div>
-            `;
-            state.winners[slotId] = true;
-            const winnerCard = document.getElementById(slotId);
-            winnerCard.classList.add('winner');
-        }
-
-        function clearWinner(slotId) {
-            delete state.winners[slotId];
-            const card = document.getElementById(slotId);
-            card.classList.remove('winner');
-
-            const opponentId = findOpponentId(slotId);
-            if (opponentId) {
-                const opponentCard = document.getElementById(opponentId);
-                opponentCard.classList.remove('eliminated');
-            }
-
-            const slot = findSlot(slotId);
-            if (slot && slot.next === 'champion') {
-                const otherFinalId = slotId.startsWith('L') ? 'R2-0' : 'L2-0';
-                const otherCard = document.getElementById(otherFinalId);
-                if (otherCard) otherCard.classList.remove('eliminated');
-
-                const championCard = document.getElementById('champion-card');
-                championCard.className = 'champion-card empty';
-                championCard.innerHTML = `
-                    <div class="champion-name">?</div>
-                    <div class="champion-camp">待定</div>
-                `;
-            }
-
-            if (slot && slot.next && slot.next !== 'champion') {
-                delete state.slots[slot.next];
-                delete state.winners[slot.next];
-                const nextCard = document.getElementById(slot.next);
-                const nextSlot = findSlot(slot.next);
-                const position = nextSlot ? nextSlot.position : '';
-                nextCard.className = 'match-card empty';
-                nextCard.innerHTML = `
-                    <div class="card-position">#${position}</div>
-                    <div class="card-name">待定</div>
-                    <div class="card-info">点击选择胜者</div>
-                `;
-                clearWinner(slot.next);
-            }
-        }
-
-        // 重置
-        function resetAll() {
-            state = {
-                filledPositions: new Array(32).fill(false),
-                drawn: new Set(),
-                slots: {},
-                winners: {},
-                zoneCamps: {}
-            };
-            isDrawing = false;
-
-            const btn = document.getElementById('drawBtn');
-            btn.disabled = false;
-            btn.textContent = '随机抽取';
+        const slot = findSlot(slotId);
+        if (slot && slot.next === 'champion') {
+            const otherFinalId = slotId.startsWith('L') ? 'R2-0' : 'L2-0';
+            const otherCard = document.getElementById(otherFinalId);
+            if (otherCard) otherCard.classList.remove('eliminated');
 
             const championCard = document.getElementById('champion-card');
             championCard.className = 'champion-card empty';
@@ -1176,17 +1137,56 @@
                 <div class="champion-name">?</div>
                 <div class="champion-camp">待定</div>
             `;
-
-            const info = document.getElementById('emptySlotsInfo');
-            info.style.background = 'rgba(255, 152, 0, 0.15)';
-            info.style.borderColor = 'rgba(255, 152, 0, 0.3)';
-            info.style.color = '#ff9800';
-
-            init();
         }
 
-        // 启动
+        if (slot && slot.next && slot.next !== 'champion') {
+            delete state.slots[slot.next];
+            delete state.winners[slot.next];
+            const nextCard = document.getElementById(slot.next);
+            const nextSlot = findSlot(slot.next);
+            const position = nextSlot ? nextSlot.position : '';
+            nextCard.className = 'match-card empty';
+            nextCard.innerHTML = `
+                <div class="card-position">#${position}</div>
+                <div class="card-name">待定</div>
+                <div class="card-info">点击选择胜者</div>
+            `;
+            clearWinner(slot.next);
+        }
+    }
+
+    // 重置
+    function resetAll() {
+        state = {
+            filledPositions: new Array(32).fill(false),
+            drawn: new Set(),
+            slots: {},
+            winners: {},
+            zoneCamps: {}
+        };
+        isDrawing = false;
+
+        const btn = document.getElementById('drawBtn');
+        btn.disabled = false;
+        btn.textContent = '随机抽取';
+
+        const championCard = document.getElementById('champion-card');
+        championCard.className = 'champion-card empty';
+        championCard.innerHTML = `
+            <div class="champion-name">?</div>
+            <div class="champion-camp">待定</div>
+        `;
+
+        const info = document.getElementById('emptySlotsInfo');
+        info.style.background = 'rgba(255, 152, 0, 0.15)';
+        info.style.borderColor = 'rgba(255, 152, 0, 0.3)';
+        info.style.color = '#ff9800';
+
         init();
-    </script>
+    }
+
+    // 启动
+    init();
+</script>
 </body>
 </html>

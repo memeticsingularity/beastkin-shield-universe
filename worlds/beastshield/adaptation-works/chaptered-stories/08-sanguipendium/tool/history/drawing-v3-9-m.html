@@ -2,7 +2,8 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+          name="viewport">
     <title>血酬淘汰赛 - 移动端</title>
     <style>
         * {
@@ -669,154 +670,708 @@
     </style>
 </head>
 <body>
-    <!-- 顶部规则 -->
-    <div class="rules-bar">
-        <div class="rule-item">
-            <strong>规避:</strong> 每区四族各一人
+<!-- 顶部规则 -->
+<div class="rules-bar">
+    <div class="rule-item">
+        <strong>规避:</strong> 每区四族各一人
+    </div>
+    <div class="rule-item">
+        <strong>奖金:</strong> 500×(9-己存活)×(9-敌存活)
+    </div>
+    <div class="rule-item">
+        <span class="camp-badge badge-tiger">虎×8</span>
+        <span class="camp-badge badge-bear">熊×8</span>
+        <span class="camp-badge badge-ox">牛×8</span>
+        <span class="camp-badge badge-hound">犬×8</span>
+    </div>
+</div>
+
+<!-- 标题 -->
+<div class="header">
+    <h1>血酬淘汰赛</h1>
+    <p>第一届兽盾四营血酬淘汰赛</p>
+</div>
+
+<!-- 阶段提示 -->
+<div class="stage-hint" id="stageHint">
+    <div>阶段：32强抽签中</div>
+    <div style="font-size: 0.85em; margin-top: 4px; color: #888;">需填满32个位置</div>
+</div>
+
+<!-- 主内容 -->
+<div class="main-content">
+    <!-- 选手池 -->
+    <div class="pool-section">
+        <div class="pool-header">
+            <div class="pool-title">选手池（点击抽签）</div>
+            <div class="pool-counter" id="counter">0/32</div>
         </div>
-        <div class="rule-item">
-            <strong>奖金:</strong> 500×(9-己存活)×(9-敌存活)
-        </div>
-        <div class="rule-item">
-            <span class="camp-badge badge-tiger">虎×8</span>
-            <span class="camp-badge badge-bear">熊×8</span>
-            <span class="camp-badge badge-ox">牛×8</span>
-            <span class="camp-badge badge-hound">犬×8</span>
+        <div class="pool-scroll" id="poolContainer">
+            <!-- 动态生成 -->
         </div>
     </div>
 
-    <!-- 标题 -->
-    <div class="header">
-        <h1>血酬淘汰赛</h1>
-        <p>第一届兽盾四营血酬淘汰赛</p>
+    <!-- 对阵区 -->
+    <div class="bracket-section" id="bracketSection">
+        <div class="bracket-title" id="bracketTitle">32强对阵</div>
+        <div class="matches-list" id="matchesList">
+            <!-- 动态生成 -->
+        </div>
     </div>
 
-    <!-- 阶段提示 -->
-    <div class="stage-hint" id="stageHint">
-        <div>阶段：32强抽签中</div>
-        <div style="font-size: 0.85em; margin-top: 4px; color: #888;">需填满32个位置</div>
+    <!-- 冠军区 -->
+    <div class="champion-section" id="championSection" style="display: none;">
+        <div class="champion-title">🏆 冠军</div>
+        <div class="champion-card" id="championCard">
+            <div class="champion-empty">待决赛完成</div>
+        </div>
     </div>
 
-    <!-- 主内容 -->
-    <div class="main-content">
-        <!-- 选手池 -->
-        <div class="pool-section">
-            <div class="pool-header">
-                <div class="pool-title">选手池（点击抽签）</div>
-                <div class="pool-counter" id="counter">0/32</div>
-            </div>
-            <div class="pool-scroll" id="poolContainer">
+    <!-- 统计 -->
+    <div class="stats-section">
+        <div class="stats-box">
+            <div class="stats-title">当前奖金系数</div>
+            <div class="stats-value" id="multiplierValue">500</div>
+        </div>
+        <div class="stats-box">
+            <div class="stats-title">阵营存活/奖金</div>
+            <div class="camp-stats" id="campStats">
                 <!-- 动态生成 -->
             </div>
         </div>
+    </div>
 
-        <!-- 对阵区 -->
-        <div class="bracket-section" id="bracketSection">
-            <div class="bracket-title" id="bracketTitle">32强对阵</div>
-            <div class="matches-list" id="matchesList">
-                <!-- 动态生成 -->
-            </div>
-        </div>
+    <div class="bottom-spacer"></div>
+</div>
 
-        <!-- 冠军区 -->
-        <div class="champion-section" id="championSection" style="display: none;">
-            <div class="champion-title">🏆 冠军</div>
-            <div class="champion-card" id="championCard">
-                <div class="champion-empty">待决赛完成</div>
-            </div>
-        </div>
+<!-- 底部固定按钮 -->
+<div class="bottom-bar">
+    <button class="bottom-btn btn-primary" id="drawBtn" onclick="drawNext()">随机抽签</button>
+    <button class="bottom-btn btn-accent" id="autoDrawBtn" onclick="autoDrawAll()">一键抽满</button>
+    <button class="bottom-btn btn-secondary" onclick="resetAll()">重置</button>
+</div>
 
-        <!-- 统计 -->
-        <div class="stats-section">
-            <div class="stats-box">
-                <div class="stats-title">当前奖金系数</div>
-                <div class="stats-value" id="multiplierValue">500</div>
-            </div>
-            <div class="stats-box">
-                <div class="stats-title">阵营存活/奖金</div>
-                <div class="camp-stats" id="campStats">
-                    <!-- 动态生成 -->
+<!-- 弹窗 -->
+<div class="modal" id="modal">
+    <div class="modal-content" id="modalContent">
+        <!-- 动态内容 -->
+    </div>
+</div>
+
+<script>
+    // 选手数据
+    const characters = {
+        tiger: [
+            { name: '锋牙', code: 'E-178', motive: '证明', age: 32, story: '违抗命令救了G级兵，被记过，晋升无望。一年前在一次镇压任务中违抗上级命令，拒绝处决一名手无寸铁的G级杂兵。被标记为不稳定因素，失去晋升机会。反正晋升无望也是死路一条，不如搏一把。' },
+            { name: '烈影', code: 'E-201', motive: '复仇', age: 27, story: '被兄长卖给赏金猎人的事被人知道了，混不下去。五年前被自己的亲兄长卖给赏金猎人，在虎营里被人指指点点。反正也是被人排挤，不如搏一把。要么赢，要么死。' },
+            { name: '岩爪', code: 'E-156', motive: '生存', age: 35, story: '拒绝处决平民被标记，面临降级。三个月前在一次清洗行动中拒绝执行处决平民的命令。被标记为不可靠分子，面临降级为G级的处罚。反正降级也是死（面子死了），不如搏一把。' },
+            { name: '幼爪', code: 'E-312', motive: '救父', age: 20, story: '最年轻，父亲患矿石病，需要昂贵的药物维持生命。十七岁加入兽盾，转正后才两年。父亲病了，要赢让他能活下去。' },
+            { name: '夜瞳', code: 'E-267', motive: '野心', age: 29, story: '想往上爬，正常渠道太慢。纯黑毛色，在虎兽人中是罕见的变异。在兽盾的情报部门干过一阵子，但E级是战斗兵种，升不上去。冠军可以直接晋升营地头目。' },
+            { name: '风啸', code: 'E-289', motive: '公道', age: 26, story: '伴侣被友军误杀，想讨公道没人听。一年前，他的伴侣在一次任务中被友军误杀。官方报告定性为意外，但他知道是某位高层为了掩盖失误。没人听他讨公道。反正也没人管，不如搏一把，在全城直播的舞台上说出真相。' },
+            { name: '金纹', code: 'E-223', motive: '荣耀', age: 31, story: '家里以前有点地位，现在想恢复。他的家族曾是白之都的显赫家族，但在一次政治斗争中失势。要让所有人知道，我家族的名字不应该被遗忘。' },
+            { name: '残耳', code: 'E-134', motive: '神秘', age: 38, story: '不知道，从来不说话。在兽盾服役了十七年，从未晋升，从未出头。参赛原因不明，没人知道为什么。这正是他最可怕的地方。' }
+        ],
+        bear: [
+            { name: '棕岩', code: 'E-145', motive: '还债', age: 35, story: '弟弟矿石病，欠了地下钱庄一万。去年弟弟得了矿石病中期，治疗费用需要五千，借了五千利滚利变成一万。钱庄给最后期限下个月十五号。只要赢一场五百，进八强四万，足够还清债务。' },
+            { name: '黑山', code: 'E-112', motive: '赎罪', age: 32, story: '任务中杀了被陷害的伴侣，想死。两年前在任务中亲手杀死了自己的伴侣——他被陷害以为是叛徒。等我后来查清真相知道他是被冤枉的，已经太晚了。想死得有尊严，不是在某个深夜被人从背后捅刀，不是在病床上被慢慢卖掉，是在擂台上面对面。' },
+            { name: '白掌', code: 'E-287', motive: '还债', age: 24, story: '赌马输了两万撸币。那是他借来的钱原本打算用来投资翻身，现在债主是营房长官。反正还不上债也是死，不如搏一把。长官说如果参加比赛债务可以延期。' },
+            { name: '铁背', code: 'E-198', motive: '不甘', age: 38, story: '背肌如铁板，二十年E级没晋升，不服。已经服役了二十年，按照规定应该退役，但他拒绝了——他不能在没有体面结局的情况下离开。我还能打，我要证明这一点。' },
+            { name: '灰耳', code: 'E-268', motive: '生存', age: 33, story: '被俘过一次，左耳被割，被人说是叛徒。曾在一次任务中被俘，左耳是被敌人割掉的。逃了回来，但带着叛徒的嫌疑。反正被人说是叛徒也是死路一条，不如搏一把。要么作为冠军活下去，要么作为战士死去。' },
+            { name: '厚掌', code: 'E-290', motive: '野心', age: 29, story: '手掌厚度著称，每一只手掌都有十厘米厚，肉垫坚硬如石。想当最强的。相信力量就是一切。反正正常渠道当不了最强，不如搏一把。' },
+            { name: '柔毛', code: 'E-224', motive: '证明', age: 27, story: '毛质异常柔软在熊兽人中是异类，常被嘲笑不像熊。养成了暴躁的性格。反正被嘲笑也是死（面子），不如搏一把。要让他们知道我不是好欺负的。' },
+            { name: '冬眠', code: 'E-135', motive: '告别', age: 42, story: '最年长，二十三年的E级兵生涯。没有债务没有家人需要照顾没有仇需要报。反正老了迟早被卖，不如死在擂台上，给自己一个体面的结局。这是我最后的机会，我想死在擂台上而不是病床上。' }
+        ],
+        ox: [
+            { name: '铁角', code: 'E-217', motive: '还债', age: 37, story: '欠钱庄五万二。三年前为给父亲治矿石病借了八千，利滚利到现在变成五万二。上个月钱庄的人在床垫上放了把带血的匕首。反正还不上钱也是死，不如搏一把。' },
+            { name: '铜皮', code: 'E-189', motive: '救弟', age: 30, story: '弟弟矿石病早期，需要三千治疗费。十二岁的弟弟是他捡来的孤儿，现在是他唯一的牵挂。每月俸禄五百，寄回家三百，治疗费需要三千起步。反正弟弟没药也是死，不如搏一把。' },
+            { name: '青石', code: 'E-256', motive: '赌徒', age: 29, story: '欠赌坊两万，被债主堵过三次，最后一次打断了一根肋骨。天生好赌，痴迷于计算概率。这场血酬淘汰赛在他看来就是一场巨大的赌局。反正被债主抓住也是死，不如死在擂台上。' },
+            { name: '泥蹄', code: 'E-198', motive: '还债', age: 30, story: '欠营房长官一万，每月还五百还五年。但上个月只还了三百，被打断了一根肋骨。搬运工，卑微绝望。反正还不上钱也是死，不如搏一把。' },
+            { name: '砂岩', code: 'E-167', motive: '不想被卖', age: 43, story: '最年长，酗酒多年，欠了一屁股债——酒馆、赌坊、各种地方。知道兽盾的规定：年满45岁的E级兵如果没有特殊贡献会被卖掉。反正被卖也是死路一条，不如死在擂台上，至少体面。' },
+            { name: '岩裂', code: 'E-233', motive: '逃命', age: 24, story: '三个月前在一次冲突中杀了一名赏金猎人——那人是兽盾某位高层的私人承包商。现在被赏金猎人的同伙盯上了，兽盾也保不住他。参赛还能活几天，不参赛明天就死。' },
+            { name: '黑土', code: 'E-245', motive: '救母', age: 35, story: '母亲患有慢性病，需要长期服药。每月俸禄大部分寄回家。牛营中最受欢迎的人，士兵们会找他倾诉心事。反正母亲没药也是死，不如搏一把。' },
+            { name: '荒原', code: 'E-301', motive: '杀人', age: 22, story: '最年轻，训练中多次失手重伤同僚，被诊断为具有反社会倾向。长官说：要么参加血酬淘汰赛，要么现在就死。这个比赛让他可以合法地杀人。' }
+        ],
+        hound: [
+            { name: '灰影', code: 'E-157', motive: '自由', age: 30, story: '野狼出身，想自由。曾经是野狼，在牧场被抓后加入兽盾。渴望自由。如果我赢了，我可以要求兽盾解除我的契约。反正也逃不掉，不如搏一把。' },
+            { name: '黑獒', code: 'E-089', motive: '家', age: 28, story: '被前主人卖了，想找个家。被前主人卖给兽盾。渴望一个不会抛弃他的家。既然已经没有人要我，不如在擂台上找回一点存在的意义。' },
+            { name: '铁背', code: 'E-269', motive: '忠诚', age: 31, story: '就想忠诚，但忠诚不值钱。德牧，背部笔直耳朵竖立眼神锐利。忠诚于命令忠诚于兽盾。反正忠诚也不值钱，不如搏一把。证明我是最忠诚的战士。' },
+            { name: '疾风', code: 'E-291', motive: '荣耀', age: 25, story: '速度最快但力气小，被人看不起。灵缇，是犬营里体型最瘦小的。反正被人看不起也是死（面子），不如搏一把。我要证明速度就是一切。' },
+            { name: '铁颚', code: 'E-225', motive: '生存', age: 29, story: '欠钱庄钱，还不上。斗牛犬，矮壮结实头部巨大下颚强壮。反正还不上也是死，不如搏一把。我不想死。' },
+            { name: '雪眼', code: 'E-302', motive: '好奇', age: 22, story: '觉得好玩。哈士奇，眼睛是罕见的冰蓝色透着好奇和玩味。反正觉得好玩，不如搏一把，看看能玩到什么程度。' },
+            { name: '铁锁', code: 'E-136', motive: '最后机会', age: 35, story: '最后一次晋升机会。罗威纳，十五年的E级兵生涯。这是他最后的机会——如果不能再晋升，他将被强制退役，而退役意味着被出售。反正退役也是被卖，不如搏一把。' },
+            { name: '白毛', code: 'E-199', motive: '证明自己', age: 26, story: '被说像宠物，想证明。萨摩耶，毛色雪白如棉花糖嘴角总是挂着微笑。反正被说像宠物也是死（面子），不如搏一把。我要证明我不是宠物。' }
+        ]
+    };
+
+    const campNames = { tiger: '虎', bear: '熊', ox: '牛', hound: '犬' };
+    const campColors = { tiger: '#ff9800', bear: '#8d6e63', ox: '#78909c', hound: '#7986cb' };
+    const campIcons = { tiger: '🐯', bear: '🐻', ox: '🐮', hound: '🐺' };
+
+    // 对阵结构
+    const bracketStructure = {
+        32: { left: Array.from({length: 16}, (_, i) => ({ id: `L32-${i}`, pos: i + 1 })), right: Array.from({length: 16}, (_, i) => ({ id: `R32-${i}`, pos: i + 17 })) },
+        16: { left: Array.from({length: 8}, (_, i) => ({ id: `L16-${i}`, pos: i + 1 })), right: Array.from({length: 8}, (_, i) => ({ id: `R16-${i}`, pos: i + 1 })) },
+        8: { left: Array.from({length: 4}, (_, i) => ({ id: `L8-${i}`, pos: i + 1 })), right: Array.from({length: 4}, (_, i) => ({ id: `R8-${i}`, pos: i + 1 })) },
+        4: { left: Array.from({length: 2}, (_, i) => ({ id: `L4-${i}`, pos: i + 1 })), right: Array.from({length: 2}, (_, i) => ({ id: `R4-${i}`, pos: i + 1 })) },
+        2: { left: [{ id: 'L2-0', pos: 1 }], right: [{ id: 'R2-0', pos: 1 }] }
+    };
+
+    // 状态
+    let state = {
+        filledPositions: new Array(32).fill(false),
+        drawn: new Set(),
+        slots: {},
+        winners: {},
+        zoneCamps: {},
+        stageCompleted: { 32: false, 16: false, 8: false, 4: false, 2: false },
+        stageWinners: { 32: 0, 16: 0, 8: 0, 4: 0, 2: 0 },
+        campAlive: { tiger: 8, bear: 8, ox: 8, hound: 8 },
+        playerMoney: {},
+        campMoney: { tiger: 0, bear: 0, ox: 0, hound: 0 }
+    };
+
+    let currentRound = 32;
+    let isDrawing = false;
+
+    // 初始化
+    function init() {
+        renderPool();
+        renderBracket();
+        updateStageHint();
+        updateStats();
+    }
+
+    // 获取zone
+    function getZone(position) {
+        return Math.floor(position / 4);
+    }
+
+    // 检查可放置位置
+    function canPlaceAtPosition(position, camp) {
+        if (state.filledPositions[position]) return false;
+        const zone = getZone(position);
+        if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
+        return !state.zoneCamps[zone].includes(camp);
+    }
+
+    // 找第一个空位
+    function findFirstEmptySlot(camp) {
+        for (let pos = 0; pos < 32; pos++) {
+            if (canPlaceAtPosition(pos, camp)) return pos;
+        }
+        return -1;
+    }
+
+    // 获取所有空位
+    function getAllEmptySlots() {
+        const empty = [];
+        for (let pos = 0; pos < 32; pos++) {
+            if (!state.filledPositions[pos]) empty.push(pos + 1);
+        }
+        return empty;
+    }
+
+    // 计算奖金
+    function calculateBonus(winnerCamp, loserCamp) {
+        const ownAlive = state.campAlive[winnerCamp];
+        const otherAlive = state.campAlive[loserCamp];
+        return {
+            amount: 500 * (9 - ownAlive) * (9 - otherAlive),
+            ownFactor: 9 - ownAlive,
+            otherFactor: 9 - otherAlive
+        };
+    }
+
+    // 渲染选手池
+    function renderPool() {
+        const container = document.getElementById('poolContainer');
+        container.innerHTML = Object.keys(characters).map(camp => `
+            <div class="pool-camp-box">
+                <div class="pool-camp-header badge-${camp}">${campIcons[camp]} ${campNames[camp]}之阵营</div>
+                <div class="pool-characters">
+                    ${characters[camp].map((char, idx) => {
+                        const playerId = `${camp}-${idx}`;
+                        const money = state.playerMoney[playerId] || 0;
+                        const isDrawn = state.drawn.has(playerId);
+                        return `
+                            <div class="pool-char ${camp} ${isDrawn ? 'drawn' : ''} ${!isDrawn && findFirstEmptySlot(camp) === -1 ? 'disabled' : ''}"
+                                 onclick="onPoolCharClick('${camp}', ${idx})">
+                                <span>${char.name}</span>
+                                <span class="char-code">${money > 0 ? '💰' + money : char.code}</span>
+                            </div>
+                        `;
+                    }).join('')}
                 </div>
             </div>
-        </div>
+        `).join('');
+    }
 
-        <div class="bottom-spacer"></div>
-    </div>
+    // 点击选手池
+    function onPoolCharClick(camp, idx) {
+        if (isDrawing) return;
+        if (state.drawn.has(`${camp}-${idx}`)) return;
 
-    <!-- 底部固定按钮 -->
-    <div class="bottom-bar">
-        <button class="bottom-btn btn-primary" id="drawBtn" onclick="drawNext()">随机抽签</button>
-        <button class="bottom-btn btn-accent" id="autoDrawBtn" onclick="autoDrawAll()">一键抽满</button>
-        <button class="bottom-btn btn-secondary" onclick="resetAll()">重置</button>
-    </div>
+        const position = findFirstEmptySlot(camp);
+        if (position === -1) {
+            showModal('提示', '没有可用的空位放置该阵营选手！每个1/8区已有该阵营选手。');
+            return;
+        }
 
-    <!-- 弹窗 -->
-    <div class="modal" id="modal">
-        <div class="modal-content" id="modalContent">
-            <!-- 动态内容 -->
-        </div>
-    </div>
+        placeChar(camp, idx, position);
+    }
 
-    <script>
-        // 选手数据
-        const characters = {
-            tiger: [
-                { name: '锋牙', code: 'E-178', motive: '证明', age: 32, story: '违抗命令救了G级兵，被记过，晋升无望。一年前在一次镇压任务中违抗上级命令，拒绝处决一名手无寸铁的G级杂兵。被标记为不稳定因素，失去晋升机会。反正晋升无望也是死路一条，不如搏一把。' },
-                { name: '烈影', code: 'E-201', motive: '复仇', age: 27, story: '被兄长卖给赏金猎人的事被人知道了，混不下去。五年前被自己的亲兄长卖给赏金猎人，在虎营里被人指指点点。反正也是被人排挤，不如搏一把。要么赢，要么死。' },
-                { name: '岩爪', code: 'E-156', motive: '生存', age: 35, story: '拒绝处决平民被标记，面临降级。三个月前在一次清洗行动中拒绝执行处决平民的命令。被标记为不可靠分子，面临降级为G级的处罚。反正降级也是死（面子死了），不如搏一把。' },
-                { name: '幼爪', code: 'E-312', motive: '救父', age: 20, story: '最年轻，父亲患矿石病，需要昂贵的药物维持生命。十七岁加入兽盾，转正后才两年。父亲病了，要赢让他能活下去。' },
-                { name: '夜瞳', code: 'E-267', motive: '野心', age: 29, story: '想往上爬，正常渠道太慢。纯黑毛色，在虎兽人中是罕见的变异。在兽盾的情报部门干过一阵子，但E级是战斗兵种，升不上去。冠军可以直接晋升营地头目。' },
-                { name: '风啸', code: 'E-289', motive: '公道', age: 26, story: '伴侣被友军误杀，想讨公道没人听。一年前，他的伴侣在一次任务中被友军误杀。官方报告定性为意外，但他知道是某位高层为了掩盖失误。没人听他讨公道。反正也没人管，不如搏一把，在全城直播的舞台上说出真相。' },
-                { name: '金纹', code: 'E-223', motive: '荣耀', age: 31, story: '家里以前有点地位，现在想恢复。他的家族曾是白之都的显赫家族，但在一次政治斗争中失势。要让所有人知道，我家族的名字不应该被遗忘。' },
-                { name: '残耳', code: 'E-134', motive: '神秘', age: 38, story: '不知道，从来不说话。在兽盾服役了十七年，从未晋升，从未出头。参赛原因不明，没人知道为什么。这正是他最可怕的地方。' }
-            ],
-            bear: [
-                { name: '棕岩', code: 'E-145', motive: '还债', age: 35, story: '弟弟矿石病，欠了地下钱庄一万。去年弟弟得了矿石病中期，治疗费用需要五千，借了五千利滚利变成一万。钱庄给最后期限下个月十五号。只要赢一场五百，进八强四万，足够还清债务。' },
-                { name: '黑山', code: 'E-112', motive: '赎罪', age: 32, story: '任务中杀了被陷害的伴侣，想死。两年前在任务中亲手杀死了自己的伴侣——他被陷害以为是叛徒。等我后来查清真相知道他是被冤枉的，已经太晚了。想死得有尊严，不是在某个深夜被人从背后捅刀，不是在病床上被慢慢卖掉，是在擂台上面对面。' },
-                { name: '白掌', code: 'E-287', motive: '还债', age: 24, story: '赌马输了两万撸币。那是他借来的钱原本打算用来投资翻身，现在债主是营房长官。反正还不上债也是死，不如搏一把。长官说如果参加比赛债务可以延期。' },
-                { name: '铁背', code: 'E-198', motive: '不甘', age: 38, story: '背肌如铁板，二十年E级没晋升，不服。已经服役了二十年，按照规定应该退役，但他拒绝了——他不能在没有体面结局的情况下离开。我还能打，我要证明这一点。' },
-                { name: '灰耳', code: 'E-268', motive: '生存', age: 33, story: '被俘过一次，左耳被割，被人说是叛徒。曾在一次任务中被俘，左耳是被敌人割掉的。逃了回来，但带着叛徒的嫌疑。反正被人说是叛徒也是死路一条，不如搏一把。要么作为冠军活下去，要么作为战士死去。' },
-                { name: '厚掌', code: 'E-290', motive: '野心', age: 29, story: '手掌厚度著称，每一只手掌都有十厘米厚，肉垫坚硬如石。想当最强的。相信力量就是一切。反正正常渠道当不了最强，不如搏一把。' },
-                { name: '柔毛', code: 'E-224', motive: '证明', age: 27, story: '毛质异常柔软在熊兽人中是异类，常被嘲笑不像熊。养成了暴躁的性格。反正被嘲笑也是死（面子），不如搏一把。要让他们知道我不是好欺负的。' },
-                { name: '冬眠', code: 'E-135', motive: '告别', age: 42, story: '最年长，二十三年的E级兵生涯。没有债务没有家人需要照顾没有仇需要报。反正老了迟早被卖，不如死在擂台上，给自己一个体面的结局。这是我最后的机会，我想死在擂台上而不是病床上。' }
-            ],
-            ox: [
-                { name: '铁角', code: 'E-217', motive: '还债', age: 37, story: '欠钱庄五万二。三年前为给父亲治矿石病借了八千，利滚利到现在变成五万二。上个月钱庄的人在床垫上放了把带血的匕首。反正还不上钱也是死，不如搏一把。' },
-                { name: '铜皮', code: 'E-189', motive: '救弟', age: 30, story: '弟弟矿石病早期，需要三千治疗费。十二岁的弟弟是他捡来的孤儿，现在是他唯一的牵挂。每月俸禄五百，寄回家三百，治疗费需要三千起步。反正弟弟没药也是死，不如搏一把。' },
-                { name: '青石', code: 'E-256', motive: '赌徒', age: 29, story: '欠赌坊两万，被债主堵过三次，最后一次打断了一根肋骨。天生好赌，痴迷于计算概率。这场血酬淘汰赛在他看来就是一场巨大的赌局。反正被债主抓住也是死，不如死在擂台上。' },
-                { name: '泥蹄', code: 'E-198', motive: '还债', age: 30, story: '欠营房长官一万，每月还五百还五年。但上个月只还了三百，被打断了一根肋骨。搬运工，卑微绝望。反正还不上钱也是死，不如搏一把。' },
-                { name: '砂岩', code: 'E-167', motive: '不想被卖', age: 43, story: '最年长，酗酒多年，欠了一屁股债——酒馆、赌坊、各种地方。知道兽盾的规定：年满45岁的E级兵如果没有特殊贡献会被卖掉。反正被卖也是死路一条，不如死在擂台上，至少体面。' },
-                { name: '岩裂', code: 'E-233', motive: '逃命', age: 24, story: '三个月前在一次冲突中杀了一名赏金猎人——那人是兽盾某位高层的私人承包商。现在被赏金猎人的同伙盯上了，兽盾也保不住他。参赛还能活几天，不参赛明天就死。' },
-                { name: '黑土', code: 'E-245', motive: '救母', age: 35, story: '母亲患有慢性病，需要长期服药。每月俸禄大部分寄回家。牛营中最受欢迎的人，士兵们会找他倾诉心事。反正母亲没药也是死，不如搏一把。' },
-                { name: '荒原', code: 'E-301', motive: '杀人', age: 22, story: '最年轻，训练中多次失手重伤同僚，被诊断为具有反社会倾向。长官说：要么参加血酬淘汰赛，要么现在就死。这个比赛让他可以合法地杀人。' }
-            ],
-            hound: [
-                { name: '灰影', code: 'E-157', motive: '自由', age: 30, story: '野狼出身，想自由。曾经是野狼，在牧场被抓后加入兽盾。渴望自由。如果我赢了，我可以要求兽盾解除我的契约。反正也逃不掉，不如搏一把。' },
-                { name: '黑獒', code: 'E-089', motive: '家', age: 28, story: '被前主人卖了，想找个家。被前主人卖给兽盾。渴望一个不会抛弃他的家。既然已经没有人要我，不如在擂台上找回一点存在的意义。' },
-                { name: '铁背', code: 'E-269', motive: '忠诚', age: 31, story: '就想忠诚，但忠诚不值钱。德牧，背部笔直耳朵竖立眼神锐利。忠诚于命令忠诚于兽盾。反正忠诚也不值钱，不如搏一把。证明我是最忠诚的战士。' },
-                { name: '疾风', code: 'E-291', motive: '荣耀', age: 25, story: '速度最快但力气小，被人看不起。灵缇，是犬营里体型最瘦小的。反正被人看不起也是死（面子），不如搏一把。我要证明速度就是一切。' },
-                { name: '铁颚', code: 'E-225', motive: '生存', age: 29, story: '欠钱庄钱，还不上。斗牛犬，矮壮结实头部巨大下颚强壮。反正还不上也是死，不如搏一把。我不想死。' },
-                { name: '雪眼', code: 'E-302', motive: '好奇', age: 22, story: '觉得好玩。哈士奇，眼睛是罕见的冰蓝色透着好奇和玩味。反正觉得好玩，不如搏一把，看看能玩到什么程度。' },
-                { name: '铁锁', code: 'E-136', motive: '最后机会', age: 35, story: '最后一次晋升机会。罗威纳，十五年的E级兵生涯。这是他最后的机会——如果不能再晋升，他将被强制退役，而退役意味着被出售。反正退役也是被卖，不如搏一把。' },
-                { name: '白毛', code: 'E-199', motive: '证明自己', age: 26, story: '被说像宠物，想证明。萨摩耶，毛色雪白如棉花糖嘴角总是挂着微笑。反正被说像宠物也是死（面子），不如搏一把。我要证明我不是宠物。' }
-            ]
-        };
+    // 放置选手
+    function placeChar(camp, idx, position) {
+        isDrawing = true;
+        const char = characters[camp][idx];
+        const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
 
-        const campNames = { tiger: '虎', bear: '熊', ox: '牛', hound: '犬' };
-        const campColors = { tiger: '#ff9800', bear: '#8d6e63', ox: '#78909c', hound: '#7986cb' };
-        const campIcons = { tiger: '🐯', bear: '🐻', ox: '🐮', hound: '🐺' };
+        state.filledPositions[position] = true;
+        state.slots[slotId] = { ...char, camp, idx, position: position + 1, slotId };
+        state.drawn.add(`${camp}-${idx}`);
 
-        // 对阵结构
-        const bracketStructure = {
-            32: { left: Array.from({length: 16}, (_, i) => ({ id: `L32-${i}`, pos: i + 1 })), right: Array.from({length: 16}, (_, i) => ({ id: `R32-${i}`, pos: i + 17 })) },
-            16: { left: Array.from({length: 8}, (_, i) => ({ id: `L16-${i}`, pos: i + 1 })), right: Array.from({length: 8}, (_, i) => ({ id: `R16-${i}`, pos: i + 1 })) },
-            8: { left: Array.from({length: 4}, (_, i) => ({ id: `L8-${i}`, pos: i + 1 })), right: Array.from({length: 4}, (_, i) => ({ id: `R8-${i}`, pos: i + 1 })) },
-            4: { left: Array.from({length: 2}, (_, i) => ({ id: `L4-${i}`, pos: i + 1 })), right: Array.from({length: 2}, (_, i) => ({ id: `R4-${i}`, pos: i + 1 })) },
-            2: { left: [{ id: 'L2-0', pos: 1 }], right: [{ id: 'R2-0', pos: 1 }] }
-        };
+        const zone = getZone(position);
+        if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
+        state.zoneCamps[zone].push(camp);
 
-        // 状态
-        let state = {
+        showDrawModal(char, camp, position + 1);
+
+        setTimeout(() => {
+            renderPool();
+            renderBracket();
+            updateCounter();
+            updateStageHint();
+            updateStats();
+            isDrawing = false;
+
+            if (getAllEmptySlots().length === 0) {
+                document.getElementById('drawBtn').disabled = true;
+                document.getElementById('autoDrawBtn').disabled = true;
+                hideModal();
+                showModal('抽签完成', '32强全部产生！请选择16强晋级选手。');
+            } else {
+                hideModal();
+            }
+        }, 800);
+    }
+
+    // 渲染对阵
+    function renderBracket() {
+        const container = document.getElementById('matchesList');
+        const roundData = bracketStructure[currentRound];
+        if (!roundData) return;
+
+        document.getElementById('bracketTitle').textContent = currentRound === 2 ? '决赛' : currentRound + '强对阵';
+
+        const matches = [];
+        const leftSide = roundData.left;
+        const rightSide = roundData.right;
+
+        for (let i = 0; i < leftSide.length; i += 2) {
+            const matchNum = Math.floor(i / 2) + 1;
+            const p1 = leftSide[i];
+            const p2 = leftSide[i + 1];
+            matches.push({ num: matchNum, p1, p2, side: '左' });
+        }
+
+        for (let i = 0; i < rightSide.length; i += 2) {
+            const matchNum = Math.floor(leftSide.length / 2) + Math.floor(i / 2) + 1;
+            const p1 = rightSide[i];
+            const p2 = rightSide[i + 1];
+            matches.push({ num: matchNum, p1, p2, side: '右' });
+        }
+
+        container.innerHTML = matches.map(m => {
+            const p1Data = state.slots[m.p1.id];
+            const p2Data = state.slots[m.p2.id];
+            const p1Winner = state.winners[m.p1.id];
+            const p2Winner = state.winners[m.p2.id];
+
+            return `
+                <div class="match-item">
+                    <div class="match-number">${m.side}${m.num}</div>
+                    <div class="match-players">
+                        ${renderMatchPlayer(m.p1.id, p1Data, p1Winner, p2Winner)}
+                        <div class="vs-divider">VS</div>
+                        ${renderMatchPlayer(m.p2.id, p2Data, p2Winner, p1Winner)}
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        // 显示冠军
+        if (state.stageCompleted[2]) {
+            document.getElementById('championSection').style.display = 'block';
+        } else {
+            document.getElementById('championSection').style.display = 'none';
+        }
+    }
+
+    // 渲染比赛选手
+    function renderMatchPlayer(slotId, data, isWinner, opponentIsWinner) {
+        if (!data) {
+            return `<div class="match-player empty">待定</div>`;
+        }
+
+        const playerId = `${data.camp}-${data.idx}`;
+        const money = state.playerMoney[playerId] || 0;
+        const isEliminated = opponentIsWinner && !isWinner;
+
+        return `
+            <div class="match-player ${data.camp} ${isWinner ? 'winner' : ''} ${isEliminated ? 'eliminated' : ''}"
+                 onclick="onMatchPlayerClick('${slotId}')">
+                <div class="player-info">
+                    <div class="player-name">${campIcons[data.camp]} ${data.name}</div>
+                    <div class="player-meta">${data.code} · ${data.motive}</div>
+                </div>
+                ${money > 0 ? `<div class="player-money">💰${money.toLocaleString()}</div>` : ''}
+            </div>
+        `;
+    }
+
+    // 点击比赛选手
+    function onMatchPlayerClick(slotId) {
+        const data = state.slots[slotId];
+        if (!data) return;
+
+        // 检查是否可以选择胜者
+        if (!canSelectWinner(currentRound)) {
+            showModal('提示', '需先完成当前阶段！');
+            return;
+        }
+
+        // 显示详情弹窗
+        showCharModal(data);
+    }
+
+    // 检查是否可选择胜者
+    function canSelectWinner(round) {
+        if (round === 32) return getAllEmptySlots().length === 0;
+        if (round === 16) return state.stageCompleted[32];
+        if (round === 8) return state.stageCompleted[16];
+        if (round === 4) return state.stageCompleted[8];
+        if (round === 2) return state.stageCompleted[4];
+        return false;
+    }
+
+    // 显示选手详情弹窗
+    function showCharModal(data) {
+        const modal = document.getElementById('modal');
+        const content = document.getElementById('modalContent');
+
+        const opponentId = findOpponentId(data.slotId);
+        const opponent = opponentId ? state.slots[opponentId] : null;
+        const canSelect = canSelectWinner(currentRound);
+        const isWinner = state.winners[data.slotId];
+        const opponentWinner = opponentId && state.winners[opponentId];
+
+        let buttons = '';
+        if (canSelect && !opponentWinner && opponent) {
+            if (isWinner) {
+                buttons = `<button class="modal-close" onclick="clearWinner('${data.slotId}')" style="background: #666;">取消晋级</button>`;
+            } else {
+                buttons = `<button class="modal-close" onclick="selectWinner('${data.slotId}')">选择晋级</button>`;
+            }
+        }
+
+        content.innerHTML = `
+            <div class="char-modal-content">
+                <div class="char-modal-header">
+                    <div>
+                        <div class="char-modal-name">${campIcons[data.camp]} ${data.name}</div>
+                        <div class="char-modal-code">${data.code}</div>
+                    </div>
+                </div>
+                <div class="char-modal-story">${data.story}</div>
+                <div class="char-modal-info">
+                    <div class="char-modal-info-item">
+                        <span class="char-modal-label">动机：</span>
+                        <span class="char-modal-value">${data.motive}</span>
+                    </div>
+                    <div class="char-modal-info-item">
+                        <span class="char-modal-label">年龄：</span>
+                        <span class="char-modal-value">${data.age}岁</span>
+                    </div>
+                </div>
+                ${buttons ? `<div style="margin-top: 20px;">${buttons}</div>` : ''}
+                <button class="modal-close" onclick="hideModal()" style="margin-top: 10px; background: transparent; border: 1px solid #666;">关闭</button>
+            </div>
+        `;
+        modal.classList.add('active');
+    }
+
+    // 选择胜者
+    function selectWinner(slotId) {
+        const data = state.slots[slotId];
+        if (!data) return;
+
+        const opponentId = findOpponentId(slotId);
+        const opponent = opponentId ? state.slots[opponentId] : null;
+
+        // 计算奖金
+        const bonus = calculateBonus(data.camp, opponent ? opponent.camp : data.camp);
+        const playerId = `${data.camp}-${data.idx}`;
+
+        if (!state.playerMoney[playerId]) state.playerMoney[playerId] = 0;
+        state.playerMoney[playerId] += bonus.amount;
+        state.campMoney[data.camp] += bonus.amount;
+
+        // 更新存活
+        if (opponentId && state.slots[opponentId]) {
+            state.campAlive[opponent.camp]--;
+        }
+
+        // 更新阶段胜者数
+        state.stageWinners[currentRound]++;
+
+        // 检查阶段完成
+        const required = currentRound === 32 ? 16 : currentRound === 16 ? 8 : currentRound === 8 ? 4 : currentRound === 4 ? 2 : 1;
+        if (state.stageWinners[currentRound] >= required) {
+            state.stageCompleted[currentRound] = true;
+        }
+
+        // 标记胜者
+        state.winners[slotId] = true;
+
+        // 晋级到下一轮
+        if (currentRound > 2) {
+            const nextRound = currentRound === 32 ? 16 : currentRound === 16 ? 8 : currentRound === 8 ? 4 : 2;
+            const matchIndex = parseInt(slotId.match(/\d+$/)[0]);
+            const nextSlotId = slotId.charAt(0) + nextRound + '-' + Math.floor(matchIndex / 2);
+            state.slots[nextSlotId] = { ...data, slotId: nextSlotId };
+        } else if (currentRound === 2) {
+            // 冠军
+            document.getElementById('championCard').innerHTML = `
+                <div class="champion-name">${campIcons[data.camp]} ${data.name}</div>
+                <div class="champion-camp">${campNames[data.camp]}之阵营 · ${data.code}</div>
+                <div class="champion-money">累计 💰 ${state.playerMoney[playerId].toLocaleString()}</div>
+            `;
+        }
+
+        hideModal();
+        renderPool();
+        renderBracket();
+        updateStageHint();
+        updateStats();
+    }
+
+    // 取消胜者
+    function clearWinner(slotId) {
+        // 简化版：刷新页面重置
+        hideModal();
+        showModal('提示', '取消晋级功能请使用重置按钮。');
+    }
+
+    // 找对手ID
+    function findOpponentId(slotId) {
+        const prefix = slotId.charAt(0);
+        const round = parseInt(slotId.match(/\d+/)[0]);
+        const index = parseInt(slotId.match(/\d+$/)[0]);
+
+        const roundKey = round;
+        if (!bracketStructure[roundKey]) return null;
+
+        const side = bracketStructure[roundKey][prefix === 'L' ? 'left' : 'right'];
+        const pairIndex = index % 2 === 0 ? index + 1 : index - 1;
+
+        if (pairIndex >= 0 && pairIndex < side.length) {
+            return side[pairIndex].id;
+        }
+        return null;
+    }
+
+    // 随机抽签
+    function drawNext() {
+        if (isDrawing) return;
+
+        const emptySlots = getAllEmptySlots();
+        if (emptySlots.length === 0) {
+            showModal('提示', '抽签已完成！');
+            return;
+        }
+
+        const availableCamps = Object.keys(characters).filter(camp => findFirstEmptySlot(camp) !== -1);
+        if (availableCamps.length === 0) {
+            showModal('提示', '无法继续抽签，规避规则导致无可用位置！');
+            return;
+        }
+
+        const camp = availableCamps[Math.floor(Math.random() * availableCamps.length)];
+        const position = findFirstEmptySlot(camp);
+
+        const availableChars = characters[camp].filter((_, idx) => !state.drawn.has(`${camp}-${idx}`));
+        const charIdx = Math.floor(Math.random() * availableChars.length);
+        const char = availableChars[charIdx];
+        const originalIdx = characters[camp].indexOf(char);
+
+        placeChar(camp, originalIdx, position);
+    }
+
+    // 一键抽满
+    async function autoDrawAll() {
+        if (isDrawing) return;
+
+        const emptySlots = getAllEmptySlots();
+        if (emptySlots.length === 0) {
+            showModal('提示', '抽签已完成！');
+            return;
+        }
+
+        document.getElementById('drawBtn').disabled = true;
+        document.getElementById('autoDrawBtn').disabled = true;
+
+        while (getAllEmptySlots().length > 0) {
+            const availableCamps = Object.keys(characters).filter(camp => findFirstEmptySlot(camp) !== -1);
+            if (availableCamps.length === 0) break;
+
+            const camp = availableCamps[Math.floor(Math.random() * availableCamps.length)];
+            const position = findFirstEmptySlot(camp);
+
+            const availableChars = characters[camp].filter((_, idx) => !state.drawn.has(`${camp}-${idx}`));
+            if (availableChars.length === 0) continue;
+
+            const charIdx = Math.floor(Math.random() * availableChars.length);
+            const char = availableChars[charIdx];
+            const originalIdx = characters[camp].indexOf(char);
+
+            // 直接放置，不显示动画
+            state.filledPositions[position] = true;
+            const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
+            state.slots[slotId] = { ...char, camp, idx: originalIdx, position: position + 1, slotId };
+            state.drawn.add(`${camp}-${originalIdx}`);
+
+            const zone = getZone(position);
+            if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
+            state.zoneCamps[zone].push(camp);
+
+            await new Promise(r => setTimeout(r, 50));
+        }
+
+        hideModal();
+        renderPool();
+        renderBracket();
+        updateCounter();
+        updateStageHint();
+        updateStats();
+
+        document.getElementById('drawBtn').disabled = true;
+        document.getElementById('autoDrawBtn').disabled = true;
+        showModal('抽签完成', '32强全部产生！请选择16强晋级选手。');
+    }
+
+    // 更新计数器
+    function updateCounter() {
+        const filled = state.filledPositions.filter(p => p).length;
+        document.getElementById('counter').textContent = `${filled}/32`;
+    }
+
+    // 更新阶段提示
+    function updateStageHint() {
+        const hint = document.getElementById('stageHint');
+        const emptySlots = getAllEmptySlots().length;
+
+        if (emptySlots > 0) {
+            hint.innerHTML = '<div>阶段：32强抽签中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需填满32个位置</div>';
+            hint.className = 'stage-hint';
+            currentRound = 32;
+        } else if (!state.stageCompleted[32]) {
+            const needed = 16 - state.stageWinners[32];
+            hint.innerHTML = `<div>阶段：16强晋级中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需选择16名胜者 (剩余${needed})</div>`;
+            hint.className = needed === 0 ? 'stage-hint completed' : 'stage-hint';
+            currentRound = 32;
+        } else if (!state.stageCompleted[16]) {
+            const needed = 8 - state.stageWinners[16];
+            hint.innerHTML = `<div>阶段：8强晋级中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需选择8名胜者 (剩余${needed})</div>`;
+            hint.className = needed === 0 ? 'stage-hint completed' : 'stage-hint';
+            currentRound = 16;
+        } else if (!state.stageCompleted[8]) {
+            const needed = 4 - state.stageWinners[8];
+            hint.innerHTML = `<div>阶段：半决赛晋级中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需选择4名胜者 (剩余${needed})</div>`;
+            hint.className = needed === 0 ? 'stage-hint completed' : 'stage-hint';
+            currentRound = 8;
+        } else if (!state.stageCompleted[4]) {
+            const needed = 2 - state.stageWinners[4];
+            hint.innerHTML = `<div>阶段：决赛晋级中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需选择2名胜者 (剩余${needed})</div>`;
+            hint.className = needed === 0 ? 'stage-hint completed' : 'stage-hint';
+            currentRound = 4;
+        } else if (!state.stageCompleted[2]) {
+            hint.innerHTML = '<div>阶段：冠军诞生</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">点击决赛选手查看详情</div>';
+            hint.className = 'stage-hint completed';
+            currentRound = 2;
+        } else {
+            hint.innerHTML = '<div>比赛结束</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">冠军已产生</div>';
+            hint.className = 'stage-hint completed';
+            currentRound = 2;
+        }
+    }
+
+    // 更新统计
+    function updateStats() {
+        // 计算当前可能的奖金
+        let minBonus = Infinity, maxBonus = 0;
+        Object.keys(state.campAlive).forEach(camp => {
+            const ownFactor = 9 - state.campAlive[camp];
+            Object.keys(state.campAlive).forEach(otherCamp => {
+                if (otherCamp !== camp) {
+                    const otherFactor = 9 - state.campAlive[otherCamp];
+                    const bonus = 500 * ownFactor * otherFactor;
+                    minBonus = Math.min(minBonus, bonus);
+                    maxBonus = Math.max(maxBonus, bonus);
+                }
+            });
+        });
+
+        if (minBonus === maxBonus) {
+            document.getElementById('multiplierValue').textContent = maxBonus.toLocaleString();
+        } else {
+            document.getElementById('multiplierValue').textContent = `${minBonus.toLocaleString()}-${maxBonus.toLocaleString()}`;
+        }
+
+        // 阵营统计
+        document.getElementById('campStats').innerHTML = Object.keys(campNames).map(camp => `
+            <div class="camp-stat-item">
+                <span><span class="camp-badge badge-${camp}">${campNames[camp]}</span> ${state.campAlive[camp]}人</span>
+                <span style="color: #ffd700;">${state.campMoney[camp].toLocaleString()}</span>
+            </div>
+        `).join('');
+    }
+
+    // 显示弹窗
+    function showModal(title, text) {
+        const modal = document.getElementById('modal');
+        const content = document.getElementById('modalContent');
+        content.innerHTML = `
+            <div class="modal-content draw-modal-content">
+                <div class="modal-title">${title}</div>
+                <div class="modal-text">${text}</div>
+                <button class="modal-close" onclick="hideModal()">确定</button>
+            </div>
+        `;
+        modal.classList.add('active');
+    }
+
+    // 显示抽签弹窗
+    function showDrawModal(char, camp, position) {
+        const modal = document.getElementById('modal');
+        const content = document.getElementById('modalContent');
+        content.innerHTML = `
+            <div class="modal-content draw-modal-content">
+                <div class="draw-camp" style="color: ${campColors[camp]}">${campNames[camp]}之阵营</div>
+                <div class="draw-name">${char.name}</div>
+                <div class="draw-position">签位 #${position}</div>
+            </div>
+        `;
+        modal.classList.add('active');
+    }
+
+    // 隐藏弹窗
+    function hideModal() {
+        document.getElementById('modal').classList.remove('active');
+    }
+
+    // 重置
+    function resetAll() {
+        state = {
             filledPositions: new Array(32).fill(false),
             drawn: new Set(),
             slots: {},
@@ -828,572 +1383,18 @@
             playerMoney: {},
             campMoney: { tiger: 0, bear: 0, ox: 0, hound: 0 }
         };
+        currentRound = 32;
+        isDrawing = false;
 
-        let currentRound = 32;
-        let isDrawing = false;
+        document.getElementById('drawBtn').disabled = false;
+        document.getElementById('autoDrawBtn').disabled = false;
+        document.getElementById('championCard').innerHTML = '<div class="champion-empty">待决赛完成</div>';
 
-        // 初始化
-        function init() {
-            renderPool();
-            renderBracket();
-            updateStageHint();
-            updateStats();
-        }
-
-        // 获取zone
-        function getZone(position) {
-            return Math.floor(position / 4);
-        }
-
-        // 检查可放置位置
-        function canPlaceAtPosition(position, camp) {
-            if (state.filledPositions[position]) return false;
-            const zone = getZone(position);
-            if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
-            return !state.zoneCamps[zone].includes(camp);
-        }
-
-        // 找第一个空位
-        function findFirstEmptySlot(camp) {
-            for (let pos = 0; pos < 32; pos++) {
-                if (canPlaceAtPosition(pos, camp)) return pos;
-            }
-            return -1;
-        }
-
-        // 获取所有空位
-        function getAllEmptySlots() {
-            const empty = [];
-            for (let pos = 0; pos < 32; pos++) {
-                if (!state.filledPositions[pos]) empty.push(pos + 1);
-            }
-            return empty;
-        }
-
-        // 计算奖金
-        function calculateBonus(winnerCamp, loserCamp) {
-            const ownAlive = state.campAlive[winnerCamp];
-            const otherAlive = state.campAlive[loserCamp];
-            return {
-                amount: 500 * (9 - ownAlive) * (9 - otherAlive),
-                ownFactor: 9 - ownAlive,
-                otherFactor: 9 - otherAlive
-            };
-        }
-
-        // 渲染选手池
-        function renderPool() {
-            const container = document.getElementById('poolContainer');
-            container.innerHTML = Object.keys(characters).map(camp => `
-                <div class="pool-camp-box">
-                    <div class="pool-camp-header badge-${camp}">${campIcons[camp]} ${campNames[camp]}之阵营</div>
-                    <div class="pool-characters">
-                        ${characters[camp].map((char, idx) => {
-                            const playerId = `${camp}-${idx}`;
-                            const money = state.playerMoney[playerId] || 0;
-                            const isDrawn = state.drawn.has(playerId);
-                            return `
-                                <div class="pool-char ${camp} ${isDrawn ? 'drawn' : ''} ${!isDrawn && findFirstEmptySlot(camp) === -1 ? 'disabled' : ''}"
-                                     onclick="onPoolCharClick('${camp}', ${idx})">
-                                    <span>${char.name}</span>
-                                    <span class="char-code">${money > 0 ? '💰' + money : char.code}</span>
-                                </div>
-                            `;
-                        }).join('')}
-                    </div>
-                </div>
-            `).join('');
-        }
-
-        // 点击选手池
-        function onPoolCharClick(camp, idx) {
-            if (isDrawing) return;
-            if (state.drawn.has(`${camp}-${idx}`)) return;
-
-            const position = findFirstEmptySlot(camp);
-            if (position === -1) {
-                showModal('提示', '没有可用的空位放置该阵营选手！每个1/8区已有该阵营选手。');
-                return;
-            }
-
-            placeChar(camp, idx, position);
-        }
-
-        // 放置选手
-        function placeChar(camp, idx, position) {
-            isDrawing = true;
-            const char = characters[camp][idx];
-            const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
-
-            state.filledPositions[position] = true;
-            state.slots[slotId] = { ...char, camp, idx, position: position + 1, slotId };
-            state.drawn.add(`${camp}-${idx}`);
-
-            const zone = getZone(position);
-            if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
-            state.zoneCamps[zone].push(camp);
-
-            showDrawModal(char, camp, position + 1);
-
-            setTimeout(() => {
-                renderPool();
-                renderBracket();
-                updateCounter();
-                updateStageHint();
-                updateStats();
-                isDrawing = false;
-
-                if (getAllEmptySlots().length === 0) {
-                    document.getElementById('drawBtn').disabled = true;
-                    document.getElementById('autoDrawBtn').disabled = true;
-                    hideModal();
-                    showModal('抽签完成', '32强全部产生！请选择16强晋级选手。');
-                } else {
-                    hideModal();
-                }
-            }, 800);
-        }
-
-        // 渲染对阵
-        function renderBracket() {
-            const container = document.getElementById('matchesList');
-            const roundData = bracketStructure[currentRound];
-            if (!roundData) return;
-
-            document.getElementById('bracketTitle').textContent = currentRound === 2 ? '决赛' : currentRound + '强对阵';
-
-            const matches = [];
-            const leftSide = roundData.left;
-            const rightSide = roundData.right;
-
-            for (let i = 0; i < leftSide.length; i += 2) {
-                const matchNum = Math.floor(i / 2) + 1;
-                const p1 = leftSide[i];
-                const p2 = leftSide[i + 1];
-                matches.push({ num: matchNum, p1, p2, side: '左' });
-            }
-
-            for (let i = 0; i < rightSide.length; i += 2) {
-                const matchNum = Math.floor(leftSide.length / 2) + Math.floor(i / 2) + 1;
-                const p1 = rightSide[i];
-                const p2 = rightSide[i + 1];
-                matches.push({ num: matchNum, p1, p2, side: '右' });
-            }
-
-            container.innerHTML = matches.map(m => {
-                const p1Data = state.slots[m.p1.id];
-                const p2Data = state.slots[m.p2.id];
-                const p1Winner = state.winners[m.p1.id];
-                const p2Winner = state.winners[m.p2.id];
-
-                return `
-                    <div class="match-item">
-                        <div class="match-number">${m.side}${m.num}</div>
-                        <div class="match-players">
-                            ${renderMatchPlayer(m.p1.id, p1Data, p1Winner, p2Winner)}
-                            <div class="vs-divider">VS</div>
-                            ${renderMatchPlayer(m.p2.id, p2Data, p2Winner, p1Winner)}
-                        </div>
-                    </div>
-                `;
-            }).join('');
-
-            // 显示冠军
-            if (state.stageCompleted[2]) {
-                document.getElementById('championSection').style.display = 'block';
-            } else {
-                document.getElementById('championSection').style.display = 'none';
-            }
-        }
-
-        // 渲染比赛选手
-        function renderMatchPlayer(slotId, data, isWinner, opponentIsWinner) {
-            if (!data) {
-                return `<div class="match-player empty">待定</div>`;
-            }
-
-            const playerId = `${data.camp}-${data.idx}`;
-            const money = state.playerMoney[playerId] || 0;
-            const isEliminated = opponentIsWinner && !isWinner;
-
-            return `
-                <div class="match-player ${data.camp} ${isWinner ? 'winner' : ''} ${isEliminated ? 'eliminated' : ''}"
-                     onclick="onMatchPlayerClick('${slotId}')">
-                    <div class="player-info">
-                        <div class="player-name">${campIcons[data.camp]} ${data.name}</div>
-                        <div class="player-meta">${data.code} · ${data.motive}</div>
-                    </div>
-                    ${money > 0 ? `<div class="player-money">💰${money.toLocaleString()}</div>` : ''}
-                </div>
-            `;
-        }
-
-        // 点击比赛选手
-        function onMatchPlayerClick(slotId) {
-            const data = state.slots[slotId];
-            if (!data) return;
-
-            // 检查是否可以选择胜者
-            if (!canSelectWinner(currentRound)) {
-                showModal('提示', '需先完成当前阶段！');
-                return;
-            }
-
-            // 显示详情弹窗
-            showCharModal(data);
-        }
-
-        // 检查是否可选择胜者
-        function canSelectWinner(round) {
-            if (round === 32) return getAllEmptySlots().length === 0;
-            if (round === 16) return state.stageCompleted[32];
-            if (round === 8) return state.stageCompleted[16];
-            if (round === 4) return state.stageCompleted[8];
-            if (round === 2) return state.stageCompleted[4];
-            return false;
-        }
-
-        // 显示选手详情弹窗
-        function showCharModal(data) {
-            const modal = document.getElementById('modal');
-            const content = document.getElementById('modalContent');
-
-            const opponentId = findOpponentId(data.slotId);
-            const opponent = opponentId ? state.slots[opponentId] : null;
-            const canSelect = canSelectWinner(currentRound);
-            const isWinner = state.winners[data.slotId];
-            const opponentWinner = opponentId && state.winners[opponentId];
-
-            let buttons = '';
-            if (canSelect && !opponentWinner && opponent) {
-                if (isWinner) {
-                    buttons = `<button class="modal-close" onclick="clearWinner('${data.slotId}')" style="background: #666;">取消晋级</button>`;
-                } else {
-                    buttons = `<button class="modal-close" onclick="selectWinner('${data.slotId}')">选择晋级</button>`;
-                }
-            }
-
-            content.innerHTML = `
-                <div class="char-modal-content">
-                    <div class="char-modal-header">
-                        <div>
-                            <div class="char-modal-name">${campIcons[data.camp]} ${data.name}</div>
-                            <div class="char-modal-code">${data.code}</div>
-                        </div>
-                    </div>
-                    <div class="char-modal-story">${data.story}</div>
-                    <div class="char-modal-info">
-                        <div class="char-modal-info-item">
-                            <span class="char-modal-label">动机：</span>
-                            <span class="char-modal-value">${data.motive}</span>
-                        </div>
-                        <div class="char-modal-info-item">
-                            <span class="char-modal-label">年龄：</span>
-                            <span class="char-modal-value">${data.age}岁</span>
-                        </div>
-                    </div>
-                    ${buttons ? `<div style="margin-top: 20px;">${buttons}</div>` : ''}
-                    <button class="modal-close" onclick="hideModal()" style="margin-top: 10px; background: transparent; border: 1px solid #666;">关闭</button>
-                </div>
-            `;
-            modal.classList.add('active');
-        }
-
-        // 选择胜者
-        function selectWinner(slotId) {
-            const data = state.slots[slotId];
-            if (!data) return;
-
-            const opponentId = findOpponentId(slotId);
-            const opponent = opponentId ? state.slots[opponentId] : null;
-
-            // 计算奖金
-            const bonus = calculateBonus(data.camp, opponent ? opponent.camp : data.camp);
-            const playerId = `${data.camp}-${data.idx}`;
-
-            if (!state.playerMoney[playerId]) state.playerMoney[playerId] = 0;
-            state.playerMoney[playerId] += bonus.amount;
-            state.campMoney[data.camp] += bonus.amount;
-
-            // 更新存活
-            if (opponentId && state.slots[opponentId]) {
-                state.campAlive[opponent.camp]--;
-            }
-
-            // 更新阶段胜者数
-            state.stageWinners[currentRound]++;
-
-            // 检查阶段完成
-            const required = currentRound === 32 ? 16 : currentRound === 16 ? 8 : currentRound === 8 ? 4 : currentRound === 4 ? 2 : 1;
-            if (state.stageWinners[currentRound] >= required) {
-                state.stageCompleted[currentRound] = true;
-            }
-
-            // 标记胜者
-            state.winners[slotId] = true;
-
-            // 晋级到下一轮
-            if (currentRound > 2) {
-                const nextRound = currentRound === 32 ? 16 : currentRound === 16 ? 8 : currentRound === 8 ? 4 : 2;
-                const matchIndex = parseInt(slotId.match(/\d+$/)[0]);
-                const nextSlotId = slotId.charAt(0) + nextRound + '-' + Math.floor(matchIndex / 2);
-                state.slots[nextSlotId] = { ...data, slotId: nextSlotId };
-            } else if (currentRound === 2) {
-                // 冠军
-                document.getElementById('championCard').innerHTML = `
-                    <div class="champion-name">${campIcons[data.camp]} ${data.name}</div>
-                    <div class="champion-camp">${campNames[data.camp]}之阵营 · ${data.code}</div>
-                    <div class="champion-money">累计 💰 ${state.playerMoney[playerId].toLocaleString()}</div>
-                `;
-            }
-
-            hideModal();
-            renderPool();
-            renderBracket();
-            updateStageHint();
-            updateStats();
-        }
-
-        // 取消胜者
-        function clearWinner(slotId) {
-            // 简化版：刷新页面重置
-            hideModal();
-            showModal('提示', '取消晋级功能请使用重置按钮。');
-        }
-
-        // 找对手ID
-        function findOpponentId(slotId) {
-            const prefix = slotId.charAt(0);
-            const round = parseInt(slotId.match(/\d+/)[0]);
-            const index = parseInt(slotId.match(/\d+$/)[0]);
-
-            const roundKey = round;
-            if (!bracketStructure[roundKey]) return null;
-
-            const side = bracketStructure[roundKey][prefix === 'L' ? 'left' : 'right'];
-            const pairIndex = index % 2 === 0 ? index + 1 : index - 1;
-
-            if (pairIndex >= 0 && pairIndex < side.length) {
-                return side[pairIndex].id;
-            }
-            return null;
-        }
-
-        // 随机抽签
-        function drawNext() {
-            if (isDrawing) return;
-
-            const emptySlots = getAllEmptySlots();
-            if (emptySlots.length === 0) {
-                showModal('提示', '抽签已完成！');
-                return;
-            }
-
-            const availableCamps = Object.keys(characters).filter(camp => findFirstEmptySlot(camp) !== -1);
-            if (availableCamps.length === 0) {
-                showModal('提示', '无法继续抽签，规避规则导致无可用位置！');
-                return;
-            }
-
-            const camp = availableCamps[Math.floor(Math.random() * availableCamps.length)];
-            const position = findFirstEmptySlot(camp);
-
-            const availableChars = characters[camp].filter((_, idx) => !state.drawn.has(`${camp}-${idx}`));
-            const charIdx = Math.floor(Math.random() * availableChars.length);
-            const char = availableChars[charIdx];
-            const originalIdx = characters[camp].indexOf(char);
-
-            placeChar(camp, originalIdx, position);
-        }
-
-        // 一键抽满
-        async function autoDrawAll() {
-            if (isDrawing) return;
-
-            const emptySlots = getAllEmptySlots();
-            if (emptySlots.length === 0) {
-                showModal('提示', '抽签已完成！');
-                return;
-            }
-
-            document.getElementById('drawBtn').disabled = true;
-            document.getElementById('autoDrawBtn').disabled = true;
-
-            while (getAllEmptySlots().length > 0) {
-                const availableCamps = Object.keys(characters).filter(camp => findFirstEmptySlot(camp) !== -1);
-                if (availableCamps.length === 0) break;
-
-                const camp = availableCamps[Math.floor(Math.random() * availableCamps.length)];
-                const position = findFirstEmptySlot(camp);
-
-                const availableChars = characters[camp].filter((_, idx) => !state.drawn.has(`${camp}-${idx}`));
-                if (availableChars.length === 0) continue;
-
-                const charIdx = Math.floor(Math.random() * availableChars.length);
-                const char = availableChars[charIdx];
-                const originalIdx = characters[camp].indexOf(char);
-
-                // 直接放置，不显示动画
-                state.filledPositions[position] = true;
-                const slotId = position < 16 ? `L32-${position}` : `R32-${position - 16}`;
-                state.slots[slotId] = { ...char, camp, idx: originalIdx, position: position + 1, slotId };
-                state.drawn.add(`${camp}-${originalIdx}`);
-
-                const zone = getZone(position);
-                if (!state.zoneCamps[zone]) state.zoneCamps[zone] = [];
-                state.zoneCamps[zone].push(camp);
-
-                await new Promise(r => setTimeout(r, 50));
-            }
-
-            hideModal();
-            renderPool();
-            renderBracket();
-            updateCounter();
-            updateStageHint();
-            updateStats();
-
-            document.getElementById('drawBtn').disabled = true;
-            document.getElementById('autoDrawBtn').disabled = true;
-            showModal('抽签完成', '32强全部产生！请选择16强晋级选手。');
-        }
-
-        // 更新计数器
-        function updateCounter() {
-            const filled = state.filledPositions.filter(p => p).length;
-            document.getElementById('counter').textContent = `${filled}/32`;
-        }
-
-        // 更新阶段提示
-        function updateStageHint() {
-            const hint = document.getElementById('stageHint');
-            const emptySlots = getAllEmptySlots().length;
-
-            if (emptySlots > 0) {
-                hint.innerHTML = '<div>阶段：32强抽签中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需填满32个位置</div>';
-                hint.className = 'stage-hint';
-                currentRound = 32;
-            } else if (!state.stageCompleted[32]) {
-                const needed = 16 - state.stageWinners[32];
-                hint.innerHTML = `<div>阶段：16强晋级中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需选择16名胜者 (剩余${needed})</div>`;
-                hint.className = needed === 0 ? 'stage-hint completed' : 'stage-hint';
-                currentRound = 32;
-            } else if (!state.stageCompleted[16]) {
-                const needed = 8 - state.stageWinners[16];
-                hint.innerHTML = `<div>阶段：8强晋级中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需选择8名胜者 (剩余${needed})</div>`;
-                hint.className = needed === 0 ? 'stage-hint completed' : 'stage-hint';
-                currentRound = 16;
-            } else if (!state.stageCompleted[8]) {
-                const needed = 4 - state.stageWinners[8];
-                hint.innerHTML = `<div>阶段：半决赛晋级中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需选择4名胜者 (剩余${needed})</div>`;
-                hint.className = needed === 0 ? 'stage-hint completed' : 'stage-hint';
-                currentRound = 8;
-            } else if (!state.stageCompleted[4]) {
-                const needed = 2 - state.stageWinners[4];
-                hint.innerHTML = `<div>阶段：决赛晋级中</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">需选择2名胜者 (剩余${needed})</div>`;
-                hint.className = needed === 0 ? 'stage-hint completed' : 'stage-hint';
-                currentRound = 4;
-            } else if (!state.stageCompleted[2]) {
-                hint.innerHTML = '<div>阶段：冠军诞生</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">点击决赛选手查看详情</div>';
-                hint.className = 'stage-hint completed';
-                currentRound = 2;
-            } else {
-                hint.innerHTML = '<div>比赛结束</div><div style="font-size: 0.85em; margin-top: 4px; color: #888;">冠军已产生</div>';
-                hint.className = 'stage-hint completed';
-                currentRound = 2;
-            }
-        }
-
-        // 更新统计
-        function updateStats() {
-            // 计算当前可能的奖金
-            let minBonus = Infinity, maxBonus = 0;
-            Object.keys(state.campAlive).forEach(camp => {
-                const ownFactor = 9 - state.campAlive[camp];
-                Object.keys(state.campAlive).forEach(otherCamp => {
-                    if (otherCamp !== camp) {
-                        const otherFactor = 9 - state.campAlive[otherCamp];
-                        const bonus = 500 * ownFactor * otherFactor;
-                        minBonus = Math.min(minBonus, bonus);
-                        maxBonus = Math.max(maxBonus, bonus);
-                    }
-                });
-            });
-
-            if (minBonus === maxBonus) {
-                document.getElementById('multiplierValue').textContent = maxBonus.toLocaleString();
-            } else {
-                document.getElementById('multiplierValue').textContent = `${minBonus.toLocaleString()}-${maxBonus.toLocaleString()}`;
-            }
-
-            // 阵营统计
-            document.getElementById('campStats').innerHTML = Object.keys(campNames).map(camp => `
-                <div class="camp-stat-item">
-                    <span><span class="camp-badge badge-${camp}">${campNames[camp]}</span> ${state.campAlive[camp]}人</span>
-                    <span style="color: #ffd700;">${state.campMoney[camp].toLocaleString()}</span>
-                </div>
-            `).join('');
-        }
-
-        // 显示弹窗
-        function showModal(title, text) {
-            const modal = document.getElementById('modal');
-            const content = document.getElementById('modalContent');
-            content.innerHTML = `
-                <div class="modal-content draw-modal-content">
-                    <div class="modal-title">${title}</div>
-                    <div class="modal-text">${text}</div>
-                    <button class="modal-close" onclick="hideModal()">确定</button>
-                </div>
-            `;
-            modal.classList.add('active');
-        }
-
-        // 显示抽签弹窗
-        function showDrawModal(char, camp, position) {
-            const modal = document.getElementById('modal');
-            const content = document.getElementById('modalContent');
-            content.innerHTML = `
-                <div class="modal-content draw-modal-content">
-                    <div class="draw-camp" style="color: ${campColors[camp]}">${campNames[camp]}之阵营</div>
-                    <div class="draw-name">${char.name}</div>
-                    <div class="draw-position">签位 #${position}</div>
-                </div>
-            `;
-            modal.classList.add('active');
-        }
-
-        // 隐藏弹窗
-        function hideModal() {
-            document.getElementById('modal').classList.remove('active');
-        }
-
-        // 重置
-        function resetAll() {
-            state = {
-                filledPositions: new Array(32).fill(false),
-                drawn: new Set(),
-                slots: {},
-                winners: {},
-                zoneCamps: {},
-                stageCompleted: { 32: false, 16: false, 8: false, 4: false, 2: false },
-                stageWinners: { 32: 0, 16: 0, 8: 0, 4: 0, 2: 0 },
-                campAlive: { tiger: 8, bear: 8, ox: 8, hound: 8 },
-                playerMoney: {},
-                campMoney: { tiger: 0, bear: 0, ox: 0, hound: 0 }
-            };
-            currentRound = 32;
-            isDrawing = false;
-
-            document.getElementById('drawBtn').disabled = false;
-            document.getElementById('autoDrawBtn').disabled = false;
-            document.getElementById('championCard').innerHTML = '<div class="champion-empty">待决赛完成</div>';
-
-            init();
-        }
-
-        // 启动
         init();
-    </script>
+    }
+
+    // 启动
+    init();
+</script>
 </body>
 </html>

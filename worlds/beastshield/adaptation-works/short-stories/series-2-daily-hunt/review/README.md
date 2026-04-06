@@ -6,20 +6,20 @@
 
 ## 阅读导航
 
-| 编号 | 故事标题 | 读后感文件 | 核心亮点 |
-|------|----------|-----------|----------|
-| 01 | 废弃仓库 | [01-warehouse-review.md](01-warehouse-review.md) | 开篇之作，确立系列基调 |
-| 02 | 醉汉猎场 | [02-drunk-hunt-review.md](02-drunk-hunt-review.md) | 醉酒状态的脆弱与荒诞 |
-| 03 | 巡逻队截杀 | [03-patrol-intercept-review.md](03-patrol-intercept-review.md) | 多目标连续击杀的爽快感 |
-| 04 | 便利店零时 | [04-convenience-night-review.md](04-convenience-night-review.md) | 深夜便利店的偶遇 |
-| 05 | 雨夜便利店 | [05-rainy-convenience-review.md](05-rainy-convenience-review.md) | 环境氛围与心理压迫 |
-| 06 | 憋尿急行者 | [06-urgent-pee-review.md](06-urgent-pee-review.md) | 生理需求的致命弱点 |
-| 07 | 内讧双杀 | [07-internal-conflict-review.md](07-internal-conflict-review.md) | 渔翁得利的巧妙设计 |
-| 08 | 师徒带新 | [08-mentor-mentee-review.md](08-mentor-mentee-review.md) | 老带新的残酷传承 |
-| 09 | 约会截杀 | [09-date-intercept-review.md](09-date-intercept-review.md) | 偷情场景的紧张刺激 |
-| 10 | 工地陷阱 | [10-construction-site-review.md](10-construction-site-review.md) | 大规模击杀的战术盛宴 |
-| 11 | 停电夜猎 | [11-blackout-review.md](11-blackout-review.md) | 黑暗中的猎杀游戏 |
-| 12 | 深夜停车场 | [12-parking-lot-review.md](12-parking-lot-review.md) | 详细解锁机制的完美演绎 |
+| 编号 | 故事标题  | 读后感文件                                                            | 核心亮点        |
+|----|-------|------------------------------------------------------------------|-------------|
+| 01 | 废弃仓库  | [01-warehouse-review.md](01-warehouse-review.md)                 | 开篇之作，确立系列基调 |
+| 02 | 醉汉猎场  | [02-drunk-hunt-review.md](02-drunk-hunt-review.md)               | 醉酒状态的脆弱与荒诞  |
+| 03 | 巡逻队截杀 | [03-patrol-intercept-review.md](03-patrol-intercept-review.md)   | 多目标连续击杀的爽快感 |
+| 04 | 便利店零时 | [04-convenience-night-review.md](04-convenience-night-review.md) | 深夜便利店的偶遇    |
+| 05 | 雨夜便利店 | [05-rainy-convenience-review.md](05-rainy-convenience-review.md) | 环境氛围与心理压迫   |
+| 06 | 憋尿急行者 | [06-urgent-pee-review.md](06-urgent-pee-review.md)               | 生理需求的致命弱点   |
+| 07 | 内讧双杀  | [07-internal-conflict-review.md](07-internal-conflict-review.md) | 渔翁得利的巧妙设计   |
+| 08 | 师徒带新  | [08-mentor-mentee-review.md](08-mentor-mentee-review.md)         | 老带新的残酷传承    |
+| 09 | 约会截杀  | [09-date-intercept-review.md](09-date-intercept-review.md)       | 偷情场景的紧张刺激   |
+| 10 | 工地陷阱  | [10-construction-site-review.md](10-construction-site-review.md) | 大规模击杀的战术盛宴  |
+| 11 | 停电夜猎  | [11-blackout-review.md](11-blackout-review.md)                   | 黑暗中的猎杀游戏    |
+| 12 | 深夜停车场 | [12-parking-lot-review.md](12-parking-lot-review.md)             | 详细解锁机制的完美演绎 |
 
 ---
 
@@ -27,7 +27,8 @@
 
 ### 系列定位
 
-Series 2《日常猎杀》作为《兽盾宇宙》的衍生系列，成功地在原作主线之外开辟了一片"日常向"的猎杀天地。如果说原作是精心编排的交响乐，那么Series 2就是即兴演奏的爵士乐——更加自由、更加随性，却同样充满张力。
+Series 2《日常猎杀》作为《兽盾宇宙》的衍生系列，成功地在原作主线之外开辟了一片"日常向"
+的猎杀天地。如果说原作是精心编排的交响乐，那么Series 2就是即兴演奏的爵士乐——更加自由、更加随性，却同样充满张力。
 
 ### v3版本的进化
 
@@ -40,12 +41,14 @@ Series 2《日常猎杀》作为《兽盾宇宙》的衍生系列，成功地在
 ### 写作风格感受
 
 **优点**：
+
 - 第一人称视角带来的强烈代入感
 - 细腻的五维描写（心理、神态、动作、环境、语言）
 - 对兽人肉体的细致刻画（脂包肌、白袜、制服等XP元素）
 - 游戏化叙事与情色描写的巧妙融合
 
 **独特之处**：
+
 - 每个受害者都有自己的"最后时刻"，不是简单的数字
 - 主角的"游戏心态"与读者的"阅读体验"形成有趣的互文
 - 在暴力与情色之间找到了独特的平衡点
@@ -53,11 +56,13 @@ Series 2《日常猎杀》作为《兽盾宇宙》的衍生系列，成功地在
 ### 角色感受
 
 **主角**：
+
 - 既是猎人，也是玩家
 - 既有冷酷的计算，也有即兴的放纵
 - 随着故事推进，从单纯的杀戮逐渐转向更精细的"游戏"
 
 **兽盾员工（受害者们）**：
+
 - 每个角色都有自己的性格和弱点
 - 醉酒者、嗜睡者、尿急者、偷情者...每个人都有致命的软肋
 - 在死亡面前，制服和身份都变得毫无意义
@@ -69,6 +74,7 @@ Series 2《日常猎杀》作为《兽盾宇宙》的衍生系列，成功地在
 **按编号顺序**：从01到12，体验系列的进化历程
 
 **按主题分类**：
+
 - 状态利用：02（醉酒）、04-05（瞌睡）、06（尿急）
 - 环境击杀：10（工地）、11（停电）
 - 心理博弈：07（内讧）、08（师徒）、09（约会）

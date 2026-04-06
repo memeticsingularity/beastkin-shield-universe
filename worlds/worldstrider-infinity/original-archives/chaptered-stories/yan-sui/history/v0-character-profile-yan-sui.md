@@ -6,21 +6,22 @@
 
 ## 一、基本信息
 
-| 项目 | 内容 |
-|------|------|
-| **种族** | 虎兽人（Tiger Beastkin）【原作+改编】 |
-| **所属组织** | 兽盾公司（Beastshield）G级杂兵 【原作+改编】 |
-| **制服** | 军绿色紧身短袖制服，左肩有兽盾盾牌LOGO 【原作：正文】 |
+| 项目       | 内容                                |
+|----------|-----------------------------------|
+| **种族**   | 虎兽人（Tiger Beastkin）【原作+改编】        |
+| **所属组织** | 兽盾公司（Beastshield）G级杂兵 【原作+改编】     |
+| **制服**   | 军绿色紧身短袖制服，左肩有兽盾盾牌LOGO 【原作：正文】     |
 | **名字含义** | "像岩石一样坚韧，如年岩般长命百岁"——家人所起 【原作：岩岁1】 |
-| **父亲** | 岩参（前兽盾员工，已退休/已故） 【原作：岩岁2】 |
-| **同事** | 岳池（棕熊兽人，同期入职） 【原作：正文】 |
-| **上司** | 仇染（白狼兽人，队长） 【原作：正文+岩岁1】 |
+| **父亲**   | 岩参（前兽盾员工，已退休/已故） 【原作：岩岁2】         |
+| **同事**   | 岳池（棕熊兽人，同期入职） 【原作：正文】             |
+| **上司**   | 仇染（白狼兽人，队长） 【原作：正文+岩岁1】           |
 
 ---
 
 ## 二、原作设定（兽盾编年史/Beastshield Chronicles）
 
 ### 2.1 原作中的角色定位
+
 **【来源：正文 ch-1-the-rabbits-shadow.md】**
 
 在原作《白兔暗影》中，岩岁是一个**典型的G级杂兵配角**。他的出场时间极短（仅第一章），主要作用是：
@@ -31,13 +32,16 @@
 - 引出"兔子袭击"这一关键剧情线索
 
 原文描述：
-> "一只虎背熊腰的虎兽，以及一旁说话的是头左眼带疤、满脸横肉皮笑肉不笑的棕熊。仔细一看，那抹绿色制服的左肩位置，上面还有个由两条线条构成的盾牌LOGO。"
+> "
+>
+一只虎背熊腰的虎兽，以及一旁说话的是头左眼带疤、满脸横肉皮笑肉不笑的棕熊。仔细一看，那抹绿色制服的左肩位置，上面还有个由两条线条构成的盾牌LOGO。"
 
 > "虎兽卸下腰带上的绳子，准备将其五花大绑带走。"
 
 > "刹那间白狼的爪子狠狠捏住制服下饱满的卵蛋，虎兽顿时浑身一震全身瘫软的靠在房间的墙壁上..."
 
 ### 2.2 原作中的结局
+
 **【来源：正文 ch-1-the-rabbits-shadow.md】**
 
 岩岁与岳池因任务失败（关键证人被虚逸救走）被队长仇染**公开处决**：
@@ -48,7 +52,9 @@
 4. 尸体被抛至角落，后被后勤部队清理
 
 原文：
-> "确认虎兽死亡后，白狼厌弃地看着被虎兽人前列腺液与精液混杂打湿的鞋子，他随意将尸体抛至一旁的角落发散精臭味..."
+> "
+>
+确认虎兽死亡后，白狼厌弃地看着被虎兽人前列腺液与精液混杂打湿的鞋子，他随意将尸体抛至一旁的角落发散精臭味..."
 
 ### 2.3 原作者补充的角色设定
 
@@ -57,6 +63,7 @@
 **由原作者Author设计（第一部分）与原作者对象设计（第二部分）组成：**
 
 **第一部分（作者对象设计——亲密关系与特殊体质）：**
+
 - 岩岁与仇染是**秘密情侣关系**，未公开，仅二人知晓
 - 岩岁拥有**特殊体质**：射精后不会死亡（与常规G级员工不同）
 - 该体质需由特定对象（仇染）触发射精才会激活
@@ -64,6 +71,7 @@
 - 效果推测为一次性，可能通过性行为触发
 
 **第二部分（原作者Author设计——性格与背景）：**
+
 - 名字由来：家人希望他"像岩石一样坚韧，长命百岁"
 - 岩岁本人不反感这个名字，珍视家人的心意
 - **本性底色**：老实、憨厚、淳朴
@@ -78,6 +86,7 @@
 **原作者Author创作的父子温情回忆故事，为原作重要补充：**
 
 **童年回忆（岩岁约4-5岁）：**
+
 - 岩参下班后穿着制服回家，身上带有汗酸味
 - 父子一起洗澡的温馨时光——岩参作为"肉垫"托举着岩岁
 - 岩岁调皮地掐父亲乳头，被岩参教育"这种地方不能乱碰"
@@ -87,6 +96,7 @@
 - **"交流券"的诞生**：岩参手写一沓券，承诺"无论如何都一定会和你好好说话"
 
 **成年后的孤独（岩参死后）：**
+
 - 新年期间，岩岁独自带着酒去父亲墓前
 - 醉酒后的哭诉："岁岁没能成为一个顶天立地的男子汉"
 - **烧"交流券"**：将珍贵的交流券点燃，呼唤父亲来梦中相见
@@ -102,27 +112,32 @@
 **原作者Author提供的完整背景设定：**
 
 **家庭背景：**
+
 - 单亲家庭，由父亲岩参抚养长大
 - 父亲岩参是**前兽盾员工**，在"牙董事长"上任导致兽盾变质前退休
 - 岩岁在父亲及前兽盾同事影响下成长，童年对兽盾的第一印象并非污浊
 
 **兽盾质变前后：**
+
 - 牙董事长上任后，兽盾发生180度大转变，从"兽民后盾"变成暴政工具
 - 岩岁父亲因抗议现任兽盾暴行，被兽盾兵暴力殴打致残，卧床不起
 - 岩岁工作的便利店因交不起保护费被兽盾捣毁倒闭
 
 **入职兽盾的动机：**
+
 - 为养活重伤残疾的父亲，**瞒着父亲**偷偷入职兽盾
 - 因思想背景良好，在兽盾内部不受待见
 - 但只要收到父亲家书、相信父亲能康复，就觉得值得
 
 **悲剧高潮（遇袭与丧父）：**
+
 - 岩岁在自家附近执勤时遭憎恨兽盾的民众伏击，被匕首捅伤腰部
 - 被父亲岩参救回家中
 - 岩参出门寻友商议后，遭同一伙人报复杀害
 - 岩参留下遗言："不要怨恨具体的某群人，要恨某种行为或概念"
 
 **结局（原作世界线）：**
+
 - 父亲死后，岩岁在兽盾中迷茫地生存
 - 最终在《白兔暗影》中被仇染处决
 
@@ -131,6 +146,7 @@
 ## 三、改编追加内容（万界巡行：无限 / Worldstrider Infinity）
 
 ### 3.1 核心改编：从死亡到救赎
+
 **【来源：0.md / ch-1-1.md / ch-1-2.md】**
 
 在改编作品《救赎之棱镜》系列中，岩岁的命运发生了根本性转变：
@@ -142,6 +158,7 @@
 > "因为你在发抖。"奇点说，"我看到你在发抖。不是害怕的那种抖，是……疼到骨头里的那种抖。我受不了。"
 
 **救赎过程：**
+
 1. 时间冻结在仇染靴子碾轧最狠的瞬间
 2. 奇点出现在濒死的岩岁面前，提供"离开这里"的选择
 3. 岩岁倾诉其完整背景（父亲、兽盾、内心挣扎）
@@ -150,12 +167,14 @@
 6. 奇点将岩岁转移至"万象庭院"——一个完全属于他的安全空间
 
 **改编结局（新世界线）：**
+
 - 原世界线中，岩岁"死亡"在仇染处刑下
 - 新世界中，岩岁在万象庭院获得新生，腰伤得到治疗
 
 ### 3.2 改编追加的人物关系
 
 #### 奇点 × 岩岁
+
 **【来源：ch-1-1.md / ch-1-2.md / ch-2-1.md / ch-3-1.md】**
 
 - **相遇**：奇点作为"玩家"介入原作世界，在岩岁濒死时将其救出
@@ -165,6 +184,7 @@
 - **后续发展**：在万象庭院中共同生活，奇点为岩岁准备"惊喜"（关于父亲）
 
 #### 岩参的复活
+
 **【来源：ch-3-1.md】**
 
 改编作品中最重大的设定追加：奇点在救下岩岁后，再次穿越时空，在岩参被杀的当晚将其救下。
@@ -194,15 +214,15 @@
 
 ## 四、原作与改编对比表
 
-| 维度 | 原作设定 | 改编追加 |
-|------|----------|----------|
-| **结局** | 被仇染处决，尸体被清理 | 被奇点救出，转移至万象庭院获得新生 |
-| **父亲** | 岩参已死亡，是岩岁痛苦的根源 | 奇点穿越时空救下岩参，父子将在万象庭院重逢 |
-| **感情线** | 与仇染有秘密情侣关系（未在原作正文展现） | 与奇点建立伴侣关系，虎尾缠绕作为信任象征 |
-| **性格展现** | 通过作者设定文件侧面描写 | 通过大量内心独白、对话、行为细节正面展现 |
-| **故事长度** | 仅第一章出场，光速下线 | 作为主角展开完整救赎故事线（多章连载） |
-| **形象定位** | 炮灰配角，用于展示世界观残酷性 | 悲剧英雄，代表"良心未泯者在黑暗中挣扎"的主题 |
-| **死亡设定** | 遵循G级员工"射精即死"的通用规则 | 追加"特殊体质"设定：射精后不死，转化为奴仆（来自原作设定但未在正文使用） |
+| 维度       | 原作设定                 | 改编追加                                  |
+|----------|----------------------|---------------------------------------|
+| **结局**   | 被仇染处决，尸体被清理          | 被奇点救出，转移至万象庭院获得新生                     |
+| **父亲**   | 岩参已死亡，是岩岁痛苦的根源       | 奇点穿越时空救下岩参，父子将在万象庭院重逢                 |
+| **感情线**  | 与仇染有秘密情侣关系（未在原作正文展现） | 与奇点建立伴侣关系，虎尾缠绕作为信任象征                  |
+| **性格展现** | 通过作者设定文件侧面描写         | 通过大量内心独白、对话、行为细节正面展现                  |
+| **故事长度** | 仅第一章出场，光速下线          | 作为主角展开完整救赎故事线（多章连载）                   |
+| **形象定位** | 炮灰配角，用于展示世界观残酷性      | 悲剧英雄，代表"良心未泯者在黑暗中挣扎"的主题               |
+| **死亡设定** | 遵循G级员工"射精即死"的通用规则    | 追加"特殊体质"设定：射精后不死，转化为奴仆（来自原作设定但未在正文使用） |
 
 ---
 
@@ -212,9 +232,12 @@
 
 **叙事功能层面：**
 
-岩岁这个角色展示了**小角色如何承载大主题**。在原作中，他仅出场一章便死亡，但其设定文件揭示了他背后完整的悲剧链条：理想的幻灭、家庭的破碎、良知的挣扎。这种"冰山式"的写作手法让读者在短暂的相遇后，通过设定补完感受到强烈的情感冲击。
+岩岁这个角色展示了**小角色如何承载大主题**
+。在原作中，他仅出场一章便死亡，但其设定文件揭示了他背后完整的悲剧链条：理想的幻灭、家庭的破碎、良知的挣扎。这种"
+冰山式"的写作手法让读者在短暂的相遇后，通过设定补完感受到强烈的情感冲击。
 
 从**角色对比**角度看，岩岁与岳池形成鲜明对照：
+
 - 岩岁：良知未泯，与环境格格不入，痛苦挣扎
 - 岳池：彻底适应，如鱼得水，享受权力
 
@@ -222,31 +245,42 @@
 
 **改编作品的价值：**
 
-改编作品《救赎之棱镜》赋予了岩岁这个角色**被看见的权利**。原作中他是沉默的牺牲品，改编中他获得了倾诉的机会，他的痛苦被倾听，他的善良被肯定，他的未来有了可能。这种改写本身是对"炮灰角色"命运的一种meta-commentary。
+改编作品《救赎之棱镜》赋予了岩岁这个角色**被看见的权利**
+。原作中他是沉默的牺牲品，改编中他获得了倾诉的机会，他的痛苦被倾听，他的善良被肯定，他的未来有了可能。这种改写本身是对"
+炮灰角色"命运的一种meta-commentary。
 
 ### 5.2 感性分析
 
 岩岁是一个让人**心疼**的角色。
 
-他不是因为做错了什么而遭受苦难，恰恰是因为他还**保持着做对的事的能力**而痛苦。在兽盾那个"好人活不下去"的环境里，他偷偷塞给老太太的那张钞票、背着队友松开的绳子、假装凶狠后悄悄安抚目标的温柔——这些"小动作"是他作为"人"的倔强证明。
+他不是因为做错了什么而遭受苦难，恰恰是因为他还**保持着做对的事的能力**而痛苦。在兽盾那个"好人活不下去"
+的环境里，他偷偷塞给老太太的那张钞票、背着队友松开的绳子、假装凶狠后悄悄安抚目标的温柔——这些"小动作"
+是他作为"人"的倔强证明。
 
-最打动人的是他与父亲的关系。岩参留给他的那句"不要怨恨具体的某群人，要恨某种行为或概念"，是在极端仇恨中最难得的理性光芒。而岩岁在失去父亲后依然选择保留善意，这是对父亲最好的纪念。
+最打动人的是他与父亲的关系。岩参留给他的那句"不要怨恨具体的某群人，要恨某种行为或概念"
+，是在极端仇恨中最难得的理性光芒。而岩岁在失去父亲后依然选择保留善意，这是对父亲最好的纪念。
 
-改编作品中，当他用虎尾缠绕奇点手腕的那一刻，那种**本能的信任**让人动容。这是一个被世界伤害得体无完肤的灵魂，在确认安全后，做出的最原始的亲近举动。那个动作比任何语言都更有力量。
+改编作品中，当他用虎尾缠绕奇点手腕的那一刻，那种**本能的信任**
+让人动容。这是一个被世界伤害得体无完肤的灵魂，在确认安全后，做出的最原始的亲近举动。那个动作比任何语言都更有力量。
 
 ### 5.3 个人点评
 
 **关于原作：**
 
-Author老师创造了一个极具张力的角色。岩岁的悲剧性不在于他死了，而在于**他本可以不这样**。如果兽盾没有变质，如果便利店没有倒闭，如果父亲没有抗议——任何一个环节的微小改变，都可能让他过上平凡而正直的生活。这种"被时代碾压的小人物"叙事，有着经典悲剧的力量。
+Author老师创造了一个极具张力的角色。岩岁的悲剧性不在于他死了，而在于**他本可以不这样**
+。如果兽盾没有变质，如果便利店没有倒闭，如果父亲没有抗议——任何一个环节的微小改变，都可能让他过上平凡而正直的生活。这种"
+被时代碾压的小人物"叙事，有着经典悲剧的力量。
 
 **关于改编：**
 
-能够参与这个角色的改编创作是一种荣幸。在撰写《救赎之棱镜》的过程中，我试图回答一个问题：**什么才是真正的救赎**？
+能够参与这个角色的改编创作是一种荣幸。在撰写《救赎之棱镜》的过程中，我试图回答一个问题：**什么才是真正的救赎
+**？
 
-不是简单地让他活下来，而是让他被看见、被理解、被爱着。奇点对岩岁的告白，其实也是对这个角色本身的肯定——"我爱你的善良，爱它即使在最污浊的泥潭里，也没有被彻底染黑"。
+不是简单地让他活下来，而是让他被看见、被理解、被爱着。奇点对岩岁的告白，其实也是对这个角色本身的肯定——"
+我爱你的善良，爱它即使在最污浊的泥潭里，也没有被彻底染黑"。
 
-穿越时空救下岩参的设定，是对岩岁"最大遗憾"的回应。父子重逢的场景虽然还未完全展开，但那将是整个改编故事的情感高潮——**活着的人等到了救他的人，死去的人也被从时间里捞起**。
+穿越时空救下岩参的设定，是对岩岁"最大遗憾"的回应。父子重逢的场景虽然还未完全展开，但那将是整个改编故事的情感高潮——
+**活着的人等到了救他的人，死去的人也被从时间里捞起**。
 
 ### 5.4 致谢
 
@@ -261,22 +295,40 @@ Author老师创造了一个极具张力的角色。岩岁的悲剧性不在于�
 ## 六、参考资料与来源标注
 
 ### 原作来源（兽盾编年史）
-1. **正文**：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/chinese/ch-1-the-rabbits-shadow.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/chinese/ch-1-the-rabbits-shadow.md)
-2. **基础设定**：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md)
-3. **岩岁1设定**：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-1.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-1.md) 与 [05-yan-sui-1-2.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-2.md)
-4. **岩岁2设定**：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-1.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-1.md) 与 [05-yan-sui-2-2.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-2.md)
-5. **父子回忆故事**：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md)
-6. **岳池设定**：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/05-yue-chi.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/05-yue-chi.md)
+
+1. **正文
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/chinese/ch-1-the-rabbits-shadow.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/chinese/ch-1-the-rabbits-shadow.md)
+2. **基础设定
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md)
+3. **岩岁1设定
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-1.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-1.md)
+   与 [05-yan-sui-1-2.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-2.md)
+4. **岩岁2设定
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-1.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-1.md)
+   与 [05-yan-sui-2-2.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-2.md)
+5. **父子回忆故事
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md)
+6. **岳池设定
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/05-yue-chi.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/05-yue-chi.md)
 
 ### 改编来源（万界巡行：无限）
-1. **卷首**：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0.md)
-2. **修正/补充**：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md)
-3. **第一章（首版）**：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-1.md)
-4. **第一章（修订版）**：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-2.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-2.md)
-5. **第二章**：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-2-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-2-1.md)
-6. **第三章**：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-3-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-3-1.md)
-7. **角色画像总结**：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/yan-sui.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/yan-sui.md)
-8. **作者讨论**：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/chat/20260101.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/chat/20260101.md)
+
+1. **卷首
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0.md)
+2. **修正/补充
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md)
+3. **第一章（首版）
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-1.md)
+4. **第一章（修订版）
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-2.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-2.md)
+5. **第二章
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-2-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-2-1.md)
+6. **第三章
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-3-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-3-1.md)
+7. **角色画像总结
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/yan-sui.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/yan-sui.md)
+8. **作者讨论
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/chat/20260101.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/chat/20260101.md)
 
 ---
 

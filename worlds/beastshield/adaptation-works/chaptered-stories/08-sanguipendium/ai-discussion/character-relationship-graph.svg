@@ -1,464 +1,544 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" width="1600" height="1200">
-  <defs>
-    <!-- 渐变定义 -->
-    <linearGradient id="oxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:0.3"/>
-      <stop offset="100%" style="stop-color:#654321;stop-opacity:0.5"/>
-    </linearGradient>
-    <linearGradient id="tigerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF8C00;stop-opacity:0.3"/>
-      <stop offset="100%" style="stop-color:#FF6347;stop-opacity:0.5"/>
-    </linearGradient>
-    <linearGradient id="bearGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#8B7355;stop-opacity:0.3"/>
-      <stop offset="100%" style="stop-color:#6B4423;stop-opacity:0.5"/>
-    </linearGradient>
-    <linearGradient id="houndGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#708090;stop-opacity:0.3"/>
-      <stop offset="100%" style="stop-color:#2F4F4F;stop-opacity:0.5"/>
-    </linearGradient>
+    <defs>
+        <!-- 渐变定义 -->
+        <linearGradient id="oxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#8B4513;stop-opacity:0.3"/>
+            <stop offset="100%" style="stop-color:#654321;stop-opacity:0.5"/>
+        </linearGradient>
+        <linearGradient id="tigerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#FF8C00;stop-opacity:0.3"/>
+            <stop offset="100%" style="stop-color:#FF6347;stop-opacity:0.5"/>
+        </linearGradient>
+        <linearGradient id="bearGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#8B7355;stop-opacity:0.3"/>
+            <stop offset="100%" style="stop-color:#6B4423;stop-opacity:0.5"/>
+        </linearGradient>
+        <linearGradient id="houndGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#708090;stop-opacity:0.3"/>
+            <stop offset="100%" style="stop-color:#2F4F4F;stop-opacity:0.5"/>
+        </linearGradient>
 
-    <!-- 箭头标记 -->
-    <marker id="arrowDebt" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#DC143C"/>
-    </marker>
-    <marker id="arrowFriend" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#228B22"/>
-    </marker>
-    <marker id="arrowEnemy" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#8B0000"/>
-    </marker>
-    <marker id="arrowFamily" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#4169E1"/>
-    </marker>
-  </defs>
+        <!-- 箭头标记 -->
+        <marker id="arrowDebt" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"
+                markerUnits="strokeWidth">
+            <path d="M0,0 L0,6 L9,3 z" fill="#DC143C"/>
+        </marker>
+        <marker id="arrowFriend" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"
+                markerUnits="strokeWidth">
+            <path d="M0,0 L0,6 L9,3 z" fill="#228B22"/>
+        </marker>
+        <marker id="arrowEnemy" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"
+                markerUnits="strokeWidth">
+            <path d="M0,0 L0,6 L9,3 z" fill="#8B0000"/>
+        </marker>
+        <marker id="arrowFamily" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"
+                markerUnits="strokeWidth">
+            <path d="M0,0 L0,6 L9,3 z" fill="#4169E1"/>
+        </marker>
+    </defs>
 
-  <!-- 背景 -->
-  <rect width="1600" height="1200" fill="#1a1a2e"/>
+    <!-- 背景 -->
+    <rect width="1600" height="1200" fill="#1a1a2e"/>
 
-  <!-- 标题 -->
-  <text x="800" y="40" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">血酬淘汰赛 32强选手关系图</text>
+    <!-- 标题 -->
+    <text x="800" y="40" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">血酬淘汰赛
+        32强选手关系图
+    </text>
 
-  <!-- 图例 -->
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="280" height="200" fill="#16213e" rx="10" stroke="#0f3460" stroke-width="2"/>
-    <text x="140" y="30" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">关系类型图例</text>
+    <!-- 图例 -->
+    <g transform="translate(50, 80)">
+        <rect x="0" y="0" width="280" height="200" fill="#16213e" rx="10" stroke="#0f3460"
+              stroke-width="2"/>
+        <text x="140" y="30" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">
+            关系类型图例
+        </text>
 
-    <line x1="20" y1="55" x2="80" y2="55" stroke="#DC143C" stroke-width="2" marker-end="url(#arrowDebt)"/>
-    <text x="90" y="60" fill="#DC143C" font-size="12">债务/经济关联</text>
+        <line x1="20" y1="55" x2="80" y2="55" stroke="#DC143C" stroke-width="2"
+              marker-end="url(#arrowDebt)"/>
+        <text x="90" y="60" fill="#DC143C" font-size="12">债务/经济关联</text>
 
-    <line x1="20" y1="80" x2="80" y2="80" stroke="#228B22" stroke-width="2" marker-end="url(#arrowFriend)"/>
-    <text x="90" y="85" fill="#228B22" font-size="12">友谊/互助关系</text>
+        <line x1="20" y1="80" x2="80" y2="80" stroke="#228B22" stroke-width="2"
+              marker-end="url(#arrowFriend)"/>
+        <text x="90" y="85" fill="#228B22" font-size="12">友谊/互助关系</text>
 
-    <line x1="20" y1="105" x2="80" y2="105" stroke="#8B0000" stroke-width="2" marker-end="url(#arrowEnemy)"/>
-    <text x="90" y="110" fill="#8B0000" font-size="12">敌对/宿敌关系</text>
+        <line x1="20" y1="105" x2="80" y2="105" stroke="#8B0000" stroke-width="2"
+              marker-end="url(#arrowEnemy)"/>
+        <text x="90" y="110" fill="#8B0000" font-size="12">敌对/宿敌关系</text>
 
-    <line x1="20" y1="130" x2="80" y2="130" stroke="#4169E1" stroke-width="2" marker-end="url(#arrowFamily)"/>
-    <text x="90" y="135" fill="#4169E1" font-size="12">家人/过去关联</text>
+        <line x1="20" y1="130" x2="80" y2="130" stroke="#4169E1" stroke-width="2"
+              marker-end="url(#arrowFamily)"/>
+        <text x="90" y="135" fill="#4169E1" font-size="12">家人/过去关联</text>
 
-    <circle cx="50" cy="165" r="8" fill="#8B4513"/>
-    <text x="70" y="170" fill="#fff" font-size="12">牛之阵营 (Ox)</text>
+        <circle cx="50" cy="165" r="8" fill="#8B4513"/>
+        <text x="70" y="170" fill="#fff" font-size="12">牛之阵营 (Ox)</text>
 
-    <circle cx="50" cy="190" r="8" fill="#FF8C00"/>
-    <text x="70" y="195" fill="#fff" font-size="12">虎之阵营 (Tiger)</text>
-  </g>
-
-  <g transform="translate(50, 290)">
-    <rect x="0" y="0" width="280" height="80" fill="#16213e" rx="10" stroke="#0f3460" stroke-width="2"/>
-    <circle cx="50" cy="25" r="8" fill="#8B7355"/>
-    <text x="70" y="30" fill="#fff" font-size="12">熊之阵营 (Bear)</text>
-
-    <circle cx="50" cy="55" r="8" fill="#708090"/>
-    <text x="70" y="60" fill="#fff" font-size="12">犬之阵营 (Hound)</text>
-  </g>
-
-  <!-- 牛之阵营区域 -->
-  <g transform="translate(400, 100)">
-    <rect x="0" y="0" width="320" height="480" fill="url(#oxGradient)" rx="15" stroke="#8B4513" stroke-width="3"/>
-    <text x="160" y="30" text-anchor="middle" fill="#D2691E" font-size="20" font-weight="bold">🐂 牛之阵营 (Ox)</text>
-
-    <!-- A舍 -->
-    <rect x="20" y="50" width="130" height="400" fill="#2d1f16" rx="8" stroke="#8B4513" stroke-width="1" stroke-dasharray="5,3"/>
-    <text x="85" y="75" text-anchor="middle" fill="#D2691E" font-size="14">A舍</text>
-
-    <!-- 牛A角色 -->
-    <g class="character">
-      <circle cx="85" cy="110" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
-      <text x="85" y="115" text-anchor="middle" fill="#fff" font-size="10">牛徐强</text>
-      <text x="85" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-217 债务5.2万</text>
+        <circle cx="50" cy="190" r="8" fill="#FF8C00"/>
+        <text x="70" y="195" fill="#fff" font-size="12">虎之阵营 (Tiger)</text>
     </g>
 
-    <g class="character">
-      <circle cx="85" cy="190" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
-      <text x="85" y="195" text-anchor="middle" fill="#fff" font-size="10">牛马军</text>
-      <text x="85" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-256 赌徒</text>
+    <g transform="translate(50, 290)">
+        <rect x="0" y="0" width="280" height="80" fill="#16213e" rx="10" stroke="#0f3460"
+              stroke-width="2"/>
+        <circle cx="50" cy="25" r="8" fill="#8B7355"/>
+        <text x="70" y="30" fill="#fff" font-size="12">熊之阵营 (Bear)</text>
+
+        <circle cx="50" cy="55" r="8" fill="#708090"/>
+        <text x="70" y="60" fill="#fff" font-size="12">犬之阵营 (Hound)</text>
     </g>
 
-    <g class="character">
-      <circle cx="85" cy="270" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
-      <text x="85" y="275" text-anchor="middle" fill="#fff" font-size="10">牛胡辉</text>
-      <text x="85" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-167 老酒鬼</text>
+    <!-- 牛之阵营区域 -->
+    <g transform="translate(400, 100)">
+        <rect x="0" y="0" width="320" height="480" fill="url(#oxGradient)" rx="15" stroke="#8B4513"
+              stroke-width="3"/>
+        <text x="160" y="30" text-anchor="middle" fill="#D2691E" font-size="20" font-weight="bold">
+            🐂 牛之阵营 (Ox)
+        </text>
+
+        <!-- A舍 -->
+        <rect x="20" y="50" width="130" height="400" fill="#2d1f16" rx="8" stroke="#8B4513"
+              stroke-width="1" stroke-dasharray="5,3"/>
+        <text x="85" y="75" text-anchor="middle" fill="#D2691E" font-size="14">A舍</text>
+
+        <!-- 牛A角色 -->
+        <g class="character">
+            <circle cx="85" cy="110" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
+            <text x="85" y="115" text-anchor="middle" fill="#fff" font-size="10">牛徐强</text>
+            <text x="85" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-217 债务5.2万
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="190" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
+            <text x="85" y="195" text-anchor="middle" fill="#fff" font-size="10">牛马军</text>
+            <text x="85" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-256 赌徒</text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="270" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
+            <text x="85" y="275" text-anchor="middle" fill="#fff" font-size="10">牛胡辉</text>
+            <text x="85" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-167 老酒鬼</text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="350" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
+            <text x="85" y="355" text-anchor="middle" fill="#fff" font-size="10">牛郭明</text>
+            <text x="85" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-245 孝子</text>
+        </g>
+
+        <!-- B舍 -->
+        <rect x="170" y="50" width="130" height="400" fill="#2d1f16" rx="8" stroke="#8B4513"
+              stroke-width="1" stroke-dasharray="5,3"/>
+        <text x="235" y="75" text-anchor="middle" fill="#D2691E" font-size="14">B舍</text>
+
+        <!-- 牛B角色 -->
+        <g class="character">
+            <circle cx="235" cy="110" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
+            <text x="235" y="115" text-anchor="middle" fill="#fff" font-size="10">牛孙勇</text>
+            <text x="235" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-189 为弟而战
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="190" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
+            <text x="235" y="195" text-anchor="middle" fill="#fff" font-size="10">牛朱志</text>
+            <text x="235" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-198 受害者</text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="270" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
+            <text x="235" y="275" text-anchor="middle" fill="#fff" font-size="10">牛林刚</text>
+            <text x="235" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-233 被追杀</text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="350" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
+            <text x="235" y="355" text-anchor="middle" fill="#fff" font-size="10">牛何平</text>
+            <text x="235" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-301 强迫症</text>
+        </g>
     </g>
 
-    <g class="character">
-      <circle cx="85" cy="350" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
-      <text x="85" y="355" text-anchor="middle" fill="#fff" font-size="10">牛郭明</text>
-      <text x="85" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-245 孝子</text>
+    <!-- 虎之阵营区域 -->
+    <g transform="translate(750, 100)">
+        <rect x="0" y="0" width="320" height="480" fill="url(#tigerGradient)" rx="15"
+              stroke="#FF8C00" stroke-width="3"/>
+        <text x="160" y="30" text-anchor="middle" fill="#FFA500" font-size="20" font-weight="bold">
+            🐅 虎之阵营 (Tiger)
+        </text>
+
+        <!-- A舍 -->
+        <rect x="20" y="50" width="130" height="400" fill="#2d1f16" rx="8" stroke="#FF8C00"
+              stroke-width="1" stroke-dasharray="5,3"/>
+        <text x="85" y="75" text-anchor="middle" fill="#FFA500" font-size="14">A舍</text>
+
+        <!-- 虎A角色 -->
+        <g class="character">
+            <circle cx="85" cy="110" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
+            <text x="85" y="115" text-anchor="middle" fill="#000" font-size="10">虎王武</text>
+            <text x="85" y="145" text-anchor="middle" fill="#ccc" font-size="9">E-178 违令者</text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="190" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
+            <text x="85" y="195" text-anchor="middle" fill="#000" font-size="10">虎张强</text>
+            <text x="85" y="225" text-anchor="middle" fill="#ccc" font-size="9">E-156 拒绝处决
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="270" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
+            <text x="85" y="275" text-anchor="middle" fill="#000" font-size="10">虎陈刚</text>
+            <text x="85" y="305" text-anchor="middle" fill="#ccc" font-size="9">E-267 野心家</text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="350" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
+            <text x="85" y="355" text-anchor="middle" fill="#000" font-size="10">虎赵军</text>
+            <text x="85" y="385" text-anchor="middle" fill="#ccc" font-size="9">E-223 落魄贵族
+            </text>
+        </g>
+
+        <!-- B舍 -->
+        <rect x="170" y="50" width="130" height="400" fill="#2d1f16" rx="8" stroke="#FF8C00"
+              stroke-width="1" stroke-dasharray="5,3"/>
+        <text x="235" y="75" text-anchor="middle" fill="#FFA500" font-size="14">B舍</text>
+
+        <!-- 虎B角色 -->
+        <g class="character">
+            <circle cx="235" cy="110" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
+            <text x="235" y="115" text-anchor="middle" fill="#000" font-size="10">虎李勇</text>
+            <text x="235" y="145" text-anchor="middle" fill="#ccc" font-size="9">E-201 被兄出卖
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="190" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
+            <text x="235" y="195" text-anchor="middle" fill="#000" font-size="10">虎刘辉</text>
+            <text x="235" y="225" text-anchor="middle" fill="#ccc" font-size="9">E-312 新兵</text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="270" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
+            <text x="235" y="275" text-anchor="middle" fill="#000" font-size="10">虎杨志</text>
+            <text x="235" y="305" text-anchor="middle" fill="#ccc" font-size="9">E-289 复仇者</text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="350" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
+            <text x="235" y="355" text-anchor="middle" fill="#000" font-size="10">虎黄明</text>
+            <text x="235" y="385" text-anchor="middle" fill="#ccc" font-size="9">E-134 精神崩溃
+            </text>
+        </g>
     </g>
 
-    <!-- B舍 -->
-    <rect x="170" y="50" width="130" height="400" fill="#2d1f16" rx="8" stroke="#8B4513" stroke-width="1" stroke-dasharray="5,3"/>
-    <text x="235" y="75" text-anchor="middle" fill="#D2691E" font-size="14">B舍</text>
+    <!-- 熊之阵营区域 -->
+    <g transform="translate(400, 620)">
+        <rect x="0" y="0" width="320" height="480" fill="url(#bearGradient)" rx="15"
+              stroke="#8B7355" stroke-width="3"/>
+        <text x="160" y="30" text-anchor="middle" fill="#D2B48C" font-size="20" font-weight="bold">
+            🐻 熊之阵营 (Bear)
+        </text>
 
-    <!-- 牛B角色 -->
-    <g class="character">
-      <circle cx="235" cy="110" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
-      <text x="235" y="115" text-anchor="middle" fill="#fff" font-size="10">牛孙勇</text>
-      <text x="235" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-189 为弟而战</text>
+        <!-- A舍 -->
+        <rect x="20" y="50" width="130" height="400" fill="#2d2419" rx="8" stroke="#8B7355"
+              stroke-width="1" stroke-dasharray="5,3"/>
+        <text x="85" y="75" text-anchor="middle" fill="#D2B48C" font-size="14">A舍</text>
+
+        <!-- 熊A角色 -->
+        <g class="character">
+            <circle cx="85" cy="110" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
+            <text x="85" y="115" text-anchor="middle" fill="#fff" font-size="10">熊朱强</text>
+            <text x="85" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-290 力量崇拜
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="190" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
+            <text x="85" y="195" text-anchor="middle" fill="#fff" font-size="10">熊周平</text>
+            <text x="85" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-145 债务重压
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="270" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
+            <text x="85" y="275" text-anchor="middle" fill="#fff" font-size="10">熊郑华</text>
+            <text x="85" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-287 年轻乐观
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="350" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
+            <text x="85" y="355" text-anchor="middle" fill="#fff" font-size="10">熊林生</text>
+            <text x="85" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-135 老者等死
+            </text>
+        </g>
+
+        <!-- B舍 -->
+        <rect x="170" y="50" width="130" height="400" fill="#2d2419" rx="8" stroke="#8B7355"
+              stroke-width="1" stroke-dasharray="5,3"/>
+        <text x="235" y="75" text-anchor="middle" fill="#D2B48C" font-size="14">B舍</text>
+
+        <!-- 熊B角色 -->
+        <g class="character">
+            <circle cx="235" cy="110" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
+            <text x="235" y="115" text-anchor="middle" fill="#fff" font-size="10">熊胡军</text>
+            <text x="235" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-224 软毛之耻
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="190" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
+            <text x="235" y="195" text-anchor="middle" fill="#fff" font-size="10">熊吴刚</text>
+            <text x="235" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-112 求死之人
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="270" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
+            <text x="235" y="275" text-anchor="middle" fill="#fff" font-size="10">熊孙铁</text>
+            <text x="235" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-147 20年未晋升
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="350" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
+            <text x="235" y="355" text-anchor="middle" fill="#fff" font-size="10">熊马忠</text>
+            <text x="235" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-268 被俘阴影
+            </text>
+        </g>
     </g>
 
-    <g class="character">
-      <circle cx="235" cy="190" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
-      <text x="235" y="195" text-anchor="middle" fill="#fff" font-size="10">牛朱志</text>
-      <text x="235" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-198 受害者</text>
+    <!-- 犬之阵营区域 -->
+    <g transform="translate(750, 620)">
+        <rect x="0" y="0" width="320" height="480" fill="url(#houndGradient)" rx="15"
+              stroke="#708090" stroke-width="3"/>
+        <text x="160" y="30" text-anchor="middle" fill="#B0C4DE" font-size="20" font-weight="bold">
+            🐕 犬之阵营 (Hound)
+        </text>
+
+        <!-- A舍 -->
+        <rect x="20" y="50" width="130" height="400" fill="#1f262d" rx="8" stroke="#708090"
+              stroke-width="1" stroke-dasharray="5,3"/>
+        <text x="85" y="75" text-anchor="middle" fill="#B0C4DE" font-size="14">A舍</text>
+
+        <!-- 犬A角色 -->
+        <g class="character">
+            <circle cx="85" cy="110" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
+            <text x="85" y="115" text-anchor="middle" fill="#fff" font-size="10">犬高忠</text>
+            <text x="85" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-157 野狼</text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="190" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
+            <text x="85" y="195" text-anchor="middle" fill="#fff" font-size="10">犬林义</text>
+            <text x="85" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-089 獒犬守护
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="270" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
+            <text x="85" y="275" text-anchor="middle" fill="#fff" font-size="10">犬梁强</text>
+            <text x="85" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-225 债务焦虑
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="85" cy="350" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
+            <text x="85" y="355" text-anchor="middle" fill="#fff" font-size="10">犬郑威</text>
+            <text x="85" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-136 12年老兵
+            </text>
+        </g>
+
+        <!-- B舍 -->
+        <rect x="170" y="50" width="130" height="400" fill="#1f262d" rx="8" stroke="#708090"
+              stroke-width="1" stroke-dasharray="5,3"/>
+        <text x="235" y="75" text-anchor="middle" fill="#B0C4DE" font-size="14">B舍</text>
+
+        <!-- 犬B角色 -->
+        <g class="character">
+            <circle cx="235" cy="110" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
+            <text x="235" y="115" text-anchor="middle" fill="#fff" font-size="10">犬何守</text>
+            <text x="235" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-269 忠诚士兵
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="190" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
+            <text x="235" y="195" text-anchor="middle" fill="#fff" font-size="10">犬罗勇</text>
+            <text x="235" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-291 速度型</text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="270" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
+            <text x="235" y="275" text-anchor="middle" fill="#fff" font-size="10">犬宋亮</text>
+            <text x="235" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-302 玩乐心态
+            </text>
+        </g>
+
+        <g class="character">
+            <circle cx="235" cy="350" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
+            <text x="235" y="355" text-anchor="middle" fill="#fff" font-size="10">犬谢军</text>
+            <text x="235" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-199 打破偏见
+            </text>
+        </g>
     </g>
 
-    <g class="character">
-      <circle cx="235" cy="270" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
-      <text x="235" y="275" text-anchor="middle" fill="#fff" font-size="10">牛林刚</text>
-      <text x="235" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-233 被追杀</text>
+    <!-- 关键关系连线 -->
+    <g id="relationships">
+        <!-- 牛阵营内部关系 -->
+        <!-- 牛徐强(A) 与 牛孙勇(B) - 同营不同舍，债务共鸣 -->
+        <line x1="485" y1="210" x2="635" y2="210" stroke="#228B22" stroke-width="2"
+              stroke-dasharray="5,3" opacity="0.7"/>
+
+        <!-- 牛孙勇 - 牛朱志 卫浴间互助 -->
+        <line x1="635" y1="210" x2="635" y2="290" stroke="#228B22" stroke-width="2" opacity="0.8"/>
+
+        <!-- 虎阵营内部关系 -->
+        <!-- 虎王武(A) 与 虎李勇(B) - 同车对话，违令经历 -->
+        <line x1="835" y1="210" x2="985" y2="210" stroke="#228B22" stroke-width="2"
+              stroke-dasharray="5,3" opacity="0.7"/>
+
+        <!-- 虎李勇 - 虎黄明 笼子经历共鸣 -->
+        <line x1="985" y1="210" x2="985" y2="450" stroke="#4169E1" stroke-width="2" opacity="0.8"/>
+
+        <!-- 虎刘辉 - 虎黄明 代际安慰 -->
+        <line x1="985" y1="290" x2="985" y2="450" stroke="#228B22" stroke-width="2" opacity="0.6"/>
+
+        <!-- 熊阵营内部关系 -->
+        <!-- 熊朱强(A) 与 熊胡军(B) - 宿敌 -->
+        <line x1="485" y1="730" x2="635" y2="730" stroke="#8B0000" stroke-width="3"
+              marker-end="url(#arrowEnemy)" marker-start="url(#arrowEnemy)" opacity="0.9"/>
+        <text x="560" y="725" text-anchor="middle" fill="#8B0000" font-size="10" font-weight="bold">
+            宿敌
+        </text>
+
+        <!-- 熊朱强 - 熊郑华 威胁关系 -->
+        <line x1="485" y1="730" x2="485" y2="890" stroke="#8B0000" stroke-width="2" opacity="0.6"/>
+
+        <!-- 熊周平 - 熊吴刚 陪伴 -->
+        <line x1="485" y1="810" x2="635" y2="810" stroke="#228B22" stroke-width="2" opacity="0.8"/>
+
+        <!-- 熊吴刚 - 熊胡军 生死对话 -->
+        <line x1="635" y1="810" x2="635" y2="890" stroke="#228B22" stroke-width="2" opacity="0.7"/>
+
+        <!-- 犬阵营内部关系 -->
+        <!-- 犬高忠(A) 与 犬林义(A) - 默契 -->
+        <line x1="485" y1="730" x2="485" y2="810" stroke="#228B22" stroke-width="2" opacity="0.8"/>
+
+        <!-- 犬高忠(A) 与 犬宋亮(B) 跨舍安慰 -->
+        <line x1="485" y1="730" x2="635" y2="890" stroke="#228B22" stroke-width="2"
+              stroke-dasharray="5,3" opacity="0.6"/>
+
+        <!-- 犬宋亮 - 犬谢军 玩乐伙伴关系 -->
+        <line x1="635" y1="890" x2="635" y2="970" stroke="#228B22" stroke-width="2" opacity="0.8"/>
+
+        <!-- 跨阵营关系 -->
+        <!-- 牛徐强 - 虎王武 跨阵营领袖对视 -->
+        <line x1="485" y1="210" x2="835" y2="210" stroke="#4169E1" stroke-width="1"
+              stroke-dasharray="3,5" opacity="0.5"/>
+
+        <!-- 牛林刚(B) - 虎刘辉(B) 午夜走廊相遇 -->
+        <line x1="635" y1="290" x2="985" y2="290" stroke="#228B22" stroke-width="2"
+              stroke-dasharray="5,5" opacity="0.6"/>
+        <text x="810" y="285" text-anchor="middle" fill="#228B22" font-size="9">午夜走廊</text>
+
+        <!-- 虎赵军(A) - 熊朱强(A) 贵族与力量的对视 -->
+        <line x1="835" y1="450" x2="485" y2="450" stroke="#666" stroke-width="1"
+              stroke-dasharray="3,5" opacity="0.4"/>
+
+        <!-- 犬高忠(A) - 熊周平(A) 浴室握手 -->
+        <line x1="485" y1="730" x2="485" y2="890" stroke="#228B22" stroke-width="1"
+              stroke-dasharray="3,3" opacity="0.5"/>
     </g>
 
-    <g class="character">
-      <circle cx="235" cy="350" r="18" fill="#8B4513" stroke="#D2691E" stroke-width="2"/>
-      <text x="235" y="355" text-anchor="middle" fill="#fff" font-size="10">牛何平</text>
-      <text x="235" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-301 强迫症</text>
-    </g>
-  </g>
+    <!-- 关键人物标记 -->
+    <g id="key-markers">
+        <!-- 债务标记 -->
+        <circle cx="485" cy="210" r="22" fill="none" stroke="#DC143C" stroke-width="2"
+                stroke-dasharray="2,2"/>
+        <text x="485" y="160" text-anchor="middle" fill="#DC143C" font-size="10">5.2万债务</text>
 
-  <!-- 虎之阵营区域 -->
-  <g transform="translate(750, 100)">
-    <rect x="0" y="0" width="320" height="480" fill="url(#tigerGradient)" rx="15" stroke="#FF8C00" stroke-width="3"/>
-    <text x="160" y="30" text-anchor="middle" fill="#FFA500" font-size="20" font-weight="bold">🐅 虎之阵营 (Tiger)</text>
+        <!-- 矿石病标记 -->
+        <circle cx="635" cy="210" r="22" fill="none" stroke="#4169E1" stroke-width="2"
+                stroke-dasharray="2,2"/>
+        <text x="635" y="160" text-anchor="middle" fill="#4169E1" font-size="10">弟弟矿石病</text>
 
-    <!-- A舍 -->
-    <rect x="20" y="50" width="130" height="400" fill="#2d1f16" rx="8" stroke="#FF8C00" stroke-width="1" stroke-dasharray="5,3"/>
-    <text x="85" y="75" text-anchor="middle" fill="#FFA500" font-size="14">A舍</text>
-
-    <!-- 虎A角色 -->
-    <g class="character">
-      <circle cx="85" cy="110" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
-      <text x="85" y="115" text-anchor="middle" fill="#000" font-size="10">虎王武</text>
-      <text x="85" y="145" text-anchor="middle" fill="#ccc" font-size="9">E-178 违令者</text>
+        <!-- 宿敌标记 -->
+        <rect x="550" y="715" width="20" height="30" fill="none" stroke="#8B0000" stroke-width="2"/>
     </g>
 
-    <g class="character">
-      <circle cx="85" cy="190" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
-      <text x="85" y="195" text-anchor="middle" fill="#000" font-size="10">虎张强</text>
-      <text x="85" y="225" text-anchor="middle" fill="#ccc" font-size="9">E-156 拒绝处决</text>
+    <!-- 注释说明 -->
+    <g transform="translate(1100, 100)">
+        <rect x="0" y="0" width="470" height="550" fill="#0f3460" rx="10" stroke="#1a1a2e"
+              stroke-width="2" opacity="0.95"/>
+        <text x="235" y="35" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold">
+            关键人物关系说明
+        </text>
+
+        <text x="20" y="70" fill="#D2691E" font-size="14" font-weight="bold">【牛之阵营】</text>
+        <text x="20" y="95" fill="#ccc" font-size="11">• 牛徐强(E-217) ←→ 牛孙勇(E-189)</text>
+        <text x="40" y="112" fill="#888" font-size="10">同营债务共鸣，抽签分开</text>
+        <text x="20" y="135" fill="#ccc" font-size="11">• 牛孙勇 → 牛朱志</text>
+        <text x="40" y="152" fill="#888" font-size="10">卫浴间互助关系</text>
+
+        <text x="20" y="180" fill="#FFA500" font-size="14" font-weight="bold">【虎之阵营】</text>
+        <text x="20" y="205" fill="#ccc" font-size="11">• 虎王武(E-178) ←→ 虎李勇(E-201)</text>
+        <text x="40" y="222" fill="#888" font-size="10">同车对话，违令经历共鸣</text>
+        <text x="20" y="245" fill="#ccc" font-size="11">• 虎李勇 → 虎黄明(E-134)</text>
+        <text x="40" y="262" fill="#888" font-size="10">笼子经历共鸣，疤痕分享</text>
+
+        <text x="20" y="290" fill="#D2B48C" font-size="14" font-weight="bold">【熊之阵营】</text>
+        <text x="20" y="315" fill="#ff6666" font-size="11" font-weight="bold">• 熊朱强(E-290) ⇄
+            熊胡军(E-224)
+        </text>
+        <text x="40" y="332" fill="#888" font-size="10">宿敌关系，软毛嘲笑与复仇</text>
+        <text x="20" y="355" fill="#ccc" font-size="11">• 熊周平(E-145) → 熊吴刚(E-112)</text>
+        <text x="40" y="372" fill="#888" font-size="10">陪伴关系，求死之人的温暖</text>
+
+        <text x="20" y="400" fill="#B0C4DE" font-size="14" font-weight="bold">【犬之阵营】</text>
+        <text x="20" y="425" fill="#ccc" font-size="11">• 犬高忠(E-157) → 犬林义(E-089)</text>
+        <text x="40" y="442" fill="#888" font-size="10">同舍默契，獒犬与灰狼</text>
+        <text x="20" y="465" fill="#ccc" font-size="11">• 犬宋亮(E-302) → 犬谢军(E-199)</text>
+        <text x="40" y="482" fill="#888" font-size="10">玩乐伙伴关系，哈士奇与萨摩耶</text>
+
+        <text x="20" y="510" fill="#fff" font-size="13" font-weight="bold">【跨阵营】</text>
+        <text x="20" y="535" fill="#ccc" font-size="11">• 牛林刚(B) ←→ 虎刘辉(B)</text>
+        <text x="40" y="552" fill="#888" font-size="10">午夜走廊跨阵营相遇</text>
     </g>
 
-    <g class="character">
-      <circle cx="85" cy="270" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
-      <text x="85" y="275" text-anchor="middle" fill="#000" font-size="10">虎陈刚</text>
-      <text x="85" y="305" text-anchor="middle" fill="#ccc" font-size="9">E-267 野心家</text>
+    <g transform="translate(1100, 670)">
+        <rect x="0" y="0" width="470" height="430" fill="#0f3460" rx="10" stroke="#1a1a2e"
+              stroke-width="2" opacity="0.95"/>
+        <text x="235" y="35" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold">
+            宿舍分配与赛程
+        </text>
+
+        <text x="20" y="70" fill="#fff" font-size="14" font-weight="bold">A舍 (第一批浴池)</text>
+        <text x="20" y="95" fill="#aaa" font-size="11">牛徐强, 牛马军, 牛胡辉, 牛郭明</text>
+        <text x="20" y="115" fill="#aaa" font-size="11">虎王武, 虎张强, 虎陈刚, 虎赵军</text>
+        <text x="20" y="135" fill="#aaa" font-size="11">熊朱强, 熊周平, 熊郑华, 熊林生</text>
+        <text x="20" y="155" fill="#aaa" font-size="11">犬高忠, 犬林义, 犬梁强, 犬郑威</text>
+
+        <text x="20" y="190" fill="#fff" font-size="14" font-weight="bold">B舍 (第二批浴池)</text>
+        <text x="20" y="215" fill="#aaa" font-size="11">牛孙勇, 牛朱志, 牛林刚, 牛何平</text>
+        <text x="20" y="235" fill="#aaa" font-size="11">虎李勇, 虎刘辉, 虎杨志, 虎黄明</text>
+        <text x="20" y="255" fill="#aaa" font-size="11">熊胡军, 熊吴刚, 熊孙铁, 熊马忠</text>
+        <text x="20" y="275" fill="#aaa" font-size="11">犬何守, 犬罗勇, 犬宋亮, 犬谢军</text>
+
+        <text x="20" y="310" fill="#FFD700" font-size="13" font-weight="bold">赛程规则</text>
+        <text x="20" y="335" fill="#ccc" font-size="10">• 第1-2轮：阵营回避，同阵营不会相遇</text>
+        <text x="20" y="355" fill="#ccc" font-size="10">• 第3轮起：可能同阵营相残</text>
+        <text x="20" y="375" fill="#ccc" font-size="10">• 唯一胜利条件：一方死亡</text>
+        <text x="20" y="395" fill="#ccc" font-size="10">• 冠军奖金公式：500 × (9-己方存活) ×
+            (9-对方存活)
+        </text>
+
+        <text x="20" y="420" fill="#ff6666" font-size="11" font-style="italic">
+            32人参赛，仅1人存活...
+        </text>
     </g>
 
-    <g class="character">
-      <circle cx="85" cy="350" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
-      <text x="85" y="355" text-anchor="middle" fill="#000" font-size="10">虎赵军</text>
-      <text x="85" y="385" text-anchor="middle" fill="#ccc" font-size="9">E-223 落魄贵族</text>
-    </g>
-
-    <!-- B舍 -->
-    <rect x="170" y="50" width="130" height="400" fill="#2d1f16" rx="8" stroke="#FF8C00" stroke-width="1" stroke-dasharray="5,3"/>
-    <text x="235" y="75" text-anchor="middle" fill="#FFA500" font-size="14">B舍</text>
-
-    <!-- 虎B角色 -->
-    <g class="character">
-      <circle cx="235" cy="110" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
-      <text x="235" y="115" text-anchor="middle" fill="#000" font-size="10">虎李勇</text>
-      <text x="235" y="145" text-anchor="middle" fill="#ccc" font-size="9">E-201 被兄出卖</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="190" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
-      <text x="235" y="195" text-anchor="middle" fill="#000" font-size="10">虎刘辉</text>
-      <text x="235" y="225" text-anchor="middle" fill="#ccc" font-size="9">E-312 新兵</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="270" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
-      <text x="235" y="275" text-anchor="middle" fill="#000" font-size="10">虎杨志</text>
-      <text x="235" y="305" text-anchor="middle" fill="#ccc" font-size="9">E-289 复仇者</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="350" r="18" fill="#FF8C00" stroke="#FFA500" stroke-width="2"/>
-      <text x="235" y="355" text-anchor="middle" fill="#000" font-size="10">虎黄明</text>
-      <text x="235" y="385" text-anchor="middle" fill="#ccc" font-size="9">E-134 精神崩溃</text>
-    </g>
-  </g>
-
-  <!-- 熊之阵营区域 -->
-  <g transform="translate(400, 620)">
-    <rect x="0" y="0" width="320" height="480" fill="url(#bearGradient)" rx="15" stroke="#8B7355" stroke-width="3"/>
-    <text x="160" y="30" text-anchor="middle" fill="#D2B48C" font-size="20" font-weight="bold">🐻 熊之阵营 (Bear)</text>
-
-    <!-- A舍 -->
-    <rect x="20" y="50" width="130" height="400" fill="#2d2419" rx="8" stroke="#8B7355" stroke-width="1" stroke-dasharray="5,3"/>
-    <text x="85" y="75" text-anchor="middle" fill="#D2B48C" font-size="14">A舍</text>
-
-    <!-- 熊A角色 -->
-    <g class="character">
-      <circle cx="85" cy="110" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
-      <text x="85" y="115" text-anchor="middle" fill="#fff" font-size="10">熊朱强</text>
-      <text x="85" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-290 力量崇拜</text>
-    </g>
-
-    <g class="character">
-      <circle cx="85" cy="190" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
-      <text x="85" y="195" text-anchor="middle" fill="#fff" font-size="10">熊周平</text>
-      <text x="85" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-145 债务重压</text>
-    </g>
-
-    <g class="character">
-      <circle cx="85" cy="270" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
-      <text x="85" y="275" text-anchor="middle" fill="#fff" font-size="10">熊郑华</text>
-      <text x="85" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-287 年轻乐观</text>
-    </g>
-
-    <g class="character">
-      <circle cx="85" cy="350" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
-      <text x="85" y="355" text-anchor="middle" fill="#fff" font-size="10">熊林生</text>
-      <text x="85" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-135 老者等死</text>
-    </g>
-
-    <!-- B舍 -->
-    <rect x="170" y="50" width="130" height="400" fill="#2d2419" rx="8" stroke="#8B7355" stroke-width="1" stroke-dasharray="5,3"/>
-    <text x="235" y="75" text-anchor="middle" fill="#D2B48C" font-size="14">B舍</text>
-
-    <!-- 熊B角色 -->
-    <g class="character">
-      <circle cx="235" cy="110" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
-      <text x="235" y="115" text-anchor="middle" fill="#fff" font-size="10">熊胡军</text>
-      <text x="235" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-224 软毛之耻</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="190" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
-      <text x="235" y="195" text-anchor="middle" fill="#fff" font-size="10">熊吴刚</text>
-      <text x="235" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-112 求死之人</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="270" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
-      <text x="235" y="275" text-anchor="middle" fill="#fff" font-size="10">熊孙铁</text>
-      <text x="235" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-147 20年未晋升</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="350" r="18" fill="#8B7355" stroke="#D2B48C" stroke-width="2"/>
-      <text x="235" y="355" text-anchor="middle" fill="#fff" font-size="10">熊马忠</text>
-      <text x="235" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-268 被俘阴影</text>
-    </g>
-  </g>
-
-  <!-- 犬之阵营区域 -->
-  <g transform="translate(750, 620)">
-    <rect x="0" y="0" width="320" height="480" fill="url(#houndGradient)" rx="15" stroke="#708090" stroke-width="3"/>
-    <text x="160" y="30" text-anchor="middle" fill="#B0C4DE" font-size="20" font-weight="bold">🐕 犬之阵营 (Hound)</text>
-
-    <!-- A舍 -->
-    <rect x="20" y="50" width="130" height="400" fill="#1f262d" rx="8" stroke="#708090" stroke-width="1" stroke-dasharray="5,3"/>
-    <text x="85" y="75" text-anchor="middle" fill="#B0C4DE" font-size="14">A舍</text>
-
-    <!-- 犬A角色 -->
-    <g class="character">
-      <circle cx="85" cy="110" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
-      <text x="85" y="115" text-anchor="middle" fill="#fff" font-size="10">犬高忠</text>
-      <text x="85" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-157 野狼</text>
-    </g>
-
-    <g class="character">
-      <circle cx="85" cy="190" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
-      <text x="85" y="195" text-anchor="middle" fill="#fff" font-size="10">犬林义</text>
-      <text x="85" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-089 獒犬守护</text>
-    </g>
-
-    <g class="character">
-      <circle cx="85" cy="270" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
-      <text x="85" y="275" text-anchor="middle" fill="#fff" font-size="10">犬梁强</text>
-      <text x="85" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-225 债务焦虑</text>
-    </g>
-
-    <g class="character">
-      <circle cx="85" cy="350" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
-      <text x="85" y="355" text-anchor="middle" fill="#fff" font-size="10">犬郑威</text>
-      <text x="85" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-136 12年老兵</text>
-    </g>
-
-    <!-- B舍 -->
-    <rect x="170" y="50" width="130" height="400" fill="#1f262d" rx="8" stroke="#708090" stroke-width="1" stroke-dasharray="5,3"/>
-    <text x="235" y="75" text-anchor="middle" fill="#B0C4DE" font-size="14">B舍</text>
-
-    <!-- 犬B角色 -->
-    <g class="character">
-      <circle cx="235" cy="110" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
-      <text x="235" y="115" text-anchor="middle" fill="#fff" font-size="10">犬何守</text>
-      <text x="235" y="145" text-anchor="middle" fill="#aaa" font-size="9">E-269 忠诚士兵</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="190" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
-      <text x="235" y="195" text-anchor="middle" fill="#fff" font-size="10">犬罗勇</text>
-      <text x="235" y="225" text-anchor="middle" fill="#aaa" font-size="9">E-291 速度型</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="270" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
-      <text x="235" y="275" text-anchor="middle" fill="#fff" font-size="10">犬宋亮</text>
-      <text x="235" y="305" text-anchor="middle" fill="#aaa" font-size="9">E-302 玩乐心态</text>
-    </g>
-
-    <g class="character">
-      <circle cx="235" cy="350" r="18" fill="#708090" stroke="#B0C4DE" stroke-width="2"/>
-      <text x="235" y="355" text-anchor="middle" fill="#fff" font-size="10">犬谢军</text>
-      <text x="235" y="385" text-anchor="middle" fill="#aaa" font-size="9">E-199 打破偏见</text>
-    </g>
-  </g>
-
-  <!-- 关键关系连线 -->
-  <g id="relationships">
-    <!-- 牛阵营内部关系 -->
-    <!-- 牛徐强(A) 与 牛孙勇(B) - 同营不同舍，债务共鸣 -->
-    <line x1="485" y1="210" x2="635" y2="210" stroke="#228B22" stroke-width="2" stroke-dasharray="5,3" opacity="0.7"/>
-
-    <!-- 牛孙勇 - 牛朱志 卫浴间互助 -->
-    <line x1="635" y1="210" x2="635" y2="290" stroke="#228B22" stroke-width="2" opacity="0.8"/>
-
-    <!-- 虎阵营内部关系 -->
-    <!-- 虎王武(A) 与 虎李勇(B) - 同车对话，违令经历 -->
-    <line x1="835" y1="210" x2="985" y2="210" stroke="#228B22" stroke-width="2" stroke-dasharray="5,3" opacity="0.7"/>
-
-    <!-- 虎李勇 - 虎黄明 笼子经历共鸣 -->
-    <line x1="985" y1="210" x2="985" y2="450" stroke="#4169E1" stroke-width="2" opacity="0.8"/>
-
-    <!-- 虎刘辉 - 虎黄明 代际安慰 -->
-    <line x1="985" y1="290" x2="985" y2="450" stroke="#228B22" stroke-width="2" opacity="0.6"/>
-
-    <!-- 熊阵营内部关系 -->
-    <!-- 熊朱强(A) 与 熊胡军(B) - 宿敌 -->
-    <line x1="485" y1="730" x2="635" y2="730" stroke="#8B0000" stroke-width="3" marker-end="url(#arrowEnemy)" marker-start="url(#arrowEnemy)" opacity="0.9"/>
-    <text x="560" y="725" text-anchor="middle" fill="#8B0000" font-size="10" font-weight="bold">宿敌</text>
-
-    <!-- 熊朱强 - 熊郑华 威胁关系 -->
-    <line x1="485" y1="730" x2="485" y2="890" stroke="#8B0000" stroke-width="2" opacity="0.6"/>
-
-    <!-- 熊周平 - 熊吴刚 陪伴 -->
-    <line x1="485" y1="810" x2="635" y2="810" stroke="#228B22" stroke-width="2" opacity="0.8"/>
-
-    <!-- 熊吴刚 - 熊胡军 生死对话 -->
-    <line x1="635" y1="810" x2="635" y2="890" stroke="#228B22" stroke-width="2" opacity="0.7"/>
-
-    <!-- 犬阵营内部关系 -->
-    <!-- 犬高忠(A) 与 犬林义(A) - 默契 -->
-    <line x1="485" y1="730" x2="485" y2="810" stroke="#228B22" stroke-width="2" opacity="0.8"/>
-
-    <!-- 犬高忠(A) 与 犬宋亮(B) 跨舍安慰 -->
-    <line x1="485" y1="730" x2="635" y2="890" stroke="#228B22" stroke-width="2" stroke-dasharray="5,3" opacity="0.6"/>
-
-    <!-- 犬宋亮 - 犬谢军 玩乐伙伴关系 -->
-    <line x1="635" y1="890" x2="635" y2="970" stroke="#228B22" stroke-width="2" opacity="0.8"/>
-
-    <!-- 跨阵营关系 -->
-    <!-- 牛徐强 - 虎王武 跨阵营领袖对视 -->
-    <line x1="485" y1="210" x2="835" y2="210" stroke="#4169E1" stroke-width="1" stroke-dasharray="3,5" opacity="0.5"/>
-
-    <!-- 牛林刚(B) - 虎刘辉(B) 午夜走廊相遇 -->
-    <line x1="635" y1="290" x2="985" y2="290" stroke="#228B22" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
-    <text x="810" y="285" text-anchor="middle" fill="#228B22" font-size="9">午夜走廊</text>
-
-    <!-- 虎赵军(A) - 熊朱强(A) 贵族与力量的对视 -->
-    <line x1="835" y1="450" x2="485" y2="450" stroke="#666" stroke-width="1" stroke-dasharray="3,5" opacity="0.4"/>
-
-    <!-- 犬高忠(A) - 熊周平(A) 浴室握手 -->
-    <line x1="485" y1="730" x2="485" y2="890" stroke="#228B22" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
-  </g>
-
-  <!-- 关键人物标记 -->
-  <g id="key-markers">
-    <!-- 债务标记 -->
-    <circle cx="485" cy="210" r="22" fill="none" stroke="#DC143C" stroke-width="2" stroke-dasharray="2,2"/>
-    <text x="485" y="160" text-anchor="middle" fill="#DC143C" font-size="10">5.2万债务</text>
-
-    <!-- 矿石病标记 -->
-    <circle cx="635" cy="210" r="22" fill="none" stroke="#4169E1" stroke-width="2" stroke-dasharray="2,2"/>
-    <text x="635" y="160" text-anchor="middle" fill="#4169E1" font-size="10">弟弟矿石病</text>
-
-    <!-- 宿敌标记 -->
-    <rect x="550" y="715" width="20" height="30" fill="none" stroke="#8B0000" stroke-width="2"/>
-  </g>
-
-  <!-- 注释说明 -->
-  <g transform="translate(1100, 100)">
-    <rect x="0" y="0" width="470" height="550" fill="#0f3460" rx="10" stroke="#1a1a2e" stroke-width="2" opacity="0.95"/>
-    <text x="235" y="35" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold">关键人物关系说明</text>
-
-    <text x="20" y="70" fill="#D2691E" font-size="14" font-weight="bold">【牛之阵营】</text>
-    <text x="20" y="95" fill="#ccc" font-size="11">• 牛徐强(E-217) ←→ 牛孙勇(E-189)</text>
-    <text x="40" y="112" fill="#888" font-size="10">同营债务共鸣，抽签分开</text>
-    <text x="20" y="135" fill="#ccc" font-size="11">• 牛孙勇 → 牛朱志</text>
-    <text x="40" y="152" fill="#888" font-size="10">卫浴间互助关系</text>
-
-    <text x="20" y="180" fill="#FFA500" font-size="14" font-weight="bold">【虎之阵营】</text>
-    <text x="20" y="205" fill="#ccc" font-size="11">• 虎王武(E-178) ←→ 虎李勇(E-201)</text>
-    <text x="40" y="222" fill="#888" font-size="10">同车对话，违令经历共鸣</text>
-    <text x="20" y="245" fill="#ccc" font-size="11">• 虎李勇 → 虎黄明(E-134)</text>
-    <text x="40" y="262" fill="#888" font-size="10">笼子经历共鸣，疤痕分享</text>
-
-    <text x="20" y="290" fill="#D2B48C" font-size="14" font-weight="bold">【熊之阵营】</text>
-    <text x="20" y="315" fill="#ff6666" font-size="11" font-weight="bold">• 熊朱强(E-290) ⇄ 熊胡军(E-224)</text>
-    <text x="40" y="332" fill="#888" font-size="10">宿敌关系，软毛嘲笑与复仇</text>
-    <text x="20" y="355" fill="#ccc" font-size="11">• 熊周平(E-145) → 熊吴刚(E-112)</text>
-    <text x="40" y="372" fill="#888" font-size="10">陪伴关系，求死之人的温暖</text>
-
-    <text x="20" y="400" fill="#B0C4DE" font-size="14" font-weight="bold">【犬之阵营】</text>
-    <text x="20" y="425" fill="#ccc" font-size="11">• 犬高忠(E-157) → 犬林义(E-089)</text>
-    <text x="40" y="442" fill="#888" font-size="10">同舍默契，獒犬与灰狼</text>
-    <text x="20" y="465" fill="#ccc" font-size="11">• 犬宋亮(E-302) → 犬谢军(E-199)</text>
-    <text x="40" y="482" fill="#888" font-size="10">玩乐伙伴关系，哈士奇与萨摩耶</text>
-
-    <text x="20" y="510" fill="#fff" font-size="13" font-weight="bold">【跨阵营】</text>
-    <text x="20" y="535" fill="#ccc" font-size="11">• 牛林刚(B) ←→ 虎刘辉(B)</text>
-    <text x="40" y="552" fill="#888" font-size="10">午夜走廊跨阵营相遇</text>
-  </g>
-
-  <g transform="translate(1100, 670)">
-    <rect x="0" y="0" width="470" height="430" fill="#0f3460" rx="10" stroke="#1a1a2e" stroke-width="2" opacity="0.95"/>
-    <text x="235" y="35" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold">宿舍分配与赛程</text>
-
-    <text x="20" y="70" fill="#fff" font-size="14" font-weight="bold">A舍 (第一批浴池)</text>
-    <text x="20" y="95" fill="#aaa" font-size="11">牛徐强, 牛马军, 牛胡辉, 牛郭明</text>
-    <text x="20" y="115" fill="#aaa" font-size="11">虎王武, 虎张强, 虎陈刚, 虎赵军</text>
-    <text x="20" y="135" fill="#aaa" font-size="11">熊朱强, 熊周平, 熊郑华, 熊林生</text>
-    <text x="20" y="155" fill="#aaa" font-size="11">犬高忠, 犬林义, 犬梁强, 犬郑威</text>
-
-    <text x="20" y="190" fill="#fff" font-size="14" font-weight="bold">B舍 (第二批浴池)</text>
-    <text x="20" y="215" fill="#aaa" font-size="11">牛孙勇, 牛朱志, 牛林刚, 牛何平</text>
-    <text x="20" y="235" fill="#aaa" font-size="11">虎李勇, 虎刘辉, 虎杨志, 虎黄明</text>
-    <text x="20" y="255" fill="#aaa" font-size="11">熊胡军, 熊吴刚, 熊孙铁, 熊马忠</text>
-    <text x="20" y="275" fill="#aaa" font-size="11">犬何守, 犬罗勇, 犬宋亮, 犬谢军</text>
-
-    <text x="20" y="310" fill="#FFD700" font-size="13" font-weight="bold">赛程规则</text>
-    <text x="20" y="335" fill="#ccc" font-size="10">• 第1-2轮：阵营回避，同阵营不会相遇</text>
-    <text x="20" y="355" fill="#ccc" font-size="10">• 第3轮起：可能同阵营相残</text>
-    <text x="20" y="375" fill="#ccc" font-size="10">• 唯一胜利条件：一方死亡</text>
-    <text x="20" y="395" fill="#ccc" font-size="10">• 冠军奖金公式：500 × (9-己方存活) × (9-对方存活)</text>
-
-    <text x="20" y="420" fill="#ff6666" font-size="11" font-style="italic">32人参赛，仅1人存活...</text>
-  </g>
-
-  <!-- 底部说明 -->
-  <text x="800" y="1160" text-anchor="middle" fill="#666" font-size="12">血酬淘汰赛人物关系图 | 制作日期：2026-03-16 | 基于第1-10章内容</text>
+    <!-- 底部说明 -->
+    <text x="800" y="1160" text-anchor="middle" fill="#666" font-size="12">血酬淘汰赛人物关系图 |
+        制作日期：2026-03-16 | 基于第1-10章内容
+    </text>
 </svg>
