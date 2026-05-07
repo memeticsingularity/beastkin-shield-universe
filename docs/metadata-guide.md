@@ -1,3 +1,5 @@
+> **Deprecated**: 本文档已被 v3.0 规范替代。请参阅 `docs/spec/04-metadata.md`。本文档保留 6 个月作为过渡期兼容。
+
 # **Metadata Guide for Beastkin Universe Projects v2.3.0**
 
 ```

@@ -1,6 +1,6 @@
 # Chapter 7 熊族领地渗透
 
-[上一章](ch-6-lei-lei-arrival.md) | [返回目录](../README.md) | [下一章](ch-8-alchemy-room-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-06-lei-lei-arrival.md) | [返回目录](../README.md) | [下一章](ch-08-alchemy-room-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > （待补充）
 
@@ -73,7 +73,7 @@
 
 ---
 
-[上一章](ch-6-lei-lei-arrival.md) | [返回目录](../README.md) | [下一章](ch-8-alchemy-room-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-06-lei-lei-arrival.md) | [返回目录](../README.md) | [下一章](ch-08-alchemy-room-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

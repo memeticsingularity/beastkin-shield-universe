@@ -27,7 +27,7 @@
 | 版本           | 路径                  | 击杀数 | 状态       | 主要特征                            |
 |--------------|---------------------|-----|----------|---------------------------------|
 | **story-v1** | `archive/v1/`       | 42只 | 已归档      | 初稿，含活口场景（ch-3 Scene-4）、G-028被放过 |
-| **story-v2** | `ch-1.md`~`ch-6.md` | 42只 | **当前版本** | 全面感官重构，删除元叙事套语                  |
+| **story-v2** | `ch-01.md`~`ch-06.md` | 42只 | **当前版本** | 全面感官重构，删除元叙事套语                  |
 
 ### story-v2主要改进（当前版本）
 
@@ -162,7 +162,7 @@ bs-a-cs-6-casual-massacre/
 ├── research/
 │   ├── main-story-base-analysis.md  # 原作据点分析
 │   └── base-design-guide.md         # 设计指南
-└── ch-1.md                   # 第一章（待创作）
+└── ch-01.md                   # 第一章（待创作）
     ...
 ```
 
@@ -170,7 +170,7 @@ bs-a-cs-6-casual-massacre/
 
 ## 参考范本
 
-- **主要参考**: `bs-a-cs-4-yanliang/ch-1.md`（炎魉篇）
+- **主要参考**: `bs-a-cs-4-yanliang/chapters/ch-01.md`（炎魉篇）
 - **风格参考**: `series-3-massacre-cleanup/story/`（系列3短篇）
 - **规模参考**: 魔影篇的大型据点设计
 

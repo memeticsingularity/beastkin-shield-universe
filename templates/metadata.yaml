@@ -1,0 +1,27 @@
+work:
+  code: ""
+  title:
+    chinese: ""
+    english: ""
+  format: ""
+  form_type: ""
+  status: ""
+  location: ""
+  subtype: ""
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+  tags: []
+  content_warnings: []
+
+creation:
+  author: ""
+  start_date: ""
+  last_update: ""
+  universe_based_on: ""
+  adaptation_info:
+    original_work: ""
+    original_title: ""
+    adaptation_approach: ""
+    key_changes: ""
+
+# 填写说明见 docs/spec/04-metadata.md

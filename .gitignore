@@ -29,3 +29,15 @@ structure
 **/prompt*
 
 .claude
+
+# 07 .process/archive/
+# 忽略作品目录下的归档目录（历史版本由 Git 追踪，但归档目录内的大文件或生成文件可忽略）
+**/.process/archive/*.pdf
+**/.process/archive/*.png
+**/.process/archive/*.jpg
+
+# 08 *.bak
+# 忽略备份文件
+*.bak
+*.backup
+

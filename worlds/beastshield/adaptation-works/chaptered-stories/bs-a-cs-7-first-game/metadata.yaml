@@ -1,0 +1,151 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章长篇小说元数据
+# ============================================
+# Form Type: cs (Chaptered Side)
+# 形式类型: cs (支线分章)
+
+work:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  code: "bs-a-cs-7-first-game"
+  # Format: [world]-a-cs-[natural_number]-[series_name]
+
+  title:
+    chinese: "第一场游戏"
+    english: "The First Game"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "updating"
+  location: "adaptation-works"
+
+  # ============================================
+  # CONDITIONALLY REQUIRED FIELDS / 条件必填字段
+  # ============================================
+
+  subtype: "side"
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  promotion_status: "not_eligible"
+  work_type: "adaptation"
+
+  tags:
+    - "VR-player"
+    - "first-game"
+    - "metaverse"
+    - "cross-dimensional"
+    - "growth"
+    - "original-character"
+    - "bear-beastkin"
+    - "rabbit-beastkin"
+    - "newbie-journey"
+
+  # ============================================
+  # OPTIONAL FIELDS / 可选字段
+  # ============================================
+
+  content_warnings:
+    - "violence"
+    - "trauma"
+    - "death"
+
+  reading_time_estimate:
+    minutes: 180
+
+  target_audience: "general"
+
+  related_works:
+    - code: "bs-a-s-2-vr-newbie"
+      relation_type: "prequel"
+      note: "短篇版前传"
+
+creation:
+  # ============================================
+  # REQUIRED FIELDS / 必填字段
+  # ============================================
+
+  author: "AI Assistant"
+  start_date: "2026-03-04"
+
+  # ============================================
+  # RECOMMENDED FIELDS / 推荐字段
+  # ============================================
+
+  last_update: "2026-03-04"
+  universe_based_on: "beastshield-paradise"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-03-04"
+      changes: "从短篇扩展为长篇，第一章完成"
+    - version: "2.0"
+      date: "2026-03-05"
+      changes: "全面修订前三章，增加感官细节、多视角叙事、制服体系和灰色产业链描写"
+
+chapters:
+  - number: 1
+    title: "降临"
+    scenes: 9
+    status: "completed (revised)"
+    word_count: ~12000
+    revision_notes: "增加大量感官细节描写，放慢叙事节奏，强化肉体描写（脂包肌、肉垫触感等），添加卷首语和卷尾语"
+
+  - number: 2
+    title: "第一课"
+    scenes: 9
+    status: "completed (revised)"
+    word_count: ~13000
+    revision_notes: "增加多视角叙事（G-734兽盾员工视角），详细描写兽盾制服体系（绿/蓝/黑/白/深蓝），加入俘虏快递灰色产业链，平民下单设定"
+
+  - number: 3
+    title: "觉醒"
+    scenes: 9
+    status: "completed (revised)"
+    word_count: ~13000
+    revision_notes: "强化精神力觉醒的感官描写，增加契约印记细节，完善地下实验室的恐怖氛围"
+
+  - number: 4
+    title: "间谍"
+    scenes: 9
+    status: "completed (revised)"
+    word_count: ~13000
+    revision_notes: "增加小灰视角的多视角叙事，强化地下实验室的工作细节，添加小灰牺牲的完整评述"
+
+  - number: 5
+    title: "战争前夜"
+    scenes: 9
+    status: "completed (revised)"
+    word_count: ~14000
+    revision_notes: "增加七人集结的感官描写，强化精神力训练的肉体感受，添加小灰的深度角色评述"
+
+  - number: 6
+    title: "战争"
+    scenes: 9
+    status: "completed (revised)"
+    word_count: ~15000
+    revision_notes: "增加战斗场景感官细节（血腥味、金属味、汗味），强化肉体描写，深化铁心和小灰牺牲的情感冲击，添加完整故事评述"
+
+  - number: 7
+    title: "余波"
+    scenes: 9
+    status: "completed (revised)"
+    word_count: ~16000
+    revision_notes: "增加疗伤场景感官细节、强化葬礼情感冲击、深化角色内心挣扎、添加完整故事评述"
+
+  - number: 8
+    title: "终章"
+    scenes: 9
+    status: "completed (revised)"
+    word_count: ~14000
+    revision_notes: "增加最终决战感官细节、强化校长救赎的情感冲击、深化陈默回归现实的心理描写、添加完整故事评述与后记"
+

@@ -1,7 +1,7 @@
 # Chapter 4 商店购物 - 分析
 
 >
-对应文件：[ch-4-store-shopping.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-4-store-shopping.md)
+对应文件：[ch-04-store-shopping.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-04-store-shopping.md)
 > 分析日期：2026-03-19
 
 ---

@@ -1,7 +1,7 @@
 # 第二章 仓库屠杀扩写兼容性检查报告
 
 > 分析对象：`ch2/01_expansion_draft_3.md`（第二章仓库屠杀扩写）
-> 对照基准：原文ch-2-warehouse-escape.md、world-setting.md、writing-style-guide.md
+> 对照基准：原文ch-02-warehouse-escape.md、world-setting.md、writing-style-guide.md
 > 分析日期：2026-03-17
 
 ---

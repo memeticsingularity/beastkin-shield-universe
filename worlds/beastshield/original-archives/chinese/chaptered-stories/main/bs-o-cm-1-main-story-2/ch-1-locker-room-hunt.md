@@ -1,6 +1,6 @@
 # Chapter 1 更衣室狩猎
 
-[返回目录](../README.md) | [下一章](ch-2-corridor-patrol.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../README.md) | [下一章](ch-02-corridor-patrol.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > （待补充）
 
@@ -63,7 +63,7 @@
 
 ---
 
-[返回目录](../README.md) | [下一章](ch-2-corridor-patrol.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../README.md) | [下一章](ch-02-corridor-patrol.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

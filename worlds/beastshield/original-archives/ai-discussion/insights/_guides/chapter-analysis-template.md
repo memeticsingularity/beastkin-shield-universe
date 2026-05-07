@@ -185,7 +185,7 @@ insights/
 │   ├── ...
 │   └── overview.md
 ├── main-story-2/                       # 主线第二卷《魔影》
-│   ├── ch-1-analysis.md
+│   ├── ch-01-analysis.md
 │   ├── ...
 │   └── overview.md
 ├── main-story-3/                       # 主线第三卷

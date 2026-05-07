@@ -1,6 +1,6 @@
 # Chapter 3 露台狩猎
 
-[上一章](ch-2-corridor-patrol.md) | [返回目录](../README.md) | [下一章](ch-4-tiger-guard-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-02-corridor-patrol.md) | [返回目录](../README.md) | [下一章](ch-04-tiger-guard-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > （待补充）
 
@@ -35,7 +35,7 @@
 
 ---
 
-[上一章](ch-2-corridor-patrol.md) | [返回目录](../README.md) | [下一章](ch-4-tiger-guard-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-02-corridor-patrol.md) | [返回目录](../README.md) | [下一章](ch-04-tiger-guard-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

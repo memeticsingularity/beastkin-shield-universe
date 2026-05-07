@@ -2,7 +2,7 @@
 
 ---
 
-| [返回目录](../../../short-stories/README.md) | [下一章](ch-2-office-clearance.md) |
+| [返回目录](../../../short-stories/README.md) | [下一章](ch-02-office-clearance.md) |
 
 ---
 
@@ -292,4 +292,4 @@
 
 ---
 
-| [返回目录](../../../short-stories/README.md) | [下一章](ch-2-office-clearance.md) |
+| [返回目录](../../../short-stories/README.md) | [下一章](ch-02-office-clearance.md) |

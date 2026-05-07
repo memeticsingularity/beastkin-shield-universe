@@ -123,15 +123,15 @@ meta-narrative elements such as system prompts, save mechanics, and character st
 │ └── dynamic-narrative-framework-v1-3.md (多系叙事模板)
 │
 ├── 故事章节
-│ ├── ch-1.md (第一章：起点：尸堆旁的清醒)
-│ ├── ch-2.md (第二章：尸骸间的实验)
-│ ├── ch-3.md (第三章：败北与碾压：熊铁山的两面)
-│ └── ch-4.md (第四章：阴影收藏家：熊铁山的终末与新生)
+│ ├── ch-01.md (第一章：起点：尸堆旁的清醒)
+│ ├── ch-02.md (第二章：尸骸间的实验)
+│ ├── ch-03.md (第三章：败北与碾压：熊铁山的两面)
+│ └── ch-04.md (第四章：阴影收藏家：熊铁山的终末与新生)
 │
 ├── 草稿文件 (draft/)
-│ ├── ch-2.md
-│ ├── ch-3-1.md
-│ └── ch-4-1.md
+│ ├── ch-02.md
+│ ├── ch-03-1.md
+│ └── ch-04-1.md
 │
 └── 设定文件夹 (setting/)
 ├── 任务流程 (mission-flow/mf-1/)
@@ -158,15 +158,15 @@ meta-narrative elements such as system prompts, save mechanics, and character st
 │ └── dynamic-narrative-framework-v1-3.md (Multi-Style Narrative Template)
 │
 ├── Story Chapters
-│ ├── ch-1.md (Chapter 1: Starting Point: Awakening by the Corpse Pile)
-│ ├── ch-2.md (Chapter 2: Experiments Among the Dead)
-│ ├── ch-3.md (Chapter 3: Defeat and Domination: The Two Sides of Bear Tieshan)
-│ └── ch-4.md (Chapter 4: Shadow Collector: The End and Rebirth of Bear Tieshan)
+│ ├── ch-01.md (Chapter 1: Starting Point: Awakening by the Corpse Pile)
+│ ├── ch-02.md (Chapter 2: Experiments Among the Dead)
+│ ├── ch-03.md (Chapter 3: Defeat and Domination: The Two Sides of Bear Tieshan)
+│ └── ch-04.md (Chapter 4: Shadow Collector: The End and Rebirth of Bear Tieshan)
 │
 ├── Draft Files (draft/)
-│ ├── ch-2.md
-│ ├── ch-3-1.md
-│ └── ch-4-1.md
+│ ├── ch-02.md
+│ ├── ch-03-1.md
+│ └── ch-04-1.md
 │
 └── Setting Folder (setting/)
 ├── Mission Flow (mission-flow/mf-1/)

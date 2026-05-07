@@ -34,73 +34,73 @@
 
 ## 3. 全卷章节目录
 
-### 第1章：进入游戏 ([ch-1-game-entry.md](./ch-1-game-entry.md))
+### 第1章：进入游戏 ([ch-01-game-entry.md](./chapters/ch-01-game-entry.md))
 
 - **章节标签**：`#教程关` `#游戏机制` `#熊兽人`
 - **剧情简介**：玩家首次进入VR游戏《兽游世界》，学习游戏的基本机制——所有伤害转化为性欲值，射精即死亡。在教程关卡中，玩家通过摸索制服了一只熊兽人守卫，成功通过教程。
 
-### 第2章：逃离仓库 ([ch-2-escape-warehouse.md](./ch-2-escape-warehouse.md))
+### 第2章：逃离仓库 ([ch-02-escape-warehouse.md](./chapters/ch-02-escape-warehouse.md))
 
 - **章节标签**：`#等级系统` `#属性加点` `#虎队长`
 - **剧情简介**：玩家离开教程房间，探索被兽盾员工占领的仓库。通过审问狗兽人获得情报，击败虎队长拿到钥匙，消灭所有守卫后成功逃离仓库。
 
-### 第3章：前往市中心 ([ch-3-head-to-downtown.md](./ch-3-head-to-downtown.md))
+### 第3章：前往市中心 ([ch-03-head-to-downtown.md](./chapters/ch-03-head-to-downtown.md))
 
 - **章节标签**：`#驾驶系统` `#随从系统` `#牛兽人`
 - **剧情简介**：玩家在荒野中找到一辆卡车，劫持司机牛兽人前往市中心。途中了解随从系统，最终在牛兽人反抗时将其处决，抵达市中心。
 
-### 第4章：商店购物 ([ch-4-store-shopping.md](./ch-4-store-shopping.md))
+### 第4章：商店购物 ([ch-04-store-shopping.md](./chapters/ch-04-store-shopping.md))
 
 - **章节标签**：`#武器商店` `#赏金系统` `#野猪兄弟`
 - **剧情简介**：玩家进入市中心，拜访武器商店，遭遇兽盾杂兵收保护费。被迫卷入战斗，击败两只野猪兽人后，解锁赏金系统，获得钢丝指环武器。
 
-### 第5章：初试换装 ([ch-5-first-costume-change.md](./ch-5-first-costume-change.md))
+### 第5章：初试换装 ([ch-05-first-costume-change.md](./chapters/ch-05-first-costume-change.md))
 
 - **章节标签**：`#换装技能` `#伪装系统` `#熊馆长`
 - **剧情简介**
   ：玩家升级学会换装技能，可通过穿戴兽盾制服伪装身份。测试技能时挑衅路人，被武道馆的熊馆长击败。重新读档后报复性调戏熊馆长，发现其"
   刚正不阿"的习性。
 
-### 第6章：闯入敌营 ([ch-6-break-into-enemy-camp.md](./ch-6-break-into-enemy-camp.md))
+### 第6章：闯入敌营 ([ch-06-break-into-enemy-camp.md](./chapters/ch-06-break-into-enemy-camp.md))
 
 - **章节标签**：`#兽盾总部` `#伪装潜入` `#误杀警长`
 - **剧情简介**：玩家伪装成兽盾员工潜入总部大楼，被虎队长征召执行任务。在酒店保护证人任务中，误杀警长，但因此立功被升为蓝制服干部。
 
-### 第7章：调教下属 ([ch-7-training-subordinates.md](./ch-7-training-subordinates.md))
+### 第7章：调教下属 ([ch-07-training-subordinates.md](./chapters/ch-07-training-subordinates.md))
 
 - **章节标签**：`#干部权限` `#下属管理` `#诈死技能`
 - **剧情简介**：玩家成为干部后获得两名下属牛杂和熊掌。通过测试发现牛杂是M体质且有诈死技能，熊掌则憨厚老实。初步建立自己的小团队。
 
-### 第8章：转职任务 ([ch-8-class-change-quest.md](./ch-8-class-change-quest.md))
+### 第8章：转职任务 ([ch-08-class-change-quest.md](./chapters/ch-08-class-change-quest.md))
 
 - **章节标签**：`#转职系统` `#摔跤兵种` `#麻痹戒指`
 - **剧情简介**：玩家等级满需要转职。利用牛杂挑战摔跤兵消耗其体力，随后偷袭获得胜利。转职后学会"影袭"
   技能，并获得麻痹戒指。
 
-### 第9章：挑战本部 ([ch-9-challenge-headquarters.md](./ch-9-challenge-headquarters.md))
+### 第9章：挑战本部 ([ch-09-challenge-headquarters.md](./chapters/ch-09-challenge-headquarters.md))
 
 - **章节标签**：`#兽盾大楼` `#单挑众兵` `#高级兵种`
 - **剧情简介**：玩家装备升级后正式挑战兽盾本部大楼。从一楼大厅开始，逐层清理守卫，直到四楼食堂遭遇牛杂和熊掌，被赶来的虎队长击退。
 
-### 第10章：初见boss ([ch-10-first-encounter-boss.md](./ch-10-first-encounter-boss.md))
+### 第10章：初见boss ([ch-10-first-encounter-boss.md](./chapters/ch-10-first-encounter-boss.md))
 
 - **章节标签**：`#牙董` `#血精石` `#嗜精兽`
 - **剧情简介**：玩家被虎队长带到牙董面前。经过测试击败虎队长后，牙董将血精石植入玩家体内，玩家变异为"
   嗜精兽"，获得吸食精液的能力。
 
-### 第11章：特工局 ([ch-11-agent-bureau.md](./ch-11-agent-bureau.md))
+### 第11章：特工局 ([ch-11-agent-bureau.md](./chapters/ch-11-agent-bureau.md))
 
 - **章节标签**：`#特工局` `#青雉缚阳锁` `#银针封穴`
 - **剧情简介**
   ：玩家离开兽盾后被狙击手袭击，被特工局救下。经投票后被接纳为成员，戴上青雉缚阳锁封印嗜精瘾。在特工局学习"
   银针封穴"技能。
 
-### 第12章：夜闯武斗兵营 ([ch-12-night-raid-fight-camp.md](./ch-12-night-raid-fight-camp.md))
+### 第12章：夜闯武斗兵营 ([ch-12-night-raid-fight-camp.md](./chapters/ch-12-night-raid-fight-camp.md))
 
 - **章节标签**：`#流墟` `#武斗兵营` `#熊猫出手`
 - **剧情简介**：玩家与熊馆长组队潜入兽盾武斗兵营调查"流墟"。发现流墟是一种吸食精液的黑色粘液怪物。任务虽未成功，但熊猫出手几乎清空了虎兽人兵营。
 
-### 第13章：开锁 ([ch-13-unlocking.md](./ch-13-unlocking.md))
+### 第13章：开锁 ([ch-13-unlocking.md](./chapters/ch-13-unlocking.md))
 
 - **章节标签**：`#力量暴增` `#南海云顶` `#传说兽人`
 - **剧情简介**

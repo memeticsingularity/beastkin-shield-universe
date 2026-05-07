@@ -1,3 +1,5 @@
+> **Deprecated**: 本文档已被 v3.0 规范替代。编码规则见 `docs/spec/02-work-coding.md`，中间文档规范见 `docs/spec/03-intermediate-documents.md`，项目结构见 `docs/spec/01-project-structure.md`。本文档保留 6 个月作为过渡期兼容。
+
 # Beastkin Universe 作品命名与组织指南 2.3.0
 
 ## 1. 简介

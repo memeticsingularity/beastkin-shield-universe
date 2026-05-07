@@ -526,19 +526,19 @@
 
 | 章节    | 标题   | 文件路径                                                                                                                          | 核心特点              |
 |-------|------|-------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| CH-01 | 游戏入门 | [ch-1-game-entry.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md)                         | 教学关卡、撸杀处决、第一人称沉浸  |
-| CH-02 | 仓库逃脱 | [ch-2-escape-warehouse.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md)             | 精槽系统、扭脖处决、属性加点    |
-| CH-03 | 前往市区 | [ch-3-head-to-downtown.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-3-head-to-downtown.md)             | 随从系统、控射驾驶、前列腺榨精   |
-| CH-04 | 商店购物 | [ch-4-store-shopping.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-4-store-shopping.md)                 | 警觉时间、割喉/绞杀、赏金系统   |
-| CH-05 | 首次换装 | [ch-5-first-costume-change.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md)     | 换装技能、苏联大坐、白熊武道家   |
-| CH-06 | 潜入敌营 | [ch-6-break-into-enemy-camp.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)   | 误杀警长、升职蓝制服、虎队长登场  |
-| CH-07 | 训练下属 | [ch-7-training-subordinates.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-7-training-subordinates.md)   | 忠诚度测试、牛杂诈死、憋精功    |
-| CH-08 | 转职任务 | [ch-8-class-change-quest.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md)         | 摔跤兵种、影袭技能、麻痹戒指    |
-| CH-09 | 挑战总部 | [ch-9-challenge-headquarters.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) | 一楼屠杀、催眠瓦斯、中年熊守卫   |
-| CH-10 | 首次对决 | [ch-10-first-encounter-boss.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md)   | 四次读档、飞雷神、牙董登场、血精石 |
-| CH-11 | 特工局  | [ch-11-agent-bureau.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)                   | 投票处决、青雉缚阳锁、银针封穴术  |
-| CH-12 | 夜袭兵营 | [ch-12-night-raid-fight-camp.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md) | 流墟怪物、尸山血海、熊猫暴力清场  |
-| CH-13 | 解锁封印 | [ch-13-unlocking.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-13-unlocking.md)                         | 接近满级、缚阳锁松动、南海浮岛   |
+| CH-01 | 游戏入门 | [ch-01-game-entry.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-01-game-entry.md)                         | 教学关卡、撸杀处决、第一人称沉浸  |
+| CH-02 | 仓库逃脱 | [ch-02-escape-warehouse.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-02-escape-warehouse.md)             | 精槽系统、扭脖处决、属性加点    |
+| CH-03 | 前往市区 | [ch-03-head-to-downtown.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-03-head-to-downtown.md)             | 随从系统、控射驾驶、前列腺榨精   |
+| CH-04 | 商店购物 | [ch-04-store-shopping.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-04-store-shopping.md)                 | 警觉时间、割喉/绞杀、赏金系统   |
+| CH-05 | 首次换装 | [ch-05-first-costume-change.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-05-first-costume-change.md)     | 换装技能、苏联大坐、白熊武道家   |
+| CH-06 | 潜入敌营 | [ch-06-break-into-enemy-camp.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-06-break-into-enemy-camp.md)   | 误杀警长、升职蓝制服、虎队长登场  |
+| CH-07 | 训练下属 | [ch-07-training-subordinates.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-07-training-subordinates.md)   | 忠诚度测试、牛杂诈死、憋精功    |
+| CH-08 | 转职任务 | [ch-08-class-change-quest.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-08-class-change-quest.md)         | 摔跤兵种、影袭技能、麻痹戒指    |
+| CH-09 | 挑战总部 | [ch-09-challenge-headquarters.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-09-challenge-headquarters.md) | 一楼屠杀、催眠瓦斯、中年熊守卫   |
+| CH-10 | 首次对决 | [ch-10-first-encounter-boss.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-10-first-encounter-boss.md)   | 四次读档、飞雷神、牙董登场、血精石 |
+| CH-11 | 特工局  | [ch-11-agent-bureau.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-11-agent-bureau.md)                   | 投票处决、青雉缚阳锁、银针封穴术  |
+| CH-12 | 夜袭兵营 | [ch-12-night-raid-fight-camp.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-12-night-raid-fight-camp.md) | 流墟怪物、尸山血海、熊猫暴力清场  |
+| CH-13 | 解锁封印 | [ch-13-unlocking.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-13-unlocking.md)                         | 接近满级、缚阳锁松动、南海浮岛   |
 
 ---
 

@@ -35,22 +35,22 @@
 9. **[第九章：兽神的秘密](bsr-o-cm-1-main-story-1/ch-9-secret-of-the-beast-god.md)**  
    *Chapter 9: Secret of the Beast God*
 
-10. **[第一十章：意外的羁绊](bsr-o-cm-1-main-story-1/ch-10-an-unexpected-bond.md)**  
+10. **[第一十章：意外的羁绊](bsr-o-cm-1-main-story-1/chapters/ch-10-an-unexpected-bond.md)**  
     *Chapter 10: An Unexpected Bond*
 
-11. **[第一十一章：扭曲的交友](bsr-o-cm-1-main-story-1/ch-11-a-perverse-friendship.md)**  
+11. **[第一十一章：扭曲的交友](bsr-o-cm-1-main-story-1/chapters/ch-11-a-perverse-friendship.md)**  
     *Chapter 11: A Perverse Friendship*
 
-12. **[第一十二章：夜袭](bsr-o-cm-1-main-story-1/ch-12-night-raid.md)**  
+12. **[第一十二章：夜袭](bsr-o-cm-1-main-story-1/chapters/ch-12-night-raid.md)**  
     *Chapter 12: Night Raid*
 
-13. **[第一十三章：荒脊平原](bsr-o-cm-1-main-story-1/ch-13-the-barren-spine-plains.md)**  
+13. **[第一十三章：荒脊平原](bsr-o-cm-1-main-story-1/chapters/ch-13-the-barren-spine-plains.md)**  
     *Chapter 13: The Barren Spine Plains*
 
-14. **[第一十四章：嗜精兽的盛宴](bsr-o-cm-1-main-story-1/ch-14-the-sperm-devourers-feast.md)**  
+14. **[第一十四章：嗜精兽的盛宴](bsr-o-cm-1-main-story-1/chapters/ch-14-the-sperm-devourers-feast.md)**  
     *Chapter 14: The Sperm Devourer's Feast*
 
-15. **[第一十五章：绿洲镇相遇](bsr-o-cm-1-main-story-1/ch-15-encounter-at-oasis-town.md)**  
+15. **[第一十五章：绿洲镇相遇](bsr-o-cm-1-main-story-1/chapters/ch-15-encounter-at-oasis-town.md)**  
     *Chapter 15: Encounter at Oasis Town*
 
 ---

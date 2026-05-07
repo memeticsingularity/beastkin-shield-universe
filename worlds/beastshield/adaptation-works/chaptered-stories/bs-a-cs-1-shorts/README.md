@@ -83,13 +83,13 @@ and endowing each G-rank grunt with a complete life story.
 ### 3.1 第一章：生日蛋糕 / Chapter 1: Birthday Cake
 
 **中文**  
-**文件**: `ch-1-birthday-cake.md`  
+**文件**: `ch-01-birthday-cake.md`  
 **简介**: 牛兽人阿壮在生日当天被赏金猎人猎杀，生日蛋糕成为死亡祭品。  
 **主题**: 日常暴力、无意义死亡、微小愿望的破灭  
 **特色角色**: G-277-牛兽人-阿壮、赏金猎人-狼啸天
 
 **English**  
-**File**: `ch-1-birthday-cake.md`  
+**File**: `ch-01-birthday-cake.md`  
 **Synopsis**: Bull beastkin Azhuang is hunted by a bounty hunter on his birthday; the birthday cake
 becomes a death offering.  
 **Themes**: Everyday violence, meaningless death, destruction of small wishes  
@@ -100,13 +100,13 @@ becomes a death offering.
 ### 3.2 第二章：鼾声如雷 / Chapter 2: Snoring Too Loud
 
 **中文**  
-**文件**: `ch-2-snoring-too-loud.md`  
+**文件**: `ch-02-snoring-too-loud.md`  
 **简介**: 员工宿舍中，鼾声引发的暴力冲突与沉默旁观。  
 **主题**: 宿舍暴力、恐惧传播、系统性的冷漠  
 **特色角色**: G-433-熊兽人-熊厚、G-312-狼兽人-狼迅、G-277-牛兽人-牛稳
 
 **English**  
-**File**: `ch-2-snoring-too-loud.md`  
+**File**: `ch-02-snoring-too-loud.md`  
 **Synopsis**: In the employee dormitory, snoring triggers violent conflict and silent bystanders.  
 **Themes**: Dormitory violence, spread of fear, systemic indifference  
 **Featured Characters**: G-433-Bear-Hou, G-312-Wolf-Xun, G-277-Bull-Wen
@@ -116,13 +116,13 @@ becomes a death offering.
 ### 3.3 第三章：新兵营的代价 / Chapter 3: The Price of Training Camp
 
 **中文**  
-**文件**: `ch-3-bullying-in-training-camp.md`  
+**文件**: `ch-03-bullying-in-training-camp.md`  
 **简介**: 新兵营霸凌事件中，正义干预的悲剧结局。  
 **主题**: 霸凌文化、正义的代价、弱肉强食  
 **特色角色**: G-589-狗兽人-犬忠、G-477-狼兽人-狼义、G-501-野猪兽人-猪莽、G-523-犀牛兽人-犀坚
 
 **English**  
-**File**: `ch-3-bullying-in-training-camp.md`  
+**File**: `ch-03-bullying-in-training-camp.md`  
 **Synopsis**: Tragic outcome of righteous intervention in a bootcamp bullying incident.  
 **Themes**: Bullying culture, cost of justice, survival of the fittest  
 **Featured Characters**: G-589-Dog-Zhong, G-477-Wolf-Yi, G-501-Boar-Mang, G-523-Rhino-Jian
@@ -132,13 +132,13 @@ becomes a death offering.
 ### 3.4 第四章：新兵营的规则 / Chapter 4: Rules of the Bootcamp
 
 **中文**  
-**文件**: `ch-4-rules-of-the-bootcamp.md`  
+**文件**: `ch-04-rules-of-the-bootcamp.md`  
 **简介**: 赏金猎人介入新兵营霸凌，展现更残酷的生存法则。  
 **主题**: 暴力层级、生存法则、系统的无情  
 **特色角色**: G-635-羚羊兽人-羚怯、G-636-鹿兽人-鹿正、G-633-狮兽人-狮狂、G-634-鬣狗兽人-鬣龅、赏金猎人
 
 **English**  
-**File**: `ch-4-rules-of-the-bootcamp.md`  
+**File**: `ch-04-rules-of-the-bootcamp.md`  
 **Synopsis**: Bounty hunter intervenes in bootcamp bullying, revealing harsher survival rules.  
 **Themes**: Hierarchy of violence, survival rules, system's ruthlessness  
 **Featured Characters**: G-635-Antelope-Qie, G-636-Deer-Zheng, G-633-Lion-Kuang, G-634-Hyena-Bao,

@@ -17,7 +17,7 @@
 
 **核心美学**：死亡毫无价值，杀得顺手，死后像垃圾处理。
 
-**学习范本**：`bs-a-cs-4-yanliang/ch-1.md` **Scene-1**
+**学习范本**：`bs-a-cs-4-yanliang/chapters/ch-01.md` **Scene-1**
 
 - ✅ 雷爪有名字，有挣扎求饶
 - ✅ 炎顺手杀戮，面无表情
@@ -341,7 +341,7 @@
 ## 参考标准
 
 **必读范本**：
-`worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/ch-1.md`
+`worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/ch-01.md`
 
 **学习范围**：
 

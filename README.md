@@ -3,10 +3,10 @@
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-orange)
-![Worlds](https://img.shields.io/badge/Worlds-3%20Unique%20Settings-purple)
+![Worlds](https://img.shields.io/badge/Worlds-7%20Unique%20Settings-purple)
 
-**版本 2.0 · 最后更新：2025年12月13日 · 适配命名体系：[2.1.1](docs/work-naming-guide-english.md) ·
-适配模板指南：[4.3](docs/universal-story-template-guide-english.md)**
+**版本 3.0 · 最后更新：2026年5月7日 · 规范体系：[docs/spec/](docs/spec/) ·
+重构记录：[restructure-2026/](restructure-2026/)**
 
 ---
 

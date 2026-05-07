@@ -2004,9 +2004,9 @@
 
 ---
 
-#### cs-1-ch-2-1.jpg (来自short-stories)
+#### cs-1-ch-02-1.jpg (来自short-stories)
 
-![cs-1-ch-2-1.jpg](./short-stories/cs-1-ch-2-1.jpg)
+![cs-1-ch-02-1.jpg](./short-stories/cs-1-ch-02-1.jpg)
 
 **观察到的细节：**
 
@@ -2020,9 +2020,9 @@
 
 ---
 
-#### cs-1-ch-2-2.jpg (来自short-stories)
+#### cs-1-ch-02-2.jpg (来自short-stories)
 
-![cs-1-ch-2-2.jpg](./short-stories/cs-1-ch-2-2.jpg)
+![cs-1-ch-02-2.jpg](./short-stories/cs-1-ch-02-2.jpg)
 
 **观察到的细节：**
 
@@ -2036,9 +2036,9 @@
 
 ---
 
-#### cs-1-ch-3-1.jpg (来自short-stories)
+#### cs-1-ch-03-1.jpg (来自short-stories)
 
-![cs-1-ch-3-1.jpg](./short-stories/cs-1-ch-3-1.jpg)
+![cs-1-ch-03-1.jpg](./short-stories/cs-1-ch-03-1.jpg)
 
 **观察到的细节：**
 
@@ -2052,9 +2052,9 @@
 
 ---
 
-#### cs-1-ch-3-2.jpg (来自short-stories)
+#### cs-1-ch-03-2.jpg (来自short-stories)
 
-![cs-1-ch-3-2.jpg](./short-stories/cs-1-ch-3-2.jpg)
+![cs-1-ch-03-2.jpg](./short-stories/cs-1-ch-03-2.jpg)
 
 **观察到的细节：**
 
@@ -2374,9 +2374,9 @@
 
 ### 2.3 第3章
 
-#### ch-3-1.jpg
+#### ch-03-1.jpg
 
-![ch-3-1.jpg](./main-story/vol%201/ch-3-1.jpg)
+![ch-03-1.jpg](./main-story/vol%201/chapters/ch-03-1.jpg)
 
 **观察到的细节：**
 
@@ -2387,9 +2387,9 @@
 
 ---
 
-#### ch-3-2.jpg
+#### ch-03-2.jpg
 
-![ch-3-2.jpg](./main-story/vol%201/ch-3-2.jpg)
+![ch-03-2.jpg](./main-story/vol%201/chapters/ch-03-2.jpg)
 
 **观察到的细节：**
 
@@ -2405,7 +2405,7 @@
 
 ### 2.4 第4章
 
-![ch-3-1.jpg](./main-story/vol%201/ch-3-1.jpg)
+![ch-03-1.jpg](./main-story/vol%201/chapters/ch-03-1.jpg)
 
 **观察到的细节：**
 
@@ -2506,9 +2506,9 @@
 
 ### 2.7 第9章
 
-#### ch-9-1.jpg
+#### ch-09-1.jpg
 
-![ch-9-1.jpg](./main-story/vol%201/ch-9-1.jpg)
+![ch-09-1.jpg](./main-story/vol%201/chapters/ch-09-1.jpg)
 
 **观察到的细节：**
 
@@ -2521,9 +2521,9 @@
 
 ---
 
-#### ch-9-2.jpg
+#### ch-09-2.jpg
 
-![ch-9-2.jpg](./main-story/vol%201/ch-9-2.jpg)
+![ch-09-2.jpg](./main-story/vol%201/chapters/ch-09-2.jpg)
 
 **观察到的细节：**
 
@@ -2540,7 +2540,7 @@
 
 ### 2.8 第11章
 
-![ch-9-1.jpg](./main-story/vol%201/ch-9-1.jpg)
+![ch-09-1.jpg](./main-story/vol%201/chapters/ch-09-1.jpg)
 
 **观察到的细节：**
 
@@ -2557,7 +2557,7 @@
 
 #### ch-11.jpg
 
-![ch-11.jpg](./main-story/vol%201/ch-11.jpg)
+![ch-11.jpg](./main-story/vol%201/chapters/ch-11.jpg)
 
 **观察到的细节：**
 
@@ -2576,7 +2576,7 @@
 
 #### ch-12-1.jpg
 
-![ch-12-1.jpg](./main-story/vol%201/ch-12-1.jpg)
+![ch-12-1.jpg](./main-story/vol%201/chapters/ch-12-1.jpg)
 
 **观察到的细节：**
 
@@ -2591,7 +2591,7 @@
 
 #### ch-12-2.jpg
 
-![ch-12-2.jpg](./main-story/vol%201/ch-12-2.jpg)
+![ch-12-2.jpg](./main-story/vol%201/chapters/ch-12-2.jpg)
 
 **观察到的细节：**
 
@@ -2607,7 +2607,7 @@
 
 #### ch-12-3.jpg
 
-![ch-12-3.jpg](./main-story/vol%201/ch-12-3.jpg)
+![ch-12-3.jpg](./main-story/vol%201/chapters/ch-12-3.jpg)
 
 **观察到的细节：**
 
@@ -2623,7 +2623,7 @@
 
 #### ch-12-4.jpg
 
-![ch-12-4.jpg](./main-story/vol%201/ch-12-4.jpg)
+![ch-12-4.jpg](./main-story/vol%201/chapters/ch-12-4.jpg)
 
 **观察到的细节：**
 
@@ -2711,7 +2711,7 @@
 - 袜子存在红色条纹变体（红绿白三色条纹，见g-bear.jpg和ch-11.jpg）
 - g-bull/20240318.jpg 为特殊场景（被束缚/倒吊），无上装
 - **三角裤款式**：部分G级犀牛兽人穿**军绿色紧身三角裤**（见g-rhino/20230823-2.jpg、20230823-3.jpg），非常规短裤
-- 部分G级制服**胸前也有"SHIELD"字样**（见ch-3-2.jpg）
+- 部分G级制服**胸前也有"SHIELD"字样**（见ch-03-2.jpg）
 
 ### 3.2 O级监工制服要素
 
@@ -2820,12 +2820,12 @@
 
 ### main-story/vol 1 其他图片
 
-- [x] ~~ch-3-1.jpg~~, ~~ch-3-2.jpg~~
+- [x] ~~ch-03-1.jpg~~, ~~ch-03-2.jpg~~
 - [x] ~~ch-4.jpg~~
 - [x] ~~ch-5.jpg~~
 - [x] ~~ch-7.jpg~~
 - [x] ~~ch-8.jpg~~
-- [x] ~~ch-9-1.jpg~~, ~~ch-9-2.jpg~~
+- [x] ~~ch-09-1.jpg~~, ~~ch-09-2.jpg~~
 - [x] ~~ch-11.jpg~~
 - [x] ~~ch-12-1.jpg~~, ~~ch-12-2.jpg~~, ~~ch-12-3.jpg~~, ~~ch-12-4.jpg~~
 
@@ -2835,9 +2835,9 @@
 
 ### short-stories 其他图片
 
-- [x] ~~cs-1-ch-2-1.jpg~~
-- [x] ~~cs-1-ch-2-2.jpg~~
-- [x] ~~cs-1-ch-3-1.jpg~~, ~~cs-1-ch-3-2.jpg~~
+- [x] ~~cs-1-ch-02-1.jpg~~
+- [x] ~~cs-1-ch-02-2.jpg~~
+- [x] ~~cs-1-ch-03-1.jpg~~, ~~cs-1-ch-03-2.jpg~~
 - [x] ~~s-2.jpg~~
 - [x] ~~g-bear.jpg~~
 - [x] beastkin-disposal/ ~~20230824-1.jpg~~, ~~20230824-2.jpg~~, ~~20230824-3.jpg~~, ~~

@@ -82,7 +82,7 @@
 
 ## 参考范本
 
-- **主要参考**: `bs-a-cs-4-yanliang/ch-1.md`
+- **主要参考**: `bs-a-cs-4-yanliang/chapters/ch-01.md`
 - **风格参考**: `series-3-massacre-cleanup/story/` 各篇
 
 ---

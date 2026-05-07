@@ -39,35 +39,35 @@ Stone within their body.
 
 ## 3. Full Volume Chapter Index
 
-### Chapter 1: Entering the Game ([ch-1-game-entry.md](./ch-1-game-entry.md))
+### Chapter 1: Entering the Game ([ch-01-game-entry.md](./chapters/ch-01-game-entry.md))
 
 - **Chapter Tags**: `#Tutorial` `#Game Mechanics` `#Bear Beastkin`
 - **Synopsis**: The player enters the VR game *Beast World* for the first time and learns its core
   mechanic—all damage converts to Lust Value, and ejaculation means death. In the tutorial, the
   player figures out how to subdue a bear beastkin guard and successfully passes.
 
-### Chapter 2: Escape from the Warehouse ([ch-2-escape-warehouse.md](./ch-2-escape-warehouse.md))
+### Chapter 2: Escape from the Warehouse ([ch-02-escape-warehouse.md](./chapters/ch-02-escape-warehouse.md))
 
 - **Chapter Tags**: `#Level System` `#Attribute Points` `#Tiger Captain`
 - **Synopsis**: The player leaves the tutorial room and explores a warehouse occupied by Beastshield
   employees. They interrogate a dog beastkin for information, defeat the Tiger Captain to obtain a
   key, eliminate all guards, and successfully escape the warehouse.
 
-### Chapter 3: Heading to Downtown ([ch-3-head-to-downtown.md](./ch-3-head-to-downtown.md))
+### Chapter 3: Heading to Downtown ([ch-03-head-to-downtown.md](./chapters/ch-03-head-to-downtown.md))
 
 - **Chapter Tags**: `#Driving System` `#Follower System` `#Bull Beastkin`
 - **Synopsis**: The player finds a truck in the wilderness, hijacks the bull beastkin driver, and
   heads to the downtown area. They learn about the follower system along the way. When the bull
   beastkin rebels, the player executes them and arrives downtown.
 
-### Chapter 4: Store Shopping ([ch-4-store-shopping.md](./ch-4-store-shopping.md))
+### Chapter 4: Store Shopping ([ch-04-store-shopping.md](./chapters/ch-04-store-shopping.md))
 
 - **Chapter Tags**: `#Weapon Store` `#Bounty System` `#Wild Boar Brothers`
 - **Synopsis**: The player enters downtown, visits a weapon store, and encounters Beastshield grunts
   collecting protection money. Forced into a fight, the player defeats two wild boar beastkin,
   unlocks the bounty system, and obtains a wire ring weapon.
 
-### Chapter 5: First Costume Change ([ch-5-first-costume-change.md](./ch-5-first-costume-change.md))
+### Chapter 5: First Costume Change ([ch-05-first-costume-change.md](./chapters/ch-05-first-costume-change.md))
 
 - **Chapter Tags**: `#Disguise Skill` `#Camouflage System` `#Bear Dojo Master`
 - **Synopsis**: The player levels up and learns the disguise skill, allowing them to impersonate
@@ -75,28 +75,28 @@ Stone within their body.
   they are defeated by the Bear Dojo Master. After reloading, they teasingly get back at the Bear
   Master, discovering his "incorruptible" nature.
 
-### Chapter 6: Break into the Enemy Camp ([ch-6-break-into-enemy-camp.md](./ch-6-break-into-enemy-camp.md))
+### Chapter 6: Break into the Enemy Camp ([ch-06-break-into-enemy-camp.md](./chapters/ch-06-break-into-enemy-camp.md))
 
 - **Chapter Tags**: `#Beastshield HQ` `#Undercover Infiltration` `#Accidental Sheriff Kill`
 - **Synopsis**: Disguised as a Beastshield employee, the player infiltrates the headquarters
   building and is conscripted by the Tiger Captain for a mission. During a hotel witness protection
   task, they accidentally kill a sheriff but are promoted to blue-uniformed cadre for their "merit."
 
-### Chapter 7: Training Subordinates ([ch-7-training-subordinates.md](./ch-7-training-subordinates.md))
+### Chapter 7: Training Subordinates ([ch-07-training-subordinates.md](./chapters/ch-07-training-subordinates.md))
 
 - **Chapter Tags**: `#Cadre Authority` `#Subordinate Management` `#Feign Death Skill`
 - **Synopsis**: As a cadre, the player gains two subordinates: Niu Za (bull) and Xiong Zhang (bear).
   Through testing, they discover Niu Za is masochistic and possesses a feign death skill, while
   Xiong Zhang is honest and simple. The player begins building their own small team.
 
-### Chapter 8: Class Change Quest ([ch-8-class-change-quest.md](./ch-8-class-change-quest.md))
+### Chapter 8: Class Change Quest ([ch-08-class-change-quest.md](./chapters/ch-08-class-change-quest.md))
 
 - **Chapter Tags**: `#Class Change System` `#Wrestler Class` `#Paralysis Ring`
 - **Synopsis**: The player reaches max level and needs to change classes. They use Niu Za to
   challenge a wrestler soldier, wearing him down before ambushing him for victory. After changing
   class, they learn the "Shadow Assault" skill and obtain a paralysis ring.
 
-### Chapter 9: Challenge the Headquarters ([ch-9-challenge-headquarters.md](./ch-9-challenge-headquarters.md))
+### Chapter 9: Challenge the Headquarters ([ch-09-challenge-headquarters.md](./chapters/ch-09-challenge-headquarters.md))
 
 - **Chapter Tags**: `#Beastshield Building` `#Solo Fight` `#Advanced Classes`
 - **Synopsis**: With upgraded equipment, the player formally challenges the Beastshield headquarters
@@ -104,14 +104,14 @@ Stone within their body.
   fourth-floor cafeteria, where they encounter Niu Za and Xiong Zhang and are driven back by the
   arriving Tiger Captain.
 
-### Chapter 10: First Boss Encounter ([ch-10-first-encounter-boss.md](./ch-10-first-encounter-boss.md))
+### Chapter 10: First Boss Encounter ([ch-10-first-encounter-boss.md](./chapters/ch-10-first-encounter-boss.md))
 
 - **Chapter Tags**: `#Chairman Ya` `#Blood Essence Stone` `#Semen-Eater Beast`
 - **Synopsis**: The player is taken before Chairman Ya by the Tiger Captain. After passing a test by
   defeating the Tiger Captain, Chairman Ya implants a Blood Essence Stone into the player's body.
   The player mutates into a "Semen-Eater Beast," gaining the ability to consume semen.
 
-### Chapter 11: Agent Bureau ([ch-11-agent-bureau.md](./ch-11-agent-bureau.md))
+### Chapter 11: Agent Bureau ([ch-11-agent-bureau.md](./chapters/ch-11-agent-bureau.md))
 
 - **Chapter Tags**: `#Agent Bureau` `#Azure Sparrow Yang-Binding Lock` `#Silver Needle Sealing`
 - **Synopsis**: After leaving Beastshield, the player is ambushed by a sniper and rescued by the
@@ -119,7 +119,7 @@ Stone within their body.
   Yang-Binding Lock to suppress their semen-eating addiction. At the Agent Bureau, they learn the "
   Silver Needle Sealing" skill.
 
-### Chapter 12: Night Raid on the Combat Camp ([ch-12-night-raid-fight-camp.md](./ch-12-night-raid-fight-camp.md))
+### Chapter 12: Night Raid on the Combat Camp ([ch-12-night-raid-fight-camp.md](./chapters/ch-12-night-raid-fight-camp.md))
 
 - **Chapter Tags**: `#Flowing Ruin` `#Combat Camp` `#Panda's Intervention`
 - **Synopsis**: Teaming up with the Bear Dojo Master, the player infiltrates a Beastshield combat
@@ -127,7 +127,7 @@ Stone within their body.
   consumes semen, a bioweapon created by Beastshield. Although the mission isn't fully successful,
   Panda intervenes and nearly wipes out the tiger beastkin barracks.
 
-### Chapter 13: Unlocking ([ch-13-unlocking.md](./ch-13-unlocking.md))
+### Chapter 13: Unlocking ([ch-13-unlocking.md](./chapters/ch-13-unlocking.md))
 
 - **Chapter Tags**: `#Power Surge` `#South Sea Cloud Peak` `#Legendary Beastkin`
 - **Synopsis**: Empowered by the Azure Sparrow Yang-Binding Lock, the player's strength increases

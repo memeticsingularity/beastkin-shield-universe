@@ -1,3 +1,5 @@
+> **Deprecated**: 本文档已被 v3.0 规范替代。请参阅 `docs/spec/01-project-structure.md`。本文档保留 6 个月作为过渡期兼容。
+
 # Project Structure Script Usage Guide
 
 # 项目结构脚本使用指南

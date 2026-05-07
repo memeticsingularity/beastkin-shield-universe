@@ -2,56 +2,56 @@
 
 ## 已完成章节
 
-### 第1章：游戏入门 (ch-1-game-entry.md)
+### 第1章：游戏入门 (ch-01-game-entry.md)
 
 - 状态：已完成
 - 已移除不当加粗：同事、鼻息、死亡、弱点
 - 结构完整
 
-### 第2章：仓库逃脱 (ch-2-escape-warehouse.md)
+### 第2章：仓库逃脱 (ch-02-escape-warehouse.md)
 
 - 状态：已完成
 - 已移除不当加粗：开始探索(动作)、酸软(状态)、反抗能力(动作)、审问(动作)、呻吟(动作)、游戏设定(改为只加粗"
   游戏")、手刀(动作)
 - 结构完整
 
-### 第3章：前往市区 (ch-3-head-to-downtown.md)
+### 第3章：前往市区 (ch-03-head-to-downtown.md)
 
 - 状态：已完成
 - 已移除不当加粗：揉捏、撸、闷哼、耳光、喊、冷酷、声音、处境、放过
 - 结构完整
 
-### 第4章：商店购物 (ch-4-store-shopping.md)
+### 第4章：商店购物 (ch-04-store-shopping.md)
 
 - 状态：已完成
 - 已移除不当加粗：了解、期待、眼神、冷汗、尴尬、相貌、相似、那种、驱赶、推开、痞里痞气、倚靠、踢开、事不关己、样子、抢劫、救救、爬、星星眼、吸、饮料、反应、生硬、挺身而出、放过、走、气势汹汹等
 - 结构完整
 
-### 第5章：首次换装 (ch-5-first-costume-change.md)
+### 第5章：首次换装 (ch-05-first-costume-change.md)
 
 - 状态：已完成
 - 已移除不当加粗：抛尸
 - 结构完整
 
-### 第6章：潜入敌营 (ch-6-break-into-enemy-camp.md)
+### 第6章：潜入敌营 (ch-06-break-into-enemy-camp.md)
 
 - 状态：已完成
 - 加粗词汇正常
 - 结构完整
 
-### 第7章：训练部下 (ch-7-training-subordinates.md)
+### 第7章：训练部下 (ch-07-training-subordinates.md)
 
 - 状态：已完成
 - 加粗词汇正常
 - 结构完整
 
-### 第8章：转职挑战 (ch-8-class-change-quest.md)
+### 第8章：转职挑战 (ch-08-class-change-quest.md)
 
 - 状态：已完成
 - 加粗词汇正常
 - 结构完整
 
-### 第9章：总部突袭 (ch-9-challenge-headquarters.md)
+### 第9章：总部突袭 (ch-09-challenge-headquarters.md)
 
 - 状态：已完成
 - 加粗词汇正常

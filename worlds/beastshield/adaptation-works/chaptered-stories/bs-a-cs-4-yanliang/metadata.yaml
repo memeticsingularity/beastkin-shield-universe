@@ -1,0 +1,21 @@
+work:
+  code: "bs-a-cs-4-yanliang"
+  title:
+    chinese: "炎魉"
+    english: "Yanliang"
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "updating"
+  location: "adaptation-works"
+  subtype: "side"
+  author: "memeticsingularity"
+  start_date: "2025-01-01"
+  universe_based_on: "beastshield"
+
+creation:
+  author: "memeticsingularity"
+  start_date: "2025-01-01"
+  last_update: "2025-01-01"
+  universe_based_on: "beastshield"
+
+# 填写说明见 docs/spec/04-metadata.md

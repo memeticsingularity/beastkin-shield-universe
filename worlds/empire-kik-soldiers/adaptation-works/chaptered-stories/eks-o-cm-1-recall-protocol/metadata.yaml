@@ -1,0 +1,21 @@
+work:
+  code: "eks-o-cm-1-recall-protocol"
+  title:
+    chinese: "召回协议"
+    english: "Recall Protocol"
+  format: "chaptered-story"
+  form_type: "cm"
+  status: "updating"
+  location: "adaptation-works"
+  subtype: "main"
+  author: "memeticsingularity"
+  start_date: "2025-01-01"
+  universe_based_on: "empire-kik-soldiers"
+
+creation:
+  author: "memeticsingularity"
+  start_date: "2025-01-01"
+  last_update: "2025-01-01"
+  universe_based_on: "empire-kik-soldiers"
+
+# 填写说明见 docs/spec/04-metadata.md

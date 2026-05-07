@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-1-infiltration.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-3-deep-confrontation.md) |
+| [上一章](ch-01-infiltration.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-03-deep-confrontation.md) |
 
 ---
 
@@ -306,4 +306,4 @@
 
 ---
 
-| [上一章](ch-1-infiltration.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-3-deep-confrontation.md) |
+| [上一章](ch-01-infiltration.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-03-deep-confrontation.md) |

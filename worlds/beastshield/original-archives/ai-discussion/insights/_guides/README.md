@@ -281,9 +281,9 @@ _guides/
 
 **分析文件**:
 
-- ch-1-infiltration-analysis.md（第一章：潜入基地）
-- ch-2-office-clearance-analysis.md（第二章：清理办公室）
-- ch-3-deep-confrontation-analysis.md（第三章：基地深处的激战）
+- ch-01-infiltration-analysis.md（第一章：潜入基地）
+- ch-02-office-clearance-analysis.md（第二章：清理办公室）
+- ch-03-deep-confrontation-analysis.md（第三章：基地深处的激战）
 - overview.md（整体分析）
 
 ** Guides 文档同步更新**:

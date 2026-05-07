@@ -38,112 +38,112 @@
 
 ## 3. 全卷章节目录
 
-### 第1章：晋升测试 ([ch-1-promotion-test.md](./ch-1-promotion-test.md))
+### 第1章：晋升测试 ([ch-01-promotion-test.md](./chapters/ch-01-promotion-test.md))
 
 - **章节标签**：`#晋升测试` `#红石药剂` `#尸山`
 - **剧情简介**：兽盾公司进行晋升测试，实则是筛选嗜精兽候选人，失败者被堆成尸山处理。
 
-### 第2章：武馆灭门 ([ch-2-dojo-massacre.md](./ch-2-dojo-massacre.md))
+### 第2章：武馆灭门 ([ch-02-dojo-massacre.md](./chapters/ch-02-dojo-massacre.md))
 
 - **章节标签**：`#武馆` `#灭门` `#熊馆长` `#复仇`
 - **剧情简介**：兽盾袭击武馆，熊馆长弟子全部遇害，老雷得知消息后暴怒复仇。
 
-### 第3章：仓库复仇 ([ch-3-warehouse-vengeance.md](./ch-3-warehouse-vengeance.md))
+### 第3章：仓库复仇 ([ch-03-warehouse-vengeance.md](./chapters/ch-03-warehouse-vengeance.md))
 
 - **章节标签**：`#老雷` `#仓储部` `#阿正` `#复仇`
 - **剧情简介**：老雷闯入仓储部复仇，一路屠杀兽盾员工，誓要找出杀害熊馆长的凶手。
 
-### 第4章：心灵防御 ([ch-4-psychic-defense.md](./ch-4-psychic-defense.md))
+### 第4章：心灵防御 ([ch-04-psychic-defense.md](./chapters/ch-04-psychic-defense.md))
 
 - **章节标签**：`#金毛` `#心理咨询` `#别墅防御` `#入侵者`
 - **剧情简介**：心理咨询师金毛遭遇兽盾入侵，利用心理战术和特殊能力击退入侵者。
 
-### 第5章：卧底猎杀 ([ch-5-undercover-hunt.md](./ch-5-undercover-hunt.md))
+### 第5章：卧底猎杀 ([ch-05-undercover-hunt.md](./chapters/ch-05-undercover-hunt.md))
 
 - **章节标签**：`#小豪` `#卧底` `#反杀` `#黑牛`
 - **剧情简介**：小豪在兽盾宿舍卧底，反杀勒索他的黑牛和虎兽人，展现特工实力。
 
-### 第6章：十二神武之谜 ([ch-6-divine-weapons-secret.md](./ch-6-divine-weapons-secret.md))
+### 第6章：十二神武之谜 ([ch-06-divine-weapons-secret.md](./chapters/ch-06-divine-weapons-secret.md))
 
 - **章节标签**：`#十二神武` `#历史` `#人兽大战` `#传承`
 - **剧情简介**：司令向老雷讲述十二神武的来历，以及五百年前人兽大战的历史。
 
-### 第7章：警局入侵 ([ch-7-police-station-invasion.md](./ch-7-police-station-invasion.md))
+### 第7章：警局入侵 ([ch-07-police-station-invasion.md](./chapters/ch-07-police-station-invasion.md))
 
 - **章节标签**：`#警局` `#流墟` `#傅局长` `#黑色粘液`
 - **剧情简介**：流墟入侵警局，傅局长遇害，勤川警探誓言追查真相。
 
-### 第8章：龙神浮岛 ([ch-8-dragon-god-island.md](./ch-8-dragon-god-island.md))
+### 第8章：龙神浮岛 ([ch-08-dragon-god-island.md](./chapters/ch-08-dragon-god-island.md))
 
 - **章节标签**：`#浮岛` `#龙武神` `#五行封禁` `#天牢`
 - **剧情简介**：兽盾大军进攻东海浮岛，龙武神以五行封禁守护天牢，大战一触即发。
 
-### 第9章：神弓猎人 ([ch-9-divine-bow-hunter.md](./ch-9-divine-bow-hunter.md))
+### 第9章：神弓猎人 ([ch-09-divine-bow-hunter.md](./chapters/ch-09-divine-bow-hunter.md))
 
 - **章节标签**：`#墩常` `#夔牛弓` `#神武传人` `#奶茶店`
 - **剧情简介**：神武传人墩常登场，在奶茶店遭遇兽盾成员，展现夔牛弓的威力。
 
-### 第10章：老友重逢 ([ch-10-old-friend-reunion.md](./ch-10-old-friend-reunion.md))
+### 第10章：老友重逢 ([ch-10-old-friend-reunion.md](./chapters/ch-10-old-friend-reunion.md))
 
 - **章节标签**：`#墩常` `#大奔` `#先贤卑豕甲` `#水牛村`
 - **剧情简介**：墩常与大奔重逢，得知师父被儡部长擒获，获赠神甲准备营救。
 
-### 第11章：光照会潜入 ([ch-11-light-cult-infiltration.md](./ch-11-light-cult-infiltration.md))
+### 第11章：光照会潜入 ([ch-11-light-cult-infiltration.md](./chapters/ch-11-light-cult-infiltration.md))
 
 - **章节标签**：`#银` `#光照会` `#辉董` `#易容术`
 - **剧情简介**：银易容潜入光照会，刺杀辉董失败，与鳄鱼护卫激战。
 
-### 第12章：沙漠伏击 ([ch-12-desert-ambush.md](./ch-12-desert-ambush.md))
+### 第12章：沙漠伏击 ([ch-12-desert-ambush.md](./chapters/ch-12-desert-ambush.md))
 
 - **章节标签**：`#墩常` `#儡部长` `#沙漠` `#伏击`
 - **剧情简介**：墩常在沙漠伏击儡部长的车队，遭遇黑棺中的不死兽人。
 
-### 第13章：龙神之战 ([ch-13-dragon-god-battle.md](./ch-13-dragon-god-battle.md))
+### 第13章：龙神之战 ([ch-13-dragon-god-battle.md](./chapters/ch-13-dragon-god-battle.md))
 
 - **章节标签**：`#浮岛大战` `#龙神` `#三董事` `#五行相生`
 - **剧情简介**：三位董事联手对战龙武神，五行封禁与禁咒的巅峰对决。
 
-### 第14章：鼠族神武 ([ch-14-mouse-divine-weapon.md](./ch-14-mouse-divine-weapon.md))
+### 第14章：鼠族神武 ([ch-14-mouse-divine-weapon.md](./chapters/ch-14-mouse-divine-weapon.md))
 
 - **章节标签**：`#魔影` `#翠绿遗迹` `#鼠神武` `#毒雾`
 - **剧情简介**：魔影在翠绿遗迹寻找鼠神武，遭遇兽盾搜索队，得知浮岛大战消息。
 
-### 第15章：最终之战 ([ch-15-final-battle.md](./ch-15-final-battle.md))
+### 第15章：最终之战 ([ch-15-final-battle.md](./chapters/ch-15-final-battle.md))
 
 - **章节标签**：`#岚董` `#禁咒` `#寒骨冤骇徙` `#汲精藤`
 - **剧情简介**：浮岛战场进入白热化，岚董施展高阶禁咒，龙神以五行相生反击。
 
-### 第16章：血王复活 ([ch-16-blood-king-resurrection.md](./ch-16-blood-king-resurrection.md))
+### 第16章：血王复活 ([ch-16-blood-king-resurrection.md](./chapters/ch-16-blood-king-resurrection.md))
 
 - **章节标签**：`#特工局` `#嗜精兽` `#老雷` `#阿宝`
 - **剧情简介**：特工局加入战场，老雷与阿宝部长激战，双方势均力敌。
 
-### 第17章：蚀魔之锥 ([ch-17-godly-music-duel.md](./ch-17-godly-music-duel.md))
+### 第17章：蚀魔之锥 ([ch-17-godly-music-duel.md](./chapters/ch-17-godly-music-duel.md))
 
 - **章节标签**：`#蚀魔锥` `#天牢开启` `#牙董` `#血君王`
 - **剧情简介**：牙董用鼠神武蚀魔锥破开天牢封印，血君王借机复活，占据龙神肉体。
 
-### 第18章：黄泉缩地 ([ch-18-flame-cannon-finale.md](./ch-18-flame-cannon-finale.md))
+### 第18章：黄泉缩地 ([ch-18-flame-cannon-finale.md](./chapters/ch-18-flame-cannon-finale.md))
 
 - **章节标签**：`#岚董` `#黄泉缩地` `#人类` `#真相`
 - **剧情简介**：岚董施展禁咒带走天牢中的人类，血君王占据龙神肉体，真相浮出水面。
 
-### 第19章：真相大白 ([ch-19-origin-revelation.md](./ch-19-origin-revelation.md))
+### 第19章：真相大白 ([ch-19-origin-revelation.md](./chapters/ch-19-origin-revelation.md))
 
 - **章节标签**：`#血君王` `#龙神陨落` `#辉董` `#背叛`
 - **剧情简介**：血君王讲述嗜精兽历史，辉董背叛刺伤龙神，血君王完全占据龙神身体。
 
-### 第20章：身份融合 ([ch-20-identity-merge.md](./ch-20-identity-merge.md))
+### 第20章：身份融合 ([ch-20-identity-merge.md](./chapters/ch-20-identity-merge.md))
 
 - **章节标签**：`#薛鼎` `#复制体` `#融合` `#小昆` `#复仇`
 - **剧情简介**：薛鼎复制体与本体融合，获得完整记忆，誓要为小昆复仇。
 
-### 第21章：神曲对决 ([ch-21-divine-battle.md](./ch-21-divine-battle.md))
+### 第21章：神曲对决 ([ch-21-divine-battle.md](./chapters/ch-21-divine-battle.md))
 
 - **章节标签**：`#曲先生` `#天籁` `#四季神曲` `#血君王`
 - **剧情简介**：曲先生以四季神曲对战血君王，展现神武天籁的真正威力。
 
-### 第22章：破城炮终章 ([ch-22-rampage-end.md](./ch-22-rampage-end.md))
+### 第22章：破城炮终章 ([ch-22-rampage-end.md](./chapters/ch-22-rampage-end.md))
 
 - **章节标签**：`#老雷` `#焚阳破城炮` `#阿宝` `#回忆` `#终结`
 - **剧情简介**：老雷以神武焚阳破城炮终结阿宝，浮岛大战落幕，血君王离去，新篇章开启。

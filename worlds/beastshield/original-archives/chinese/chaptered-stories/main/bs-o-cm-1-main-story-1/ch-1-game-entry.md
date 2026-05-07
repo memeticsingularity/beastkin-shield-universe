@@ -1,6 +1,6 @@
 # Chapter 1 游戏入门
 
-[返回目录](../README.md) | [下一章](ch-2-escape-warehouse.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../README.md) | [下一章](ch-02-escape-warehouse.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > （待补充）
 
@@ -139,7 +139,7 @@
 
 ---
 
-[返回目录](../README.md) | [下一章](ch-2-escape-warehouse.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../README.md) | [下一章](ch-02-escape-warehouse.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

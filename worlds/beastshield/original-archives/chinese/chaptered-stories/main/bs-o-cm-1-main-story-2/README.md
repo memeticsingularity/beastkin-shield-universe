@@ -39,77 +39,77 @@
 
 ## 3. 全卷章节目录
 
-### 第1章：更衣室狩猎 ([ch-1-locker-room-hunt.md](./ch-1-locker-room-hunt.md))
+### 第1章：更衣室狩猎 ([ch-01-locker-room-hunt.md](./chapters/ch-01-locker-room-hunt.md))
 
 - **章节标签**：`#潜入` `#更衣室` `#连环猎杀`
 - **剧情简介**：魔影潜入兽盾大楼，在更衣室连续猎杀16名守卫，展现其独特的暗杀技巧。
 
-### 第2章：走廊巡逻 ([ch-2-corridor-patrol.md](./ch-2-corridor-patrol.md))
+### 第2章：走廊巡逻 ([ch-02-corridor-patrol.md](./chapters/ch-02-corridor-patrol.md))
 
 - **章节标签**：`#走廊` `#洗手间` `#情报收集`
 - **剧情简介**：魔影换装后继续潜入，在走廊和洗手间猎杀巡逻守卫，获得高层情报。
 
-### 第3章：露台狩猎 ([ch-3-terrace-hunt.md](./ch-3-terrace-hunt.md))
+### 第3章：露台狩猎 ([ch-03-terrace-hunt.md](./chapters/ch-03-terrace-hunt.md))
 
 - **章节标签**：`#十层露台` `#高层守卫` `#高空抛尸`
 - **剧情简介**：魔影来到十层露台，猎杀抽烟休息的棕熊兽人等高层守卫，换装后继续深入。
 
-### 第4章：虎卫组之战 ([ch-4-tiger-guard-battle.md](./ch-4-tiger-guard-battle.md))
+### 第4章：虎卫组之战 ([ch-04-tiger-guard-battle.md](./chapters/ch-04-tiger-guard-battle.md))
 
 - **章节标签**：`#虎卫组` `#血毒` `#四小猫`
 - **剧情简介**：魔影遭遇虎卫组组长及其三名手下，利用血毒能力击败"虎卫组四小猫"。
 
-### 第5章：厨房与致命午餐 ([ch-5-kitchen-and-lunch.md](./ch-5-kitchen-and-lunch.md))
+### 第5章：厨房与致命午餐 ([ch-05-kitchen-and-lunch.md](./chapters/ch-05-kitchen-and-lunch.md))
 
 - **章节标签**：`#厨房` `#白熊厨师` `#牛兽人午餐`
 - **剧情简介**：魔影在厨房猎杀白熊厨师，恰逢兽盾老大处决失职守卫当午餐，见识到组织的残酷。
 
-### 第6章：老雷登场 ([ch-6-lei-lei-arrival.md](./ch-6-lei-lei-arrival.md))
+### 第6章：老雷登场 ([ch-06-lei-lei-arrival.md](./chapters/ch-06-lei-lei-arrival.md))
 
 - **章节标签**：`#老雷` `#灼流暗劲` `#一楼镇守`
 - **剧情简介**：老雷在一楼镇守，以灼流暗劲击败多波增援守卫，展现暴力美学，与魔影形成对比。
 
-### 第7章：熊族领地渗透 ([ch-7-bear-territory-infiltration.md](./ch-7-bear-territory-infiltration.md))
+### 第7章：熊族领地渗透 ([ch-07-bear-territory-infiltration.md](./chapters/ch-07-bear-territory-infiltration.md))
 
 - **章节标签**：`#十一层` `#熊族领地` `#三分钟赌约`
 - **剧情简介**：魔影进入熊族专属领地，与熊守卫打赌三分钟内让其射精，展现玩弄猎物的技巧。
 
-### 第8章：炼药房之战 ([ch-8-alchemy-room-battle.md](./ch-8-alchemy-room-battle.md))
+### 第8章：炼药房之战 ([ch-08-alchemy-room-battle.md](./chapters/ch-08-alchemy-room-battle.md))
 
 - **章节标签**：`#炼药房` `#春药池` `#熊组长`
 - **剧情简介**：魔影在炼药房与熊组长决战，利用春药池和通风管道智取，最终处决练金钟罩的熊组长。
 
-### 第9章：走廊清理 ([ch-9-corridor-cleanup.md](./ch-9-corridor-cleanup.md))
+### 第9章：走廊清理 ([ch-09-corridor-cleanup.md](./chapters/ch-09-corridor-cleanup.md))
 
 - **章节标签**：`#老雷` `#走廊清理` `#牛跟班`
 - **剧情简介**：老雷继续清理走廊增援，收服一名牛兽人作为跟班，展现其"打扫战场"的强迫症。
 
-### 第10章：十三层潜入 ([ch-10-thirteenth-floor-infiltration.md](./ch-10-thirteenth-floor-infiltration.md))
+### 第10章：十三层潜入 ([ch-10-thirteenth-floor-infiltration.md](./chapters/ch-10-thirteenth-floor-infiltration.md))
 
 - **章节标签**：`#十三层` `#牛族领地` `#刑房`
 - **剧情简介**：魔影与老雷潜入十三层牛族领地，营救行动开始，遭遇更多强敌。
 
-### 第11章：冥府牛头之战 ([ch-11-hell-bull-battle.md](./ch-11-hell-bull-battle.md))
+### 第11章：冥府牛头之战 ([ch-11-hell-bull-battle.md](./chapters/ch-11-hell-bull-battle.md))
 
 - **章节标签**：`#冥府牛头` `#不死体质` `#自动飞机杯`
 - **剧情简介**：魔影与老雷对决拥有不死体质的牛组长"冥府牛头"，最终靠自动飞机杯将其耗死。
 
-### 第12章：教学篇 ([ch-12-training-session.md](./ch-12-training-session.md))
+### 第12章：教学篇 ([ch-12-training-session.md](./chapters/ch-12-training-session.md))
 
 - **章节标签**：`#教学` `#小豪` `#野猪处决`
 - **剧情简介**：视角转换到特工局教室，年幼的小豪在老师指导下处决野猪兽人，展现新一代特工培训。
 
-### 第13章：蟒蛇岛回忆·上 ([ch-13-python-island-flashback.md](./ch-13-python-island-flashback.md))
+### 第13章：蟒蛇岛回忆·上 ([ch-13-python-island-flashback.md](./chapters/ch-13-python-island-flashback.md))
 
 - **章节标签**：`#回忆` `#五年前` `#初任务`
 - **剧情简介**：魔影回忆五年前刚毕业时的蟒蛇岛初任务，展现从青涩到冷酷的转变过程。
 
-### 第14章：蟒蛇岛回忆·下 ([ch-14-python-island-transformation.md](./ch-14-python-island-transformation.md))
+### 第14章：蟒蛇岛回忆·下 ([ch-14-python-island-transformation.md](./chapters/ch-14-python-island-transformation.md))
 
 - **章节标签**：`#红水晶` `#变异` `#白熊`
 - **剧情简介**：魔影触碰红水晶后变异，获得毒血和毒牙能力，从此改变人生轨迹。
 
-### 第15章：重返蟒蛇岛 ([ch-15-return-to-python-island.md](./ch-15-return-to-python-island.md))
+### 第15章：重返蟒蛇岛 ([ch-15-return-to-python-island.md](./chapters/ch-15-return-to-python-island.md))
 
 - **章节标签**：`#三年后` `#小豪` `#儡先生`
 - **剧情简介**：魔影带新人小豪重返蟒蛇岛，遭遇儡先生的诡异法阵，刺杀嗜精兽头目失败，引出第三部剧情。

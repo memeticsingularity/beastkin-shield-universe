@@ -446,9 +446,9 @@
 
 | 章节    | 标题      | 文件路径                                             | 核心特点                 |
 |-------|---------|--------------------------------------------------|----------------------|
-| CH-01 | 潜入基地    | `bs-o-cs-1-yan-liang/ch-1-infiltration.md`       | 钓鱼执法、办公室连环处决、双主角配合确立 |
-| CH-02 | 清理办公室   | `bs-o-cs-1-yan-liang/ch-2-office-clearance.md`   | 制服制度改革、羞辱处决、竞争者悬念    |
-| CH-03 | 基地深处的激战 | `bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md` | 银针封穴、熊猫登场、楼梯大屠杀、牙董处决 |
+| CH-01 | 潜入基地    | `bs-o-cs-1-yan-liang/chapters/ch-01-infiltration.md`       | 钓鱼执法、办公室连环处决、双主角配合确立 |
+| CH-02 | 清理办公室   | `bs-o-cs-1-yan-liang/chapters/ch-02-office-clearance.md`   | 制服制度改革、羞辱处决、竞争者悬念    |
+| CH-03 | 基地深处的激战 | `bs-o-cs-1-yan-liang/chapters/ch-03-deep-confrontation.md` | 银针封穴、熊猫登场、楼梯大屠杀、牙董处决 |
 
 ---
 

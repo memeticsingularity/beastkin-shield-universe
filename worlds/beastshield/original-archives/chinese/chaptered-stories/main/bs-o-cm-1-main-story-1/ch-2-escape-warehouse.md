@@ -1,6 +1,6 @@
 # Chapter 2 仓库逃脱
 
-[上一章](ch-1-game-entry.md) | [返回目录](../README.md) | [下一章](ch-3-head-to-downtown.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-01-game-entry.md) | [返回目录](../README.md) | [下一章](ch-03-head-to-downtown.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -210,7 +210,7 @@ NO！我忘了**存档**！
 
 ---
 
-[上一章](ch-1-game-entry.md) | [返回目录](../README.md) | [下一章](ch-3-head-to-downtown.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-01-game-entry.md) | [返回目录](../README.md) | [下一章](ch-03-head-to-downtown.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

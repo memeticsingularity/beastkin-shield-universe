@@ -1,3 +1,5 @@
+> **Deprecated**: 本文档已被 v3.0 规范替代。故事格式见 `docs/spec/11-story-format.md`，模板见 `templates/chapter.md` 和 `templates/short-story.md`。本文档保留 6 个月作为过渡期兼容。
+
 # 通用故事模板使用指南 5.0（新命名体系完全适配版）
 
 ## 1. 简介
