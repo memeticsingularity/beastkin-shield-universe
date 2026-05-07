@@ -6,7 +6,8 @@
 ![Worlds](https://img.shields.io/badge/Worlds-7%20Unique%20Settings-purple)
 
 **版本 3.0 · 最后更新：2026年5月7日 · 规范体系：[docs/spec/](docs/spec/) ·
-重构记录：[project-docs/restructure-2026/](project-docs/restructure-2026/)**
+重构记录：[project-docs/restructure-2026/](project-docs/restructure-2026/) ·
+贡献指南：[CONTRIBUTING.md](CONTRIBUTING.md)**
 
 ---
 
@@ -456,19 +457,26 @@ forms:
 
 ## 12. 快速链接 / Quick Links
 
-- 📖 [贡献指南](CONTRIBUTING.md) | Contribution Guide (v2.0)
+- 📖 [贡献指南](CONTRIBUTING.md) | Contribution Guide (v3.0)
 - ⚖️ [行为准则](CODE_OF_CONDUCT.md) | Code of Conduct
-- 🏷️ [作品命名指南](docs/work-naming-guide-chinese.md) | Work Naming Guide (v2.1.1)
-- 📄 [通用故事模板指南](docs/universal-story-template-guide-chinese.md) | Universal Story Template
-  Guide (v4.3)
-- 🗂️ [项目结构指南](docs/project-structure-guide.md) | Project Structure Guide
-- 💾 [Git LFS设置指南](docs/git-large-file-storage-guide.md) | Git LFS Setup Guide
-- 🔧 [Git身份检查指南](docs/git-identity-check-guide.md) | Git Identity Check Guide
+- 🏗️ [项目结构规范](docs/spec/01-project-structure.md) | Project Structure Spec
+- 🏷️ [作品编码规范](docs/spec/02-work-coding.md) | Work Coding Spec
+- 📝 [中间文档规范](docs/spec/03-intermediate-documents.md) | Intermediate Documents Spec
+- 📊 [元数据规范](docs/spec/04-metadata.md) | Metadata Spec
+- 📄 [故事格式规范](docs/spec/11-story-format.md) | Story Format Spec
+- 🎨 [内容指南](docs/spec/12-content-guidelines.md) | Content Guidelines
+- 💾 [Git LFS 设置指南](docs/git-large-file-storage-guide.md) | Git LFS Setup Guide
+- 🔧 [Git 身份检查指南](docs/git-identity-check-guide.md) | Git Identity Check Guide
 - 📜 [许可协议](LICENSE.md) | License Agreement
 
 ---
 
 ## 13. 更新记录 / Update History
+
+- **2026-05-07 v3.0**：全面重构规范体系，统一文档入口
+    - 规范文档全面迁移至 `docs/spec/` 分层体系（6 份新规范替代旧指南）
+    - 更新快速链接，指向新的 `docs/spec/` 规范文档
+    - 统一版本号为 v3.0，与 CONTRIBUTING.md 和 CODE_OF_CONDUCT.md 保持一致
 
 - **2025-12-13 v2.0**：全面更新，优化结构并推荐改编创作路径
     - 重构文档格式，采用中英文交替展示
@@ -483,5 +491,5 @@ forms:
 
 ---
 
-*最后更新：2025年12月13日 · 文档版本：2.0*  
-*Last updated: December 13, 2025 · Document Version: 2.0*
+*最后更新：2026年5月7日 · 文档版本：3.0*  
+*Last updated: May 7, 2026 · Document Version: 3.0*
