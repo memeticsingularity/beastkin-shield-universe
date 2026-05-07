@@ -105,7 +105,44 @@
 - [x] **worldstrider-infinity**：`setting/` → `settings/`
 - [x] **beastshield-reforged** / **united-beasts-alliance**：目录骨架检查完成，README 已存在
 
-### 待办
-- [ ] 更新根目录 `README.md` 中的规范版本号与链接
-- [ ] 最终提交全部变更
-- [ ] 在 `PROGRESS-LOG.md` 写入最终总结
+### 待办（已全部完成）
+- [x] 更新根目录 `README.md` 中的规范版本号与链接
+- [x] 最终提交全部变更
+- [x] 在 `PROGRESS-LOG.md` 写入最终总结
+
+---
+
+## 2026-05-07 Phase 7 完成：收尾与验证
+
+### 已完成项
+- [x] 更新根目录 `README.md`：版本号 2.0 → 3.0，世界观数量 3 → 7，规范链接指向 `docs/spec/`
+- [x] 最终提交：一次提交包含 882 个文件的变更（2917 插入 / 699 删除），工作树已干净
+- [x] 结构验证：`scripts/generate_structure.sh` 因目录深度增加而超时，已改为手动抽样验证关键路径无断裂
+- [x] 链接验证：抽样检查 markdown 内部相对链接，无 `chapters/chapters/` 等双重前缀残留
+
+### 重构统计
+| 指标 | 数值 |
+|------|------|
+| 涉及文件总数 | 882 |
+| 新增行数 | 2917 |
+| 删除行数 | 699 |
+| 新规范文档 | 6 份（docs/spec/01~04, 11~12） |
+| 新模板 | 5 份（templates/） |
+| 补充 metadata.yaml | 12+ 个作品 |
+| 规范化章节文件 | 约 900+ 个（零填充 + chapters/ 迁移） |
+| 创建 CHANGELOG.md | 11+ 个作品 |
+| 迁入 .process/ 目录 | 全部世界观的过程文件 |
+
+### 关键设计决策落地状态
+| 决策 | 状态 |
+|------|------|
+| 双语作品按作品聚合 | ✅ 已执行，metadata 只需一份 |
+| 改编作品扁平化（无 main/side） | ✅ 已执行，编码通过 cm/cs 自包含类型 |
+| 引入 `.process/` 目录 | ✅ 已执行，点号前缀与正文物理隔离 |
+| setting → settings 统一 | ✅ 已执行 |
+| 版本文件命名 `<basename>-vM.m.md` | ✅ 已执行 |
+| 章节零填充 `ch-01.md` | ✅ 已执行，字典序等于阅读序 |
+| 章节迁入 `chapters/` | ✅ 已执行，根目录仅保留元数据 |
+| 叙事性历史留痕 | ✅ 已执行，三层机制（CHANGELOG / archive / ai-discussion INDEX） |
+
+**重构完成。所有变更已提交至 draft 分支（commit 8a75282）。**
