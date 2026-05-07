@@ -1,0 +1,20 @@
+work:
+  code: "bs-o-cm-1-main-story-2"
+  title:
+    chinese: "兽盾主线故事 第二卷·魔影"
+    english: "Beastshield Main Story Vol.2: Moying"
+  format: "chaptered-story"
+  form_type: "cm"
+  status: "completed"
+  location: "original-archives"
+  subtype: "main"
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+  tags: []
+  content_warnings: []
+
+creation:
+  author: "memeticsingularity"
+  start_date: "2025-01-01"
+  last_update: "2025-01-01"
+  universe_based_on: "beastshield"

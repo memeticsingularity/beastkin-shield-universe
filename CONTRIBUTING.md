@@ -1,7 +1,6 @@
-# Beastkin Universe 贡献指南 v2.3.0 / Contributing Guide for Beastkin Universe v2.3.0
+# Beastkin Universe 贡献指南 v3.0 / Contributing Guide for Beastkin Universe v3.0
 
-**版本 2.3.0 · 最后更新：2025年12月15日 · 适配命名体系：[2.3.0](docs/work-naming-guide-chinese.md) ·
-适配元数据指南：[2.3.0](docs/metadata-guide.md)**
+**版本 3.0 · 最后更新：2026年5月7日 · 规范体系：[docs/spec/](docs/spec/)**
 
 ---
 
@@ -35,10 +34,13 @@ worlds/                          # 所有世界观目录
 │   └── settings/                # 设定参考库
 ├── beastshield-paradise/        # 兽盾乐园世界观
 ├── beastshield-reforged/        # 兽盾新纪元世界观
-└── united-beasts-alliance/      # 万兽盟世界观
+├── empire-kik-soldiers/         # 帝国万岁世界观
+├── paradise-kik-soldiers/       # 乐园基尅兵世界观
+├── united-beasts-alliance/      # 万兽盟世界观
+└── worldstrider-infinity/       # 世界行者世界观
 ```
 
-详细结构请参阅：[project-structure-guide.md](docs/project-structure-guide.md)
+详细结构请参阅：[项目结构规范](docs/spec/01-project-structure.md)
 
 ---
 
@@ -52,10 +54,13 @@ worlds/                          # All world directories
 │   └── settings/                # Settings library
 ├── beastshield-paradise/        # Beastshield Paradise world
 ├── beastshield-reforged/        # Beastshield Reforged world
-└── united-beasts-alliance/      # United Beasts Alliance world
+├── empire-kik-soldiers/         # Empire KIK Soldiers world
+├── paradise-kik-soldiers/       # Paradise KIK Soldiers world
+├── united-beasts-alliance/      # United Beasts Alliance world
+└── worldstrider-infinity/       # Worldstrider Infinity world
 ```
 
-For detailed structure, see: [project-structure-guide.md](docs/project-structure-guide.md)
+For detailed structure, see: [Project Structure Spec](docs/spec/01-project-structure.md)
 
 ---
 
@@ -67,9 +72,12 @@ For detailed structure, see: [project-structure-guide.md](docs/project-structure
 请务必阅读以下指南：
 
 - [行为准则](CODE_OF_CONDUCT.md) - 了解社区规范
-- [作品命名指南 v2.3.0](docs/work-naming-guide-chinese.md) - 掌握作品命名规则（最新版本）
-- [元数据指南 v2.3.0](docs/metadata-guide.md) - 了解元数据文件填写规范
-- [通用故事模板指南](docs/universal-story-template-guide-chinese.md) - 了解故事模板使用
+- [项目结构规范](docs/spec/01-project-structure.md) - 掌握目录结构与晋升机制
+- [作品编码规范](docs/spec/02-work-coding.md) - 掌握作品编码语法
+- [中间文档规范](docs/spec/03-intermediate-documents.md) - 了解 README、.process/、CHANGELOG 等交付物要求
+- [元数据规范](docs/spec/04-metadata.md) - 了解元数据字段与校验规则
+- [故事格式规范](docs/spec/11-story-format.md) - 了解 Scene 分幕与导航栏语法
+- [内容指南](docs/spec/12-content-guidelines.md) - 了解世界观一致性要求
 
 ---
 
@@ -81,11 +89,14 @@ feedback, and allows applying for promotion to official works after completion.
 Please be sure to read the following guides:
 
 - [Code of Conduct](CODE_OF_CONDUCT.md) - Understand community standards
-- [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md) - Master work naming rules (latest
-  version)
-- [Metadata Guide v2.3.0](docs/metadata-guide.md) - Understand metadata file specifications
-- [Universal Story Template Guide](docs/universal-story-template-guide-english.md) - Understand
-  story template usage
+- [Project Structure Spec](docs/spec/01-project-structure.md) - Directory structure and promotion
+  mechanism
+- [Work Coding Spec](docs/spec/02-work-coding.md) - Work coding syntax
+- [Intermediate Documents Spec](docs/spec/03-intermediate-documents.md) - README, .process/,
+  CHANGELOG requirements
+- [Metadata Spec](docs/spec/04-metadata.md) - Metadata fields and validation rules
+- [Story Format Spec](docs/spec/11-story-format.md) - Scene structure and navigation bar syntax
+- [Content Guidelines](docs/spec/12-content-guidelines.md) - Worldview consistency requirements
 
 ---
 
@@ -95,7 +106,7 @@ Please be sure to read the following guides:
 
 #### 3.1.1 选择故事形式 / Choose Story Format
 
-我们支持三种故事形式（v2.3.0 新格式）：
+我们支持三种故事形式（v3.0 规范）：
 
 1. **主线分章故事 (Chaptered Main, `cm`)** - 主线长篇多章节作品
 2. **支线分章故事 (Chaptered Side, `cs`)** - 支线长篇多章节作品
@@ -103,7 +114,7 @@ Please be sure to read the following guides:
 
 ---
 
-We support three story formats (new in v2.3.0):
+We support three story formats (v3.0 spec):
 
 1. **Chaptered Main (`cm`)** - Main storyline long multi-chapter works
 2. **Chaptered Side (`cs`)** - Side storyline long multi-chapter works
@@ -117,11 +128,11 @@ We support three story formats (new in v2.3.0):
 
 1. 使用改编作品模板（性质字段固定为 `a`）
 2. 在 `adaptation-works/` 目录下创作
-3. 遵循 v2.3.0 命名规范，使用自然数序号和 `cm`/`cs`/`s` 形式类型
+3. 遵循 v3.0 编码规范，使用自然数序号和 `cm`/`cs`/`s` 形式类型
 4. 章节标题必填，使用 `ch-{自然数}-{章节标题简写}.md` 格式
 5. 作品完成后可申请晋升为官方作品
 
-请按照[通用故事模板指南](docs/universal-story-template-guide-chinese.md)中的"快速开始"步骤操作。
+请按照[故事格式规范](docs/spec/11-story-format.md)中的"快速开始"步骤操作。
 
 ---
 
@@ -129,12 +140,12 @@ We support three story formats (new in v2.3.0):
 
 1. Use adaptation work templates (nature field fixed as `a`)
 2. Create works in the `adaptation-works/` directory
-3. Follow v2.3.0 naming conventions, using natural numbers and `cm`/`cs`/`s` form types
+3. Follow v3.0 coding spec, using natural numbers and `cm`/`cs`/`s` form types
 4. Chapter titles are mandatory, use `ch-{natural-number}-{chapter-title-abbreviation}.md` format
 5. Apply for promotion to official works after completion
 
 Please follow the "Quick Start" steps in
-the [Universal Story Template Guide](docs/universal-story-template-guide-english.md).
+the [Story Format Spec](docs/spec/11-story-format.md).
 
 ---
 
@@ -145,7 +156,7 @@ the [Universal Story Template Guide](docs/universal-story-template-guide-english
 - 分章故事模板：`templates/adaption-work-template/chaptered-story/`
 - 短篇故事模板：`templates/adaption-work-template/short-story/`
 
-**重要提示**：请使用最新版本的模板，确保包含 `form_type` 字段（v2.3.0 新增必填字段）。
+**重要提示**：请使用最新版本的模板，确保包含 `form_type` 字段（v3.0 规范必填字段）。
 
 ---
 
@@ -155,17 +166,17 @@ Please use our provided templates:
 - Short story template: `templates/adaption-work-template/short-story/`
 
 **Important**: Please use the latest version of templates, ensuring they include the `form_type`
-field (new required
-field in v2.3.0).
+field (v3.0 spec required
+field).
 
 ---
 
 #### 3.1.4 遵循命名规范 / Follow Naming Conventions
 
-所有作品必须遵循 v2.3.0 命名规范：
+所有作品必须遵循 v3.0 编码规范：
 
 ```
-[世界观]-[性质]-[形式类型]-[自然数序号]-[系列名]
+[世界观]-[性质]-[形式]-[序号]-[标识名]
 ```
 
 **改编作品示例**：
@@ -174,16 +185,16 @@ field in v2.3.0).
 - `bs-a-cm-1-main-adaptation`（主线分章改编）
 - `bs-a-s-1-first-blood`（短篇改编）
 
-**注意**：v2.3.0 使用自然数序号（1, 2, 3...）而不是三位数（001, 002），形式类型为 `cm`/`cs`/`s`
+**注意**：v3.0 使用自然数序号（1, 2, 3...）而不是三位数（001, 002），形式类型为 `cm`/`cs`/`s`
 
-详细说明请参阅：[作品命名指南 v2.3.0](docs/work-naming-guide-chinese.md)
+详细说明请参阅：[作品编码规范](docs/spec/02-work-coding.md)
 
 ---
 
 All works must follow v2.3.0 naming conventions:
 
 ```
-[world]-[nature]-[form_type]-[natural_number]-[series_name]
+[world]-[nature]-[form]-[sequence]-[identifier]
 ```
 
 **Adaptation work examples**:
@@ -192,11 +203,11 @@ All works must follow v2.3.0 naming conventions:
 - `bs-a-cm-1-main-adaptation` (main chaptered adaptation)
 - `bs-a-s-1-first-blood` (short story adaptation)
 
-**Note**: v2.3.0 uses natural number sequences (1, 2, 3...) instead of three-digit numbers (001,
+**Note**: v3.0 uses natural number sequences (1, 2, 3...) instead of three-digit numbers (001,
 002), form types are
 `cm`/`cs`/`s`
 
-For detailed explanation, see: [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md)
+For detailed explanation, see: [Work Coding Spec](docs/spec/02-work-coding.md)
 
 ---
 
@@ -376,7 +387,7 @@ Please use meaningful branch names:
 #### 4.3.1 创作新故事 / Creating a New Story
 
 1. 复制对应模板到正确位置
-2. 修改文件夹名称和内部文件，遵循 v2.3.0 命名规范
+2. 修改文件夹名称和内部文件，遵循 v3.0 编码规范
 3. 编写故事内容
 4. 添加必要的图片和设定文件
 5. **确保 `metadata.yaml` 文件包含 `form_type` 字段**
@@ -384,7 +395,7 @@ Please use meaningful branch names:
 ---
 
 1. Copy the appropriate template to the correct location
-2. Modify folder name and internal files, following v2.3.0 naming conventions
+2. Modify folder name and internal files, following v3.0 coding spec
 3. Write story content
 4. Add necessary images and setting files
 5. **Ensure the `metadata.yaml` file includes the `form_type` field**
@@ -452,7 +463,10 @@ git commit -m "Add English translation for Silent Night Watch story"
 - [ ] beastshield
 - [ ] beastshield-paradise
 - [ ] beastshield-reforged
+- [ ] empire-kik-soldiers
+- [ ] paradise-kik-soldiers
 - [ ] united-beasts-alliance
+- [ ] worldstrider-infinity
 
 ## 变更描述
 
@@ -461,7 +475,7 @@ git commit -m "Add English translation for Silent Night Watch story"
 ## 检查清单
 
 - [ ] 已阅读并遵守行为准则
-- [ ] 遵循 v2.3.0 作品命名规范（自然数序号，cm/cs/s形式类型）
+- [ ] 遵循 v3.0 作品编码规范（自然数序号，cm/cs/s形式类型）
 - [ ] 使用正确的模板
 - [ ] 元数据完整准确（包含form_type字段）
 - [ ] 故事内容完整
@@ -495,7 +509,10 @@ Please fill in the Pull Request description according to the following template:
 - [ ] beastshield
 - [ ] beastshield-paradise
 - [ ] beastshield-reforged
+- [ ] empire-kik-soldiers
+- [ ] paradise-kik-soldiers
 - [ ] united-beasts-alliance
+- [ ] worldstrider-infinity
 
 ## Change Description
 
@@ -504,7 +521,7 @@ Describe your changes in detail...
 ## Checklist
 
 - [ ] Read and followed the Code of Conduct
-- [ ] Followed v2.3.0 work naming conventions (natural numbers, cm/cs/s form types)
+- [ ] Followed v3.0 work coding spec (natural numbers, cm/cs/s form types)
 - [ ] Used correct templates
 - [ ] Metadata is complete and accurate (includes form_type field)
 - [ ] Story content is complete
@@ -582,7 +599,7 @@ All submitted works should meet the following requirements:
 提交 Pull Request 后，将自动运行以下检查：
 
 - 文件结构检查
-- 命名规范验证（v2.3.0 格式）
+- 命名规范验证（v3.0 格式）
 - 元数据完整性检查（包含 form_type 字段）
 
 ---
@@ -590,7 +607,7 @@ All submitted works should meet the following requirements:
 After submitting a Pull Request, the following checks will run automatically:
 
 - File structure check
-- Naming convention verification (v2.3.0 format)
+- Naming convention verification (v3.0 format)
 - Metadata completeness check (includes form_type field)
 
 ---
@@ -603,7 +620,7 @@ After submitting a Pull Request, the following checks will run automatically:
 - 设定一致性
 - 社区规范符合性
 - 整体贡献价值
-- v2.3.0 格式符合性
+- v3.0 格式符合性
 
 ---
 
@@ -613,7 +630,7 @@ Project maintainers will conduct manual reviews, focusing on:
 - Setting consistency
 - Compliance with community standards
 - Overall contribution value
-- v2.3.0 format compliance
+- v3.0 format compliance
 
 ---
 
@@ -775,7 +792,7 @@ Yes, but the following principles must be followed:
 - 严重偏离世界观设定且无合理解释
 - 内容质量不符合标准
 - 侵犯他人版权
-- 未遵循 v2.3.0 命名规范或文件结构
+- 未遵循 v3.0 编码规范或文件结构
 
 如果作品被拒绝，维护者会提供具体原因和改进建议。
 
@@ -787,29 +804,31 @@ Reasons why work may be rejected include:
 - Severe deviation from world settings without reasonable explanation
 - Content quality does not meet standards
 - Infringement of others' copyright
-- Failure to follow v2.3.0 naming conventions or file structure
+- Failure to follow v3.0 coding spec or file structure
 
 If work is rejected, maintainers will provide specific reasons and improvement suggestions.
 
 ---
 
-### 8.5 v2.3.0 有哪些重要变更？ / What are the important changes in v2.3.0?
+### 8.5 v3.0 有哪些重要变更？ / What are the important changes in v3.0?
 
-v2.3.0 引入了以下重要变更：
+v3.0 引入了以下重要变更：
 
-1. **新的形式类型标识**：`cm`（主线分章）、`cs`（支线分章）、`s`（短篇）
-2. **自然数序号**：使用 1, 2, 3... 代替三位数 001, 002
-3. **新增必填字段**：`form_type` 必须包含在 `metadata.yaml` 中
-4. **更清晰的分类**：编码中明确区分主线、支线和短篇
+1. **分层规范体系**：将原有臃肿的规范文档拆分为 6 份精简的 `docs/spec/` 规范
+2. **作品编码规范**：明确 `[世界观]-[性质]-[形式]-[序号]-[标识名]` 五段式编码
+3. **过程文件隔离**：引入 `.process/` 目录统一存放 `ai-discussion/`、`plan/`、`history/`、`design/`
+4. **中间文档规范**：首次定义 README、settings、版本迭代文件的命名和内容标准
+5. **双语作品组织**：默认按作品聚合，中文版放根级，英文版放 `en/` 子目录
 
 ---
 
-v2.3.0 introduces the following important changes:
+v3.0 introduces the following important changes:
 
-1. **New form type identifiers**: `cm` (chaptered-main), `cs` (chaptered-side), `s` (short-story)
-2. **Natural number sequences**: Use 1, 2, 3... instead of three-digit numbers 001, 002
-3. **New required field**: `form_type` must be included in `metadata.yaml`
-4. **Clearer classification**: Explicit distinction between main, side, and short works in codes
+1. **Layered spec system**: Split bloated legacy guides into 6 focused `docs/spec/` documents
+2. **Work coding spec**: Formalized 5-part code format `[world]-[nature]-[form]-[sequence]-[identifier]`
+3. **Process file isolation**: Introduced `.process/` directory for `ai-discussion/`, `plan/`, `history/`, `design/`
+4. **Intermediate document spec**: First-time definition of README, settings, and versioning file standards
+5. **Bilingual work organization**: Aggregate by work by default; Chinese at root, English in `en/` subdirectory
 
 ---
 
@@ -817,17 +836,21 @@ v2.3.0 introduces the following important changes:
 
 ### 9.1 文档资源 / Documentation Resources
 
-- [项目结构指南](docs/project-structure-guide.md)
-- [作品命名指南 v2.3.0](docs/work-naming-guide-chinese.md)
-- [元数据指南 v2.3.0](docs/metadata-guide.md)
-- [通用故事模板指南](docs/universal-story-template-guide-chinese.md)
+- [项目结构规范](docs/spec/01-project-structure.md)
+- [作品编码规范](docs/spec/02-work-coding.md)
+- [中间文档规范](docs/spec/03-intermediate-documents.md)
+- [元数据规范](docs/spec/04-metadata.md)
+- [故事格式规范](docs/spec/11-story-format.md)
+- [内容指南](docs/spec/12-content-guidelines.md)
 
 ---
 
-- [Project Structure Guide](docs/project-structure-guide.md)
-- [Work Naming Guide v2.3.0](docs/work-naming-guide-english.md)
-- [Metadata Guide v2.3.0](docs/metadata-guide.md)
-- [Universal Story Template Guide](docs/universal-story-template-guide-english.md)
+- [Project Structure Spec](docs/spec/01-project-structure.md)
+- [Work Coding Spec](docs/spec/02-work-coding.md)
+- [Intermediate Documents Spec](docs/spec/03-intermediate-documents.md)
+- [Metadata Spec](docs/spec/04-metadata.md)
+- [Story Format Spec](docs/spec/11-story-format.md)
+- [Content Guidelines](docs/spec/12-content-guidelines.md)
 
 ---
 
@@ -899,6 +922,14 @@ We especially thank:
 
 ## 更新记录 / Update History
 
+- **2026-05-07 v3.0**：规范体系全面重构
+    - 更新版本号为 v3.0，引用新的 `docs/spec/` 分层规范体系
+    - 更新所有指南引用指向 6 份新规范文档
+    - 更新命名规范描述为五段式编码 `[world]-[nature]-[form]-[sequence]-[identifier]`
+    - 添加 `.process/` 过程文件目录说明
+    - 更新 Pull Request 模板世界观列表为全部 7 个世界
+    - 更新 FAQ 为 v3.0 变更说明
+
 - **2025-12-15 v2.3.0**：更新以适配 v2.3.0 命名规范
     - 更新版本号为 v2.3.0
     - 更新所有引用的指南版本
@@ -920,5 +951,5 @@ We especially thank:
 
 ---
 
-*本文档最后更新于：2025年12月15日 · 文档版本：2.3.0*  
-*Last updated: December 15, 2025 · Document Version: 2.3.0*
+*本文档最后更新于：2026年5月7日 · 文档版本：3.0*  
+*Last updated: May 7, 2026 · Document Version: 3.0*

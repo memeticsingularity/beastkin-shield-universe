@@ -273,5 +273,5 @@ For questions regarding this Code of Conduct, please contact the project maintai
 
 ---
 
-*本文档最后更新于：2025年12月13日*  
-*Last updated: December 13, 2025*
+*本文档最后更新于：2026年5月7日*  
+*Last updated: May 7, 2026*

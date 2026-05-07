@@ -7,7 +7,7 @@
 
 ## 📚 故事列表（按编号排序）
 
-### 1. **[Story 1: 兽盾农家乐](bs-o-s-1-farm-inn.md)**
+### 1. **[Story 1: 兽盾农家乐](bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md)**
 
 *Beast Shield Farmhouse*
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 2. **[Story 2: 黑石](bs-o-s-2-blackstone.md)**
+### 2. **[Story 2: 黑石](bs-o-s-2-blackstone/bs-o-s-2-blackstone.md)**
 
 *Blackstone*
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 3. **[Story 3: 黑石2](bs-o-s-3-blackstone-2.md)**
+### 3. **[Story 3: 黑石2](bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md)**
 
 *Blackstone 2*
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 4. **[Story 4: 俘虏快递](bs-o-s-4-captive-delivery.md)**
+### 4. **[Story 4: 俘虏快递](bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md)**
 
 *Captive Delivery*
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 5. **[Story 5: 兽盾员工的一天](bs-o-s-5-employee-diary.md)**
+### 5. **[Story 5: 兽盾员工的一天](bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md)**
 
 *Beast Shield Employee's Day*
 
@@ -63,7 +63,7 @@
 
 ---
 
-### 6. **[Story 6: 夜袭](bs-o-s-6-night-raid.md)**
+### 6. **[Story 6: 夜袭](bs-o-s-6-night-raid/bs-o-s-6-night-raid.md)**
 
 *Night Raid*
 

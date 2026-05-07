@@ -1,0 +1,20 @@
+work:
+  code: "bs-o-s-1-farm-inn"
+  title:
+    chinese: "兽盾农家乐"
+    english: "Beast Shield Farmhouse"
+  format: "short-story"
+  form_type: "s"
+  status: "completed"
+  location: "original-archives"
+  subtype: ""
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+  tags: []
+  content_warnings: []
+
+creation:
+  author: "memeticsingularity"
+  start_date: "2025-01-01"
+  last_update: "2025-01-01"
+  universe_based_on: "beastshield"

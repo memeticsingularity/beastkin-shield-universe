@@ -1,0 +1,20 @@
+work:
+  code: "eks-o-cm-1-long-live-the-empire"
+  title:
+    chinese: "帝国万岁"
+    english: "Long Live the Empire"
+  format: "chaptered-story"
+  form_type: "cm"
+  status: "completed"
+  location: "original-archives"
+  subtype: "main"
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+  tags: []
+  content_warnings: []
+
+creation:
+  author: "memeticsingularity"
+  start_date: "2025-01-01"
+  last_update: "2025-01-01"
+  universe_based_on: "empire-kik-soldiers"
