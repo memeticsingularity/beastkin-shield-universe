@@ -7,12 +7,15 @@
 
 ## 场景列表
 
-| 场景名 | 英文名 | 类型 | 首次登场 | 档案 |
-|--------|--------|------|---------|------|
-| **初始山坡（新手出生地）** | starting-hillside | 野外 | 第一章 | [starting-hillside.md](./starting-hillside.md) |
-| **村庄（含萝卜地与民居）** | village | 村落 | 第二章 | [village.md](./village.md) |
-| **山路（伏击地点）** | ambush-road | 野外 | 第三章 | [ambush-road.md](./ambush-road.md) |
-| **山贼山寨（含山寨大厅）** | bandit-fortress | 建筑/据点 | 第三章 | [bandit-fortress.md](./bandit-fortress.md) |
+| 编号 | 场景名 | 英文名 | 类型 | 首次登场 | 档案 |
+|------|--------|--------|------|---------|------|
+| 001 | **初始山坡（新手出生地）** | starting-hillside | 野外 | 第一章 | [001-starting-hillside.md](./001-starting-hillside.md) |
+| 002 | **村庄（含萝卜地与民居）** | village | 村落 | 第二章 | [002-village.md](./002-village.md) |
+| 003 | **山路（伏击地点）** | ambush-road | 野外 | 第三章 | [003-ambush-road.md](./003-ambush-road.md) |
+| 004 | **山贼山寨（含山寨大厅）** | bandit-fortress | 建筑/据点 | 第三章 | [004-bandit-fortress.md](./004-bandit-fortress.md) |
+| 005 | **山寨厨房** | bandit-kitchen | 建筑/子场景 | 第四章（预计） | [005-kitchen.md](./005-kitchen.md) |
+| 006 | **山寨训练场/演武场** | training-ground | 建筑/子场景 | 第四章（预计） | [006-training-ground.md](./006-training-ground.md) |
+| 007 | **山寨营房/集体宿舍** | bandit-dormitory | 建筑/子场景 | 第四章（预计） | [007-dormitory.md](./007-dormitory.md) |
 
 ---
 
