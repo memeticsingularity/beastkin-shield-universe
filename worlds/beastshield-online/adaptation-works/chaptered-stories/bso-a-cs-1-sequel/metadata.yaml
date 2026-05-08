@@ -1,0 +1,18 @@
+title: 兽游世界OL 续写
+english_title: Beastshield Online - Sequel
+code: bso-a-cs-1-sequel
+world: beastshield-online
+type: chaptered-story
+language: chinese
+status: in-progress
+source: original-chapters-1-3
+synopsis: >
+  基于《兽游世界OL》原作前三章的改编续写项目。
+  原作作者仅完成第一卷前三章，本项目在此基础上进行后续章节的创作。
+chapters:
+  - ch-01: 第一章（原作导入）
+  - ch-02: 第二章（原作导入）
+  - ch-03: 第三章（原作导入）
+  - ch-04: 第四章（待创作）
+created_at: "2026-05-09"
+updated_at: "2026-05-09"
