@@ -258,20 +258,44 @@
 
 ---
 
-## 七、资料来源
+## 七、原作死亡线中的岩岁
+
+在 `yan-sui/branches/yan-can-canon-death/` 分支（岩参原作死亡线改编）中，岩岁虽未直接参与主线事件，但作为核心情感锚点存在。
+
+### 7.1 死亡线中的岩岁形象
+
+- **年龄**：25岁（故事发生时）
+- **状态**：在兽盾任职，对父亲出门的真正目的不知情
+- **关键场景**：《雪停之前》v2 结尾——岩岁醒来，发现父亲已死，床头柜上留着壹安的纸条、交流券和止血粉
+- **情感处理**：没有嚎啕大哭，只是握着父亲的手，额头抵在手背上，像小时候趴在父亲背上那样
+
+### 7.2 与救赎线的差异
+
+| 维度 | 救赎线（trunk/） | 死亡线（branches/yan-can-canon-death/） |
+|------|----------------|--------------------------------------|
+| **父亲命运** | 被奇点救下，父子重逢 | 被壹安送终，尸体背回家 |
+| **岩岁的知情** | 全程参与救援与康复 |  asleep，直到父亲死后才知晓 |
+| **情感爆发点** | 扑进父亲怀中痛哭 | 握着父亲已经温热的手，安静守望 |
+| **交流券** | 珍贵的情感信物 | 被壹安压在遗条下方，成为遗物 |
+
+---
+
+## 八、资料来源
 
 ### 原作来源
 
 1. **基础设定**：
-   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/characters/yan-sui.md`
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yan-sui.md`
 2. **背景故事①**：
-   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-sui/yan-sui-2-1.md`
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/yan-sui-2-1.md`
 3. **背景故事②**：
-   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-sui/yan-sui-2-2.md`
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/yan-sui-2-2.md`
 4. **父子回忆**：
-   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md`
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-can-yan-sui-flashback.md`
+5. **壹安设定**：
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yi-an.md`
 
-### 改编来源
+### 改编来源（救赎线）
 
 1. **ch-1.md**：冻结时刻的救援、捧脸凝视、虎尾缠绕
 2. **ch-2.md**：温泉沐浴场景、全身肌肉细节、换药场景
@@ -279,13 +303,18 @@
 4. **ch-4.md**：清晨苏醒、早餐互动
 5. **ch-5.md**：烟火下的虎尾缠绕、光之符文
 
+### 改编来源（死亡线）
+
+见 [`yan-sui/branches/yan-can-canon-death/`](../../chaptered-stories/yan-sui/branches/yan-can-canon-death/)
+
 ---
 
-## 八、档案信息
+## 九、档案信息
 
 - **创建日期**：2026-04-03
-- **档案版本**：v3（整合原作+作者对话+新版改编）
+- **档案版本**：v4（增加死亡线分支索引与壹安设定）
 - **整理者**：模因奇点
+- **上次更新**：2026-05-08
 - **旧版归档**：`history/v0-character-profile-yan-sui.md`
 
 ---

@@ -70,29 +70,38 @@
 
 ```
 bs-a-cs-5-beastshield-chronicles/
-├── readme.md                          # 本文件
-├── chinese/                           # 中文正文（已发布章节）
-│   ├── ch-01-the-rabbits-shadow.md     # 第一章：白兔暗影
-│   ├── ch-02-ore-and-undercurrents.md  # 第二章：矿石与暗流
-│   ├── ch-03-tower-of-bloodbath.md     # 第三章：血染之塔
-│   ├── ch-04-white-shadow-venomous-fangs.md  # 第四章：白影毒牙
-│   └── ch-05-the-collar.md             # 第五章：项圈
-└── setting/                           # 设定资料
-    ├── characters/                    # 角色设定
-    │   ├── qiu-qi.md                  # 仇染
-    │   ├── yan-sui.md                 # 岩岁
-    │   ├── yue-chi.md                 # 岳池
-    │   ├── lie-xun-yun-wu-background.md   # 猎寻&云午背景
-    │   └── lie-xun-yun-wu-if.md       # 猎寻&云午IF线
-    └── author-chat/                   # 作者创作对话
-        ├── storyline/                 # 剧情大纲讨论
-        ├── characters/                # 角色设定讨论
-        │   └── yan-sui/               # 岩岁专题讨论
-        ├── chapters/                  # 章节创作讨论
-        │   └── notes/                 # 章节笔记
-        └── misc/                      # 其他/短篇
-            └── notes/
+├── README.md                          # 本文件
+├── metadata.yaml                      # 作品元数据
+├── chapters/                          # 章节正文
+│   └── (各章节文件)
+└── .process/                          # 过程文件（v3.0 规范）
+    ├── CHANGELOG.md                   # 变更日志
+    └── settings/                      # 设定资料
+        ├── characters/                # 角色设定
+        │   ├── README.md              # 角色总览
+        │   ├── xu-yi.md               # 虚逸
+        │   ├── qiu-qi.md              # 仇染
+        │   ├── mo-wu.md               # 墨武
+        │   ├── yan-sui.md             # 岩岁
+        │   ├── yue-chi.md             # 岳池
+        │   ├── yi-an.md               # 壹安
+        │   └── (其他角色档案)
+        └── author-chat/               # 作者创作对话
+            ├── README.md
+            └── (按时间前缀命名的讨论文件)
 ```
+
+---
+
+## 🔗 跨项目索引（原作 ↔ 改编）
+
+| 想找的内容 | 所在位置 |
+|-----------|---------|
+| **原作角色设定** | [`.process/settings/characters/`](./.process/settings/characters/) |
+| **原作者对话/设定来源** | [`.process/settings/author-chat/`](./.process/settings/author-chat/) |
+| **岩参/岩岁/壹安 的改编故事** | [`worldstrider-infinity/yan-sui/branches/yan-can-canon-death/`](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+| **改编版本分析/讨论** | [`worldstrider-infinity/yan-sui/discussions/`](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/) |
+| **改编侧角色档案** | [`worldstrider-infinity/yan-sui/character-archive/`](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/character-archive/) |
 
 ---
 
@@ -124,8 +133,9 @@ bs-a-cs-5-beastshield-chronicles/
 ## 相关链接
 
 - [兽盾原作世界观](../../../original-archives/)
-- [角色详细设定](./setting/characters/)
+- [角色详细设定](./.process/settings/characters/)
+- [岩参/岩岁改编故事线（worldstrider-infinity）](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/)
 
 ---
 
-*最后更新：2026年4月6日*
+*最后更新：2026年5月8日*

@@ -345,32 +345,68 @@
 
 ---
 
-## 八、资料来源
+## 八、原作死亡线（另一世界线）
+
+除救赎线（trunk/）外，岩参在原作设定中的死亡线也在 `yan-sui/branches/yan-can-canon-death/` 中进行了完整改编。
+
+### 8.1 故事梗概
+
+岩参在去找老同事的路上被平民围殴并囚禁两周，尊严崩溃后由老战友送终。死后由同事将尸体背回家，并托孤于兽盾。
+
+### 8.2 版本对照
+
+| 版本 | 老同事设定 | 关键区别 |
+|------|-----------|---------|
+| **v1** | 老赵（退休老兵，平辈战友） | 通过老周托孤 |
+| **v2** | 壹安（伯恩山犬，46岁，岩参后辈，蓝制服） | 壹安直接找兽盾长官托孤；岩参出门动机改为"找壹安借钱带岁岁离开白之都" |
+
+### 8.3 相关角色
+
+- **壹安**：岩参后辈，蓝制服，死亡线中救援、送终、背尸、托孤的执行者。详见 beastshield 原作角色档案：[`yi-an.md`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yi-an.md)
+
+### 8.4 改编故事清单
+
+- **《无归》7-chapters-v2**：Claude 重写，7 章连续叙事，最完整的 v2 版本
+- **《雪停之前》claude-synth-v2**：Claude 重写，单章连续叙事，设定一致性最佳
+- **《雪夜》snow-night-v2**：DeepSeek 改写，氛围描写优秀
+- **《天亮之前》before-dawn-v2**：DeepSeek 改写，第一人称视角
+
+详细对比分析见：[`yan-sui/discussions/version-comparison-yi-an.md`](../../chaptered-stories/yan-sui/discussions/version-comparison-yi-an.md)
+
+---
+
+## 九、资料来源
 
 ### 原作来源
 
 1. **岩岁背景故事①**：
-   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-sui/yan-sui-2-1.md`
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/yan-sui-2-1.md`
 2. **岩岁背景故事②**：
-   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-sui/yan-sui-2-2.md`
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/yan-sui-2-2.md`
 3. **父子回忆**：
-   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md`
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-can-yan-sui-flashback.md`
+4. **壹安设定**：
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yi-an.md`
 
-### 改编来源
+### 改编来源（救赎线）
 
 1. **ch-1.md至ch-2.md**：岩岁被救、创伤倾诉、父子回忆（岩参仅在回忆与对话中提及）
 2. **ch-3.md**：岩岁沉睡前的倾诉，提及父亲与童年
 3. **ch-4.md**：岩参正式登场——雪夜巷战、濒死、奇点介入救援、血喂破咒、时空转移
 4. **ch-5.md**：万象庭院中苏醒、清洁、伤口处理、温泉、喝粥、隔墙见子
 
+### 改编来源（死亡线）
+
+见 [`yan-sui/branches/yan-can-canon-death/`](../../chaptered-stories/yan-sui/branches/yan-can-canon-death/)
+
 ---
 
-## 九、档案信息
+## 十、档案信息
 
 - **创建日期**：2026-04-03
-- **档案版本**：v4（同步 V2 章节正文 ch-1至ch-5）
+- **档案版本**：v5（增加死亡线分支索引与壹安设定）
 - **整理者**：模因奇点
-- **上次更新**：2026-05-07
+- **上次更新**：2026-05-08
 - **旧版归档**：`history/v0-character-profile-yan-can.md`
 
 ---

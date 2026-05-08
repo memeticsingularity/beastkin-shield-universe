@@ -45,6 +45,7 @@
 | [牛兽人](niu-shou-ren.md) | 牛  | 普通民众    | 存活（被捕） | 第二章     |
 | [蓝狼兽人](lan-lang.md)    | 狼  | 兽盾绿制服新兵 | 未知     | 迎新会支线   |
 | [黑猫兽人](hei-mao.md)     | 猫  | 兽盾绿制服新兵 | 未知     | 迎新会支线   |
+| [壹安](yi-an.md)          | 伯恩山犬 | 兽盾蓝制服/岩参战友 | 存活 | 原作岩参死亡线 |
 
 ---
 
@@ -94,7 +95,31 @@
 ├── 同为兽盾士兵
 ├── 被虚逸击杀
 └── 牵手离世（墨武见证）
+
+壹安 & 岩参
+├── 战友关系（后辈与前辈）
+├── 岩参扶持壹安晋升蓝制服
+├── 壹安救下被囚禁的岩参
+├── 岩参恳求壹安送自己最后一程
+└── 壹安为岩参善后、托孤（岩岁）
 ```
+
+---
+
+## 🔗 改编作品索引（worldstrider-infinity）
+
+以下角色的改编故事、版本分析、AI 讨论记录存放于 `worldstrider-infinity/original-archives/chaptered-stories/yan-sui/`：
+
+| 角色 | 改编内容 | 位置 |
+|-----|---------|------|
+| **岩参** | 原作死亡线 v1/v2、版本对比分析 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+| **岩岁** | 原作死亡线中的岩岁视角、父子关系分析 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+| **壹安** | v2 设定下的四版本改编故事 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+
+**快速导航**：
+- 要找改编故事 → [`yan-sui/branches/yan-can-canon-death/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/)
+- 要找版本分析/讨论 → [`yan-sui/discussions/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/)
+- 要找 AI 讨论记录 → [`yan-sui/ai-discuss/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ai-discuss/)
 
 ---
 
@@ -113,10 +138,9 @@
 即使是已死亡的角色也有完整设定：
 
 - 岩岁与岳池的背景故事
--
-猎巡与云午的完整背景故事（见[背景故事](../author-chat/storyline/2025-12-25-chronicles-backstory-leopard-and-wolf.md)）
+- 猎巡与云午的完整背景故事（见[背景故事](../author-chat/storyline/2025-12-25-chronicles-backstory-leopard-and-wolf.md)）
 - "阴间团圆也是团圆"
 
 ---
 
-*最后更新：2026年4月6日*
+*最后更新：2026年5月8日*
