@@ -3,7 +3,7 @@
 > 基于壹安新设定重写的岩参正统原作线中篇。
 > **核心设定变更**：老同事从"老赵"（退休老兵）改为"壹安"（伯恩山犬，46岁，岩参后辈，蓝制服）。
 
-**最后更新**：2026-05-08
+**最后更新**：2026-05-09
 **项目路径**：`branches/yan-can-canon-death/`
 **性质**：与 v1（老赵版）并行的原作正统剧情分支
 
@@ -48,6 +48,17 @@
 ### 《天亮之前》before-dawn-v2（DeepSeek）
 
 - [x] 全文重写
+
+### 《终夜》claude-ideal-v2（Claude 终极理想版）
+
+- [x] 全文完成
+- [x] 创作简报 full-spec v2 完成
+- [x] 成文对决分析完成（claude-vs-deepseek-ideal-v2.md）
+
+### 《雪停之前》deepseek-ideal-v2（DeepSeek 终极理想版）
+
+- [x] 全文完成
+- [x] DeepSeek 自我评鉴完成（deepseek-self-critique-ideal-v2.md）
 
 ---
 
