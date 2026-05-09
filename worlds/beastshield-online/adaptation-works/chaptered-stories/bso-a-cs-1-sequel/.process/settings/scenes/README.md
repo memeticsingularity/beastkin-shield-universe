@@ -16,6 +16,9 @@
 | 005 | **山寨厨房** | bandit-kitchen | 建筑/子场景 | 第四章（预计） | [005-kitchen.md](./005-kitchen.md) |
 | 006 | **山寨训练场/演武场** | training-ground | 建筑/子场景 | 第四章（预计） | [006-training-ground.md](./006-training-ground.md) |
 | 007 | **山寨营房/集体宿舍** | bandit-dormitory | 建筑/子场景 | 第四章（预计） | [007-dormitory.md](./007-dormitory.md) |
+| 008 | **牛家村** | niu-family-village | 村落 | 第四章（预计） | [008-niu-family-village.md](./008-niu-family-village.md) |
+| 009 | **河港码头** | dock-wharf | 据点 | 第四章（预计） | [009-dock-wharf.md](./009-dock-wharf.md) |
+| 010 | **地下斗兽场** | arena | 建筑/据点 | 第四章（预计） | [010-arena.md](./010-arena.md) |
 
 ---
 

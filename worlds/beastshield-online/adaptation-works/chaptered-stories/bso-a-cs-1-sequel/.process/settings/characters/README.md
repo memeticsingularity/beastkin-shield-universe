@@ -13,7 +13,9 @@ characters/
 ├── _TEMPLATE.md        # 角色档案模板
 ├── 01-players/         # 玩家角色
 ├── 02-hostile/         # 敌对/NPC角色
+│   └── by-story/       # 按故事线分类的次要角色
 ├── 03-civilian/        # 平民/背景角色
+│   └── by-story/       # 按故事线分类的次要角色
 └── 04-creature/        # 生物/特殊存在
 ```
 
@@ -42,6 +44,9 @@ characters/
 | 010 | **朱膘** | 野猪兽人 | 商队护卫 | **已死亡**（ss-02-ch-01） | [010-zhu-biao.md](./02-hostile/010-zhu-biao.md) |
 | 011 | **杨瑟** | 山羊兽人 | 商队成员 | **已死亡**（ss-02-ch-01） | [011-yang-se.md](./02-hostile/011-yang-se.md) |
 | 012 | **杨谨** | 山羊兽人 | 商队会计 | **已死亡**（ss-02-ch-05） | [012-yang-jin.md](./02-hostile/012-yang-jin.md) |
+| 013 | **霍山** | 独眼老虎兽人 | 前任寨主 | **已死亡** | [013-huo-shan.md](./02-hostile/013-huo-shan.md) |
+| — | **灰狼讨伐队领队** | 灰狼兽人 | 村庄讨伐队领队 | **已死亡**（龙套） | [001-gray-wolf-leader.md](./02-hostile/by-story/ss03-arena/001-gray-wolf-leader.md) |
+| — | **山羊射手** | 山羊兽人 | 村庄讨伐队成员 | 降兵（龙套） | [002-goat-archer.md](./02-hostile/by-story/ss03-arena/002-goat-archer.md) |
 
 ## 平民/背景角色
 
@@ -53,6 +58,9 @@ characters/
 | 004 | **朱夯** | 花皮猪兽人 | 山寨厨子 | 存活 | [004-zhu-hang.md](./03-civilian/004-zhu-hang.md) |
 | 005 | **狈谋** | 狈兽人 | 山寨师爷 | 存活 | [005-bei-mou.md](./03-civilian/005-bei-mou.md) |
 | 006 | **杨岐** | 山羊兽人 | 山寨医官 | 存活 | [006-yang-qi.md](./03-civilian/006-yang-qi.md) |
+| — | **牛二壮** | 牛兽人 | 牛家村农户，牛先锋童年玩伴 | 存活 | [001-niu-erzhuang.md](./03-civilian/by-story/ss03-niu-family-village/001-niu-erzhuang.md) |
+| — | **牛满仓** | 牛兽人 | 牛先锋之父，农户 | **已死亡**（饥荒） | [002-niu-mancang.md](./03-civilian/by-story/ss03-niu-family-village/002-niu-mancang.md) |
+| — | **老皮子** | 鼠兽人 | 码头鼠兽人掮客 | 存活 | [001-lao-pizi.md](./03-civilian/by-story/ss03-dock/001-lao-pizi.md) |
 
 ## 生物/特殊存在
 
