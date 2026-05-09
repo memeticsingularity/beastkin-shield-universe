@@ -37,6 +37,11 @@ characters/
 | 005 | **郎骄** | 灰狼兽人 | 志愿兵讨伐队领队 | **已死亡**（ch3） | [005-lang-jiao.md](./02-hostile/005-lang-jiao.md) |
 | 006 | **狼突** | 灰狼兽人 | 山贼突袭队小队长 | 存活 | [006-lang-tu.md](./02-hostile/006-lang-tu.md) |
 | 007 | **熊霸天** | 棕熊兽人 | 黑风寨前任寨主 | **已死亡**（ss-02） | [007-xiong-batian.md](./02-hostile/007-xiong-batian.md) |
+| 008 | **郎铮** | 黑狼兽人 | 商队护卫 | **已死亡**（ss-02-ch-04） | [008-lang-zheng.md](./02-hostile/008-lang-zheng.md) |
+| 009 | **郎横** | 灰狼兽人 | 镖师 | **已死亡**（ss-02-ch-05） | [009-lang-heng.md](./02-hostile/009-lang-heng.md) |
+| 010 | **朱膘** | 野猪兽人 | 商队护卫 | **已死亡**（ss-02-ch-01） | [010-zhu-biao.md](./02-hostile/010-zhu-biao.md) |
+| 011 | **杨瑟** | 山羊兽人 | 商队成员 | **已死亡**（ss-02-ch-01） | [011-yang-se.md](./02-hostile/011-yang-se.md) |
+| 012 | **杨谨** | 山羊兽人 | 商队会计 | **已死亡**（ss-02-ch-05） | [012-yang-jin.md](./02-hostile/012-yang-jin.md) |
 
 ## 平民/背景角色
 
@@ -47,6 +52,7 @@ characters/
 | 003 | **狐弦** | 灰狐兽人 | 志愿兵 / 弓箭手 | 存活（编入突袭队） | [003-hu-xian.md](./03-civilian/003-hu-xian.md) |
 | 004 | **朱夯** | 花皮猪兽人 | 山寨厨子 | 存活 | [004-zhu-hang.md](./03-civilian/004-zhu-hang.md) |
 | 005 | **狈谋** | 狈兽人 | 山寨师爷 | 存活 | [005-bei-mou.md](./03-civilian/005-bei-mou.md) |
+| 006 | **杨岐** | 山羊兽人 | 山寨医官 | 存活 | [006-yang-qi.md](./03-civilian/006-yang-qi.md) |
 
 ## 生物/特殊存在
 
