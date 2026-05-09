@@ -61,7 +61,8 @@
 
 | 编号 | 标题 | 状态 | 备注 |
 |------|------|------|------|
-| [ss-01.md](./side-stories/ss-01-tiger-king-pov.md) | 寨主的下午 | 📝 创作中 | 虎大王视角，与 ch-03 时间线平行 |
+| [ss-01.md](./side-stories/ss-01-tiger-king-pov.md) | 寨主的下午 | ✅ 已完成 | 虎大王视角，与 ch-03 时间线平行 |
+| [ss-02/](./side-stories/ss-02-tiger-king-prelude/) | 虎寨往事 | 📝 创作中 | 虎大王前传，ch-03 之前一个月（5章结构） |
 
 ---
 
