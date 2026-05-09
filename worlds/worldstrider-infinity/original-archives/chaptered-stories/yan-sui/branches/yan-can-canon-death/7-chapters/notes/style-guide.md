@@ -1,6 +1,6 @@
 # 《无归》笔风指南
 
-> 仿照 `beastshield-chronicles/chapters/chinese` 原作者舟逸虚的笔风。
+> 仿照 `beastshield-chronicles/chapters/chinese` 原作者暮游的笔风。
 
 ---
 
