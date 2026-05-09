@@ -45,6 +45,12 @@ characters/
 | 011 | **杨瑟** | 山羊兽人 | 商队成员 | **已死亡**（ss-02-ch-01） | [011-yang-se.md](./02-hostile/011-yang-se.md) |
 | 012 | **杨谨** | 山羊兽人 | 商队会计 | **已死亡**（ss-02-ch-05） | [012-yang-jin.md](./02-hostile/012-yang-jin.md) |
 | 013 | **霍山** | 独眼老虎兽人 | 前任寨主 | **已死亡** | [013-huo-shan.md](./02-hostile/013-huo-shan.md) |
+| 014 | **黄细** | 黄狗兽人 | 山贼新丁 | **已死亡**（ch-05） | [014-huang-xi.md](./02-hostile/014-huang-xi.md) |
+| 015 | **獾爷** | 獾兽人 | 守备队头目 | **已死亡**（ch-05） | [015-huan-ye.md](./02-hostile/015-huan-ye.md) |
+| 016 | **灰皮** | 混血兽人（灰狼+土狗） | 守备队员 | **已死亡**（ch-05） | [016-hui-pi.md](./02-hostile/016-hui-pi.md) |
+| 017 | **猪蛮** | 野猪兽人 | 突袭队队员 | 存活 | [017-zhu-man.md](./02-hostile/017-zhu-man.md) |
+| 018 | **鬣齿** | 鬣狗兽人 | 突袭队队员 | 存活 | [018-lie-chi.md](./02-hostile/018-lie-chi.md) |
+| 019 | **狼从** | 灰狼兽人 | 突袭队队员 | 存活 | [019-lang-cong.md](./02-hostile/019-lang-cong.md) |
 | — | **灰狼讨伐队领队** | 灰狼兽人 | 村庄讨伐队领队 | **已死亡**（龙套） | [001-gray-wolf-leader.md](./02-hostile/by-story/ss03-arena/001-gray-wolf-leader.md) |
 | — | **山羊射手** | 山羊兽人 | 村庄讨伐队成员 | 降兵（龙套） | [002-goat-archer.md](./02-hostile/by-story/ss03-arena/002-goat-archer.md) |
 
