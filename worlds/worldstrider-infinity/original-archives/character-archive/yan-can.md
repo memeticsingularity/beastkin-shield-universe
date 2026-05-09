@@ -349,9 +349,25 @@
 
 除救赎线（trunk/）外，岩参在原作设定中的死亡线也在 `yan-sui/branches/yan-can-canon-death/` 中进行了完整改编。
 
-### 8.1 故事梗概
+### 8.1 故事梗概（基于 2026-05-07 暮游口述原设）
 
-岩参在去找老同事的路上被平民围殴并囚禁两周，尊严崩溃后由老战友送终。死后由同事将尸体背回家，并托孤于兽盾。
+岩参在安顿好被围殴的岩岁后，出门前往壹安住处。途中被同一伙平民（此前围殴岩岁的狐兽人团伙）伏击。对方并非以杀死他为目的——在确认岩参失去反抗能力后，将他带走囚禁。
+
+**囚禁约两周期间：**
+- 剥光衣物，戴上项圈，拴上铁链，限制活动范围
+- 当成狗一样粗暴对待，只能像狗一样活着
+- 殴打泄愤与行动调教并行
+- 岩参的身体和精神被彻底碾碎
+
+**救援：** 约两周后，壹安（住在岩参被囚禁区域附近）偶然发现异常，将岩参救出。
+
+**求死：** 被救出后，岩参因尊严彻底崩溃而恳求壹安杀了自己。求死动机不是"不想拖累儿子"（经济层面），而是"我的身体与尊严已被彻底摧毁，我作为父亲的身份已被玷污"——他不愿让岩岁看到自己被驯化后的模样。
+
+**送终：** 壹安在痛苦中同意，通过精槽机制（兽盾刑房中"最不痛苦的"方式）亲手送岩参上路。
+
+**善后：** 壹安将岩参的尸体背负回家，整理遗容，留下条子和岩参生前想给岁岁买的药。岩岁当时仍在沉睡，对一切不知情。
+
+**重要纠正：** 此前部分版本写"托孤于兽盾/安排岩岁进兽盾"是**错误**的。岩岁在岩参死亡之前就已经在兽盾工作了（为养活父亲而入职），因此托孤情节**绝不涉及"给岩岁找工作"**。
 
 ### 8.2 版本对照
 
@@ -359,6 +375,7 @@
 |------|-----------|---------|
 | **v1** | 老赵（退休老兵，平辈战友） | 通过老周托孤 |
 | **v2** | 壹安（伯恩山犬，46岁，岩参后辈，蓝制服） | 壹安直接找兽盾长官托孤；岩参出门动机改为"找壹安借钱带岁岁离开白之都" |
+| **v3（现行正统）** | 壹安（设定同v2） | **严格遵循2026-05-07/08暮游口述原设**：壹安偶然发现（非情报打听）；托孤不涉及"给岩岁找工作"（岩岁已在兽盾）；求死动机为"尊严崩溃"；精槽机制极度收敛；单夜结构；无"老周"；称呼仅限前辈/小伯 |
 
 ### 8.3 相关角色
 
@@ -370,6 +387,7 @@
 - **《雪停之前》claude-synth-v2**：Claude 重写，单章连续叙事，设定一致性最佳
 - **《雪夜》snow-night-v2**：DeepSeek 改写，氛围描写优秀
 - **《天亮之前》before-dawn-v2**：DeepSeek 改写，第一人称视角
+- **v3 版本**（基于 [`CORRECTED_GUIDE.md`](../../chaptered-stories/yan-sui/branches/yan-can-canon-death/CORRECTED_GUIDE.md)）：严格遵循 2026-05-07/08 暮游口述原设的正统版本
 
 详细对比分析见：[`yan-sui/discussions/version-comparison-yi-an.md`](../../chaptered-stories/yan-sui/discussions/version-comparison-yi-an.md)
 
@@ -385,7 +403,11 @@
    `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/yan-sui-2-2.md`
 3. **父子回忆**：
    `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-can-yan-sui-flashback.md`
-4. **壹安设定**：
+4. **壹安设定（v2 版）**：
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/2026-05-08-yi-an-discussion.md`
+5. **岩参原作死亡线口述**：
+   `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/2026-05-07-yan-can-original-death.md`
+6. **旧版壹安档案**（仅供参考）：
    `worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yi-an.md`
 
 ### 改编来源（救赎线）
@@ -404,7 +426,7 @@
 ## 十、档案信息
 
 - **创建日期**：2026-04-03
-- **档案版本**：v5（增加死亡线分支索引与壹安设定）
+- **档案版本**：v6（增加 v3 正统版本对照，修正托孤与求死动机表述）
 - **整理者**：模因奇点
 - **上次更新**：2026-05-08
 - **旧版归档**：`history/v0-character-profile-yan-can.md`
