@@ -36,6 +36,7 @@ characters/
 | 004 | **佘温** | 蜥蜴兽人 | 志愿兵 / 舞蛇人 | **已死亡**（ch3） | [004-she-wen.md](./02-hostile/004-she-wen.md) |
 | 005 | **郎骄** | 灰狼兽人 | 志愿兵讨伐队领队 | **已死亡**（ch3） | [005-lang-jiao.md](./02-hostile/005-lang-jiao.md) |
 | 006 | **狼突** | 灰狼兽人 | 山贼突袭队小队长 | 存活 | [006-lang-tu.md](./02-hostile/006-lang-tu.md) |
+| 007 | **熊霸天** | 棕熊兽人 | 黑风寨前任寨主 | **已死亡**（ss-02） | [007-xiong-batian.md](./02-hostile/007-xiong-batian.md) |
 
 ## 平民/背景角色
 
@@ -45,6 +46,7 @@ characters/
 | 002 | **朱怒** | 白皮猪兽人 | 农产品小贩 | 存活 | [002-zhu-nu.md](./03-civilian/002-zhu-nu.md) |
 | 003 | **狐弦** | 灰狐兽人 | 志愿兵 / 弓箭手 | 存活（编入突袭队） | [003-hu-xian.md](./03-civilian/003-hu-xian.md) |
 | 004 | **朱夯** | 花皮猪兽人 | 山寨厨子 | 存活 | [004-zhu-hang.md](./03-civilian/004-zhu-hang.md) |
+| 005 | **狈谋** | 狈兽人 | 山寨师爷 | 存活 | [005-bei-mou.md](./03-civilian/005-bei-mou.md) |
 
 ## 生物/特殊存在
 
