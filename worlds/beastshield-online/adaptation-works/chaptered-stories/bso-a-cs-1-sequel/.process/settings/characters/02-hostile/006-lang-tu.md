@@ -198,7 +198,8 @@
 |------|------|------|---------|
 | ss-03-ch-09 | 山路（伏击点） | 作为突袭队成员参与伏击讨伐队，向牛先锋报告敌情 | 存活 |
 | ch-04 | [训练场](../scenes/006-training-ground.md) | 当众挑衅主角，要求次日训练场"陪他练一轮" | 对主角产生敌意 |
-| ch-05 | [训练场](../scenes/006-training-ground.md) | 与[獾爷](../02-hostile/015-huan-ye.md)对峙，宣示突袭队主权 | 存活 |
+| ch-05-c | [训练场](../scenes/006-training-ground.md) | 训练场与主角对峙；目睹主角分食猪蛮/鬣齿肉，脸色铁青但未动手；向虎大王告状未果 | 对主角产生忌惮 |
+| ch-05（分线A） | [训练场](../scenes/006-training-ground.md) | 与[獾爷](../02-hostile/015-huan-ye.md)对峙，宣示突袭队主权（分线A剧情，非正史） | 存活 |
 | ch-04（预计） | [训练场](../scenes/006-training-ground.md) | 带领突袭队训练，注意到旁观的[主角](../01-players/001-protagonist.md)，言语挑衅 | 与主角建立敌对关系 |
 | ch-04（预计） | [营房](../scenes/007-dormitory.md) | 夜间找[主角](../01-players/001-protagonist.md)"谈话"，施加压力 | 敌对关系升级 |
 
