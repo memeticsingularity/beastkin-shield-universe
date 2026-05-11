@@ -18,16 +18,8 @@
 - [第一章: 洞穴醒来](ch-1-cave-awakening.md)
 - [第二章: 山间遭遇](ch-2-mountain-encounter.md)
 
-## 设定说明
+## 续写与改编
 
-本故事使用了以下特殊设定：
+如需续写或改编本故事，请在 `worlds/beastshield/adaptation-works/chaptered-stories/` 路径下新建项目。
 
-- [查看详细设定](settings/story-setting.md)
-
-## 续写指南
-
-如需模仿原作者笔风续写或改编本故事，请参考：
-
-- [《墨犬》笔风指南](notes/style-guide.md) — 叙事视角、句子节奏、语言风格、情色描写规范、战斗风格、常见陷阱等完整指引
-
-> **注意**：续写作品属于改编创作，请在 `worlds/beastshield/adaptation-works/chaptered-stories/` 路径下新建项目，编码格式为 `bs-a-cs-{序号}-mo-quan-sequel`（或自定义标识名）。
+- [改编续写项目：bs-a-cs-12-mo-quan](../../../adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/) — 包含笔风指南、世界观适配、角色档案与创作框架

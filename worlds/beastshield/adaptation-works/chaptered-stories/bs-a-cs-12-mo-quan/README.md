@@ -17,13 +17,16 @@
 
 （待补充）
 
-## 原作参考
+## 创作资料
+
+### 原作参考
 
 - [原作目录](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md)
-- [原作笔风指南](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/notes/style-guide.md)
-- [原作设定](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/settings/story-setting.md)
 - [世界观设定库](../../../settings/0-original-setting/)
 
-## 协作指南
+### 本项目资料
 
-- [项目协作指南](GUIDE.md)
+- [笔风指南](notes/style-guide.md) — 叙事视角、句子节奏、语言风格、情色描写规范等
+- [世界观适配指南](notes/worldview-adaptation.md) — 兽盾大世界观哪些适用、哪些剥离、快穿设定详解
+- [故事设定档案](notes/story-setting.md) — 角色、道具、场景、功法档案
+- [项目协作指南](GUIDE.md) — 文件结构、工作流、禁止事项
