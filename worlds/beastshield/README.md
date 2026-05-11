@@ -70,6 +70,7 @@ For detailed settings, see: [settings/](settings/)
 | 编码 | 中文名 | 英文名 | 链接 |
 |------|--------|--------|------|
 | `bs-o-cs-1-yan-liang` | 炎魉 | Yanliang | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) |
+| `bs-o-cs-2-mo-quan` | 墨犬 | Ink Hound | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md) |
 
 #### 短篇 / Short Stories
 

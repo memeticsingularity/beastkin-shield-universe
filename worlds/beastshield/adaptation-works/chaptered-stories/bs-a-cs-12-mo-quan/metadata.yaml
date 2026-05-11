@@ -1,0 +1,28 @@
+work:
+  code: "bs-a-cs-12-mo-quan"
+  title:
+    chinese: "墨犬（续写）"
+    english: "Ink Hound (Sequel)"
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "updating"
+  location: "adaptation-works"
+  subtype: "side"
+  promotion_status: "not_eligible"
+  work_type: "adapted-expansion"
+  tags: []
+  content_warnings: []
+
+creation:
+  author: ""
+  start_date: "2026-05-11"
+  last_update: "2026-05-11"
+  universe_based_on: "beastshield"
+
+adaptation_info:
+  original_work: "bs-o-cs-2-mo-quan"
+  original_title: "墨犬"
+  adaptation_approach: "faithful"
+  key_changes: |
+    在原作两章基础上进行续写，探索黑狗的身世之谜与兽盾公司的追捕阴谋。
+    保持原作第三人称叙事、武侠功夫战斗风格与情色死亡机制。
