@@ -11,11 +11,16 @@
 
 ## 故事简介
 
-（待补充）
+失忆的黑色犬科兽人**黑狗**，身怀武林高手**墨犬**遗留的神秘功夫，在兽盾公司的追杀下于山中挣扎求生。他好色、残忍、又带点手下留情的温柔——在这个射空即死的世界里，每一场战斗都是情色与生死的交织。
 
 ## 章节列表
 
-（待补充）
+- [第三章：山腰伏击](ch-3-hillside-ambush.md)（续写）
+
+## 原作章节
+
+- [第一章：洞穴醒来](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
+- [第二章：山间遭遇](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
 
 ## 创作资料
 
