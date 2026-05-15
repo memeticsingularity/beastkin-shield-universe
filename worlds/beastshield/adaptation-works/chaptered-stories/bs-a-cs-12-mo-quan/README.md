@@ -15,7 +15,8 @@
 
 ## 章节列表
 
-- [第三章：山腰伏击](ch-3-hillside-ambush.md)（续写）
+- [第三章：山腰伏击](chapters/ch-3-hillside-ambush.md)（续写）
+- [第四章：月下河滩](chapters/ch-4-riverside-moonlight.md)（续写）
 
 ## 原作章节
 
