@@ -1,0 +1,242 @@
+# Chapter 4: Gray Wolf · The Breaking of Twin Bonds
+
+## Scene-1: Ripples of Unease
+
+The gray wolf beastkin Wolf Xun stopped his steps.
+
+His ears stood perfectly straight, slowly rotating in the dim air, like two highly sensitive radar receivers. His nostrils flared slightly, capturing subtle scent changes in the air. Beyond the dust, rust, and aged wood permeating the warehouse, there seemed to be a trace of... unusual aura. Not blood, nor that sweet-sour stench from corpses, but rather a... sense of tension. The air seemed stagnant, even the distant hiss of ventilation ducts sounded especially clear.
+
+Wolf Xun's brows furrowed. His body in the tight military-green uniform leaned slightly forward, muscles tensing beneath the fabric. As G-3, he and his younger brother Wolf Jie were the most mobile and olfactory-sensitive pair in this squad. They had been assigned expanded cross-patrol tasks, new orders issued by the captain after consecutive "incidents." Wolf Xun was responsible for the east side and part of the central area, Wolf Jie for the south side extending westward.
+
+Moving separately made Wolf Xun feel somewhat uneasy. Not doubt of his brother's capabilities—Wolf Jie's skill and alertness were no less than his—but some indescribable intuition. Xiong Zai lost contact, Mu Mo also didn't respond to routine calls, and now even that always-solitary black panther Mo Ying... A few minutes ago, Wolf Jie vaguely mentioned through the intercom that there was a sound of crates breaking in the southeast corner, he would go check. Then communication cut off.
+
+**Too quiet.**
+
+Wolf Xun licked his somewhat dry lips. His canine teeth slightly exposed, a barely audible growl rolling in his throat. This vast warehouse at this moment was like a silent beast, the throat formed by shadows seemingly ready to swallow something at any moment. He gripped the hard rubber baton at his waist tighter, knuckles whitening from force. Calf muscles wrapped in white knee-high socks bulged, ready to burst into sprint at any moment.
+
+He decided to wait no longer. Must go to the southeast corner to check, confirm Wolf Jie's situation, and also find Mo Ying—that guy who always stayed in shadows, perhaps he saw something.
+
+Footsteps quickened, but still maintaining the lightness and concealment of patrol. Military boot rubber soles contacting the concrete floor emitted extremely light "tap, tap" sounds, almost masked by his own deliberately controlled breathing. His body moved quickly through the shelves, gray fur almost merging with the dim environment, only those sharp, faintly glowing wolf eyes in the dim light vigilantly sweeping every corner.
+
+Rounding two corners stacked with wooden crates, the southeast corner area where huge packaging crates were stacked appeared before his eyes. The light here was even dimmer, tall crates casting heavy shadows, the air permeated with thicker dust and some plastic product smell.
+
+Wolf Xun's nose twitched faster. He smelled his brother's scent, very fresh, nearby. Also smelled Mo Ying's unique, slightly cold feline aura. And some... other. Very faint, hard to distinguish, like a strange beastkin, or like some... clean scent that didn't belong to this warehouse.
+
+His heart began to beat faster. Ears turned in all directions, capturing the most subtle sounds. Wind? No. Breathing? Besides his own, seemingly... in some shadowy depth, there was extremely weak, nearly even breathing. More than one.
+
+He slowed his steps, almost moving while hugging the ground. Right hand gripping the baton tighter, left hand lightly pressing the communicator by his ear. Just press down, and he could call the captain, or at least confirm Wolf Jie's channel. But he hesitated. What if it was just a false alarm? What if Wolf Jie was executing some emergency operation and had no time to respond? Rashly calling might alert the enemy, or make the captain think their brothers were incompetent.
+
+**Confirm first.** He told himself. Wolf clan pride and confidence in his own abilities made him choose cautious approach, rather than immediately sounding the alarm.
+
+He circled around a huge wooden crate almost reaching the ceiling, before his eyes was a relatively open space, some plastic parts scattered on the ground, a broken cardboard box tilted on its side. This was the broken crate Wolf Jie mentioned. But Wolf Jie wasn't nearby.
+
+Wolf Xun's nose guided him. His brother's scent extended toward a pile of abandoned burlap bags. He carefully approached, baton held horizontally across his chest, whole body muscles coiled like compressed springs ready to spring.
+
+Then, he saw it.
+
+On the burlap pile lay that familiar black figure—Mo Ying. The black panther beastkin's eyes were tightly closed, body in a relaxed-to-unnatural posture lying limp, chest uniform rising and falling with weak breathing. His hand seemed to be clutching something. No obvious external wounds, but just lying here unconscious.
+
+Wolf Xun's pupils instantly contracted. He immediately crouched down, extending fingers toward Mo Ying's neck—pulse steady, but indeed lost consciousness. What happened? Attack? What attack could silently take down the agility-renowned black panther?
+
+"Mo Ying?" He called in a low voice, voice kept very low, but exceptionally clear in this silence. No response. He pushed Mo Ying's shoulder, the other's body swayed limply, still completely unresponsive.
+
+Something was wrong. Very wrong. Xiong Zai, Mu Mo, and now Mo Ying... **Something is hunting us.**
+This thought poured over Wolf Xun's entire body like ice water. He no longer hesitated, left hand pressing toward the communicator by his ear, lungs expanding, preparing to report the situation to the captain in the most concise language and request support—
+
+Right at the critical moment when his fingertips were about to touch the communicator button, vocal cords about to vibrate—
+
+A sudden change occurred!
+
+## Scene-2: The Silent Hunt
+
+Wolf Xun's ears captured it. Not a sound, but air flow. An extremely subtle, unbelievably swift air disturbance, from the visual dead angle at his side-rear—the narrow gap formed by two huge wooden crates!
+
+**Behind!**
+
+Beast instinct and years of training burst forth in an instant! Wolf Xun didn't even turn his head. His waist twisted with a physics-defying amplitude, while that muscular, smooth, forceful arm carried wind-tearing sound, elbow striking backward like an iron hammer! Targeting the attacker's possible chest or head!
+
+This counterstrike was fast, accurate, ruthless! It was his habitual killing move against back attacks, relying on the powerful strength of his waist and core and the wolf clan's excellent reaction speed, having more than once allowed him to turn defeat into victory!
+
+However—
+
+"Bam!"
+
+Elbow hit something solid, transmitting dull impact sensation and numbness from recoil. But Wolf Xun felt no joy in his heart, only deeper chill! Because he felt that this sure-strike blow seemed to be blocked by the other's forearm or something! And the other's block was terrifyingly steady, only slightly stalled, not knocked back or disrupting rhythm!
+
+What made his soul fly away even more was that at the instant he twisted to counterattack, all his strength and spirit concentrated on his arm and upper body, his lower body—that most vulnerable, most unprepared area—exposed an extremely brief, but for a true hunter already sufficiently fatal gap!
+
+A palm, as if foreseeing the future, exactly at the instant when his center of gravity shifted and leg defense was at its weakest, penetrated below his blocking arm, fiercely, with pinpoint accuracy, grasping upward! Through the tight military-green shorts fabric, five fingers like iron pincers clenched dead on that vital point!
+
+"Urrgh—!!!"
+
+An uncontrollable, mixed-with-extreme-pain, horror, and disbelief howl was about to burst through Wolf Xun's throat! But almost at the same instant, another hand shot out from the side, pressing dead over his mouth and nose, stifling all his screams and cries in his own chest cavity!
+
+Pain!
+Indescribable pain!
+It wasn't just physical pain, but a fear and loss of control originating from the deepest, most primitive instinct of life! As if the very core of the body, the source of all strength, were completely crushed and drained in the instant that palm clenched! Wolf Xun felt all his muscles, bones, nerves simultaneously emitting cries and screams of collapse!
+
+All his counterattack movements, all his strength, all his fighting will, under the blow of this physiological absolute weakness being controlled, disintegrated! His lean body suddenly arched, then like a marionette with its spine and all joints removed, completely went limp, falling backward into a strange and forceful embrace.
+
+**Move! Move quickly! Jie... Jie is still nearby! Danger!**
+Chaotic, fearful, painful thoughts exploded in his blank mind, but his body completely wouldn't obey. Only uncontrollable violent trembling, starting from the gripped crotch, spreading like plague to every inch of muscle throughout his body. He tried to struggle, but legs could only weakly kick like a fish tail out of water, feet clad in white socks and sneakers scraping against the ground with "screech" sounds, unable to provide any effective resistance force. His right hand still futilely gripped the baton, but arm hung limply, without even the strength to lift.
+
+He was dragged, rapidly moving toward the deeper shadows beside. Spine rubbing against rough concrete floor, uniform fabric making rustling sounds of lament. He could smell on the attacker a very faint scent, like clean fabric mixed with sunlight, forming a strange contrast with the dust filling his nasal cavity, his own fearful sweat smell, and the sharp pain from below. His face was pressed tight, only able to inhale trace amounts of turbid air through finger gaps, the sensation of suffocation beginning to叠加 atop the pain.
+
+Soon, he was dragged into a narrow corner formed by shelves and a wall. The attacker pressed him against the cold wall, back against the metal shelf. That hand controlling his fatal weakness didn't relax in the slightest, instead adjusting its angle, making him continuously feel that clear, desperate threat. The other hand still pressed dead over his mouth and nose, force so great his cheekbones ached.
+
+Darkness, pain, suffocation, cold despair. Wolf Xun's eyes were wide open, in the dim light only able to see the fuzzy reflection of the nearby shelf metal edge. In his ears was the thunderous pounding of his own heartbeat and the hissing sound of blood rushing.
+**Jie... Jie...** Concern for his brother even exceeded fear for his own situation, burning his heart like a red-hot branding iron.
+*I'm done for... next is Jie... no... absolutely not...*
+
+Right at this moment, the hand covering his mouth relaxed slightly, allowing him to greedily, tremblingly inhale a few breaths of air carrying dust and that clean scent from the other's hand.
+
+A voice sounded by his ear, very close, breath stirring the fine fur of his ear flaps. Voice steady, calm, not showing much emotion, but carrying an unquestionable sense of control.
+
+"Don't make a sound. Unless you want your brother to immediately come keep you company."
+
+Wolf Xun's body shook violently! The other knew Wolf Jie! Even knew their relationship! **He knows everything! Jie is in danger!**
+
+Fear instantly soared to the peak, but simultaneously aroused a trace of residual, elder-brother and protector fierceness. A vague, threatening and pain-filled growl came from his throat, trying to twist his head to see the attacker's face.
+
+"Quiet." That voice sounded again, while that hand clenching his crotch, neither light nor heavy, kneaded once with clear warning meaning.
+
+"Mmph...!!"
+
+A current mixed with sharp pain and strange numbness suddenly raced through his entire body, Wolf Xun let out a muffled groan, body shaking violently. At the same time, in his vision somewhat blurred by pain and tears, a pale, semi-transparent
+**gauge bar** appeared out of thin air! With that knead just now, the bottom of the empty gauge,
+**was clearly filled with a small segment of pale light**!
+
+**Semen gauge!** Wolf Xun's thinking almost stopped. The countdown to death, unfolding before his eyes in such a direct, such a cruel way!
+
+Before he could recover, another knead of the same force followed immediately.
+
+"Urrgh!" The semen gauge rose another segment! Pale light advanced another small section, like a bone-sticking maggot, reminding him of the approaching finish line.
+
+Wolf Xun's body went even more limp, almost completely leaning against the attacker, breathing completely chaotic. That residual fierceness before the intuitive death progress bar, rapidly disintegrated.
+*Can't die... at least... can't die now... Jie...*
+
+"Now, answer my questions." That steady voice continued, the hand covering his mouth relaxing a bit more, "Your captain Wang Xiaolin, where exactly is he now? Are there other people around him?"
+
+Wolf Xun's canine teeth ground with clicking sounds. Can't say... this is betrayal! The captain won't let traitors go, Beastshield won't either! But if I don't say... that hand below... semen gauge...**
+*Jie... if I die, how can Jie alone deal with this monster?*
+** Extreme concern for his brother's safety, fighting with fear of betrayal, and fear of immediate death, fiercely battled in his brain.
+
+Seeing him hesitate, that hand applied pressure again. Not kneading, but more steady, more deep squeezing, as if weighing how to crush an egg. The pain made Wolf Xun's vision go dark, the semen gauge jumping slightly again.
+
+"In... in the core area at the very back of the warehouse... temporary command point..." Wolf Xun squeezed out voice from between his teeth, each word accompanied by body trembling and huge humiliation, "Just him alone... checking the list... looking for something..."
+
+"Something? What thing?"
+
+"Don't... don't know... really don't know... at our level... only know to clean up survivors, find a 'special cargo'... specifically what, only the captain and above know..." Wolf Xun answered hurriedly, afraid that answering slowly would bring more torture.
+
+"Where's Wolf Jie? Where did he go just now?"
+
+Hearing his brother's name, Wolf Xun's heart suddenly clenched. **He indeed has his eyes on Jie!**
+"He... he went toward the west side door direction... exchanging shift-change signals with the wild boar Zhu Gang..." He didn't dare hide, only hoping to exchange cooperation for a slim chance of survival, perhaps... perhaps having a chance to warn Jie?
+
+"Very good." That voice seemed somewhat satisfied, "Then, tell me your name."
+
+Name? At a time like this? Wolf Xun was stunned, hoarsely answering: "...Wolf Xun."
+
+"Wolf Xun." The other repeated, voice gaining a trace of confirming meaning. "Now, the last question."
+
+Wolf Xun's heart rose to his throat. What would it be? Would it be about Jie's specific location? Or about how to deal with the captain?
+
+Then, he heard that completely unexpected question:
+
+"Wolf Xun, are you willing to become my family?"
+
+...
+
+Time seemed to stop.
+
+Ears buzzing, the other's words came like through a thick water curtain, fuzzy and unreal. **Family?**
+He... what did he say? Not killing me, nor executing me after interrogation... but...
+*family*?
+
+The huge information gap left Wolf Xun in brief thinking stagnation. A few seconds later, chaotic thoughts began to thaw like a frozen river,艰难地重新运转:
+*He won't kill me? He wants me to become... family? Is this a trap? To more thoroughly control me, to deal with Jie and the captain?*
+
+Fury and vigilance instantly surged. "You... you want to use me against Jie?! Never!" He roared, though voice lacked底气 because of pain and weakness, but the resolute meaning was clear.
+
+The arms embracing him didn't seem angry because of his resistance, instead tightening slightly. That voice was still steady, but carrying a strange penetrating power:
+
+"I don't need you to deal with anyone. Your brother, your captain, they all have their own choices."
+
+"Choices?" Wolf Xun sneered, though this smile twisted because of pain, "What choices can you give them? Like you did with me?!"
+
+"If I can give them a better choice than Beastshield?" The other's voice was very light, but heavily struck Wolf Xun's heart. "A place without mutual suspicion, without worrying about being treated as consumables, without executing those missions that actually make you uncomfortable. A true, mutually dependable 'home.' You and Wolf Jie, can still be together, but no longer selling your lives for Beastshield, but for yourselves, for your common home fighting."
+
+Wolf Xun's breathing stopped. **Together with Jie... a true home...**
+These words were like poison, yet also like sweet dew, seeping into his heart filled with fear, worry, and anger. He and Wolf Jie joined Beastshield, wasn't it to be able to look out for each other and survive in this chaotic world? But Beastshield's life... cold numbers, strict ranks, those "cleaning" missions bringing discomfort (though they forced themselves to adapt), and the captain's unquestionable authority and potential punishment... was this really the "together" they wanted?
+
+But... betrayal? Abandoning everything, believing a strange attacker's empty promise?
+
+"I... how do I know you're not lying? How do you guarantee Jie's safety?" Wolf Xun's voice was dry, full of struggle.
+
+"I can't give you one hundred percent guarantee." The other was unexpectedly candid, "Any choice has risks. Staying in Beastshield, risks are known: cold rules, punishment for mission failure that could descend at any time, and... like now, being found one by one by someone like me. Choosing to grasp the possibility I give you, risks are unknown: you might discover a better place, might also encounter new challenges. But at least, that's a path you chose yourself, not imposed. As for Wolf Jie..."
+
+The other paused, voice becoming more solemn: "I will meet him in the same way, give him the same choice. Whether to accept, is up to him. I won't use you to threaten him, nor force him. You brothers, can choose individually, or choose together. But the premise is, you truly 'willing.'"
+
+Wolf Xun fell silent. The other's words had no fancy promises, even pointed out risks. But it was precisely this candidness that gave his words a bit more credibility. Moreover, the other mentioned "willing."
+*Jie... his choice...* Wolf Xun discovered what he cared about most was actually how his brother would choose. If Jie was also willing... if they could leave this damn place together...
+
+But... really could? Home? What was that? He and Jie since leaving their parents, joining Beastshield, never had the concept of "home" again. That was a distant and fuzzy word.
+
+"I... I need time..." Wolf Xun said with difficulty.
+
+"We don't have time." The other calmly pointed out, "Your brother could come over at any time, or the captain might discover abnormalities. You must choose now. Stay, 'unconscious' here like Mo Ying, waiting for an unknown ending. Or, grasp this."
+
+The other released the hand covering his mouth, laboriously taking something out from his bosom, raising it before Wolf Xun's eyes. That was a warm wooden badge, emitting soft luster in the dim light, shaped like a leaf, or like cupped hands.
+
+"This isn't binding, but invitation. Wolf Xun, tell me, deep in your heart, is there even a tiny bit... longing for a different place? A place where you and Wolf Jie don't have to be constantly on edge, can truly depend on each other with peace of mind?"
+
+Wolf Xun stared dead at that badge. Crude, yet inexplicably carrying a solid warmth. He remembered running in the wilderness with Wolf Jie when they were young, licking each other's wounds. Remembered when they joined Beastshield, the two cheering each other on in a cramped dormitory, promising to survive together. Remembered during certain missions, the undeniable weariness and trace of confusion in each other's eyes...
+
+**Jie... if it were you, how would you choose?**
+
+The pale glow of the semen gauge flickered at the edge of his vision, reminding him of the current desperate situation and life's fragility. But more fearful than death was the same desperate situation his brother might face, and that wish they might never realize, for "peace of mind together."
+
+Finally, Wolf Xun extremely difficultly, as if using all remaining strength in his body, raised a slightly trembling hand. His fingertips, slowly, slowly, touched that warm wooden badge.
+
+At the instant of touch, a stream of warm current poured in from fingertips, rapidly flowing through his entire body. That wasn't just a physical warmth, more like a spiritual connection and confirmation. At the same time, a deeper, existence-rule-related sense of security quietly descended, as if some sword named "Beastshield pursuit of responsibility" or "mission failure means death" that had been hanging overhead was gently removed by an invisible hand.
+
+Contract, concluded.
+
+"Welcome home, Wolf Xun." The other's voice gained a trace of genuine warmth, putting the badge into his hand, then releasing all suppression. "Now, you need to 'rest' here like Mo Ying. After we also give your brother the 'choice,' you brothers can reunite and go home together."
+
+Wolf Xun gripped the badge, feeling that strange warmth and connection, and as instructed slowly slid down the wall to sit on the ground, closing his eyes. The pain in his body was still there, but that huge fear in his heart and worry for his brother strangely calmed quite a bit. A faint yet firm hope quietly sprouted in his cold heart.
+*Jie... wait for me... we... go home together.*
+
+And that self-proclaimed Memetic Singularity monkey beastkin, had already like flowing water melting into shadows, silently left this corner, going to conduct the next crucial conversation concerning another gray wolf's fate.
+
+The warehouse was still shrouded in oppressive silence, but in a certain corner, a seed named "bonds and hope" had already been quietly planted.
+
+---
+
+## Story Reflections and Thoughts
+
+### Their Final Story
+
+(No characters died in this chapter.)
+
+### Those Still Living
+
+**[Living Being -> Living-G-3-Gray Wolf Beastkin-Wolf Xun]**
+His name is Wolf Xun, designation G-3. This name perhaps implies the wolf clan's swiftness, and is also the echo of his and his younger brother Wolf Jie's names. This gray wolf beastkin has a lean, well-proportioned figure, muscle lines flowing and full of explosive power beneath the tight military-green uniform. His chest muscles are thick, shoulders and back broad, waist tight and forceful, connecting to firm, pert buttocks and well-defined calf muscles wrapped tightly in white knee-high socks. His movements are light and swift, patrol footsteps rhythmic and excellently controlled, erect ears and sharp eyes constantly maintaining highest alert. Short gray fur is hard, with a matte sheen under weak light. He carries the wolf clan's unique scent, mixed with clean sweat smell, wilderness aura, and a trace of barely detectable tension.
+
+Wolf Xun's inner world tightly centers around two cores: protective desire for his younger brother Wolf Jie, and sense of responsibility for survival in the Beastshield system. He is alert, keen, experienced in combat, a reliable combat force in the squad. Regarding Beastshield's missions, he forces himself to view them rationally, treating them as the price necessary for survival, but certain "cleaning" scenes still bring faint discomfort in the dead of night, though he never speaks of it and tries his best not to let Wolf Jie notice. He reveres Captain Wang Xiaolin's strength and authority, treating him as authority that must be obeyed and key to ensuring squad survival. His deepest fear is not death itself, but being unable to protect Wolf Jie, or the brothers being forced apart and falling into even more miserable circumstances. That deeply hidden desire for "peaceful companionship" is firmly suppressed in his heart by his strong exterior and elder brother's responsibility.
+
+When the attack descended at a speed exceeding his reaction, Wolf Xun first felt extreme shock and fury, then was overwhelmed by the pain and loss of control of having his physiological weakness grasped. But stronger than the pain was extreme concern for Wolf Jie's safety. He feared his own failure would expose his brother to the same danger. During interrogation, his resistance stemmed more from instinct to protect his brother and maintain final dignity, rather than absolute loyalty to Beastshield. When the concept of "home" was proposed, especially when connected with the possibility of "truly being at ease together" with Wolf Jie, his solid psychological defense showed signs of shaking. The other didn't directly threaten Wolf Jie's safety, instead giving the respect of "individual choices," which unexpectedly touched the softest and most longing part of his heart.
+
+At the final moment, under the dual pressure of the semen gauge's death reminder and deep concern for his brother's future, Wolf Xun made a difficult choice. The warm connection and sense of security brought by touching the badge illuminated his dark heart filled with fear and responsibility like a ray of light. He chose to "unconsciously" wait, not just to survive, but for a slim yet genuine hope—going together with his brother toward a future where perhaps they wouldn't have to be so constantly on edge. From now on, designation G-3 begins to fade; the name "Wolf Xun" will first be redefined as an elder brother longing to protect his brother, a family member who chose a new possibility. His alertness and swiftness will no longer be used only for Beastshield's patrol and killing, but more for guarding the home that gave him this fragile hope, and his most cherished family member—Wolf Jie.
+
+### Story Thoughts
+
+Wolf Xun's story is a re-examination of "bonds" and "responsibility" in desperation. Memetic Singularity didn't attack his loyalty, but precisely cut into his most vulnerable emotional core—love and protective desire for his younger brother Wolf Jie. By creating extreme physical pain and death threat, forcing out his hidden fear (inability to protect his brother), then throwing out the concepts of "home" and "common choice," providing a new, hope-filled outlet for that brotherly affection almost suffocated by Beastshield's survival rules.
+
+This process was full of emotional tension. Every struggle of Wolf Xun, every roar, the concern for his brother in his eyes, were all incredibly real. He wasn't passively accepting, but undergoing fierce inner struggle amid extreme pain and worry. What ultimately prompted him to touch the badge was not trust in Memetic Singularity, but that deep longing for "getting a better possibility together with his brother," overwhelming all fear of the unknown and guilt of betrayal.
+
+When Wolf Xun finally gripped the badge, eyes closed waiting, what we see is not a "persuaded" warrior, but an elder brother who seized a slim chance of survival to protect his most important person. His sense of responsibility and protective desire didn't disappear, but were guided in a warmer, more worthy direction. From now on, his "swiftness" might be used to run toward family members who need him; his "alertness" might be used to guard the home's peace and his brother's smile. This choice based on the deepest bonds lets even a cold warehouse corner give birth to a trace of warmth called "hope."
+
+This story makes me deeply feel that true touching often lies not in giving how grand a promise, but in seeing and echoing the most cherished, softest part of a person's heart. Wolf Xun's "choice," essentially found a permitted, supported new expression for his long-suppressed brotherly love and guardianship responsibility. And this is precisely what "home" can give, one of the most precious gifts—letting love and being loved no longer be a burden or extravagant hope, but a warm daily life that can be embraced with peace of mind.
