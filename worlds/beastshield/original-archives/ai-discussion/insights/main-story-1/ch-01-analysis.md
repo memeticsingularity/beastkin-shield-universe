@@ -1,7 +1,7 @@
 # Chapter 1 游戏入门 - 分析
 
 >
-对应文件：[ch-01-game-entry.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-01-game-entry.md)
+对应文件：[ch-1-game-entry.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md)
 > 分析日期：2026-03-19
 
 ---

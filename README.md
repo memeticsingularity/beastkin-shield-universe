@@ -75,7 +75,10 @@ Some works in this universe contain adult content, including but not limited to:
 | **兽盾**    | 短篇 | [兽盾短篇](worlds/beastshield/original-archives/chinese/short-stories/README.md)                                              |
 | **兽盾**    | 主线 | [兽盾主线](worlds/beastshield/original-archives/chinese/chaptered-stories/main/README.md)                                     |
 | **兽盾新纪元** | 主线 | [兽盾新纪元主线](worlds/beastshield-reforged/original-archives/chinese/chaptered-stories/main/README.md)                         |
+| **兽盾乐园**  | 主线 | [兽盾乐园主线](worlds/beastshield-paradise/original-archives/chinese/chaptered-stories/main/README.md)                           |
+| **帝国犬兵**  | 主线 | [帝国犬兵主线](worlds/empire-kik-soldiers/original-archives/chinese/chaptered-stories/main/README.md)                            |
 | **万兽盟**   | 主线 | [万兽盟主线](worlds/united-beasts-alliance/original-archives/chinese/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
+| **万界行者**  | 主线 | [万界行者主线](worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/README.md)                                |
 
 **说明**：点击表格中的项目内链接即可直接跳转到对应作品目录页面。
 
@@ -86,7 +89,10 @@ Some works in this universe contain adult content, including but not limited to:
 | **Beastshield**            | Short Stories | [Beastshield Short Stories](worlds/beastshield/original-archives/english/short-stories/README.md)                                                     |
 | **Beastshield**            | Main Story    | [Beastshield Main Story](worlds/beastshield/original-archives/english/chaptered-stories/main/README.md)                                               |
 | **Beastshield Reforged**   | Main Story    | [Beastshield Reforged Main Story](worlds/beastshield-reforged/original-archives/english/chaptered-stories/main/bsr-o-cm-1-main-story-1/README.md)     |
+| **Beastshield Paradise**   | Main Story    | [Beastshield Paradise Main Story](worlds/beastshield-paradise/original-archives/english/chaptered-stories/main/README.md)                             |
+| **Empire Kik Soldiers**    | Main Story    | [Empire Kik Soldiers Main Story](worlds/empire-kik-soldiers/original-archives/english/chaptered-stories/main/README.md)                               |
 | **United Beasts Alliance** | Main Story    | [United Beasts Alliance Main Story](worlds/united-beasts-alliance/original-archives/english/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
+| **Worldstrider Infinity**  | Main Story    | [Worldstrider Infinity Main Story](worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/README.md)                                |
 
 **Note:** Click on the in-project links in the table to directly navigate to the corresponding work
 directory pages.
