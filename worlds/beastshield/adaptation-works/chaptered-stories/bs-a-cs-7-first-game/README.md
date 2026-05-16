@@ -1,221 +1,135 @@
 # 第一场游戏 / The First Game
 
----
-
-[返回改编作品目录](../README.md) | [返回兽盾宇宙首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+> 状态：completed · 编码：`bs-a-cs-7-first-game` · 作者：memeticsingularity · 最后更新：2026-05-16
 
 ---
 
-## 作品简介
+## 一、简介 / Introduction
 
-这是一个关于**降临者**（VR玩家）第一次进入兽盾宇宙的故事。
+**一句话钩子**：当一个程序员花三个月工资买下VR头盔，他以为等待自己的只是一场游戏——直到那温热的、腥臊的液体溅到他新生的脸颊上。
 
-主角陈默，27岁程序员，花了三个月工资购买《元兽御主》沉浸式VR套件。他以为这只是一款普通的游戏，但当那温热腥臊的液体溅到他脸上时，他才明白——这不是游戏，这是另一个真实的世界。
-
-在这个世界里，他遇到了老疤，一个土生土长的"NPC"，学会了生存的基本法则。他遇到了白牙，一个神秘的兔子兽人，开始学习如何在保持人性的前提下变强。
-
-但这个世界远比他想象的复杂。两个世界的连接、兽盾的阴谋、意识转移的研究……以及那个关于白牙身世的秘密。
-
-这不是一个关于英雄的故事。这是一个关于普通人如何在残酷的世界里，不丢掉自己的人性的故事。
+主角陈默，27岁程序员，第一次通过《元兽御主》沉浸式VR套件降临兽盾宇宙。他以为这只是一款普通的游戏，但当那温热腥臊的液体溅到他脸上时，他才明白——这不是游戏，这是另一个真实的世界。在这个世界里，他遇到了老疤，一个土生土长的"NPC"，学会了生存的基本法则。他遇到了白牙，一个神秘的兔子兽人，开始学习如何在保持人性的前提下变强。但这个世界远比他想象的复杂：两个世界的连接、兽盾的阴谋、意识转移的研究……以及那个关于白牙身世的秘密。这不是一个关于英雄的故事。这是一个关于普通人如何在残酷的世界里，不丢掉自己的人性的故事。
 
 ---
 
-## 章节导航
+**One-line Hook**: When a programmer spends three months' salary on a VR headset, he thinks he's buying a game—until warm, salty liquid splashes across his new face.
 
-| 章节                              | 标题                     | 场景数 | 状态  |
-|---------------------------------|------------------------|-----|-----|
-| [第一章](./chapters/ch-01-descent.md)        | 降临 / Descent           | 9   | 已完成 |
-| [第二章](./chapters/ch-02-first-lesson.md)   | 第一课 / The First Lesson | 9   | 已完成 |
-| [第三章](./chapters/ch-03-awakening.md)      | 觉醒 / Awakening         | 9   | 已完成 |
-| [第四章](./chapters/ch-04-the-spy.md)        | 间谍 / The Spy           | 9   | 已完成 |
-| [第五章](./chapters/ch-05-the-eve-of-war.md) | 战争前夜 / The Eve of War  | 9   | 已完成 |
-| [第六章](./chapters/ch-06-the-war.md)        | 战争 / The War           | 9   | 已完成 |
-| [第七章](./chapters/ch-07-aftermath.md)      | 余波 / Aftermath         | 9   | 已完成 |
-| [第八章](./chapters/ch-08-the-end.md)        | 终章 / The End           | 9   | 已完成 |
+Chen Mo, a 27-year-old programmer, enters the Beastshield universe for the first time through the "Meta-Beast Master" immersive VR kit. He thought it was just an ordinary game, but when that warm, pungent liquid splashed across his face, he realized—this is not a game, but another real world. Here he meets Old Scar, a native "NPC" who teaches him the basic rules of survival. He meets White Fang, a mysterious rabbit beastkin, and begins learning how to grow stronger without losing his humanity. But this world is far more complex than he imagined: the connection between two worlds, Beastshield's conspiracy, research into consciousness transfer... and the secret of White Fang's origins. This is not a story about heroes. It is a story about how an ordinary person can survive in a cruel world without losing what makes them human.
 
 ---
 
-## 核心角色
+## 二、内容标签 / Content Tags
 
-### 【降临者】
-
-**陈默（小熊）**
-
-- 种族：棕熊兽人
-- 身份：27岁程序员，第一次进入VR世界
-- 特点：笨拙但坚韧，害怕但勇敢
-- 目标：理解这个世界，不丢掉自己的人性
-
-**白牙**
-
-- 种族：白兔兽人
-- 身份：资深降临者，陈默的导师
-- 特点：神秘的红眼睛，掌握精神冲击能力
-- 教学理念：在变强的同时保持人性
-
-### 【原住民】
-
-**老疤**
-
-- 种族：棕熊兽人
-- 身份：土生土长的居民，新人引导员
-- 特点：孤独但睿智，见证过无数降临者的来去
-
-### 【已逝角色】
-
-**灰影**
-
-- 白牙的第一个学生，因追求力量而迷失
-- 尸体被保存在坟场，作为警示
-
-**G-892**
-
-- 陈默在这个世界见证的第一个死亡
-- 一个善恶难辨的兽盾杂兵
-
-**小灰**
-
-- 鼠兽人，兽盾的低层员工，降临者
-- 帮助陈默潜入和救援，最后被兽盾捕获
-- 为做正确的事而牺牲
-
-### 【新盟友】
-
-**G-1172**
-
-- 狼兽人，年轻的降临者，被陈默从兽盾救出
-- 经历了残酷的实验，正在恢复中
-- 为了 closure 而加入行动
-
-**黑爪**
-
-- 独眼黑豹兽人，前兽盾成员，现为赏金猎人
-- 为了向杀害伴侣的"灵魂猎手"复仇而加入
-- 负责正面突击
-
-**铁心**
-
-- 机械改造的山羊兽人
-- 兽盾偷了他的技术，他要拿回来
-- **已牺牲**：在正门突击中自爆，掩护其他人撤退
-
-**小花**
-
-- 兔族少女，治疗师
-- 能修复精神损伤
-- 负责后勤和医疗
-
-### 【反派】
-
-**胡林**
-
-- 狐兽人，兽盾研究员，降临者
-- 追求永生，认为意识转移是人类进化的下一步
-- 陈默的宿敌，从小灰的记忆中得知了行动计划
-
-**校长**
-
-- 兽盾的最高领导人，已活五百年
-- 通过不断转移意识更换身体
-- 真实身份是"创造者"，声称创造了两个世界的连接
-- 正在尝试打开"大门"，让两个世界融合
+- **兽人类型**：熊 / Bear、兔 / Rabbit、狼 / Wolf、野猪 / Boar、豹 / Panther、山羊 / Goat、鼠 / Rat、狐 / Fox、牛 / Bull、狗 / Dog、虎 / Tiger
+- **内容要素**：vr-game、death、combat、espionage、conspiracy、awakening、mentor-student
+- **叙事风格**：grimdark、thriller、coming-of-age、philosophical
 
 ---
 
-## 核心设定
+## II. Content Tags
 
-### 降临者（VR玩家）
-
-通过VR设备进入兽盾宇宙的现实世界人类：
-
-- 意识降临到兽人身体中，100%真实感官体验
-- 死亡后意识回到现实，但身体死亡
-- 重新进入需购买新资格，从零开始
-
-### 土生土长居民
-
-兽盾宇宙的原住民：
-
-- 没有"现实世界"的概念
-- 死亡是永久的
-- 对降临者抱有复杂情感
-
-### 两个世界的连接
-
-- VR设备是"通道"的一部分
-- 有人在刻意让两个世界融合
-- 兽盾公司正在研究意识转移技术
+- **Species**: Bear, Rabbit, Wolf, Boar, Panther, Goat, Rat, Fox, Bull, Dog, Tiger
+- **Elements**: vr-game, death, combat, espionage, conspiracy, awakening, mentor-student
+- **Style**: grimdark, thriller, coming-of-age, philosophical
 
 ---
 
-## 主题
+## 三、主要角色 / Characters
 
-- **真实与虚拟的边界**：当感官100%真实时，游戏还是游戏吗？
-- **人性的保持**：在残酷的世界里，如何不变成野兽？
-- **跨世界理解**：用不同的标准去理解另一个世界
-- **成长**：从一个普通人到……什么？（故事仍在继续）
-
----
-
-## 创作说明
-
-本作从短篇《第一场游戏》扩展而来，采用分章长篇的形式。
-
-与兽盾宇宙其他作品不同，本作：
-
-- 主角不是特工，不是赏金猎人，只是一个普通程序员
-- 没有特殊技能开局，只有笨拙的学习过程
-- 不聚焦于杀戮，而聚焦于理解和成长
-- 探索"VR世界"与"真实世界"的哲学边界
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 陈默（小熊） | 棕熊兽人 | 降临者 / 27岁程序员 | 笨拙但坚韧的新人，在残酷世界中学习保持人性 |
+| 白牙 | 白兔兽人 | 资深降临者 / 导师 | 神秘的红眼睛兔子，掌握精神冲击能力，教导学生保持人性 |
+| 老疤 | 棕熊兽人 | 土生土长的引导员 | 孤独但睿智的老兵，见证过无数降临者的来去 |
+| 灰影 | 狼兽人 | 白牙的第一个学生 | 因追求力量而迷失的天才，尸体被保存为警示 |
+| 胡林 | 狐兽人 | 兽盾研究员 / 降临者 | 追求永生的科学家，认为意识转移是进化的下一步 |
+| 校长 | 未知 | 兽盾最高领导人 | 通过不断转移意识更换身体，声称创造了两个世界的连接 |
+| 小灰 | 鼠兽人 | 兽盾低层员工 / 降临者 | 帮助陈默潜入和救援，为做正确的事而牺牲 |
+| G-1172 | 狼兽人 | 年轻降临者 | 被陈默从兽盾救出，经历了残酷的实验，正在恢复中 |
+| 黑爪 | 黑豹兽人 | 前兽盾成员 / 赏金猎人 | 为向杀害伴侣的"灵魂猎手"复仇而加入 |
+| 铁心 | 机械改造山羊兽人 | 技术专家 | 兽盾偷了他的技术，他要拿回来 |
+| 小花 | 兔族少女 | 治疗师 | 能修复精神损伤，负责后勤和医疗 |
 
 ---
 
-## 故事梗概
+## III. Characters
 
-**第一章：降临**
-陈默第一次进入VR世界，目睹G-892被杀，跪地呕吐。遇到老疤和白牙，开始学习生存法则。
-
-**第二章：第一课**
-白牙教授精神力和人性保持。遭遇铁角袭击，陈默精神力觉醒。得知灰影的警示故事。
-
-**第三章：觉醒**
-潜入兽盾成为间谍，发现地下实验室的黑暗。小灰牺牲自己帮助陈默救出G-1172。
-
-**第四章：间谍**
-在兽盾工作七天，学会精神穿刺。与胡林对峙。最终救出G-1172但失去小灰。
-
-**第五章：战争前夜**
-新盟友加入（黑爪、铁心、小花）。得知校长要打开"大门"。七人准备最终决战。
-
-**第六章：战争**
-正门突击，铁心自爆牺牲。陈默释放精神病毒摧毁数据。小灰最后自爆掩护撤退。
-
-**第七章：余波**
-战后疗伤，为牺牲者举行葬礼。得知校长真相。四人潜入兽盾总部最深处。
-
-**第八章：终章**
-与校长对峙，理解他的孤独与绝望。校长牺牲自己关闭大门、治愈陈默。陈默回到现实世界，开始新的人生。
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Chen Mo (Little Bear) | Brown Bear | VR Player / 27-year-old Programmer | A clumsy but resilient newcomer learning to keep his humanity in a cruel world |
+| White Fang | White Rabbit | Veteran VR Player / Mentor | A mysterious rabbit with red eyes who masters psychic abilities and teaches students to retain their humanity |
+| Old Scar | Brown Bear | Native Guide | A lonely but wise veteran who has witnessed countless players come and go |
+| Gray Shadow | Wolf | White Fang's First Student | A prodigy who lost himself in the pursuit of power; his body is preserved as a warning |
+| Hu Lin | Fox | Beastshield Researcher / VR Player | A scientist pursuing immortality who believes consciousness transfer is the next step of evolution |
+| The Principal | Unknown | Beastshield Supreme Leader | Claims to have created the connection between two worlds by constantly transferring his consciousness into new bodies |
+| Little Gray | Rat | Beastshield Low-Level Employee / VR Player | Helps Chen Mo infiltrate and rescue others; sacrifices himself for doing what is right |
+| G-1172 | Wolf | Young VR Player | Rescued by Chen Mo from Beastshield; recovering from brutal experiments |
+| Black Claw | Black Panther | Ex-Beastshield Member / Bounty Hunter | Joins the team to avenge his partner killed by a "soul hunter" |
+| Iron Heart | Cybernetically Modified Goat | Tech Expert | Beastshield stole his technology, and he wants it back |
+| Little Flower | Rabbit Girl | Healer | Can repair spiritual damage; responsible for logistics and medical support |
 
 ---
 
-**更新时间**：2026-03-05
-**当前进度**：全部八章已全面修订完成
-**总字数**：约110,000字（修订版）
-**状态**：已完成（Completed Revised Edition）
+## 四、章节列表 / Chapters
 
-**修订说明**：
-
-- 全部八章已完成全面重写，采用更丰富的感官细节描写
-- 新增多视角叙事（陈默 + 兽盾员工视角G-734/G-881/小灰等）
-- 详细描写兽盾制服体系（绿G级/蓝O级/黑E级/白R级/深蓝W级）
-- 完善灰色产业链设定（俘虏快递、平民下单、赏金猎人生态）
-- 每一章增加卷首语、卷尾语和完整的故事评述（"他们最后的故事"+"还活着的人们"）
-- 强化肉体描写（脂包肌、肌肉群、肉垫触感、皮毛质感）
-- 增加嗅觉描写（汗味、血腥味、药草香、雄性气息）
-- 放慢叙事节奏，深化角色内心挣扎与成长
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 降临 / Descent | [阅读](chapters/ch-01-descent.md) |
+| Ch.2 | 第一课 / The First Lesson | [阅读](chapters/ch-02-first-lesson.md) |
+| Ch.3 | 觉醒 / Awakening | [阅读](chapters/ch-03-awakening.md) |
+| Ch.4 | 间谍 / The Spy | [阅读](chapters/ch-04-the-spy.md) |
+| Ch.5 | 战争前夜 / The Eve of War | [阅读](chapters/ch-05-the-eve-of-war.md) |
+| Ch.6 | 战争 / The War | [阅读](chapters/ch-06-the-war.md) |
+| Ch.7 | 余波 / Aftermath | [阅读](chapters/ch-07-aftermath.md) |
+| Ch.8 | 终章 / The End | [阅读](chapters/ch-08-the-end.md) |
 
 ---
 
-[返回改编作品目录](../README.md) | [返回兽盾宇宙首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+## IV. Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | Descent | [Read](chapters/ch-01-descent.md) |
+| Ch.2 | The First Lesson | [Read](chapters/ch-02-first-lesson.md) |
+| Ch.3 | Awakening | [Read](chapters/ch-03-awakening.md) |
+| Ch.4 | The Spy | [Read](chapters/ch-04-the-spy.md) |
+| Ch.5 | The Eve of War | [Read](chapters/ch-05-the-eve-of-war.md) |
+| Ch.6 | The War | [Read](chapters/ch-06-the-war.md) |
+| Ch.7 | Aftermath | [Read](chapters/ch-07-aftermath.md) |
+| Ch.8 | The End | [Read](chapters/ch-08-the-end.md) |
 
 ---
+
+## 五、关联作品 / Related Works
+
+- 原作世界观：[beastshield-original](../../../original-archives/) — 兽盾原作世界观
+- 同一世界观：[bs-a-cs-4-yanliang](../bs-a-cs-4-yanliang/README.md) — 炎魉
+- 同一世界观：[bs-a-cs-5-beastshield-chronicles](../bs-a-cs-5-beastshield-chronicles/README.md) — 兽盾编年史
+- 同一世界观：[yan-sui](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/) — 岩岁/岩参改编故事
+
+---
+
+## V. Related Works
+
+- Original Universe: [beastshield-original](../../../original-archives/) — Beastshield Original Universe
+- Same Universe: [bs-a-cs-4-yanliang](../bs-a-cs-4-yanliang/README.md) — Yanliang
+- Same Universe: [bs-a-cs-5-beastshield-chronicles](../bs-a-cs-5-beastshield-chronicles/README.md) — Beastshield Chronicles
+- Same Universe: [yan-sui](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/) — Yan Sui / Yan Can Adaptation Stories
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

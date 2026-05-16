@@ -1,91 +1,143 @@
 # 松果的领养日记 / Songguo's Adoption Diary
 
-## 作品简介
+> 状态：completed · 编码：`bs-a-cs-9-songguo-story` · 作者：改编作品 · 最后更新：2026-05-16
 
-这是一个关于"松果"——一只失去右腿的兽人军犬，从被遗弃、自卑，到被主人领养、建立深厚羁绊的温馨故事。
+---
 
-## 故事背景
+## 一、简介 / Introduction
 
-在兽盾公司的战损员工领养中心，一只名叫松果的棕黄色犬类兽人因为失去右腿而长期无人问津。他曾是勇敢的护卫犬，在任务中受伤退役。直到某天，一位特殊的访客改变了他的一生...
+**一句话钩子**：一只失去右腿的退役军犬，在领养中心等待了无数个日夜，直到一位金毛教师推开了那扇玻璃门。
 
-## 主要角色
+在兽盾公司的战损员工领养中心，一只名叫松果的棕黄色犬类兽人因为失去右腿而长期无人问津。他曾是勇敢的护卫犬，在任务中受伤退役，右腿装着金属义肢。性格忠诚而害羞的松果，日复一日地蜷缩在笼舍角落，看着同伴们被陆续带走。直到某天，一位金毛寻回犬兽人教师推开了领养中心的玻璃门——金阳的出现，将松果从被遗弃的自卑深渊中拉了出来。这是一个关于创伤、接纳与归属的温馨故事。
 
-### 松果 (Songguo)
+---
 
-- **种族**：棕黄色犬类兽人（类似德国牧羊犬）
-- **身份**：兽盾公司退役战损员工
-- **特征**：右腿装有金属义肢，体型健壮，性格忠诚害羞
-- **性格**：认真负责、容易害羞、偶尔嘴硬（怕鬼）、极度忠诚
+**One-line Hook**: A retired military dog with a missing right leg waits endless days at the adoption center until a golden retriever teacher opens the glass door.
 
-### 金阳 (主人)
+At BeastShield's retired combatant adoption center, a brown-yellow canine beastkin named Songguo has been overlooked for ages due to his missing right leg. Once a brave guard dog injured in the line of duty, he now wears a metal prosthetic and spends his days curled in the corner of his kennel, watching companions leave one by one. Then one day, a golden retriever teacher named Jinyang walks through the door—and pulls Songguo out of the abyss of abandonment. A warm story about trauma, acceptance, and finding a home.
 
-- **种族**：金毛寻回犬兽人
-- **身份**：教师（哈士奇学校）
-- **特征**：金色毛发，浅棕色眼睛，身形精瘦但有力
-- **性格**：温柔体贴、有耐心、包容、愿意给松果一个家
+---
 
-## 故事章节
+## 二、内容标签 / Content Tags
+
+- **兽人类型**：犬 / Dog（德国牧羊犬型、金毛寻回犬型）
+- **内容要素**：adoption、disability、daily-life、family-bonding、trauma-healing、school-life
+- **叙事风格**：slice-of-life、heartwarming、gentle、drama
+
+---
+
+## II. Content Tags
+
+- **Species**: Dog (German Shepherd type, Golden Retriever type)
+- **Elements**: adoption, disability, daily-life, family-bonding, trauma-healing, school-life
+- **Style**: slice-of-life, heartwarming, gentle, drama
+
+---
+
+## 三、主要角色 / Characters
+
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 松果 | 棕黄色犬类兽人（德国牧羊犬型） | 兽盾退役战损员工 | 失去右腿、装有金属义肢的忠诚护卫犬，性格害羞而坚韧 |
+| 金阳 | 金毛寻回犬兽人 | 教师（哈士奇学校） | 温柔体贴的领养人，愿意给松果一个真正的家 |
+
+---
+
+## III. Characters
+
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Songguo | Brown-yellow Canine (German Shepherd type) | Retired Combatant | A loyal guard dog missing his right leg with a metal prosthetic; shy yet resilient |
+| Jinyang | Golden Retriever | Teacher (Husky School) | A gentle adopter willing to give Songguo a real home |
+
+---
+
+## 四、章节列表 / Chapters
 
 ### 主版本（贴近原作设定）
 
-| 章节 | 标题                                | 内容概要       |
-|----|-----------------------------------|------------|
-| 1  | [第一章：初遇](./chapters/ch-01-first-meeting.md) | 领养中心的相遇    |
-| 2  | [第二章：适应](./chapters/ch-02-adaptation.md)    | 新家的生活      |
-| 3  | [第三章：磨合](./chapters/ch-03-bonding.md)       | 彼此的接纳      |
-| 4  | [第四章：恐惧](./chapters/ch-04-fear.md)          | 看恐怖片的趣事    |
-| 5  | [第五章：离别](./chapters/ch-05-departure.md)     | 不得不面对的分别   |
-| 6  | [第六章：重逢](./chapters/ch-06-reunion.md)       | 再次相遇的感动    |
-| 7  | [第七章：归属](./chapters/ch-07-belonging.md)     | 终身领养的承诺    |
-| 8  | [第八章：学历与正义](./chapters/ch-08-growth.md)     | 重返校园的成长与守护 |
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 初遇 | [阅读](chapters/ch-01-first-meeting.md) |
+| Ch.2 | 适应 | [阅读](chapters/ch-02-adaptation.md) |
+| Ch.3 | 磨合 | [阅读](chapters/ch-03-bonding.md) |
+| Ch.4 | 恐惧 | [阅读](chapters/ch-04-fear.md) |
+| Ch.5 | 离别 | [阅读](chapters/ch-05-departure.md) |
+| Ch.6 | 重逢 | [阅读](chapters/ch-06-reunion.md) |
+| Ch.7 | 归属 | [阅读](chapters/ch-07-belonging.md) |
+| Ch.8 | 学历与正义 | [阅读](chapters/ch-08-growth.md) |
 
 ### 分支版本（恋爱向改编）
 
-| 章节 | 标题                                               | 内容概要             |
-|----|--------------------------------------------------|------------------|
-| 1  | [第一章：初遇（恋爱版）](./chapters/love/ch-01-first-meeting-love.md) | 领养中心的相遇（恋爱向改编）   |
-| 2  | [第二章：适应（恋爱版）](./chapters/love/ch-02-adaptation-love.md)    | 新家的生活（恋爱向改编）     |
-| 3  | [第三章：磨合（恋爱版）](./chapters/love/ch-03-bonding-love.md)       | 彼此的接纳（恋爱向改编）     |
-| 4  | [第四章：恐惧（恋爱版）](./chapters/love/ch-04-fear-love.md)          | 看恐怖片的趣事（含浪漫亲密描写） |
-| 5  | [第五章：离别（恋爱版）](./chapters/love/ch-05-departure-love.md)     | 不得不面对的分别（恋爱向改编）  |
-| 6  | [第六章：重逢（恋爱版）](./chapters/love/ch-06-reunion-love.md)       | 再次相遇的感动（含浪漫情感描写） |
-| 7  | [第七章：归属（恋爱版）](./chapters/love/ch-07-belonging-love.md)     | 终身领养的承诺（含伴侣关系描写） |
-
-### 番外
-
-- *待定*
-
-## 关于角色关系定位（重要说明）
-
-**原作者明确说明**：松果和主角**不是恋爱关系**，他们之间是**接近家人的主仆关系**，松果的行为会**自觉地不僭越
-**。
-
-### 版本说明
-
-根据原作者的定位，本作品提供两个版本：
-
-| 版本       | 文件名            | 关系定位    | 说明                             |
-|----------|----------------|---------|--------------------------------|
-| **主版本**  | `ch-x.md`      | 主仆/家人关系 | 贴近原作者设定，松果保持自觉的分寸感，强调"守护"与"追随" |
-| **分支版本** | `ch-x-love.md` | 恋爱/伴侣关系 | 文学化改编版本，包含浪漫情感描写               |
-
-**建议**：如希望体验符合原作者原意的版本，请阅读主版本（`ch-x.md`）。
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1-L | 初遇（恋爱版） | [阅读](chapters/love/ch-01-first-meeting-love.md) |
+| Ch.2-L | 适应（恋爱版） | [阅读](chapters/love/ch-02-adaptation-love.md) |
+| Ch.3-L | 磨合（恋爱版） | [阅读](chapters/love/ch-03-bonding-love.md) |
+| Ch.4-L | 恐惧（恋爱版） | [阅读](chapters/love/ch-04-fear-love.md) |
+| Ch.5-L | 离别（恋爱版） | [阅读](chapters/love/ch-05-departure-love.md) |
+| Ch.6-L | 重逢（恋爱版） | [阅读](chapters/love/ch-06-reunion-love.md) |
+| Ch.7-L | 归属（恋爱版） | [阅读](chapters/love/ch-07-belonging-love.md) |
 
 ---
 
-## 原作信息
+## IV. Chapters
 
-本作品改编自松果系列图片故事，保留了原作的温馨基调，同时进行了文学化的扩展和深化。
+### Main Version (Close to Original Setting)
 
-**角色关系调整记录**：2026-03-17，根据原作者反馈，对第4、6、7章主版本进行了关系定位修正，详见 [
-`ai-discussion/opt/2026-03-17-relationship-correction.md`](./ai-discussion/opt/2026-03-17-relationship-correction.md)
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | First Meeting | [Read](chapters/ch-01-first-meeting.md) |
+| Ch.2 | Adaptation | [Read](chapters/ch-02-adaptation.md) |
+| Ch.3 | Bonding | [Read](chapters/ch-03-bonding.md) |
+| Ch.4 | Fear | [Read](chapters/ch-04-fear.md) |
+| Ch.5 | Departure | [Read](chapters/ch-05-departure.md) |
+| Ch.6 | Reunion | [Read](chapters/ch-06-reunion.md) |
+| Ch.7 | Belonging | [Read](chapters/ch-07-belonging.md) |
+| Ch.8 | Education and Justice | [Read](chapters/ch-08-growth.md) |
 
-## 内容提示
+### Branch Version (Romance Adaptation)
 
-- 温馨治愈向
-- 包含轻度情感描写
-- 适合成年读者
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1-L | First Meeting (Romance) | [Read](chapters/love/ch-01-first-meeting-love.md) |
+| Ch.2-L | Adaptation (Romance) | [Read](chapters/love/ch-02-adaptation-love.md) |
+| Ch.3-L | Bonding (Romance) | [Read](chapters/love/ch-03-bonding-love.md) |
+| Ch.4-L | Fear (Romance) | [Read](chapters/love/ch-04-fear-love.md) |
+| Ch.5-L | Departure (Romance) | [Read](chapters/love/ch-05-departure-love.md) |
+| Ch.6-L | Reunion (Romance) | [Read](chapters/love/ch-06-reunion-love.md) |
+| Ch.7-L | Belonging (Romance) | [Read](chapters/love/ch-07-belonging-love.md) |
 
 ---
 
-*基于兽盾宇宙世界观创作*
+## 五、关联作品 / Related Works
+
+- 原作/改编来源：bs-a-cs-5-beastshield-chronicles — 兽盾编年史
+- 同一世界观：bs-a-cs-8-auction-show — 兽盾流拍处决秀
+- 同一世界观：bs-a-cs-10-leishan-resurrection — 雷爪重生
+
+---
+
+## V. Related Works
+
+- Original / Source: bs-a-cs-5-beastshield-chronicles — Beastshield Chronicles
+- Same Universe: bs-a-cs-8-auction-show — The Auction Show
+- Same Universe: bs-a-cs-10-leishan-resurrection — Resurrection of Leishan
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

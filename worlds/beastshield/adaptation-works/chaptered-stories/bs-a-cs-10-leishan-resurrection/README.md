@@ -1,59 +1,113 @@
-# BS-A-CS-S1: 雷爪重生 - 一个IF线故事
+# 雷爪重生 / Resurrection of Leishan
 
-> *Side Story: Resurrection of Leishan*
->
-> **类型**: IF线/支线故事
-> **视角**: 雷爪（原炎魉故事中的G-147虎守卫）
-> **设定**: 基于主线故事中"憋精功"诈死机制的衍生剧情
+> 状态：updating · 编码：`bs-a-cs-10-leishan-resurrection` · 作者：改编作品 · 最后更新：2026-05-16
 
 ---
 
-## 故事简介
+## 一、简介 / Introduction
 
-这是关于雷爪的故事——那个在兽盾新兵训练基地外围巡逻时，被赏金猎人炎制服、射精、扔进垃圾桶的虎兽人。
+**一句话钩子**：被扔进垃圾桶的虎兽人新兵在精液与汗水的混合物中睁开了眼睛——而隔壁那具"尸体"，似乎也在呼吸。
 
-但这一次，他没有死。
-
-在濒死的边缘，年轻的身体迸发出不可思议的求生本能。当炎和魉离开，当夜色更深，当垃圾桶里的其他尸体渐渐冰冷，雷爪在精液与汗水的混合物中睁开了眼睛。
-
-这是一个关于死而复生、关于逃亡与生存、关于两个被系统标记为"已死"的兽人如何在阴影中相依为命的故事。
+这是关于雷爪的故事——那个在兽盾新兵训练基地外围巡逻时，被赏金猎人制服、射精、扔进垃圾桶的虎兽人。但这一次，他没有死。在濒死的边缘，年轻的身体迸发出不可思议的求生本能。当夜色更深，当垃圾桶里的其他尸体渐渐冰冷，雷爪在黑暗中睁开了眼睛。他的逃亡将他带往尸体处理场，在那里，他与另一位同样从死亡边缘归来的兽人相遇。这是一个关于死而复生、关于逃亡与生存、关于两个被系统标记为"已死"的兽人如何在阴影中相依为命的故事。
 
 ---
 
-## 章节列表
+**One-line Hook**: A tiger recruit thrown into a trash bin opens his eyes in a mixture of semen and sweat—and the "corpse" next to him seems to be breathing too.
 
-| 章节 | 标题                                       | 内容概要                                       |
-|----|------------------------------------------|--------------------------------------------|
-| 1  | [垃圾桶里的呼吸](chapters/ch-01-resurrection-expanded.md) | 雷爪从诈死状态中醒来，面对自己的处境（扩充版，约6000字）             |
-| 2  | [阿黄的黄昏](chapters/ch-02-ahuang-expanded.md)         | 雷爪发现同批次新人阿黄的尸体，进行最后的告别（扩充版，约6000字）         |
-| 3  | [尸堆中的相遇](chapters/ch-03-the-meeting.md)            | 雷爪藏入垃圾车到达尸体堆积场，与同样诈死的高级干部牛磐相遇（扩充版，约10000字） |
-| 4  | [尸堆中的第一夜](chapters/ch-04-the-first-night.md)       | 两人在尸堆中度过第一夜，互相取暖，建立类似父子的情感纽带，准备逃亡（约15000字） |
+This is the story of Leizhao—the tiger beastkin patrolling the perimeter of BeastShield's recruit training base, who was subdued, forced to ejaculate, and thrown into a garbage bin by bounty hunters. But this time, he didn't die. At the edge of death, his young body unleashed an unbelievable survival instinct. As the night deepens and the other corpses in the bin grow cold, Leizhao opens his eyes in the darkness. His escape leads him to the body disposal yard, where he meets another beastkin who also returned from the brink of death. A story about resurrection, survival, and how two individuals marked "deceased" by the system learn to rely on each other in the shadows.
 
 ---
 
-## 世界观设定
+## 二、内容标签 / Content Tags
 
-本故事基于兽盾世界观的以下设定：
-
-- **憋精功**: 部分兽人（尤其是储精量惊人的牛兽种）通过特殊训练，可以在射精时保留一部分精液不射，进入假死状态
-- **诈死**: 假死状态下的兽人身体代谢极度降低，心跳和呼吸几乎停止，难以被察觉
-- **复苏**: 诈死者需要一定时间恢复，期间极度虚弱，需要补充营养（通常是...自己的体液）
-- **偶遇的两位诈死者**:
-    - **雷爪**（G-147）：虎兽人新兵，无意中触发诈死能力，对兽盾的黑暗一无所知
-    - **牛磐**（E-011）：牛兽人高级干部，精通憋精功，深知兽盾的残酷规则
+- **兽人类型**：虎 / Tiger、牛 / Bull、犬 / Dog
+- **内容要素**：survival、resurrection、escape、corporate、mentorship、found-family、trauma
+- **叙事风格**：grimdark、thriller、survival-drama、emotional
 
 ---
 
-## 与主线故事的关系
+## II. Content Tags
 
-| 时间线        | 事件                         |
-|------------|----------------------------|
-| 主线第1章      | 雷爪被炎制服、射精、扔进垃圾桶            |
-| 主线第20章     | 牛磐被牙董逼至自决、射精、扔进垃圾桶         |
-| 本故事第1章     | 雷爪在垃圾桶中苏醒，开始逃亡             |
-| 本故事第3章（预计） | 雷爪藏入垃圾车，到达尸体处理场，与同样诈死的牛磐相遇 |
-| 主线后续       | 炎和魉继续深入基地，未察觉雷爪的存活         |
+- **Species**: Tiger, Bull, Dog
+- **Elements**: survival, resurrection, escape, corporate, mentorship, found-family, trauma
+- **Style**: grimdark, thriller, survival-drama, emotional
 
 ---
 
-*这是一个关于第二次机会的故事。*
+## 三、主要角色 / Characters
+
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 雷爪 | 虎兽人 | G-147 新兵 | 年轻的新兵守卫，在濒死边缘意外触发了求生本能 |
+| 牛磐 | 牛兽人 | E-011 高级干部 | 精通憋精功的老兵，深知兽盾的残酷规则 |
+| 阿黄 | 犬兽人 | 同批次新兵 | 与雷爪同批进入兽盾的年轻兽人 |
+
+---
+
+## III. Characters
+
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Leizhao (Leishan) | Tiger | G-147 Recruit | A young guard recruit whose survival instinct awakens at the edge of death |
+| Niupan | Bull | E-011 Senior Officer | A veteran who mastered the "semen-retention technique" and knows BeastShield's cruel rules |
+| Ahuang | Dog | Fellow Recruit | A young beastkin who joined BeastShield in the same batch as Leizhao |
+
+---
+
+## 四、章节列表 / Chapters
+
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 垃圾桶里的呼吸 | [阅读](chapters/ch-01-resurrection.md) |
+| Ch.1-E | 垃圾桶里的呼吸（扩充版） | [阅读](chapters/ch-01-resurrection-expanded.md) |
+| Ch.2 | 阿黄的黄昏 | [阅读](chapters/ch-02-ahuang.md) |
+| Ch.2-E | 阿黄的黄昏（扩充版） | [阅读](chapters/ch-02-ahuang-expanded.md) |
+| Ch.3 | 尸堆中的相遇 | [阅读](chapters/ch-03-the-meeting.md) |
+| Ch.4 | 尸堆中的第一夜 | [阅读](chapters/ch-04-the-first-night.md) |
+
+---
+
+## IV. Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | Breath in the Trash Bin | [Read](chapters/ch-01-resurrection.md) |
+| Ch.1-E | Breath in the Trash Bin (Expanded) | [Read](chapters/ch-01-resurrection-expanded.md) |
+| Ch.2 | Ahuang's Dusk | [Read](chapters/ch-02-ahuang.md) |
+| Ch.2-E | Ahuang's Dusk (Expanded) | [Read](chapters/ch-02-ahuang-expanded.md) |
+| Ch.3 | Meeting in the Corpse Pile | [Read](chapters/ch-03-the-meeting.md) |
+| Ch.4 | The First Night in the Corpse Pile | [Read](chapters/ch-04-the-first-night.md) |
+
+---
+
+## 五、关联作品 / Related Works
+
+- 原作/改编来源：bs-a-cs-5-beastshield-chronicles — 兽盾编年史
+- 同一世界观：bs-a-cs-8-auction-show — 兽盾流拍处决秀
+- 同一世界观：bs-a-cs-9-songguo-story — 松果的领养日记
+
+---
+
+## V. Related Works
+
+- Original / Source: bs-a-cs-5-beastshield-chronicles — Beastshield Chronicles
+- Same Universe: bs-a-cs-8-auction-show — The Auction Show
+- Same Universe: bs-a-cs-9-songguo-story — Songguo's Adoption Diary
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

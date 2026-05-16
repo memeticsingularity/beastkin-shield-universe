@@ -1,186 +1,119 @@
-# 犬兵梦忆 (Dog Soldier's Dreams)
+# 犬兵梦忆 / Dog Soldier's Dreams
 
-## 作品编码
-
-`eks-o-cm-2-dog-soldier-dreams`
+> 状态：completed · 编码：`eks-o-cm-2-dog-soldier-dreams` · 作者：DeepSeek · 最后更新：2026-05-16
 
 ---
 
-## 作品信息
+## 一、简介 / Introduction
 
-| 属性      | 内容                 |
-|---------|--------------------|
-| **世界观** | 帝国万岁 (eks)         |
-| **性质**  | 原创 (o)             |
-| **形式**  | 主线分章 (cm)          |
-| **序号**  | 2                  |
-| **标识名** | dog-soldier-dreams |
-| **语言**  | 中文                 |
-| **章节数** | 预计5-7章             |
+**一句话钩子**：当嗅觉能唤醒完整的记忆，一只退役犬兵发现帝国从不真正放走任何人——包括那个他以为早已死去的战友。
+
+B-45231，一名服役八年的犬兽人黑袜兵，以其敏锐的嗅觉和忠诚著称。与虎兽人的勇猛不同，犬兽人天生具有更强的情感联结能力——这在战场上是优势，在帝国的体制下却是诅咒。故事从他被召回前的退役生活开始，穿插着服役期间的创伤记忆：第一次目睹撸杀时的恐惧、为保护同伴而被迫做出的选择、那个雨夜中死在他怀里的狼兽人战友、以及他自己为了生存而不得不执行的"任务"。当召回令传来，B-45231发现这次任务的"测试对象"与他过去的某段记忆有着诡异的联系。在记忆的迷宫与现实的残酷之间，他必须面对最深的恐惧——那个为了活下来，他选择遗忘的自己。
 
 ---
 
-## 故事简介
+**One-line Hook**: When smell can summon entire memories, a retired dog soldier discovers the Empire never truly lets anyone go — including the comrade he thought was dead.
 
-**有些记忆，比死亡更沉重。**
-
-B-45231，一名服役八年的犬兽人黑袜兵，以其敏锐的嗅觉和忠诚著称。与虎兽人的勇猛不同，犬兽人天生具有更强的情感联结能力——这在战场上是优势，在帝国的体制下却是诅咒。
-
-故事从他被召回前的三十天开始，穿插着服役期间的创伤记忆：第一次目睹**撸杀**
-时的恐惧、为保护同伴而被迫做出的选择、那个雨夜中死在他怀里的狼兽人战友、以及他自己为了生存而不得不执行的"
-任务"。
-
-当召回令传来，B-45231发现这次任务的"测试对象"
-与他过去的某段记忆有着诡异的联系。在记忆的迷宫与现实的残酷之间，他必须面对最深的恐惧——那个为了活下来，他选择遗忘的自己。
+B-45231, an eight-year veteran black-sock soldier and dog beastkin, is renowned for his acute sense of smell and loyalty. Unlike the tigers' brute courage, a dog's stronger emotional bonding is an asset on the battlefield but a curse under the Empire's regime. The story begins in his retired life before recall, interweaving traumatic service memories: the first time he witnessed a milking-kill, choices forced upon him to protect a companion, the wolf comrade who died in his arms on a rainy night, and the "missions" he carried out to survive. When the recall order arrives, B-45231 discovers the test target bears an eerie connection to his past. Between the labyrinth of memory and the brutality of reality, he must confront his deepest fear — the self he chose to forget in order to live.
 
 ---
 
-## 核心主题
+## 二、内容标签 / Content Tags
 
-- **犬兽人的敏感天性**：更强的嗅觉记忆与情感创伤的关联
-- **PTSD与生存 guilt**：幸存者的罪恶感如何侵蚀意识
-- **记忆的选择性遗忘**：为了活下去，大脑会保护性地封锁什么
-- **忠诚的代价**：对帝国的服从 vs 对同伴的义气
-- **轮回与报应**：过去的行动如何以意想不到的方式回到自己身上
+- **兽人类型**：犬兽人（德牧/狼犬混血）、狼兽人、豺狼兽人（混血）、狐狸兽人、虎兽人、熊兽人
+- **内容要素**：芯片控制、嗅觉记忆、PTSD、培养舱复制品、克隆伦理、帝国召回、抵抗组织、走私者
+- **叙事风格**：记忆闪回、感官驱动、心理创伤、慢节奏、存在主义、轮回与选择
 
 ---
 
-## 主要角色
+## II. Content Tags
 
-### 主角
-
-| 编号      | 种族           | 身份    | 核心特质                 |
-|---------|--------------|-------|----------------------|
-| B-45231 | 犬兽人（德牧/狼犬混血） | 退役黑袜兵 | 嗅觉极度敏锐，情感丰富，深受PTSD困扰 |
-
-**外貌特征**：
-
-- 灰黑相间的皮毛，腹部和胸口有浅灰色毛发
-- 耳朵一只竖立、一只半耷（第四颈椎神经受损导致）
-- 深棕色的眼睛，眼周有自然的"泪痕"纹理
-- 尾巴粗壮，紧张时会夹紧
-- 鼻子是深黑色的，湿润，有细小的疤痕
-- 典型的基尅兵"脂包肌"体格：厚实皮下脂肪层包裹发达肌肉群
-
-**特殊设定**：
-
-- **嗅觉记忆**：犬兽人能通过气味唤起完整的记忆场景，这是祝福也是诅咒
-- **声音敏感**：对高频声音（如惨叫、金属摩擦）有强烈的应激反应
-- **忠诚本能**：即使被帝国虐待，依然会下意识地服从命令，这让他自我厌恶
-
-### 非帝国势力
-
-| 名称 | 种族       | 身份   | 简介                             |
-|----|----------|------|--------------------------------|
-| 疤脸 | 豺狼兽人（混血） | 走私者  | 前帝国"合作者"，脖子上有致命伤疤，现帮助边境平民和抵抗组织 |
-| 小火 | 狐狸兽人     | 走私学徒 | 疤脸的侄子，父母在帝国空袭中死亡，对自由充满渴望       |
-
-### 记忆中的逝者
-
-| 编号      | 种族  | 身份  | 简介                         |
-|---------|-----|-----|----------------------------|
-| B-22017 | 熊兽人 | 黑袜兵 | B-45231记忆中的惩戒对象，因试图救同伴而被撸杀 |
-| B-44502 | 狼兽人 | 黑袜兵 | B-22017试图拯救的同伴，第二章将详细展开    |
-
-### 帝国势力
-
-| 编号/称号 | 种族 | 身份   | 简介                     |
-|-------|----|------|------------------------|
-| 未知使者  | 未知 | 帝国信使 | 前来传达召回令的神秘人物，身上带着恐惧的气息 |
+- **Species**: Dog (German Shepherd / Wolfhound Mix), Wolf, Jackal-Wolf Hybrid, Fox, Tiger, Bear
+- **Elements**: Implant Control, Olfactory Memory, PTSD, Vat-Grown Copies, Clone Ethics, Imperial Recall, Resistance Network, Smugglers
+- **Style**: Memory Flashbacks, Sensory-Driven, Psychological Trauma, Slow-Paced, Existentialism, Karma and Choice
 
 ---
 
-## 章节规划（预计）
+## 三、主要角色 / Characters
 
-| 章节 | 标题    | 时间线         | 核心内容                  |
-|----|-------|-------------|-----------------------|
-| 1  | 气味与灰烬 | 退役第1年，日常    | 退役生活，首次记忆闪回（第一次目睹撸杀）  |
-| 2  | 雨夜与血  | 退役第1年，接到召回令 | 接到任务，闪回（战友死在自己怀里）     |
-| 3  | 牙齿与舌头 | 任务准备期       | 前往任务地点，闪回（自己执行的第一次撸杀） |
-| 4  | 镜子与面具 | 任务执行日       | 发现测试对象与过去的联系          |
-| 5  | 吠叫与沉默 | 任务关键时刻      | 在记忆与现实间挣扎，做出选择        |
-| 6  | 项圈与锁链 | 任务后（可选）     | 选择的后果，新的轮回开始？         |
-
----
-
-## 叙事特色
-
-### 记忆闪回机制
-
-- **触发点**：特定的气味、声音、触感会触发闪回
-- **表现方式**：用斜体或特殊排版区分记忆与现实
-- **渐进揭示**：每次闪回补充一部分真相，直到最后拼凑完整
-
-### 感官描写重点
-
-- **嗅觉**：气味成为记忆和情绪的载体
-- **听觉**：对声音的敏感，尤其是惨叫和命令声
-- **触觉**：皮毛的触感、军袜的紧绷、同伴血液的温度
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| B-45231 | 犬兽人（德牧/狼犬混血） | 退役黑袜兵 | 嗅觉极度敏锐，情感丰富，深受PTSD困扰，在记忆与现实间挣扎 |
+| B-44502 | 狼兽人 | 已故战友 | B-45231记忆中的狼兽人战友，在雨夜为救平民孩子而死 |
+| B-44502-2.0 | 狼兽人（复制品） | 帝国实验产物 | 拥有原体全部记忆的复制品，但芯片存在缺陷 |
+| B-44503 | 狼兽人 | 帝国实验对象 | B-44502的弟弟，自愿加入帝国实验试图复活哥哥 |
+| 疤脸 | 豺狼兽人（混血） | 走私者 | 前帝国"合作者"，脖子上有致命伤疤，现帮助边境平民和抵抗组织 |
+| 小火 | 狐狸兽人 | 走私学徒 | 疤脸的侄子，父母在帝国空袭中死亡，对自由充满渴望 |
+| 白袜长官 | 虎兽人 | 雪山基地高级军官 | 测试的操控者，默许主角逃离的帝国精英 |
+| B-38194 | 豺狼/犬混血 | 帝国信使 | B-45231的前战友，前来传达召回令的神秘使者 |
 
 ---
 
-## 与原作设定关联
+## III. Characters
 
-- **犬兽人设定**：原作中有犬兽人角色（如第112章的灰衣士兵），本作扩展其特性
-- **雪山基地**：故事发生在同一世界观下，但可能涉及其他基地
-- **芯片控制**：探索芯片对情感记忆的压制与扭曲作用
-- **退役机制**：与《召回协议》不同的退役兵命运路径
-
----
-
-## 扩展设定贡献
-
-1. **犬兽人生理特性**：嗅觉记忆、声音敏感、忠诚本能的生物学基础
-2. **PTSD在基尅兵中的表现**：芯片无法完全抹除的情感创伤
-3. **记忆压制机制**：芯片如何选择性封锁某些记忆以维持士兵功能
-4. **同袍情谊的禁忌**：帝国如何压制士兵之间的情感联结
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| B-45231 | Dog (GSD / Wolfhound Mix) | Retired Black-Sock Soldier | Acute sense of smell, emotionally rich, deeply scarred by PTSD, torn between memory and reality |
+| B-44502 | Wolf Beastkin | Fallen Comrade | B-45231's wolf comrade who died on a rainy night saving a civilian child |
+| B-44502-2.0 | Wolf Beastkin (Copy) | Imperial Experiment | A copy with the original's complete memories, but a flawed implant |
+| B-44503 | Wolf Beastkin | Imperial Test Subject | B-44502's younger brother, who volunteered for the experiment to resurrect his sibling |
+| Scarface | Jackal-Wolf Hybrid | Smuggler | A former Imperial "collaborator" with a fatal neck scar, now aiding civilians and the resistance |
+| Xiao Huo | Fox Beastkin | Smuggler Apprentice | Scarface's nephew, parents killed in an Imperial air raid, hungry for freedom |
+| White-Sock Officer | Tiger Beastkin | Senior Officer at Snow Mountain Base | The test's orchestrator, an Imperial elite who tacitly allows the protagonist's escape |
+| B-38194 | Jackal-Dog Hybrid | Imperial Messenger | B-45231's former comrade, the mysterious figure who delivers the recall order |
 
 ---
 
-## 故事状态
+## 四、章节列表 / Chapters
 
-- [x] 第一章：气味与灰烬 - 已完成（约11500字）
-- [x] 第二章：雨夜与血 - 已完成（约12800字）
-- [x] 第三章：牙齿与舌头 - 已完成（约13500字）
-- [x] 第四章：镜子与面具 - 已完成（约12500字）
-- [x] 第五章：吠叫与沉默 - 已完成（约11800字）
-
-**当前总字数**: 约62100字（全五章）
-**状态**: 已完结
-
----
-
-## 故事概览
-
-《犬兵梦忆》讲述了一只退役犬兽人士兵B-45231的故事。他因极度敏锐的嗅觉记忆而深受PTSD困扰，在退役第288天被帝国召回执行一项特殊任务——测试一名"
-复制品"。
-
-随着故事展开，B-45231发现这个复制品竟是他死去的战友B-44502，而任务的背后是帝国更深层的操控。在与B-44502的弟弟B-44503联手后，他们决定寻找"
-第三条路"——不是服从，不是死亡，而是真正地选择。
-
-最终，B-44502-2.0选择了自由地死去，B-45231和B-44503在白袜长官的默许下逃离，开始了新的生活。
-
-这是一个关于选择、记忆、和人性在极端压迫下如何存续的故事。
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 气味与灰烬 / Scent and Ash | [阅读](chapters/chinese/ch-001-scent-and-ash.md) |
+| Ch.2 | 雨夜与血 / Rain and Blood | [阅读](chapters/chinese/ch-002-rain-and-blood.md) |
+| Ch.3 | 牙齿与舌头 / Teeth and Tongue | [阅读](chapters/chinese/ch-003-teeth-and-tongue.md) |
+| Ch.4 | 镜子与面具 / Mirror and Mask | [阅读](chapters/chinese/ch-004-mirror-and-mask.md) |
+| Ch.5 | 吠叫与沉默 / Bark and Silence | [阅读](chapters/chinese/ch-005-bark-and-silence.md) |
 
 ---
 
-## 章节结构说明
+## IV. Chapters
 
-每章采用**分幕式结构**（Scene-x），特点：
-
-- 每幕有独立标题，聚焦特定场景或时间点
-- 大量感官细节描写（视觉、嗅觉、触觉、听觉、味觉）
-- 兽人体征详细描写（脂包肌结构、肉垫、皮毛、肌肉群）
-- 穿插记忆闪回（以斜体/特殊排版区分）
-- 慢节奏叙事，注重人物互动和心理描写
-- 每章包含完整的故事评述（他们最后的故事、还活着的人们、故事感慨）
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | 气味与灰烬 / Scent and Ash | [Read](chapters/chinese/ch-001-scent-and-ash.md) |
+| Ch.2 | 雨夜与血 / Rain and Blood | [Read](chapters/chinese/ch-002-rain-and-blood.md) |
+| Ch.3 | 牙齿与舌头 / Teeth and Tongue | [Read](chapters/chinese/ch-003-teeth-and-tongue.md) |
+| Ch.4 | 镜子与面具 / Mirror and Mask | [Read](chapters/chinese/ch-004-mirror-and-mask.md) |
+| Ch.5 | 吠叫与沉默 / Bark and Silence | [Read](chapters/chinese/ch-005-bark-and-silence.md) |
 
 ---
 
-## 版本信息
+## 五、关联作品 / Related Works
 
-**创建日期**: 2026-03-05
-**最后更新**: 2026-03-05
-**适配设定集**: 帝国万岁完整设定集（1-113章）
-**模板版本**: eks-story-template-chinese v1.0
-**作者**: DeepSeek
+- 原作/改编来源：`eks-o` — 帝国万岁（Empire Kik Soldiers）原作设定
+- 同一世界观：`eks-o-cm-1-recall-protocol` — 召回协议
+
+---
+
+## V. Related Works
+
+- Original / Source: `eks-o` — Empire Kik Soldiers (Original Setting)
+- Same Universe: `eks-o-cm-1-recall-protocol` — Recall Protocol
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

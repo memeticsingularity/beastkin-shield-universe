@@ -1,79 +1,103 @@
-# Story 潜入者之焰
+# 潜入者之焰 / The Infiltrator's Flame
+
+> 状态：completed · 编码：`bs-a-s-1-agent-infiltration` · 作者：memeticsingularity · 最后更新：2026-05-16
 
 ---
 
-## 故事信息
+## 一、简介 / Introduction
 
-| 项目       | 内容                      |
-|----------|-------------------------|
-| **英文标题** | The Infiltrator's Flame |
-| **章节数**  | 全一话（9个Scene）            |
-| **类型**   | 短篇故事                    |
-| **世界观**  | 兽盾宇宙                    |
-| **创作日期** | 2026-03-04              |
+**一句话钩子**：年轻特工第一次独自执行任务，他本可以一拳一个，却选择让敌人在极致快感中缓慢凋零——因为总司令说，要学会控制。
+
+特工局年轻特工**雷炎寰**奉命潜入兽盾偏远仓库。对这个掌握**灼流暗劲**的红虎兽人而言，这不仅是一次任务，更是一场关于力量、克制与成长的试炼。五只G级杂兵，五场死亡，五种控制的分寸——在精液与恐惧交织的仓库里，年轻的杀手第一次直面自己内心对权力的迷恋。
 
 ---
 
-## 简介
+**One-line Hook**: A young agent with burning internal power is sent to clear five guards—and learns that the real test is controlling the beast inside himself.
 
-> *The Infiltrator's Flame*
-> **特工局**年轻特工**雷炎寰**奉命潜入**兽盾**偏远仓库。对这个掌握**灼流暗劲**
-> 的红虎兽人而言，这不仅是一次任务，更是一场关于力量、克制与成长的试炼。
+Young agent Lei Yanhuan of the Secret Bureau is ordered to infiltrate a remote Beastshield warehouse. For this red tiger who wields the "Scorching Hidden Force," the mission is not merely about elimination, but about discipline, restraint, and the trial of power. Five G-rank guards, five deaths, five degrees of control—in a warehouse reeking of semen and fear, the young killer confronts his own fascination with dominance for the first time.
 
 ---
 
-## 主要角色
+## 二、内容标签 / Content Tags
 
-| 角色         | 身份    | 种族   | 状态 |
-|------------|-------|------|----|
-| 雷炎寰        | 特工局特工 | 红虎兽人 | 存活 |
-| G-533（猪大壮） | 兽盾守卫  | 野猪兽人 | 死亡 |
-| G-534（熊厚实） | 兽盾守卫  | 棕熊兽人 | 死亡 |
-| G-536（狗来福） | 兽盾守卫  | 狗兽人  | 死亡 |
-| 虎兽人        | 兽盾守卫  | 虎兽人  | 死亡 |
-| 狼兽人        | 兽盾守卫  | 狼兽人  | 死亡 |
+- **兽人类型**：红虎兽人、野猪兽人、棕熊兽人、狗兽人、狼兽人
+- **内容要素**：特工潜入、特殊内力、灼流暗劲、力量控制、成长试炼、正义的暧昧性
+- **叙事风格**：第三人称限知视角、动作细腻、心理刻画、残酷诗意
 
 ---
 
-## 章节导航
+## II. Content Tags
 
-- [正文](bs-a-s-1-agent-infiltration.md) - 完整故事内容
-
----
-
-## 故事设定
-
-### 地点
-
-- 兽盾公司偏远仓库（荒郊野岭）
-
-### 特殊技能
-
-- **灼流暗劲**：特工局秘传内力技巧，将内力化为灼热能量，可直冲敌人体内精关，使其在极致快感中死亡
-
-### 核心冲突
-
-- 年轻特工在执行任务时，如何在效率与控制之间取得平衡？力量是工具还是野兽？
+- **Species**: Red Tiger, Boar, Brown Bear, Dog, Wolf
+- **Elements**: Agent infiltration, special internal force, scorching hidden force, power control, growth trial, ambiguous justice
+- **Style**: Third-person limited, detailed action, psychological depth, cruel poetry
 
 ---
 
-## 主题与标签
+## 三、主要角色 / Characters
 
-**核心主题：**
-
-- 力量的掌控与克制
-- 正义执行的暧昧性
-- 年轻特工的成长与心性修炼
-
-**标签：**
-`特工局` `灼流暗劲` `特殊技能` `潜入任务` `G级杂兵` `力量控制` `成长` `心性修炼`
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 雷炎寰 | 红虎兽人 | 特工局年轻特工 | 掌握灼流暗劲的实习生，正在学习控制力量的分寸 |
+| G-533（猪大壮） | 野猪兽人 | 兽盾仓库守卫 | 只想安安分分守门、寄钱回家的底层杂兵 |
+| G-534（熊厚实） | 棕熊兽人 | 兽盾仓库守卫 | 懒惰怕事的胖熊，被推去守夜却遭遇杀机 |
+| G-536（狗来福） | 狗兽人 | 兽盾仓库守卫 | 胆小求饶的年轻守卫，在恐惧中达到高潮 |
 
 ---
 
-## 关联作品
+## III. Characters
 
-- [返回作品目录](../README.md)
-- [返回世界观首页](../../../../../README.md)
-- [返回项目主页](../../../../../../../README.md)
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Lei Yanhuan | Red Tiger | Young Secret Bureau agent | A trainee who wields the Scorching Hidden Force, learning the measure of control |
+| G-533 (Zhu Dazhuang) | Boar | Beastshield warehouse guard | A bottom-rank guard who just wants to send money home |
+| G-534 (Xiong Houshi) | Brown Bear | Beastshield warehouse guard | A lazy, fearful bear who gets caught in the crossfire |
+| G-536 (Gou Laifu) | Dog | Beastshield warehouse guard | A timid young guard who begs for his life |
 
 ---
+
+## 四、章节列表 / Chapters
+
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 潜入者之焰（全一话·九场景） | [阅读](bs-a-s-1-agent-infiltration.md) |
+
+---
+
+## IV. Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | The Infiltrator's Flame (One-shot, 9 Scenes) | [Read](bs-a-s-1-agent-infiltration.md) |
+
+---
+
+## 五、关联作品 / Related Works
+
+- 原作/改编来源：`bs-o-cm-2-moying` — 墨影
+- 同一世界观：`bs-a-s-2-vr-newbie`、`bs-a-cs-11-daily`
+
+---
+
+## V. Related Works
+
+- Original / Source: `bs-o-cm-2-moying` — Mo Ying
+- Same Universe: `bs-a-s-2-vr-newbie`, `bs-a-cs-11-daily`
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

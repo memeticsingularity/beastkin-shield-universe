@@ -1,36 +1,16 @@
-# 血酬淘汰赛
+# 血酬淘汰赛 / Sanguipendium: The Blood-Bounty Tournament
+
+> 状态：updating · 编码：`bs-a-cm-1-sanguipendium` · 作者：memeticsingularity · 最后更新：2026-05-16
 
 ---
 
-[返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+## 一、简介 / Introduction
 
----
+**一句话钩子**：三十二名底层武斗兵，三十一场至死方休的厮杀——你的奖金，取决于队友死得够不够快。
 
-## 作品信息
+在**白之都**，黑暗企业帝国**兽盾公司**举办了一场前所未有的死亡赛事——**第一届兽盾四营血酬淘汰赛**。三十二名E级武斗兵，来自四大种族兵营（虎、熊、牛、犬），将通过单败淘汰的方式，决出唯一的优胜者。
 
-| 项目       | 内容                      |
-|----------|-------------------------|
-| **作品性质** | 改编作品 (Adaptation)       |
-| **世界观**  | Beastshield (兽盾)        |
-| **作品编码** | bs-a-cm-1-sanguipendium |
-| **形式类型** | 分章主线 (Chaptered Main)   |
-
----
-
-## 故事简介
-
-**"以血为酬，以命下注。"**
-
-在**白之都**，**兽盾公司**举办了一场前所未有的死亡赛事——**第一届兽盾四营血酬淘汰赛**
-。三十二名E级武斗兵，来自四大种族兵营（虎、熊、牛、犬），将通过单败淘汰的方式，决出唯一的优胜者。
-
-这不是一场普通的格斗比赛。比赛的唯一终结方式是**死亡**
-——不存在平局、不存在点数判胜、不存在投降。每一轮都是至死方休的厮杀，每一轮奖金都会因"存活人数减少"
-而呈指数级增长。
-
-**动态奖金公式**：单场奖金 = 500撸币 × (9 - 己方阵营赛前存活人数) × (9 - 对方阵营赛前存活人数)
-
-这意味着：你越希望队友先死，你的奖金就越高。它在阵营内部制造猜疑与张力，将"背叛"变成了数学上的最优解。
+这不是一场普通的格斗比赛。比赛的唯一终结方式是**死亡**——不存在平局、不存在点数判胜、不存在投降。每一轮都是至死方休的厮杀，而奖金会随着"存活人数减少"呈指数级增长。你越希望队友先死，你的奖金就越高。它在阵营内部制造猜疑与张力，将"背叛"变成了数学上的最优解。
 
 三十二个人，三十一场比赛，三十一具尸体。最终只有一人能带着最高达五十万撸币的奖金离开——如果他能活到那时候。
 
@@ -38,178 +18,134 @@
 
 ---
 
-## 章节列表
+**One-line Hook**: Thirty-two bottom-rank fighters, thirty-one deathmatches to the finish — your prize depends on how fast your teammates die.
 
-| 章节                                           | 标题                             | 内容概要                                                                                                                    |
-|----------------------------------------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| [Chapter 1](chapters/ch-01-the-crimson-declaration.md) | 猩红宣告 (The Crimson Declaration) | 兽盾高层在董事会会议室批准血酬淘汰赛。董事长"牙"提出核心构想，各部门细化规则。这不是一场意外，而是一场精心设计的"底层清洗"。                                                        |
-| [Chapter 2](chapters/ch-02-the-price-of-blood.md)      | 血的价格 (The Price of Blood)      | **牛营八壮士的诞生**。三百名E级牛兽人武斗兵，八张报名表。牛徐强（债务）、牛孙勇（弟弟）、牛马军（赌徒）、牛朱志（还债）、牛胡辉（不想被卖）、牛林刚（逃命）、牛郭明（母亲）、牛何平（替补/杀人）——八个人，八条命，八种不同的经济绝境。 |
-| [Chapter 3](chapters/ch-03-the-tiger-s-den.md)         | 虎穴 (The Tiger's Den)           | **虎之阵营八头虎**。五十二人报名，八人入选。虎王武（证明）、虎李勇（复仇）、虎张强（生存）、虎刘辉（父亲）、虎陈刚（野心）、虎杨志（公道）、虎赵军（荣耀）、虎黄明（神秘）——八头猛虎，各怀利爪。                     |
-| [Chapter 4](chapters/ch-04-the-bear-s-lair.md)         | 熊巢 (The Bear's Lair)           | **熊之阵营八头熊**。十一人报名，八人入选。熊周平（还债）、熊吴刚（赎罪）、熊郑华（还债）、熊孙铁（不甘）、熊马忠（生存）、熊朱强（野心）、熊胡军（证明）、熊林生（告别）——八座山峰，各有其重。                      |
-| [Chapter 5](chapters/ch-05-the-hound-s-pack.md)        | 犬群 (The Hound's Pack)          | **犬之阵营八头犬**。六十三人报名，八人入选。犬高忠（自由）、犬林义（家）、犬何守（忠诚）、犬罗勇（荣耀）、犬梁强（生存）、犬宋亮（好奇）、犬郑威（最后的机会）、犬谢军（证明）、尖耳（权力）——八头猛犬，各怀其主。            |
-| Chapter 6                                    | 待定                             | 抽签仪式与32进16（上）                                                                                                           |
-| Chapter 7                                    | 待定                             | 32进16（下）                                                                                                                |
-| Chapter 8                                    | 待定                             | 16进8                                                                                                                    |
-| Chapter 9                                    | 待定                             | 8进4、半决赛与决赛                                                                                                              |
+In the corporate empire of **Beastshield**, a unprecedented death tournament is born — the **First Blood-Bounty Elimination Tournament**. Thirty-two E-rank combatants from four species camps (Tiger, Bear, Bull, Dog) will fight in single-elimination matches until only one survivor remains.
+
+This is no ordinary fighting contest. The only way to end a match is **death** — no draws, no point victories, no surrender. Each round is a fight to the finish, and the prize money grows exponentially as the number of survivors drops. The more you wish your allies to fall, the higher your reward. It breeds suspicion within camps and turns betrayal into a mathematically optimal strategy.
+
+Thirty-two souls, thirty-one matches, thirty-one corpses. Only one may walk away with the grand prize of up to 500,000 Rubits — if they survive that long.
+
+This is not a story of glory. It is a brutal tale of money, despair, and the calculus between life and death.
 
 ---
 
-## 核心角色（32名参赛选手）
+## 二、内容标签 / Content Tags
 
-### 牛之阵营（8人）
-
-| 编号    | 姓名  | 年龄 | 动机         | 特征               |
-|-------|-----|----|------------|------------------|
-| E-217 | 牛徐强 | 37 | 还债（5.2万债务） | 前主账房，数学好，背负钱庄债务  |
-| E-189 | 牛孙勇 | 30 | 救弟（矿石病）    | 体型最魁梧，弟弟十二岁，兄长情深 |
-| E-256 | 牛马军 | 29 | 赌徒         | 精瘦体型，概率计算狂，危险    |
-| E-198 | 牛朱志 | 30 | 还债（营房长官）   | 搬运工，卑微绝望，求死解脱    |
-| E-167 | 牛胡辉 | 43 | 不想被卖       | 最年长，酗酒，体面赴死      |
-| E-233 | 牛林刚 | 24 | 逃命（杀赏金猎人）  | 亡命之徒，已杀人，被追杀     |
-| E-245 | 牛郭明 | 35 | 救母（男妈妈）    | 温柔照顾者，母亲慢性病      |
-| E-301 | 牛何平 | 22 | 杀人（替补）     | 最年轻，天生杀手，疯狂      |
-
-### 虎之阵营（8人）
-
-| 编号    | 姓名  | 年龄 | 动机 | 特征             |
-|-------|-----|----|----|----------------|
-| E-178 | 虎王武 | 32 | 证明 | 违抗命令救G级兵，理想主义者 |
-| E-201 | 虎李勇 | 27 | 复仇 | 被兄长卖给赏金猎人，恨意深  |
-| E-156 | 虎张强 | 35 | 生存 | 拒绝处决平民被标记，面临降级 |
-| E-312 | 虎刘辉 | 20 | 救父 | 最年轻，父亲患矿石病     |
-| E-267 | 虎陈刚 | 29 | 野心 | 纯黑毛色，潜行者，冷静利己  |
-| E-289 | 虎杨志 | 26 | 公道 | 伴侣被友军误杀，寻求正义   |
-| E-223 | 虎赵军 | 31 | 荣耀 | 没落贵族后裔，虚荣      |
-| E-134 | 虎黄明 | 38 | 神秘 | 独行者，动机不明       |
-
-### 熊之阵营（8人）
-
-| 编号    | 姓名  | 年龄 | 动机 | 特征             |
-|-------|-----|----|----|----------------|
-| E-145 | 熊周平 | 35 | 还债 | 弟弟患矿石病，债务一万    |
-| E-112 | 熊吴刚 | 32 | 赎罪 | 亲手杀死伴侣（被陷害），求死 |
-| E-287 | 熊郑华 | 24 | 还债 | 赌马输两万，营房长官债务   |
-| E-147 | 熊孙铁 | 38 | 不甘 | 背肌如铁板，二十年未晋升   |
-| E-268 | 熊马忠 | 33 | 生存 | 左耳残缺，曾被俘，被疑叛徒  |
-| E-290 | 熊朱强 | 29 | 野心 | 手掌厚重如石，可拍碎岩石   |
-| E-224 | 熊胡军 | 27 | 证明 | 毛色柔软被嘲笑，性格暴躁   |
-| E-135 | 熊林生 | 42 | 告别 | 最年长，想死得体面      |
-
-*注：熊营实际11人报名，最终8人入选*
-
-### 犬之阵营（8人）
-
-| 编号    | 姓名  | 年龄 | 动机    | 特征          |
-|-------|-----|----|-------|-------------|
-| E-157 | 犬高忠 | 30 | 自由    | 野狼出身，渴望回到荒野 |
-| E-089 | 犬林义 | 28 | 家     | 被遗弃的獒犬，寻找归属 |
-| E-269 | 犬何守 | 31 | 忠诚    | 德牧，追踪者      |
-| E-291 | 犬罗勇 | 25 | 荣耀    | 灵缇，速度最快     |
-| E-225 | 犬梁强 | 29 | 生存    | 斗牛犬，下颚强壮    |
-| E-302 | 犬宋亮 | 22 | 好奇    | 哈士奇，冰蓝眼睛    |
-| E-136 | 犬郑威 | 35 | 最后的机会 | 罗威纳，老兵      |
-| E-199 | 犬谢军 | 26 | 证明自己  | 萨摩耶，毛色雪白    |
-| E-146 | 尖耳  | 29 | 权力    | 杜宾，精英       |
-
-*注：犬营实际63人报名，最终8人入选*
+- **兽人类型**：牛 / Bull、虎 / Tiger、熊 / Bear、犬 / Dog
+- **内容要素**：death、combat、tournament、corporate、gambling、survival
+- **叙事风格**：grimdark、thriller、tragedy
 
 ---
 
-## 赛事结构
+## II. Content Tags
 
-```
-第一轮（32进16）：第7-10日，每日4场
-    ↓
-第二轮（16进8）：第14-17日，每日2场
-    ↓
-第三轮（8进4）：第21-24日，每日1场
-    ↓
-半决赛（4进2）：第28-29日，每日1场
-    ↓
-决赛（冠军）：第35日
-```
-
-### 回避规则
-
-- **第一轮与第二轮**：同阵营选手不会相遇
-- **第三轮起**：回避原则失效，同阵营选手可能相残
-
-### 1/8区划分
-
-将32个签位划分为8个1/8区，每区4个连续签位，每区内四族各一人。
+- **Species**: Bull, Tiger, Bear, Dog
+- **Elements**: death, combat, tournament, corporate, gambling, survival
+- **Style**: grimdark, thriller, tragedy
 
 ---
 
-## 核心机制
+## 三、主要角色 / Characters
 
-### 奖金制度
-
-- **基础奖金**：每场胜利 500撸币
-- **动态乘数**：(9 - 己方阵营存活人数) × (9 - 对方阵营存活人数)
-- **冠军额外奖赏**：1倍至16倍乘数
-
-### 退赛代价
-
-退赛者需参加"命运抽签"（八支签）：
-
-- 签一（携款离场）- 最安全但概率极低
-- 签二（货物出售）- 转为"俘虏快递"商品
-- 签三（等级剥夺）- 降级为G级
-- 签四（双重处罚）- 先降级再出售
-- 签五（公开处刑）- 公开场合被处决
-- 签六（高额罚金）- 无法缴清者转为签八
-- 签七（无偿劳役）- 一个月无薪高危劳役
-- 签八（强制参赛）- 退赛请求被驳回
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 牛徐强 | 牛兽人 | E级武斗兵 | 前主账房，背负五万二债务，数学头脑冷静 |
+| 牛孙勇 | 牛兽人 | E级武斗兵 | 营中体型最魁梧者，为救患矿石病的弟弟参赛 |
+| 虎王武 | 虎兽人 | E级武斗兵 | 违抗命令救G级兵的理想主义者，渴望证明自己 |
+| 虎李勇 | 虎兽人 | E级武斗兵 | 被兄长卖给赏金猎人，心怀深恨 |
+| 熊周平 | 熊兽人 | E级武斗兵 | 为弟弟的矿石病债务参赛 |
+| 熊吴刚 | 熊兽人 | E级武斗兵 | 亲手杀死伴侣（被陷害），求死赎罪 |
+| 犬高忠 | 犬兽人 | E级武斗兵 | 野狼出身，渴望回到荒野的自由 |
+| 犬林义 | 犬兽人 | E级武斗兵 | 被遗弃的獒犬，寻找归属与家 |
+| 牙 | 狼兽人 | 兽盾董事长 | 似狼非狼的白色兽人，血酬淘汰赛的幕后推手 |
+| 钢骨 | 大猩猩兽人 | 人事部部长 | 银背大猩猩，庞大身躯承载冰冷的人事数据 |
+| 重岩 | 犀牛兽人 | 武斗兵总教官 | 深青灰色皮肤，对训练质量极度不满 |
 
 ---
 
-## 创作特色
+## III. Characters
 
-1. **慢节奏叙事**：详细描写动作、感官、心理，不急于推进情节
-2. **肉体细节**：强调兽人的脂包肌、肌肉群、双性征特征
-3. **感官体验**：视觉、触觉（体温/毛发/肌肉）、嗅觉（汗味/信息素）、味觉
-4. **人性深度**：每个角色都有完整的背景、动机、心理创伤
-5. **Scene-x分幕**：每一幕都有独立标题，节奏灵活
-6. **世界观契合**：雄雄兽人世界，雌雄同体，精尽而亡战斗体系
-
----
-
-## 文件结构
-
-```
-08-sanguipendium/
-├── README.md                           # 本文件
-├── ch-01-the-crimson-declaration.md     # 第一章：猩红宣告
-├── ch-02-the-price-of-blood.md          # 第二章：血的价格（牛营）
-├── ch-03-the-tiger-s-den.md             # 第三章：虎穴（虎营）
-├── ch-04-the-bear-s-lair.md             # 第四章：熊巢（熊营）
-├── ch-05-the-hound-s-pack.md            # 第五章：犬群（犬营）
-├── settings/
-│   └── story-setting.md                # 故事设定（规则、赛程、奖金等）
-└── history/
-    ├── blood-bounty-rules-official-announcement.md
-    ├── blood-bounty-32-contestants-info-table.md
-    ├── blood-bounty-32-contestants-profiles.md
-    └── blood-bounty-drawing-rules-and-matchups.md
-```
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Niu Xuqiang | Bull | E-rank Combatant | Former accountant, burdened by 52,000 Rubits debt, calm and calculating |
+| Niu Sunyong | Bull | E-rank Combatant | Largest in the bull camp, fighting to save his younger brother from ore sickness |
+| Hu Wangwu | Tiger | E-rank Combatant | Idealist who once defied orders to save a G-rank grunt, seeking redemption |
+| Hu Liyong | Tiger | E-rank Combatant | Sold to bounty hunters by his own brother, driven by deep hatred |
+| Xiong Zhouping | Bear | E-rank Combatant | Fighting to pay debts for his brother's ore sickness treatment |
+| Xiong Wugang | Bear | E-rank Combatant | Killed his partner (framed), seeking death as atonement |
+| Quan Gaozhong | Dog | E-rank Combatant | Wild wolf origin, yearning for freedom beyond the city walls |
+| Quan Linyi | Dog | E-rank Combatant | Abandoned mastiff, searching for a place to belong |
+| Ya | Wolf | Beastshield Chairman | White-furred wolf-like beastkin, mastermind behind the tournament |
+| Ganggu | Silverback Gorilla | HR Director | Massive frame carrying cold personnel data and corporate logic |
+| Zhongyan | Rhino | Chief Drill Instructor | Deep gray skin, fiercely dissatisfied with declining training quality |
 
 ---
 
-## 版本信息
+## 四、章节列表 / Chapters
 
-**最后更新**: 2026-03-10
-**章节进度**: 5/9
-**当前字数**: 约 90,000 字
-
-### 更新记录
-
-- **2026-03-10**: 修复角色命名错误，熊营E-147从"犬何守"改为"熊孙铁"，统一所有设定文件
-- **2026-03-09**: 全面扩写Chapter 2-5，增加感官细节、人物互动、心理描写
-- **2026-03-06**: 完成Chapter 3/4/5，虎/熊/犬三营八人全部登场
-- **2026-03-06**: 重写Chapter 2，聚焦牛营八人诞生，强化"为了钱"核心动机
-- **2026-03-05**: 完成Chapter 1，兽盾高层决策会议
-- **2026-03-04**: 创建故事设定文件，完善种族生物学特征
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 猩红宣告 (The Crimson Declaration) | [阅读](chapters/ch-01-the-crimson-declaration.md) |
+| Ch.2 | 血的价格 (The Price of Blood) | [阅读](chapters/ch-02-the-price-of-blood.md) |
+| Ch.3 | 虎穴 (The Tiger's Den) | [阅读](chapters/ch-03-the-tiger-s-den.md) |
+| Ch.4 | 熊巢 (The Bear's Lair) | [阅读](chapters/ch-04-the-bear-s-lair.md) |
+| Ch.5 | 犬群 (The Hound's Pack) | [阅读](chapters/ch-05-the-hound-s-pack.md) |
+| Ch.6 | 囚笼 (The Enclave) | [阅读](chapters/ch-06-the-enclave.md) |
+| Ch.7 | 午后 (The Afternoon) | [阅读](chapters/ch-07-the-afternoon.md) |
+| Ch.8 | 沐浴 (The Bath) | [阅读](chapters/ch-08-the-bath.md) |
+| Ch.9 | 夜晚 (The Night) | [阅读](chapters/ch-09-the-night.md) |
+| Ch.10 | 梦前 (Before Dreams) | [阅读](chapters/ch-10-before-dreams.md) |
 
 ---
 
-[返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+## IV. Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | The Crimson Declaration | [Read](chapters/ch-01-the-crimson-declaration.md) |
+| Ch.2 | The Price of Blood | [Read](chapters/ch-02-the-price-of-blood.md) |
+| Ch.3 | The Tiger's Den | [Read](chapters/ch-03-the-tiger-s-den.md) |
+| Ch.4 | The Bear's Lair | [Read](chapters/ch-04-the-bear-s-lair.md) |
+| Ch.5 | The Hound's Pack | [Read](chapters/ch-05-the-hound-s-pack.md) |
+| Ch.6 | The Enclave | [Read](chapters/ch-06-the-enclave.md) |
+| Ch.7 | The Afternoon | [Read](chapters/ch-07-the-afternoon.md) |
+| Ch.8 | The Bath | [Read](chapters/ch-08-the-bath.md) |
+| Ch.9 | The Night | [Read](chapters/ch-09-the-night.md) |
+| Ch.10 | Before Dreams | [Read](chapters/ch-10-before-dreams.md) |
+
+---
+
+## 五、关联作品 / Related Works
+
+- 原作/改编来源：`bs-a-cs-5-beastshield-chronicles` — 兽盾编年史（原作主线）
+- 同一世界观：`bs-a-cm-2-moying` — 魔影
+- 同一世界观：`bs-a-cs-1-shorts` — 兽盾日常切片
+- 同一世界观：`bs-a-cs-4-yanliang` — 炎凉
+
+---
+
+## V. Related Works
+
+- Original / Source: `bs-a-cs-5-beastshield-chronicles` — Beastshield Chronicles (Original Main Story)
+- Same Universe: `bs-a-cm-2-moying` — Moying
+- Same Universe: `bs-a-cs-1-shorts` — Slices of Beastshield Daily Life
+- Same Universe: `bs-a-cs-4-yanliang` — Yanliang
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

@@ -1,117 +1,109 @@
-# 召回协议 (Recall Protocol)
+# 召回协议 / Recall Protocol
 
-## 作品编码
-
-`eks-o-cm-1-recall-protocol`
+> 状态：completed · 编码：`eks-o-cm-1-recall-protocol` · 作者：DeepSeek · 最后更新：2026-05-16
 
 ---
 
-## 作品信息
+## 一、简介 / Introduction
 
-| 属性      | 内容              |
-|---------|-----------------|
-| **世界观** | 帝国万岁 (eks)      |
-| **性质**  | 原创 (o)          |
-| **形式**  | 主线分章 (cm)       |
-| **序号**  | 1               |
-| **标识名** | recall-protocol |
-| **语言**  | 中文              |
-| **章节数** | 3章              |
+**一句话钩子**：退役十三年，帝国的一条召回令让他明白——自由从来只是另一种形式的缓刑。
+
+B-71109，一名退役十三年的黑袜兵，在雪山脚下的边境森林中过着清贫的隐居生活。每天服用抑制药物，防止芯片触发射精自毁，是他与帝国唯一的联系。直到某天，芯片传来召回信号——帝国需要他执行一项特殊任务：以"老兵"身份，测试一名从培养舱直接投放的新兵。成功者，将获得三百六十日的生存物资；失败者……帝国从不容忍失败者。这是一场退役者与新生者的生死对决，也是帝国残酷筛选机制的一次微观展现。在撸杀的阴影下，B-71109必须重新审视：所谓的"退役"，究竟是自由的开始，还是另一种形式的奴役？
 
 ---
 
-## 章节列表
+**One-line Hook**: Thirteen years after retirement, a single recall signal proves that freedom was never anything more than a deferred sentence.
 
-| 章节号 | 中文标题 | 英文标题           | 文件路径                                                         |
-|-----|------|----------------|--------------------------------------------------------------|
-| 1   | 归队   | Return to Duty | [ch-001-return-to-duty.md](chapters/chinese/ch-001-return-to-duty.md) |
-| 2   | 试炼   | Trial by Fire  | [ch-002-trial-by-fire.md](chapters/chinese/ch-002-trial-by-fire.md)   |
-| 3   | 抉择   | The Choice     | [chapters/chinese/ch-003-the-choice.md](chapters/chinese/ch-003-the-choice.md) |
+B-71109, a retired black-sock soldier of thirteen years, lives a meager hermit's life in the border forests at the foot of Snow Mountain. Daily inhibitor pills to prevent his implant from triggering ejaculation-induced death are his only remaining tie to the Empire. Then one day, the implant signals a recall — the Empire needs him for a special mission: to test a fresh recruit straight from the vat, using his veteran status. Success means three hundred and sixty days of survival supplies; failure... the Empire tolerates no failures. This is a life-and-death confrontation between the retired and the newborn, a microcosm of the Empire's brutal selection machine. Beneath the shadow of "milking-kill," B-71109 must ask: was retirement ever freedom, or merely another form of slavery?
 
 ---
 
-## 故事简介
+## 二、内容标签 / Content Tags
 
-**退役，并不意味着自由。**
-
-B-71109，一名退役十三年的黑袜兵，在雪山脚下的边境森林中过着清贫的隐居生活。每天服用抑制药物，防止**芯片
-**触发射精自毁，是他与帝国唯一的联系。
-
-直到某天，**芯片**传来召回信号——帝国需要他执行一项特殊任务：以"老兵"
-身份，测试一名从培养舱直接投放的新兵。成功者，将获得三百六十日的生存物资；失败者……帝国从不容忍失败者。
-
-这是一场退役者与新生者的生死对决，也是帝国残酷筛选机制的一次微观展现。在**撸杀**
-的阴影下，B-71109必须重新审视：所谓的"退役"，究竟是自由的开始，还是另一种形式的奴役？
+- **兽人类型**：虎兽人、狼兽人、雪豹兽人
+- **内容要素**：芯片控制、射精即死、军袜等级制度、退役召回、培养舱、生存试炼、反乌托邦
+- **叙事风格**：冷峻写实、心理惊悚、存在主义、慢节奏感官描写
 
 ---
 
-## 核心主题
+## II. Content Tags
 
-- **退役制度的本质**：探讨帝国退役机制的虚伪性——看似给予自由，实则是更隐蔽的控制
-- **老兵与新兵的传承**：两代基尅兵的相遇与冲突
-- **生存与尊严的权衡**：在极端环境下，人（兽）性如何选择
-- **芯片控制的心理学**：长期控制下的精神依赖与自我认知
-
----
-
-## 主要角色
-
-| 编号      | 种族   | 身份    | 简介                                       |
-|---------|------|-------|------------------------------------------|
-| B-71109 | 虎兽人  | 退役黑袜兵 | 服役十三年，退役后隐居边境森林，被召回执行测试任务。最终选择死亡而非杀戮     |
-| B-00001 | 狼兽人  | 新兵    | 刚从培养舱觉醒的新兵，成为B-71109的测试目标，因B-71109的犹豫而幸存 |
-| G-44021 | 雪豹兽人 | 监督官   | 负责监督测试执行的绿袜兵，因B-71109的行为开始产生困惑和质疑        |
-| B-71108 | 虎兽人  | 叛逃者   | B-71109的前辈，同批次培养舱产物，试图切除芯片逃离帝国           |
-| 白袜大队长   | 虎兽人  | 帝国精英  | 雪山基地的高级军官，操控整个测试的真正幕后黑手                  |
+- **Species**: Tiger, Wolf, Snow Leopard
+- **Elements**: Implant Control, Ejaculation Death, Sock Rank System, Recall Protocol, Vat-Grown Soldiers, Survival Trial, Dystopia
+- **Style**: Cold Realism, Psychological Thriller, Existentialism, Slow-Paced Sensory Detail
 
 ---
 
-## 与原作设定关联
+## 三、主要角色 / Characters
 
-- **雪山基地**：故事发生在原作雪山基地外围的森林区域
-- **退役机制**：扩展了原作中提到的"退役后五年内芯片会激活死亡程序"设定
-- **老兵机制**：原作提及的"老兵机制"——阵亡后尸体自爆产生毒辐射
-- **芯片控制**：延续原作芯片控制、射精即死、等级制度等核心设定
-
----
-
-## 故事状态
-
-- [x] 第一章：归队 - 已完成
-- [x] 第二章：试炼 - 已完成
-- [x] 第三章：抉择 - 已完成
-
-**总字数**: 约16500字
-**状态**: 已完结
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| B-71109 | 虎兽人 | 退役黑袜兵 | 服役十三年，退役后隐居边境森林，被召回执行测试任务 |
+| B-00001 | 狼兽人 | 新兵 | 刚从培养舱觉醒的新兵，成为B-71109的测试目标 |
+| G-44021 | 雪豹兽人 | 监督官 | 负责监督测试执行的绿袜兵，因B-71109的行为开始产生困惑和质疑 |
+| B-71108 | 虎兽人 | 叛逃者 | B-71109的前辈，同批次培养舱产物，试图切除芯片逃离帝国 |
+| 白袜大队长 | 虎兽人 | 帝国精英 | 雪山基地的高级军官，操控整个测试的真正幕后黑手 |
 
 ---
 
-## 阅读指南
+## III. Characters
 
-1. **建议阅读顺序**：按章节顺序阅读（1→2→3），故事为线性叙事
-2. **章节内容简介**：
-    - **第一章**：B-71109被召回，重新穿上帝国装备，面对无法逃避的命运
-    - **第二章**：测试执行，B-71109面对新兵B-00001时的犹豫，以及来自白袜大队长的更深阴谋
-    - **第三章**：最终抉择，B-71109面对同族前辈B-71108，选择尊严而非生存
-3. **敏感内容提示**：本故事包含暴力、死亡、控制与反抗等主题，请读者酌情阅读
-
----
-
-## 扩展设定贡献
-
-本故事为"帝国万岁"世界观贡献了以下新设定：
-
-1. **退役兵召回机制**：帝国可以召回退役老兵执行特殊任务
-2. **同批次联系**：同培养舱批次的士兵会在潜意识中感受到彼此的存在
-3. **希望管理策略**：帝国利用虚假的希望作为新的控制手段
-4. **精液回收真相**：揭示撸杀后精液被回收用于培养舱的循环机制
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| B-71109 | Tiger Beastkin | Retired Black-Sock Soldier | Thirteen years of service, now a hermit in the border forest, recalled for a test mission |
+| B-00001 | Wolf Beastkin | New Recruit | Freshly awakened from the vat, designated as B-71109's test target |
+| G-44021 | Snow Leopard Beastkin | Supervisor | A green-sock soldier overseeing the test, beginning to question what he witnesses |
+| B-71108 | Tiger Beastkin | Deserter | B-71109's senior from the same vat batch, who tried to cut out his implant and flee |
+| White-Sock Captain | Tiger Beastkin | Imperial Elite | A high-ranking officer at Snow Mountain Base, the true architect of the test |
 
 ---
 
-## 版本信息
+## 四、章节列表 / Chapters
 
-**创建日期**: 2026-03-05
-**最后更新**: 2026-03-05
-**适配设定集**: 帝国万岁完整设定集（1-113章）
-**模板版本**: eks-story-template-chinese v1.0
-**作者**: DeepSeek
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 归队 / Return to Duty | [阅读](chapters/chinese/ch-001-return-to-duty.md) |
+| Ch.2 | 试炼 / Trial by Fire | [阅读](chapters/chinese/ch-002-trial-by-fire.md) |
+| Ch.3 | 抉择 / The Choice | [阅读](chapters/chinese/ch-003-the-choice.md) |
+
+---
+
+## IV. Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | 归队 / Return to Duty | [Read](chapters/chinese/ch-001-return-to-duty.md) |
+| Ch.2 | 试炼 / Trial by Fire | [Read](chapters/chinese/ch-002-trial-by-fire.md) |
+| Ch.3 | 抉择 / The Choice | [Read](chapters/chinese/ch-003-the-choice.md) |
+
+---
+
+## 五、关联作品 / Related Works
+
+- 原作/改编来源：`eks-o` — 帝国万岁（Empire Kik Soldiers）原作设定
+- 同一世界观：`eks-o-cm-2-dog-soldier-dreams` — 犬兵梦忆
+
+---
+
+## V. Related Works
+
+- Original / Source: `eks-o` — Empire Kik Soldiers (Original Setting)
+- Same Universe: `eks-o-cm-2-dog-soldier-dreams` — Dog Soldier's Dreams
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

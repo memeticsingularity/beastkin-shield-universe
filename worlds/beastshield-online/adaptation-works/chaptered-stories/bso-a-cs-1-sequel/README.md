@@ -1,139 +1,159 @@
-# 兽游世界OL 续写
+# 兽游世界OL 续写 / Beastshield Online - Sequel
 
-> 基于《兽游世界OL》原作前三章的改编续写项目。
-> 原作作者仅完成第一卷前三章，本项目在此基础上进行后续章节的创作与扩展。
-
----
-
-## 基本信息
-
-| 项目 | 内容 |
-|------|------|
-| **中文标题** | 兽游世界OL 续写 |
-| **英文标题** | Beastshield Online - Sequel |
-| **原作世界观** | 兽游世界OL (Beastshield Online) |
-| **作品类型** | 同人续写 / 章节故事 |
-| **当前进度** | 前三章已导入，第四章起为原创续写 |
-| **语言** | 中文 |
+> 状态：updating · 编码：`bso-a-cs-1-sequel` · 作者：Claude · 最后更新：2026-05-16
 
 ---
 
-## 项目说明
+## 一、简介 / Introduction
 
-**本项目性质**：改编式续写
+**一句话钩子**：当一款R18 VR网游把死亡设计成射精，一千名内测玩家中，谁能笑着走到最后？
 
-原作作者仅完成了《兽游世界OL》第一卷的前三章内容。由于作者未继续更新，本项目将：
-1. **保留前三章作为基底**（`ch-01.md` 至 `ch-03.md`）：忠实呈现原作内容，作为续写的起点
-2. **从第四章开始原创续写**：基于前三章建立的世界观、角色关系和故事走向，进行后续的章节创作
+《兽游世界OL》是一款由兽盾游戏公司开发的R18 VR网络游戏。玩家通过专用VR眼镜头套与高精度联动装置进入虚拟世界，扮演兽人角色进行冒险。游戏的核心机制是"精槽"——所有伤害转化为性欲值，达到100%即射精死亡。一千名内测玩家被投入这个世界，通关者将瓜分一千万人民币现金奖励。主角以一只流浪弃兽黄毛狗兽人的身份出生，在新手教程中击杀野猪兽人后，经历了村庄被骗、山寨被俘，最终与同为玩家的虎大王相认。故事在此延续，从虎大王寨中的生活开始，继续展开主角的冒险旅程。
 
 ---
 
-## 故事简介
+**One-line Hook**: When an R18 VR MMO designs death as ejaculation, which of the thousand beta players will survive with a smile?
 
-《兽游世界OL》是一款由兽盾游戏公司开发的 R18 VR 网络游戏。
-
-玩家通过 VR 眼镜头套与高精度联动装置进入虚拟世界，扮演兽人角色进行冒险。游戏的核心机制是"精槽"——所有伤害转化为性欲值，达到 100% 即射精死亡。
-
-一千名内测玩家被投入到这个世界中，通关者将瓜分一千万人民币现金奖励。主角（玩家）以一只流浪弃兽——黄毛狗兽人的身份出生，在新手教程中击杀野猪兽人后，经历了村庄被骗、山寨被俘，最终与同为玩家的虎大王相认......
-
-故事在此中断。本项目将从虎大王寨中的生活开始，继续展开主角的冒险旅程。
+*Beastshield Online* is an R18 VR MMO developed by Beastshield Games. Players enter a virtual world through a dedicated VR headset and high-precision联动装置, assuming beastkin avatars. The core mechanic is the "Essence Gauge" — all damage converts to arousal, and reaching 100% means death by ejaculation. A thousand beta testers compete for a ten-million-RMB prize pool. The protagonist, a scrappy yellow-furred dog beastkin, survives the tutorial, gets tricked in a village, is captured by bandits, and finally meets another player — the Tiger King. The story continues from there.
 
 ---
 
-## 章节列表
+## 二、内容标签 / Content Tags
 
-### 原作导入章节
+- **兽人类型**：狗兽人、虎兽人、牛兽人、狼兽人、野猪兽人、蜥蜴兽人、狐兽人、狈兽人、熊兽人、山羊兽人、獾兽人、鬣狗兽人、鼠兽人
+- **内容要素**：VR网游、R18、生存竞技、精槽机制、山贼山寨、玩家博弈、黑色幽默
+- **叙事风格**：第一人称吐槽、荒诞写实、暴力美学、权力博弈
 
-| 章节 | 状态 | 说明 |
+---
+
+## II. Content Tags
+
+- **Species**: Dog, Tiger, Cattle, Wolf, Boar, Lizard, Fox, Beki, Bear, Goat, Badger, Hyena, Rat
+- **Elements**: VR MMO, R18, Survival Competition, Essence Gauge Mechanic, Bandit Fortress, Player Rivalry, Dark Humor
+- **Style**: First-Person Commentary, Absurdist Realism, Violent Aesthetics, Power Struggle
+
+---
+
+## 三、主要角色 / Characters
+
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 主角 | 黄毛狗兽人 | 内测玩家（免费资格） | 一边吐槽"这什么破游戏"一边默默记下所有机制的手残党老玩家 |
+| 虎烈（虎大王） | 红虎兽人 | 山贼寨主 / 内测玩家 | 随机到二当家开局、因前任暴毙而被迫登基的休闲玩家，用凤凰传奇歌词当暗号 |
+| 白白 | 白狼兽人 | 狼风谷逃难者 / 骗子NPC | 把"一天没吃东西"练成标准开场白，笑着把别人骗去当替死鬼 |
+| 牛先锋 | 牛兽人 | 山贼领队 / 精英怪 | 把拳头练成信仰、把忠诚刻进骨头的战士 |
+| 佘温 | 蜥蜴兽人 | 街头舞蛇艺人 / 志愿兵 | 被强行征兵上战场的街头艺人，腰侧别着装有粉色毒蛇的陶瓷罐子 |
+| 狐弦 | 灰狐兽人 | 志愿兵 / 弓箭手 | 投降后编入山贼突袭队的灰狐弓箭手，机警而求生欲极强 |
+| 朱夯 | 花皮猪兽人 | 山寨厨子 | 肥胖到惊人的山寨厨子，说话时带着咀嚼食物的含糊感 |
+| 狈谋 | 狈兽人 | 山寨师爷 | 缩在寨主阴影里的谋士，聪明到知道什么时候该闭嘴 |
+| 狼突 | 灰狼兽人 | 突袭队小队长 | 精瘦紧实的猎手型战士，对寨子不养闲人有着偏执的坚持 |
+| 杨岐 | 山羊兽人 | 山寨医官 | 年过六旬的老医官，见惯了生死，宣判死亡时声音低得几乎听不见 |
+| 牛守田 | 牛兽人 | 农民 | 萝卜地耕作者，沉默寡言，开口只是一两个字 |
+
+---
+
+## III. Characters
+
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Protagonist | Yellow Dog Beastkin | Beta Player (Free Slot) | A veteran player who complains about the game while silently memorizing every mechanic |
+| Hu Lie (Tiger King) | Red Tiger Beastkin | Bandit Chieftain / Beta Player | A casual player who rolled second-in-command and accidentally became king after his predecessor's death |
+| Bai Bai | White Wolf Beastkin | Refugee / Con Artist NPC | A young scammer whose standard opening line is "I haven't eaten in a day" |
+| Niu Xianfeng | Cattle Beastkin | Bandit Vanguard / Elite Mob | A warrior who forged his fists into faith and loyalty into bone |
+| She Wen | Lizard Beastkin | Street Snake Charmer / Conscript | A street performer forced into the army, carrying a ceramic jar with a pink viper |
+| Hu Xian | Gray Fox Beastkin | Conscript / Archer | A cunning gray fox archer who surrendered and was drafted into the raiding party |
+| Zhu Hang | Spotted Pig Beastkin | Fortress Cook | An astonishingly obese cook who speaks with a mouthful-of-food mumble |
+| Bei Mou | Beki Beastkin | Fortress Strategist | A scrawny tactician who knows exactly when to speak — and when to stay silent |
+| Lang Tu | Gray Wolf Beastkin | Raid Squad Leader | A lean, tightly-wound hunter who refuses to let anyone freeload in the fortress |
+| Yang Qi | Goat Beastkin | Fortress Medic | An elderly physician who has seen too much death and speaks of it in barely a whisper |
+| Niu Shoutian | Cattle Beastkin | Farmer | A silent radish farmer who speaks in one- or two-word sentences |
+
+---
+
+## 四、章节列表 / Chapters
+
+### 主线章节
+
+| 章节 | 标题 | 链接 |
 |------|------|------|
-| [ch-01.md](./chapters/ch-01.md) | ✅ 已导入 | 原作第一章：游戏登录、新手教程、击杀野猪 |
-| [ch-02.md](./chapters/ch-02.md) | ✅ 已导入 | 原作第二章：村庄探索、被骗为志愿兵 |
-| [ch-03.md](./chapters/ch-03.md) | ✅ 已导入 | 原作第三章：山寨被俘、与虎大王相认 |
+| Ch.1 | 第一章 | [阅读](chapters/ch-01.md) |
+| Ch.2 | 第二章 | [阅读](chapters/ch-02.md) |
+| Ch.3 | 第三章 | [阅读](chapters/ch-03.md) |
+| Ch.4 | 第四章 | [阅读](chapters/ch-04.md) |
+| Ch.5 | 第五章：厨子建势力 | [阅读](chapters/ch-05.md) |
 
-### 原创续写章节
+### 分支章节
 
-| 章节 | 状态 | 备注 |
+| 章节 | 标题 | 链接 |
 |------|------|------|
-| ch-04.md | 📝 待创作 | 虎大王寨中的生活，主角如何融入山贼组织 |
-| ch-05.md | ⏳ 待规划 | 待定 |
+| Ch.5-A | 第五章（A版） | [阅读](chapters/branches/ch-05-a.md) |
+| Ch.5-B | 第五章（B版）：厨子救美 | [阅读](chapters/branches/ch-05-b.md) |
 
 ### 支线故事
 
-| 编号 | 标题 | 状态 | 备注 |
-|------|------|------|------|
-| [ss-01.md](./side-stories/ss-01-tiger-king-pov.md) | 寨主的下午 | ✅ 已完成 | 虎大王视角，与 ch-03 时间线平行 |
-| [ss-02/](./side-stories/ss-02-tiger-king-prelude/) | 虎寨往事 | 📝 创作中 | 虎大王前传，ch-03 之前一个月（5章结构） |
+| 编号 | 标题 | 链接 |
+|------|------|------|
+| SS-01 | 寨主的下午 | [阅读](side-stories/ss-01-tiger-king-pov.md) |
+| SS-02 | 虎寨往事 | [阅读](side-stories/ss-02-tiger-king-prelude/ch-01.md) |
+| SS-03 | 牛先锋前传 | [阅读](side-stories/ss-03-niu-xianfeng-prelude/ch-01.md) |
 
 ---
 
-## 目录结构
+## IV. Chapters
 
-```
-bso-a-cs-1-sequel/
-├── GUIDE.md                           # 协作速查手册（新手先看这个）
-├── README.md                          # 本文件（项目总览）
-├── CURRENT_STATUS.md                  # 创作进度追踪
-├── metadata.yaml                      # 作品元数据
-│
-├── chapters/                          # 章节正文
-│   ├── README.md                      # 章节目录索引
-│   ├── ch-01.md                       # 第一章（原作导入）
-│   ├── ch-02.md                       # 第二章（原作导入）
-│   ├── ch-03.md                       # 第三章（原作导入）
-│   └── ch-04.md                       # 第四章起（原创续写）
-│
-├── side-stories/                      # 支线故事
-│   ├── README.md                      # 支线目录索引
-│   └── ss-01-tiger-king-pov.md        # ss-01：寨主的下午（虎大王视角）
-│
-├── notes/                             # 创作笔记
-│   ├── README.md                      # 笔记目录索引
-│   └── style-guide.md                 # 原作者笔风分析
-│
-└── .process/                          # 过程文件
-    └── settings/                      # 设定资料
-        ├── README.md                  # 设定总索引
-        ├── characters/                # 角色档案
-        │   ├── README.md              # 角色总览（按编号索引）
-        │   ├── _TEMPLATE.md           # 角色档案模板
-        │   ├── 01-players/            # 玩家角色
-        │   ├── 02-hostile/            # 敌对/NPC角色
-        │   ├── 03-civilian/           # 平民/背景角色
-        │   └── 04-creature/           # 生物/特殊存在
-        ├── scenes/                    # 场景/地点档案
-        │   ├── README.md              # 场景总览
-        │   ├── _TEMPLATE.md           # 场景档案模板
-        │   └── *.md                   # 具体场景档案
-        ├── systems/                   # 游戏机制档案
-        │   ├── README.md              # 系统总览
-        │   ├── _TEMPLATE.md           # 系统档案模板
-        │   └── *.md                   # 具体系统档案
-        ├── author-chat/               # 作者创作对话（预留）
-        └── levels/                    # 关卡/副本设计（预留）
-```
+### Main Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | Chapter 1 | [Read](chapters/ch-01.md) |
+| Ch.2 | Chapter 2 | [Read](chapters/ch-02.md) |
+| Ch.3 | Chapter 3 | [Read](chapters/ch-03.md) |
+| Ch.4 | Chapter 4 | [Read](chapters/ch-04.md) |
+| Ch.5 | Chapter 5: The Cook Builds Power | [Read](chapters/ch-05.md) |
+
+### Branch Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.5-A | Chapter 5 (Version A) | [Read](chapters/branches/ch-05-a.md) |
+| Ch.5-B | Chapter 5 (Version B): The Cook Saves the Day | [Read](chapters/branches/ch-05-b.md) |
+
+### Side Stories
+
+| ID | Title | Link |
+|----|-------|------|
+| SS-01 | The Chieftain's Afternoon | [Read](side-stories/ss-01-tiger-king-pov.md) |
+| SS-02 | Tales of the Tiger Fortress | [Read](side-stories/ss-02-tiger-king-prelude/ch-01.md) |
+| SS-03 | Niu Xianfeng Prelude | [Read](side-stories/ss-03-niu-xianfeng-prelude/ch-01.md) |
 
 ---
 
-## 🔗 跨项目索引
+## 五、关联作品 / Related Works
 
-| 想找的内容 | 所在位置 |
-|-----------|---------|
-| **原作前三章** | [`original-archives/chinese/chaptered-stories/main/`](../../../original-archives/chinese/chaptered-stories/main/) |
-| **世界观设定** | [`settings/0-original-setting/`](../../../settings/0-original-setting/) |
-| **原作角色速查** | [`settings/0-original-setting/world-setting.md`](../../../settings/0-original-setting/world-setting.md) |
-| **协作速查手册** | [`GUIDE.md`](./GUIDE.md) |
-| **创作进度** | [`CURRENT_STATUS.md`](./CURRENT_STATUS.md) |
-| **笔风指南** | [`notes/style-guide.md`](./notes/style-guide.md) |
+- 原作/改编来源：`bso-o-cs-1` — 兽游世界OL 原作前三章
+- 同一世界观：`bso-a-cs-2` — 兽游世界OL 其他改编作品（如有）
 
 ---
 
-## 创作说明
+## V. Related Works
 
-- 前三章为原作内容，本项目仅做格式整理与导入
-- 第四章起为基于原作世界观的原创续写
-- 续写将严格遵循原作已建立的核心机制（精槽系统、战斗模式、VR设定等）
-- 前三章设定档案采用【原作】+【原创】双标签标注来源；第四章起新增内容全部为【原创】
+- Original / Source: `bso-o-cs-1` — Beastshield Online Original Chapters 1-3
+- Same Universe: `bso-a-cs-2` — Beastshield Online Other Adaptations (if any)
 
 ---
 
-*最后更新：2026-05-09*
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

@@ -1,180 +1,127 @@
-# bs-a-cs-6: Casual Massacre（随意处决）
+# 随意处决 / Casual Massacre
+
+> 状态：updating · 编码：`bs-a-cs-6-casual-massacre` · 作者：基于原作者 lanse 需求创作 · 最后更新：2026-05-16
 
 ---
 
-## 项目概述
+## 一、简介 / Introduction
 
-**项目名称**: Casual Massacre（随意处决）
-**系列定位**: Series 3长篇化 - 基于"死亡毫无价值，杀得顺手，死后像垃圾处理"核心美学
-**创作时间**: 2026-03-21
-**作者**: 基于原作者lanse需求创作
+**一句话钩子**：死亡毫无价值，杀得顺手，死后像垃圾处理——这不是宣言，只是今晚的工作节奏。
 
----
-
-## 版本历史
-
-### 计划版本
-
-| 版本       | 文件             | 规模            | 我的目标    | 其他杀手       | 总伤亡     | 状态  |
-|----------|----------------|---------------|---------|------------|---------|-----|
-| **v1.0** | `plan_v1.md`   | 小型据点（3层）      | 28只     | 无          | 28只     | 已归档 |
-| **v1.1** | `plan_v1_1.md` | 扩展据点（3层+地下）   | **43只** | **15-20只** | **60只** | 已归档 |
-| **v1.2** | `plan_v1_2.md` | 扩展据点+换装系统     | **43只** | **15-20只** | **60只** | 执行中 |
-| **v2.0** | `plan_v2.md`   | 大型据点（5层+地下2层） | 80-90只  | 设计中        | 80-90只  | 规划中 |
-
-### 故事版本
-
-| 版本           | 路径                  | 击杀数 | 状态       | 主要特征                            |
-|--------------|---------------------|-----|----------|---------------------------------|
-| **story-v1** | `archive/v1/`       | 42只 | 已归档      | 初稿，含活口场景（ch-3 Scene-4）、G-028被放过 |
-| **story-v2** | `ch-01.md`~`ch-06.md` | 42只 | **当前版本** | 全面感官重构，删除元叙事套语                  |
-
-### story-v2主要改进（当前版本）
-
-- **删除元叙事句**：所有"这就是casual massacre的美学"、"死亡毫无价值，杀得顺手，死后像垃圾处理"
-  套语全部删除，主题通过场景体现而非直接陈述
-- **感官层次补全**：视觉（脂包肌、毛发质感）、触觉（双方体验）、嗅觉（兽种体味、场景气味）、听觉
-- **语言风格**：去文学腔，直白朴素记录式，删除"像一尊雕像"等套话比喻
-- **ch-3 Scene-4逻辑修复**：其他杀手留下的尸体移至角落（不再和铁蹄同在砧板区），活口裆部改为尿液（非精液），G-028被放过捆绑
-- **ch-6结尾改写**：删除宣言式结尾，以自然对话收尾
-
-### story-v1特殊内容记录（已归档）
-
-- Ch.3 Scene-4新增活口场景（被同行捆绑的G级，袜子堵嘴，求饶后被放过）
-- Ch.3 Scene-4新增G-028目击者处理（捆绑，用尿裤堵嘴，两人肩并肩）
-- 击杀数修正：Ch.3由6只改为5只，累计42只（非43只）
-
-### v1.2主要改进（计划层面）
-
-- **换装系统**：
-    - 发现全裸尸体（其他杀手换装痕迹）
-    - 主角换装描写（E级黑色制服）
-    - 合身度描写（290斤制服280斤穿刚好）
-    - 挑选干净制服的细节
-- **每个敌人详细描写**（确保不水）：
-    - 外貌描写：体重、毛发、兽种特征、身材类型
-    - 制服细节：颜色、材质、紧绷程度、白袜状态
-    - 处决手感：肉棒形状、大小、勃起过程、精液量
-    - 换装考虑：制服干净程度、尺码匹配
-- **我的击杀43只**，每只800-1200字详细描写
-- **预计字数：70,000-80,000字**
-
-### v1.1改进（已归档）
-
-- **其他杀手博弈元素**：营造多方博弈氛围
-- **扩展区域设计**：增加更衣室、淋浴间、三层档案室等
-- **我的击杀从28只增至43只**
-- **其他杀手痕迹15-20只**
-- **据点总伤亡约60只**
-
-### v2.0规划（未来）
-
-- 据点规模扩大至5层+地下2层
-- 目标数量80-90只
-- 加入两波增援机制
-- 预计字数：80,000-100,000字
+《Casual Massacre》是《兽盾》世界观下基于"死亡毫无价值，杀得顺手，死后像垃圾处理"核心美学创作的长篇章节化故事。主角以第一人称赏金猎人视角潜入兽盾能源调度中心，与搭档"影"配合，以随意、高效、无仪式感的方式系统清除据点内的兽人员工。故事强调顺手杀戮、垃圾化处理、无价值死亡的叙事风格，通过直白朴素的记录式语言呈现大规模处决的感官细节与冷峻美学。
 
 ---
 
-## 核心美学（Series 3 v3.0）
+**One-line Hook**: Death is worthless, killing is casual, and corpses are disposed of like garbage — not a manifesto, just tonight's work rhythm.
 
-### 必须包含
-
-- **顺手杀戮**: 杀得顺手，不专门设计
-- **垃圾化处理**: 尸体像垃圾处理（擦手、推开、随意丢弃）
-- **无价值死亡**: 死亡毫无价值，不是戏剧性时刻
-
-### 可以写
-
-- 目标有名字、有编号
-- 挣扎求饶
-- 顺手玩弄/羞辱
-
-### 禁止写
-
-- 背景故事（家乡、家人、梦想）
-- 死亡有仪式感/价值感
-- 死亡被同情
+*Casual Massacre* is a long-form chaptered story set within the *Beastshield* universe, built on the core aesthetic of "death is worthless, killing is casual, corpses disposed of like garbage." The protagonist, a first-person bounty hunter, infiltrates a Beastshield energy dispatch center with his partner "Ying," systematically eliminating beastkin employees in a casual, efficient, and ritual-free manner. The story emphasizes straightforward, documentary-style language to present the sensory details and cold aesthetics of large-scale execution.
 
 ---
 
-## 故事设定（v1.1）
+## 二、内容标签 / Content Tags
 
-### 主角
-
-- **身份**: 第一人称玩家视角（赏金猎人）
-- **风格**: Casual/随意 - 不像炎那样冷酷，更轻松、偶尔吐槽
-- **能力**: "热流"技能 - 类似灼流暗劲的简化版
-- **装备**: 黑色紧身衣、手套、面罩
-
-### 搭档
-
-- **名称**: 影
-- **能力**: 潜行、善后、拍照
-- **关系**: 雇佣关系，配合默契
-
-### 场景（v1.1）
-
-- **地点**: 兽盾能源调度中心（3层+地下2层）
-- **规模**: 两个足球场大小，4座监控塔
-- **我的击杀**: 43只
-- **其他杀手痕迹**: 15-20只
-- **据点总伤亡**: 约60只
-- **核心特色**: 其他杀手博弈，多方casual处决
+- **兽人类型**：牛兽人、虎兽人、熊兽人、狼兽人、狗兽人、猪兽人等（涵盖 G/E/O/R/W 全兵种）
+- **内容要素**：大规模处决、顺手杀戮、垃圾化处理、换装系统、感官重构、多方杀手博弈、据点潜入
+- **叙事风格**：直白记录式、去文学腔、冷峻高效、无仪式感、元叙事删除
 
 ---
 
-## 章节概览（v1.1）
+## II. Content Tags
 
-| 章节   | 标题    | 我的击杀 | 其他杀手痕迹 | 累计  | 关键事件        |
-|------|-------|------|--------|-----|-------------|
-| Ch.1 | 潜入夜色  | 5只   | 2只+背影  | 5只  | 外围清理，发现其他杀手 |
-| Ch.2 | 一层与二层 | 8只   | 3只+动静  | 13只 | 办公区，听到远处闷哼  |
-| Ch.3 | 深夜食堂  | 6只   | 2只+偶遇  | 19只 | 食堂大屠杀，与杀手对视 |
-| Ch.4 | 宿舍区   | 14只  | 4只+背影  | 33只 | 熟睡大屠杀，批量处理  |
-| Ch.5 | 核心区域  | 10只  | 3只+合作  | 43只 | 地下清理，短暂"合作" |
-| Ch.6 | 撤离    | 0只   | 1只     | 43只 | 统计，看到其他杀手撤离 |
-
-**总计**: 43只（我）+ 15-20只（其他杀手）= 约60只总伤亡
+- **Species**: Bull, Tiger, Bear, Wolf, Dog, Boar, etc. (covering all ranks G/E/O/R/W)
+- **Elements**: Mass execution, casual killing, garbage disposal, disguise system, sensory reconstruction, multi-killer博弈, base infiltration
+- **Style**: Straightforward documentary, de-literarized, cold and efficient, ritual-free, meta-narrative removed
 
 ---
 
-## 兵种配置（我的击杀43只）
+## 三、主要角色 / Characters
 
-| 兵种 | 制服  | 数量  | 占比  |
-|----|-----|-----|-----|
-| G级 | 军绿色 | 30只 | 70% |
-| E级 | 黑色  | 7只  | 16% |
-| O级 | 蓝色  | 3只  | 7%  |
-| R级 | 白色  | 1只  | 2%  |
-| W级 | 摔跤服 | 1只  | 2%  |
-
----
-
-## 文件结构
-
-```
-bs-a-cs-6-casual-massacre/
-├── README.md                 # 本文件
-├── plan_v1.md                # v1.0计划（已归档）
-├── plan_v1_1.md              # v1.1计划（当前版本）
-├── plan_v2.md                # v2.0计划（未来规划）
-├── research/
-│   ├── main-story-base-analysis.md  # 原作据点分析
-│   └── base-design-guide.md         # 设计指南
-└── ch-01.md                   # 第一章（待创作）
-    ...
-```
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 主角 | 人类/玩家视角 | 赏金猎人 | 穿着黑色紧身衣的Casual风格执行者，拥有"热流"技能 |
+| 影 | 未明确 | 潜行搭档 | 负责善后与拍照的默契雇佣搭档，像一道真正的影子 |
+| 雪瞳 | 未明确 | R级枪械兵 | 监控塔上的狙击手，第一个被处理的外围目标 |
+| 阿黄 | 未明确 | G级杂兵 | 监控塔辅助，被顺手处理的次要目标 |
+| 铁柱 | 未明确 | G级杂兵 | 围墙巡逻兵，背后勒颈+抓裆处决 |
+| 铁爪 | 未明确 | E级武斗兵 | 后门正面遭遇的技术碾压目标 |
+| 胖虎 | 未明确 | G级杂兵 | 深夜食堂中吃面的虎兽人 |
+| 巨岩 | 牛兽人 | W级摔跤兵 | 450斤的超壮硕地下二层守卫，全书最强BOSS |
+| 其他目标 | 多种兽人 | G/E/O/R级 | 分布于据点各层的60余只兽盾员工 |
 
 ---
 
-## 参考范本
+## III. Characters
 
-- **主要参考**: `bs-a-cs-4-yanliang/chapters/ch-01.md`（炎魉篇）
-- **风格参考**: `series-3-massacre-cleanup/story/`（系列3短篇）
-- **规模参考**: 魔影篇的大型据点设计
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Protagonist | Human / Player POV | Bounty Hunter | A casual-style executor in black tight suit with "Heat Flow" skill |
+| Ying | Unspecified | Stealth Partner | A hired partner handling cleanup and photos, like a true shadow |
+| Xue Tong | Unspecified | R-rank Gunner | A sniper on the watchtower, the first peripheral target |
+| A Huang | Unspecified | G-rank Grunt | Watchtower assistant, a secondary target handled casually |
+| Tie Zhu | Unspecified | G-rank Grunt | Perimeter patrol, eliminated from behind |
+| Tie Zhua | Unspecified | E-rank Fighter | Rear gate encounter, taken down with technical superiority |
+| Pang Hu | Unspecified | G-rank Grunt | A tiger beastkin eating noodles in the late-night cafeteria |
+| Ju Yan | Bull | W-rank Wrestler | A 450-pound ultra-muscular underground floor guardian, the strongest boss |
+| Other Targets | Various | G/E/O/R-rank | Over 60 Beastshield employees distributed across the base |
 
 ---
 
-*死亡毫无价值，杀得顺手，死后像垃圾。*
-*——Casual Massacre v1.2*
+## 四、章节列表 / Chapters
+
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 潜入夜色 | [阅读](.process/stories/ch-01.md) |
+| Ch.2 | 一层与二层 | [阅读](.process/stories/ch-02.md) |
+| Ch.3 | 深夜食堂 | [阅读](.process/stories/ch-03.md) |
+| Ch.4 | 宿舍区与更衣室 | [阅读](.process/stories/ch-04.md) |
+| Ch.5 | 核心区域 | [阅读](.process/stories/ch-05.md) |
+| Ch.6 | 撤离与统计 | [阅读](.process/stories/ch-06.md) |
+
+---
+
+## IV. Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | Infiltrating the Night | [Read](.process/stories/ch-01.md) |
+| Ch.2 | First and Second Floors | [Read](.process/stories/ch-02.md) |
+| Ch.3 | Late-Night Cafeteria | [Read](.process/stories/ch-03.md) |
+| Ch.4 | Dormitory and Changing Room | [Read](.process/stories/ch-04.md) |
+| Ch.5 | Core Area | [Read](.process/stories/ch-05.md) |
+| Ch.6 | Evacuation and Tally | [Read](.process/stories/ch-06.md) |
+
+---
+
+## 五、关联作品 / Related Works
+
+- 原作/改编来源：`bs-a-cs-5-beastshield-chronicles` — Beastshield Chronicles（兽盾编年史）
+- 同一世界观：`bs-a-cs-2-birthday-deaths-of-uniforms` — Birthday Deaths of Uniforms（制服生日死亡）
+- 同一世界观：`bs-a-cs-3-all-clear` — All Clear（全杀路线）
+- 风格参考：`bs-a-cs-4-yanliang` — 炎魉篇（雷爪之死范本）
+
+---
+
+## V. Related Works
+
+- Original / Source: `bs-a-cs-5-beastshield-chronicles` — Beastshield Chronicles
+- Same Universe: `bs-a-cs-2-birthday-deaths-of-uniforms` — Birthday Deaths of Uniforms
+- Same Universe: `bs-a-cs-3-all-clear` — All Clear
+- Style Reference: `bs-a-cs-4-yanliang` — Yanliang Chapter (Lei Zhao's death as benchmark)
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

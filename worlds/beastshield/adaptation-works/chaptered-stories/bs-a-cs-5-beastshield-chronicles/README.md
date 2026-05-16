@@ -1,141 +1,139 @@
-# 兽盾编年史 (Beastshield Chronicles)
+# 兽盾编年史 / Beastshield Chronicles
 
-## 基本信息
-
-| 项目        | 内容                     |
-|-----------|------------------------|
-| **中文标题**  | 兽盾编年史                  |
-| **英文标题**  | Beastshield Chronicles |
-| **原作世界观** | 兽盾 (Beastshield)       |
-| **作品类型**  | 同人小说 / 章节故事            |
-| **当前进度**  | 第五章已完成，第六至第九章草稿进行中     |
-| **语言**    | 中文                     |
+> 状态：updating · 编码：`bs-a-cs-5-beastshield-chronicles` · 作者：memeticsingularity · 最后更新：2026-05-16
 
 ---
 
-## 故事简介
+## 一、简介 / Introduction
 
-白之都，一座被兽盾公司笼罩在阴影下的城市。
+**一句话钩子**：当最后一只白兔被迫戴上统御项圈，一场关于生存、复仇与救赎的博弈在兽盾的阴影下悄然展开。
 
-虚逸，曾是"十二兽"
-组织中卯兽部队的战斗人员。这支通过药物与符文改造培养出的特殊小队，让成员在战斗中化身为红瞳雪兔。然而这项技术已被时代封禁，作为最后一只卯兽的虚逸，必须靠实力压制药物带来的异变。
-
-为了调查兽盾的罪行，虚逸潜入这座城市的分部，却在一夜之间卷入了一场血腥屠杀。一位空降的黑制服掌权者墨武发现了他的身份，却没有揭穿，反而给他戴上了统御项圈......
-
-在这个没有人能得到好结局的故事里，仇染、墨武、虚逸——三个各怀鬼胎的兽人，将在兽盾的阴影下展开一场关于生存、复仇与救赎的博弈。
+白之都，一座被兽盾公司笼罩在阴影下的城市。虚逸，曾是"十二兽"组织中卯兽部队的战斗人员，通过药物与符文改造在战斗中化身为红瞳雪兔。然而这项技术已被时代封禁，作为最后一只卯兽，他必须靠实力压制药物带来的异变。为了调查兽盾的罪行，虚逸潜入这座城市的分部，却在一夜之间卷入了一场血腥屠杀。一位空降的黑制服掌权者发现了他的身份，却没有揭穿，反而给他戴上了统御项圈......在这个没有人能得到好结局的故事里，三个各怀鬼胎的兽人将在兽盾的阴影下展开一场关于生存、复仇与救赎的博弈。
 
 ---
 
-## 主要角色
+**One-line Hook**: When the last white rabbit is forced to wear a collar of dominion, a game of survival, revenge, and redemption unfolds in the shadow of Beastshield.
 
-| 角色      | 身份           | 简介                                                |
-|---------|--------------|---------------------------------------------------|
-| **虚逸**  | 前卯兽部队成员 / 卧底 | 一只萨摩耶兽人，拥有变身为红瞳雪兔的特殊能力。不谙世事，被派往兽盾分部卧底，却因实力不足而陷入被动 |
-| **仇染**  | 白制服掌权者       | 当地兽盾分部的真正掌权者，心狠手辣却守护故土。曾是兽盾受害者，疯狂向上攀爬后选择以极端手段整治分部 |
-| **墨武**  | 黑制服 / 空降领导者  | 总部派遣的空降兵，对兽盾并不忠诚。发现虚逸身份后选择利用而非揭发，给他戴上统御项圈作为代行者    |
-| **岩岁**  | 黄虎兽人         | 兽盾士兵，性格憨厚但被迫伪装凶狠，与岳池是同事                           |
-| **云午**  | 狼犬兽人         | 家庭因兽盾破碎，被猎寻培养成复仇者                                 |
-| **岳池**  | 棕熊兽人         | 兽盾士兵，性格直来直去、粗鲁野蛮，完全融入兽盾环境的角色                      |
-| **霁秋**  | 狼犬兽人 / 灰狼    | 被方丘阳收养的灰狼兽人，与虚逸在隐居期间结识                            |
-| **方丘阳** | 十二兽后勤成员      | 绵羊兽人，季语的旧识，经营隐居药房庇护兽人                             |
-| **季语**  | 虚逸的老师 / 十二兽  | 虚逸的师父，十二兽成员之一，正在赶往白之都                             |
+White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu Yi, once a combatant of the "Twelve Beasts" organization's Mao Beast Unit, could transform into a red-eyed snow rabbit through drug and rune modifications. But this technology has been banned by the times, and as the last Mao Beast, he must suppress the drug-induced mutations through sheer willpower. To investigate Beastshield's crimes, Xu Yi infiltrates a local branch, only to be caught in a bloody massacre overnight. An airborne black-uniformed authority discovers his identity but chooses not to expose him—instead, placing a collar of dominion around his neck... In this story where no one gets a happy ending, three scheming beastkin will play a dangerous game of survival, revenge, and redemption under Beastshield's shadow.
 
 ---
 
-## 章节列表
+## 二、内容标签 / Content Tags
 
-### 已发布章节
-
-| 章节  | 中文标题  | 英文标题                        | 状态  |
-|-----|-------|-----------------------------|-----|
-| 第一章 | 白兔暗影  | The Rabbit's Shadow         | 已完成 |
-| 第二章 | 矿石与暗流 | Ore and Undercurrents       | 已完成 |
-| 第三章 | 血染之塔  | Tower of Bloodbath          | 已完成 |
-| 第四章 | 白影毒牙  | White Shadow Venomous Fangs | 已完成 |
-| 第五章 | 项圈    | The Collar                  | 已完成 |
-
-### 开发中章节
-
-| 章节  | 状态    | 备注                      |
-|-----|-------|-------------------------|
-| 第六章 | 草稿进行中 | 虚逸在兽盾内部的卧底生活（3部分）       |
-| 第七章 | 草稿进行中 | 墨武带虚逸迎接大人物、逃离、初遇灰狼（4部分） |
-| 第八章 | 草稿进行中 | 虚逸与霁秋同行（1部分）            |
-| 第九章 | 草稿进行中 | 警官对峙，方丘阳化解（4部分）         |
-| 第十章 | 草稿进行中 | 隐居疗伤与新年（3部分）            |
+- **兽人类型**：犬 / Dog、狼 / Wolf、虎 / Tiger、熊 / Bear、兔 / Rabbit、羊 / Sheep、狐狸 / Fox、牛 / Bull
+- **内容要素**：combat、corporate、espionage、conspiracy、supernatural
+- **叙事风格**：grimdark、thriller、tragedy
 
 ---
 
-## 目录结构
+## II. Content Tags
 
-```
-bs-a-cs-5-beastshield-chronicles/
-├── README.md                          # 本文件
-├── metadata.yaml                      # 作品元数据
-├── chapters/                          # 章节正文
-│   └── (各章节文件)
-└── .process/                          # 过程文件（v3.0 规范）
-    ├── CHANGELOG.md                   # 变更日志
-    └── settings/                      # 设定资料
-        ├── characters/                # 角色设定
-        │   ├── README.md              # 角色总览
-        │   ├── xu-yi.md               # 虚逸
-        │   ├── qiu-qi.md              # 仇染
-        │   ├── mo-wu.md               # 墨武
-        │   ├── yan-sui.md             # 岩岁
-        │   ├── yue-chi.md             # 岳池
-        │   ├── yi-an.md               # 壹安
-        │   └── (其他角色档案)
-        └── author-chat/               # 作者创作对话
-            ├── README.md
-            └── (按时间前缀命名的讨论文件)
-```
+- **Species**: Dog, Wolf, Tiger, Bear, Rabbit, Sheep, Fox, Bull
+- **Elements**: combat, corporate, espionage, conspiracy, supernatural
+- **Style**: grimdark, thriller, tragedy
 
 ---
 
-## 🔗 跨项目索引（原作 ↔ 改编）
+## 三、主要角色 / Characters
 
-| 想找的内容 | 所在位置 |
-|-----------|---------|
-| **原作角色设定** | [`.process/settings/characters/`](./.process/settings/characters/) |
-| **原作者对话/设定来源** | [`.process/settings/author-chat/`](./.process/settings/author-chat/) |
-| **岩参/岩岁/壹安 的改编故事** | [`worldstrider-infinity/yan-sui/branches/yan-can-canon-death/`](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
-| **改编版本分析/讨论** | [`worldstrider-infinity/yan-sui/discussions/`](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/) |
-| **改编侧角色档案** | [`worldstrider-infinity/yan-sui/character-archive/`](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/character-archive/) |
-
----
-
-## 故事走向（剧透警告）
-
-<details>
-<summary>点击展开（含剧透）</summary>
-
-- **仇染**：会被改造血晶石改造成噬精兽，在家乡苦苦挣扎，最后理智丧失开始屠戮平民，被特工局的人杀死
-- **墨武**：五五开概率存活。若存活，会用情报交易换取生机后选择成为一名情报线人；若死亡，多半会死在兽盾内部
-- **虚逸**：必死。过程不太美好，没有好的开始也没有善终。最终会被自己的老师季语与特工局的特工联手葬送
-
-</details>
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 虚逸 | 萨摩耶兽人 | 前卯兽部队成员 / 卧底 | 拥有变身为红瞳雪兔的特殊能力，不谙世事，被派往兽盾分部卧底 |
+| 仇染 | 白狼兽人 | 白制服掌权者 | 当地兽盾分部的真正掌权者，心狠手辣却守护故土，曾是兽盾受害者 |
+| 墨武 | 黑狼兽人 | 黑制服 / 空降领导者 | 总部派遣的空降兵，对兽盾并不忠诚，发现虚逸身份后选择利用而非揭发 |
+| 岩岁 | 黄虎兽人 | 兽盾士兵 | 性格憨厚但被迫伪装凶狠，与岳池是同事 |
+| 岳池 | 棕熊兽人 | 兽盾士兵 | 性格直来直去、粗鲁野蛮，完全融入兽盾环境的角色 |
+| 云午 | 狼犬兽人 | 复仇者 | 家庭因兽盾破碎，被猎寻培养成复仇者 |
+| 霁秋 | 灰狼兽人 | 隐居者 | 被方丘阳收养的灰狼兽人，与虚逸在隐居期间结识 |
+| 方丘阳 | 绵羊兽人 | 十二兽后勤成员 / 药商 | 季语的旧识，经营隐居药房庇护兽人 |
+| 季语 | 犬兽人 | 虚逸的老师 / 十二兽成员 | 虚逸的师父，正在赶往白之都 |
 
 ---
 
-## 创作说明
+## III. Characters
 
-本作品为[原作者]基于「兽盾」世界观创作的同人小说。故事保留了原作的核心设定，但在角色命运和剧情走向上进行了独立创作。
-
-**创作特点**：
-
-- 故事逻辑严谨，即使去除成人内容也不影响主线发展
-- 角色塑造立体，即使是路人角色也有完整的背景故事
-- 结局偏向悲剧色彩，符合整体世界观氛围
-
----
-
-## 相关链接
-
-- [兽盾原作世界观](../../../original-archives/)
-- [角色详细设定](./.process/settings/characters/)
-- [岩参/岩岁改编故事线（worldstrider-infinity）](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/)
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Xu Yi | Samoyed | Former Mao Beast Unit / Undercover Agent | Possesses the ability to transform into a red-eyed snow rabbit; naive, sent to infiltrate a Beastshield branch |
+| Qiu Ran | White Wolf | White-Uniform Authority | The true power behind the local Beastshield branch; ruthless yet protective of his homeland; once a victim of Beastshield |
+| Mo Wu | Black Wolf | Black-Uniform / Airborne Leader | Dispatched from headquarters, not loyal to Beastshield; chooses to exploit rather than expose Xu Yi's identity |
+| Yan Sui | Yellow Tiger | Beastshield Soldier | Simple-minded but forced to act fierce; colleague of Yue Chi |
+| Yue Chi | Brown Bear | Beastshield Soldier | Straightforward and crude; a character fully integrated into the Beastshield environment |
+| Yun Wu | Wolf-Dog | Avenger | Family shattered by Beastshield; trained by hunters to become a weapon of vengeance |
+| Ji Qiu | Gray Wolf | Hermit | A gray wolf adopted by Fang Qiuyang; meets Xu Yi during his seclusion |
+| Fang Qiuyang | Sheep | Twelve Beasts Logistics / Apothecary | An old acquaintance of Ji Yu; runs a hidden pharmacy that shelters beastkin |
+| Ji Yu | Dog | Xu Yi's Teacher / Twelve Beasts Member | Xu Yi's master; currently en route to White Capital |
 
 ---
 
-*最后更新：2026年5月8日*
+## 四、章节列表 / Chapters
+
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 白兔暗影 / The Rabbit's Shadow | [阅读](chapters/chinese/ch-01-the-rabbits-shadow.md) |
+| Ch.2 | 矿石与暗流 / Ore and Undercurrents | [阅读](chapters/chinese/ch-02-ore-and-undercurrents.md) |
+| Ch.3 | 血染之塔 / Tower of Bloodbath | [阅读](chapters/chinese/ch-03-tower-of-bloodbath.md) |
+| Ch.4 | 白影毒牙 / White Shadow Venomous Fangs | [阅读](chapters/chinese/ch-04-white-shadow-venomous-fangs.md) |
+| Ch.5 | 项圈 / The Collar | [阅读](chapters/chinese/ch-05-the-collar.md) |
+| Ch.6 | （草稿进行中） | — |
+| Ch.7 | （草稿进行中） | — |
+| Ch.8 | （草稿进行中） | — |
+| Ch.9 | （草稿进行中） | — |
+| Ch.10 | （草稿进行中） | — |
+
+---
+
+## IV. Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | The Rabbit's Shadow | [Read](chapters/english/ch-01-the-rabbits-shadow.md) |
+| Ch.2 | Ore and Undercurrents | [Read](chapters/english/ch-02-ore-and-undercurrents.md) |
+| Ch.3 | Tower of Bloodbath | [Read](chapters/english/ch-03-tower-of-bloodbath.md) |
+| Ch.4 | White Shadow Venomous Fangs | [Read](chapters/english/ch-04-white-shadow-venomous-fangs.md) |
+| Ch.5 | The Collar | [Read](chapters/english/ch-05-the-collar.md) |
+| Ch.6 | (Draft in progress) | — |
+| Ch.7 | (Draft in progress) | — |
+| Ch.8 | (Draft in progress) | — |
+| Ch.9 | (Draft in progress) | — |
+| Ch.10 | (Draft in progress) | — |
+
+---
+
+## 五、关联作品 / Related Works
+
+- 原作世界观：[beastshield-original](../../../original-archives/) — 兽盾原作世界观
+- 改编故事线：[yan-sui](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) — 岩参/岩岁/壹安 改编故事线（worldstrider-infinity）
+- 改编讨论：[yan-sui-discussions](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/) — 改编版本分析/讨论
+- 角色档案：[character-archive](../../../worldstrider-infinity/original-archives/character-archive/) — 改编侧角色档案
+
+---
+
+## V. Related Works
+
+- Original Universe: [beastshield-original](../../../original-archives/) — Beastshield Original Universe
+- Adaptation Storyline: [yan-sui](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) — Yan Can / Yan Sui / Yi An Adaptation (worldstrider-infinity)
+- Adaptation Discussions: [yan-sui-discussions](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/) — Version Analysis & Discussions
+- Character Archive: [character-archive](../../../worldstrider-infinity/original-archives/character-archive/) — Adaptation-Side Character Profiles
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+- [角色详细设定](.process/settings/characters/) — 原作角色档案
+- [原作者对话/设定来源](.process/settings/author-chat/) — 创作对话记录
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+- [Character Profiles](.process/settings/characters/) — Original Character Archives
+- [Author Chat / Source Material](.process/settings/author-chat/) — Creation Dialogue Records
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

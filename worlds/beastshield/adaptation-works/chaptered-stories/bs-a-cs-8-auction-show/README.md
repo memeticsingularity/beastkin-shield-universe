@@ -1,140 +1,167 @@
-# 兽盾流拍处决秀 (The Auction Show)
+# 兽盾流拍处决秀 / The Auction Show
 
-**作品编码**: bs-a-cs-8-auction-show
-
-**作品性质**: 改编作品 (Adaptation)
-
-**形式类型**: 支线分章故事 (Side Chaptered Story)
+> 状态：updating · 编码：`bs-a-cs-8-auction-show` · 作者：改编作品 · 最后更新：2026-05-16
 
 ---
 
-## 故事简介
+## 一、简介 / Introduction
 
-在**兽盾公司**的地下世界里，有一个鲜为人知却广受欢迎的"例行拍卖会"
-。入场费仅需100撸币，却鲜有成交。因为所有人都知道——这不是真正的拍卖会，而是一场精心设计的**公开处决表演
-**。
+**一句话钩子**：当起拍价只有1撸币，却从无人出价——因为所有人都知道，流拍的"拍品"将迎来比死亡更漫长的终幕。
 
-被送上拍卖台的，都是因任务失败而被定性为"可抛弃"的G级杂兵。起拍价低至1撸币，但从未有人出价。流拍的"拍品"
-不会返厂，而是交由转盘决定处决方式：春药弹射击、直接刺激、或更多别出心裁的"特殊处理"。
-
-十章故事，十个种族，十段走向死亡的最后旅程。
+在兽盾公司深不见底的地下世界里，一场名为"例行拍卖会"的暗面表演正在进行。入场费仅需100撸币，成交率却接近为零。被送上拍卖台的，都是因任务失败而被标记为"可抛弃"的G级杂兵。起拍价低至1撸币，但从未有人真正出价。流拍的兽人不会返厂，而是交由转盘决定处决方式：春药弹射击、直接刺激、或更多别出心裁的"特殊处理"。十段故事，十个种族，十段走向终点的最后旅程。
 
 ---
 
-## 章节导航
+**One-line Hook**: When the starting bid is just one lube-coin and no one ever raises a hand—everyone knows the "unsold lots" are destined for a finale far slower than death.
 
-| 章节                         | 标题   | 主角            | 处决方式         |
-|----------------------------|------|---------------|--------------|
-| [第一章](chapters/ch-01-the-wolf.md)    | 狼的逃亡 | G-724 灰狼兽人 疾风 | 春药弹          |
-| [第二章](chapters/ch-02-the-bear.md)    | 熊的失职 | G-556 棕熊兽人 铁山 | 直接刺激（标准版）    |
-| [第三章](chapters/ch-03-the-tiger.md)   | 虎的傲慢 | G-891 黄虎兽人 雷烈 | 直接刺激（折磨版）    |
-| [第四章](chapters/ch-04-the-ox.md)      | 牛的委屈 | G-445 黑牛兽人 巨石 | 直接刺激（快速版）    |
-| [第五章](chapters/ch-05-the-dog.md)     | 狗的悔恨 | G-203 黄狗兽人 小忠 | 直接刺激（怜悯版）    |
-| [第六章](chapters/ch-06-the-leopard.md) | 豹的敏捷 | G-612 黑豹兽人 影爪 | 多部位同步刺激      |
-| [第七章](chapters/ch-07-the-boar.md)    | 猪的贪婪 | G-378 野猪兽人 獠牙 | 烙铁加热+刺激      |
-| [第八章](chapters/ch-08-the-deer.md)    | 鹿的温顺 | G-891 白鹿兽人 灵角 | 足部敏感点刺激      |
-| [第九章](chapters/ch-09-the-lion.md)    | 狮的威严 | G-567 雄狮兽人 金鬃 | 震动器+后穴刺激     |
-| [第十章](chapters/ch-10-the-fox.md)    | 狐的狡黠 | G-734 赤狐兽人 红尾 | 羽毛挠痒+多部位边缘控制 |
+Beneath BeastShield Inc. lies a hidden spectacle called the "Routine Auction." Entry costs a mere hundred lube-coins, yet the closing rate is near zero. On the block are G-rank grunts branded disposable for mission failure. Starting bids bottom out at one coin, but no one buys—because the real show begins after the gavel falls, when the unsold merchandise faces a roulette of executions: aphrodisiac rounds, direct stimulation, and other curated "special treatments." Ten stories, ten species, ten final walks to the edge.
 
 ---
 
-## 处决方式详解
+## 二、内容标签 / Content Tags
 
-### 春药弹
-
-特制手枪发射含有强效催情成分的弹药，中弹后3-5分钟达到效果峰值，拍品会经历恐惧→燥热→无法控制的生理反应→高潮→死亡的全过程。
-
-### 直接刺激（标准版）
-
-工作人员直接手动物理刺激下体，直至射精死亡。适用于大多数拍品。
-
-### 直接刺激（折磨版）
-
-采用边缘控制技巧，反复刺激但不给予释放，延长痛苦时间，直至拍品精神崩溃后再给予最终释放。
-
-### 直接刺激（快速版）
-
-同时刺激多个敏感点（下体+胸部+后穴），加速射精过程，适用于需要快速处理的场合。
-
-### 直接刺激（怜悯版）
-
-给予拍品相对快速的释放，减少痛苦时间，通常用于特别年轻或特别可怜的拍品。
-
-### 多部位同步刺激
-
-利用拍品种族的多个敏感点（如豹族的全身皮毛、腹部、后穴等）同时进行刺激，产生叠加效果。
-
-### 烙铁加热+刺激
-
-使用加热的器具对敏感部位进行温度刺激，结合物理刺激，产生双重痛苦与快感的交织。
-
-### 足部敏感点刺激
-
-针对鹿族等足部敏感的种族，通过对脚部的持续刺激引发高潮死亡。
+- **兽人类型**：狼 / Wolf、熊 / Bear、虎 / Tiger、牛 / Bull、犬 / Dog、豹 / Leopard、野猪 / Boar、鹿 / Deer、狮 / Lion、狐 / Fox
+- **内容要素**：death、auction、execution、corporate、systemic-violence、sexual-stimulation、public-spectacle
+- **叙事风格**：grimdark、body-horror、psychological、institutional-cruelty
 
 ---
 
-## 内容警告
+## II. Content Tags
 
-本作包含以下可能令人不适的内容：
-
-- 详细描绘死亡与处决过程
-- 强制性的性刺激与高潮
-- 捆绑、无助与绝望心理状态
-- 对失败者的羞辱与消费
-- 多部位敏感点刺激描写
-- 器具使用（烙铁等）
-
-**请注意**: 本作为虚构作品，旨在探讨体制性暴力与人性在极端环境下的反应。作品中的所有角色均为成年雄性兽人。
+- **Species**: Wolf, Bear, Tiger, Bull, Dog, Leopard, Boar, Deer, Lion, Fox
+- **Elements**: death, auction, execution, corporate, systemic-violence, sexual-stimulation, public-spectacle
+- **Style**: grimdark, body-horror, psychological, institutional-cruelty
 
 ---
 
-## 世界观背景
+## 三、主要角色 / Characters
 
-### 兽盾公司 (BeastShield Inc.)
-
-近未来兽人世界中最庞大的犯罪组织，表面上是安保公司，实际上从事军火走私、非法交易、收取保护费等勾当。公司内部等级森严，对失败者的惩罚极其严厉。
-
-### G级杂兵 (Grunt)
-
-兽盾最底层的员工，编号格式G-XXX。月薪100撸币，赏金100撸币。身穿军绿色紧身制服，职责包括巡逻、看守、搬运等基础工作。被视为完全可消耗的"
-炮灰"。
-
-### "精尽而亡"体系
-
-本世界观的核心战斗机制：所有伤害转化为性欲值，达到上限时强制射精并进入"濒死僵滞状态"。彻底排空精液即死亡。
-
-### 拍卖会机制
-
-- **地点**: 兽盾某分部地下三层，原仓库改造
-- **入场费**: 100撸币/人
-- **起拍价**: 1撸币
-- **实际成交率**: 接近0%
-- **观众目的**: 观看流拍拍品的处决表演
-- **处决方式**: 春药弹、直接刺激、多部位刺激、器具辅助等多种方式
+| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
+|--------|------|----------|---------------|
+| 疾风 | 灰狼兽人 | G-724 杂兵 | 因任务失败被送上拍卖台的逃亡者 |
+| 铁山 | 棕熊兽人 | G-556 杂兵 | 失职后沦为"拍品"的重装守卫 |
+| 雷烈 | 黄虎兽人 | G-891 杂兵 | 傲慢性格让他在台上付出了额外代价 |
+| 巨石 | 黑牛兽人 | G-445 杂兵 | 委屈与不甘交织的沉默牺牲者 |
+| 小忠 | 黄狗兽人 | G-203 杂兵 | 带着悔恨踏上最后舞台的年轻兽人 |
+| 影爪 | 黑豹兽人 | G-612 杂兵 | 以敏捷著称却无处可逃的猎物 |
+| 獠牙 | 野猪兽人 | G-378 杂兵 | 贪婪本性在绝境中被彻底拆解 |
+| 灵角 | 白鹿兽人 | G-891 杂兵 | 温顺外表下藏着不为人知的坚韧 |
+| 金鬃 | 雄狮兽人 | G-567 杂兵 | 曾经的威严在拍卖台上化为碎片 |
+| 红尾 | 赤狐兽人 | G-734 杂兵 | 狡黠头脑终究敌不过体制的绞盘 |
+| 收藏家 | — | 神秘买家 | 在第十一章以压倒性姿态介入拍卖的未知势力 |
 
 ---
 
-## 创作说明
+## III. Characters
 
-本作采用**慢节奏叙事**，聚焦于：
-
-- 主角的感官体验（视觉、触觉、嗅觉、味觉）
-- 心理变化与绝望过程
-- 拍卖师的互动与多部位身体检查
-- 处决过程的详细描写（多部位、多工具）
-- 死后评述与角色生命回顾
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Jifeng | Gray Wolf | G-724 Grunt | A fugitive who failed his mission and ended up on the block |
+| Tieshan | Brown Bear | G-556 Grunt | A heavy guard whose negligence made him merchandise |
+| Leilie | Yellow Tiger | G-891 Grunt | His arrogance cost him extra on the stage |
+| Jushi | Black Bull | G-445 Grunt | A silent sacrifice torn between grievance and helplessness |
+| Xiaozhong | Yellow Dog | G-203 Grunt | A young beastkin carrying regret to his final stage |
+| Yingzhua | Black Leopard | G-612 Grunt | A prey famed for agility yet with nowhere to run |
+| Liaoya | Wild Boar | G-378 Grunt | His greed dissected thoroughly at the end |
+| Lingjiao | White Deer | G-891 Grunt | A gentle exterior hiding unknown resilience |
+| Jinzong | Male Lion | G-567 Grunt | Once-majestic authority shattered on the auction stage |
+| Hongwei | Red Fox | G-734 Grunt | A cunning mind ultimately no match for the institutional grinder |
+| The Collector | — | Mysterious Buyer | An unknown force who intervenes in Chapter 11 with overwhelming presence |
 
 ---
 
-[返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
+## 四、章节列表 / Chapters
 
-## 更新记录
+| 章节 | 标题 | 链接 |
+|------|------|------|
+| Ch.1 | 狼的逃亡 | [阅读](chapters/ch-01-the-wolf.md) |
+| Ch.2 | 熊的失职 | [阅读](chapters/ch-02-the-bear.md) |
+| Ch.3 | 虎的傲慢 | [阅读](chapters/ch-03-the-tiger.md) |
+| Ch.4 | 牛的委屈 | [阅读](chapters/ch-04-the-ox.md) |
+| Ch.5 | 狗的悔恨 | [阅读](chapters/ch-05-the-dog.md) |
+| Ch.6 | 豹的敏捷 | [阅读](chapters/ch-06-the-leopard.md) |
+| Ch.7 | 猪的贪婪 | [阅读](chapters/ch-07-the-boar.md) |
+| Ch.8 | 鹿的温顺 | [阅读](chapters/ch-08-the-deer.md) |
+| Ch.9 | 狮的威严 | [阅读](chapters/ch-09-the-lion.md) |
+| Ch.10 | 狐的狡黠 | [阅读](chapters/ch-10-the-fox.md) |
+| Ch.11 | 收藏家 | [阅读](chapters/ch-11-the-collector.md) |
+| Ch.11-2 | 全场通吃 | [阅读](chapters/ch-11-2-buyout.md) |
+| Ch.11-3 | 噩梦成真 | [阅读](chapters/ch-11-3-nightmare.md) |
+| Ch.11-3-1 | 上篇 前五人 | [阅读](chapters/ch-11-3-1-firstfive.md) |
+| Ch.11-3-1-1 | 上篇 前五人【扩写版】 | [阅读](chapters/ch-11-3-1-firstfive-1.md) |
+| Ch.11-3-1-2 | 上篇 前五人【差异化版】 | [阅读](chapters/ch-11-3-1-firstfive-2.md) |
+| Ch.11-3-1-3 | 上篇 肉体的终章【沉浸版】 | [阅读](chapters/ch-11-3-1-firstfive-3.md) |
+| Ch.11-3-1-4 | 上篇 肉体的终章【极致版】 | [阅读](chapters/ch-11-3-1-firstfive-4.md) |
+| Ch.11-3-1-5 | 上篇 肉体的终章【极致版】 | [阅读](chapters/ch-11-3-1-firstfive-5.md) |
+| Ch.11-3-2 | 下篇 后五人 | [阅读](chapters/ch-11-3-2-lastfive.md) |
+| Ch.11-3-2-1 | 下篇 后五人【扩写版】 | [阅读](chapters/ch-11-3-2-lastfive-1.md) |
+| Ch.11-3-2-2 | 下篇 后五人【差异化版】 | [阅读](chapters/ch-11-3-2-lastfive-2.md) |
+| Ch.11-3-2-3 | 下篇 精神的终章【沉浸版】 | [阅读](chapters/ch-11-3-2-lastfive-3.md) |
+| Ch.11-3-2-4 | 下篇 精神的终章【极致版】 | [阅读](chapters/ch-11-3-2-lastfive-4.md) |
+| Ch.11-3-2-5 | 下篇 精神的终章【极致版】 | [阅读](chapters/ch-11-3-2-lastfive-5.md) |
 
-### 2026-03-08
+---
 
-- 新增第八章：鹿的温顺（白鹿兽人 灵角）
-- 新增第七章：猪的贪婪（野猪兽人 獠牙）- 烙铁加热+刺激
-- 新增第六章：豹的敏捷（黑豹兽人 影爪）- 多部位同步刺激
-- 更新设定文件：新增多部位刺激、器具使用（烙铁等）、种族敏感点特性
+## IV. Chapters
 
+| Chapter | Title | Link |
+|---------|-------|------|
+| Ch.1 | The Wolf's Escape | [Read](chapters/ch-01-the-wolf.md) |
+| Ch.2 | The Bear's Negligence | [Read](chapters/ch-02-the-bear.md) |
+| Ch.3 | The Tiger's Arrogance | [Read](chapters/ch-03-the-tiger.md) |
+| Ch.4 | The Ox's Grievance | [Read](chapters/ch-04-the-ox.md) |
+| Ch.5 | The Dog's Regret | [Read](chapters/ch-05-the-dog.md) |
+| Ch.6 | The Leopard's Agility | [Read](chapters/ch-06-the-leopard.md) |
+| Ch.7 | The Boar's Greed | [Read](chapters/ch-07-the-boar.md) |
+| Ch.8 | The Deer's Gentleness | [Read](chapters/ch-08-the-deer.md) |
+| Ch.9 | The Lion's Majesty | [Read](chapters/ch-09-the-lion.md) |
+| Ch.10 | The Fox's Cunning | [Read](chapters/ch-10-the-fox.md) |
+| Ch.11 | The Collector | [Read](chapters/ch-11-the-collector.md) |
+| Ch.11-2 | Total Buyout | [Read](chapters/ch-11-2-buyout.md) |
+| Ch.11-3 | Nightmare Realized | [Read](chapters/ch-11-3-nightmare.md) |
+| Ch.11-3-1 | Part 1: First Five | [Read](chapters/ch-11-3-1-firstfive.md) |
+| Ch.11-3-1-1 | Part 1: First Five (Expanded) | [Read](chapters/ch-11-3-1-firstfive-1.md) |
+| Ch.11-3-1-2 | Part 1: First Five (Differentiated) | [Read](chapters/ch-11-3-1-firstfive-2.md) |
+| Ch.11-3-1-3 | Part 1: Flesh Finale (Immersive) | [Read](chapters/ch-11-3-1-firstfive-3.md) |
+| Ch.11-3-1-4 | Part 1: Flesh Finale (Ultimate) | [Read](chapters/ch-11-3-1-firstfive-4.md) |
+| Ch.11-3-1-5 | Part 1: Flesh Finale (Ultimate v2) | [Read](chapters/ch-11-3-1-firstfive-5.md) |
+| Ch.11-3-2 | Part 2: Last Five | [Read](chapters/ch-11-3-2-lastfive.md) |
+| Ch.11-3-2-1 | Part 2: Last Five (Expanded) | [Read](chapters/ch-11-3-2-lastfive-1.md) |
+| Ch.11-3-2-2 | Part 2: Last Five (Differentiated) | [Read](chapters/ch-11-3-2-lastfive-2.md) |
+| Ch.11-3-2-3 | Part 2: Spirit Finale (Immersive) | [Read](chapters/ch-11-3-2-lastfive-3.md) |
+| Ch.11-3-2-4 | Part 2: Spirit Finale (Ultimate) | [Read](chapters/ch-11-3-2-lastfive-4.md) |
+| Ch.11-3-2-5 | Part 2: Spirit Finale (Ultimate v2) | [Read](chapters/ch-11-3-2-lastfive-5.md) |
+
+---
+
+## 五、关联作品 / Related Works
+
+- 原作/改编来源：bs-a-cs-5-beastshield-chronicles — 兽盾编年史
+- 同一世界观：bs-a-cs-9-songguo-story — 松果的领养日记
+- 同一世界观：bs-a-cs-10-leishan-resurrection — 雷爪重生
+
+---
+
+## V. Related Works
+
+- Original / Source: bs-a-cs-5-beastshield-chronicles — Beastshield Chronicles
+- Same Universe: bs-a-cs-9-songguo-story — Songguo's Adoption Diary
+- Same Universe: bs-a-cs-10-leishan-resurrection — Resurrection of Leishan
+
+---
+
+## 六、创作留痕 / Creation Trail
+
+- [查看变更日志](.process/CHANGELOG.md)
+- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+
+---
+
+## VI. Creation Trail
+
+- [View Changelog](.process/CHANGELOG.md)
+- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*
