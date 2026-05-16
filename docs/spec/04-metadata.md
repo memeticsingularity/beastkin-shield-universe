@@ -35,12 +35,12 @@ creation:
 work:
   promotion_status: not_eligible   # not_eligible | eligible | under_review | promoted
   work_type: full-original         # full-original | direct-adaptation | adapted-expansion | inspired-by | crossover
-  tags: []
+  tags: []               # 推荐值见下方"发现引擎标签体系"
   content_warnings: []
 
 creation:
   last_update: ""       # YYYY-MM-DD
-  universe_based_on: "" # beastshield | beastshield-reforged | united-beasts-alliance | beastshield-paradise | mixed
+  universe_based_on: "" # beastshield | beastshield-online | beastshield-reforged | beastshield-paradise | empire-kik-soldiers | paradise-kik-soldiers | united-beasts-alliance | worldstrider-infinity | mixed
 ```
 
 ## 4. 条件必填字段
@@ -78,7 +78,21 @@ crossover_info:
 | format=short-story → 无 subtype | 短篇不需要 subtype 字段 |
 | location 必须与物理路径一致 | 原创档案的作品 location 不能写 adaptation-works |
 
-## 6. 校验
+## 6. 发现引擎标签体系（推荐枚举）
+
+为支持 README 跨作品检索，建议 `tags` 字段从以下分类中选取：
+
+| 分类 | 推荐标签 |
+|------|----------|
+| 兽人类型 | `dog`, `wolf`, `tiger`, `bear`, `bull`, `rabbit`, `sheep`, `hyena`, `lion`, `fox`, `deer` |
+| 内容要素 | `redemption`, `death`, `casual-massacre`, `daily-life`, `combat`, `stealth`, `vr-game`, `corporate`, `dystopia`, `horror` |
+| 关系类型 | `father-son`, `mentor-student`, `rivalry`, `romance`, `betrayal`, `teamwork` |
+| 场景标签 | `underground-arena`, `white-city`, `headquarters`, `wilderness`, `prison`, `laboratory` |
+| 叙事风格 | `grimdark`, `dark-comedy`, `tragedy`, `hopepunk`, `slow-burn`, `action-heavy` |
+
+标签使用小写连字符格式，支持自定义扩展。同一作品可携带多个标签。
+
+## 7. 校验
 
 所有 `metadata.yaml` 必须通过 `.schemas/metadata-schema.json` 校验。
 

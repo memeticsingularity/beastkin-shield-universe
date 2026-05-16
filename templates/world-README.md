@@ -1,11 +1,11 @@
 # {中文世界观名} / {English World Name}
 
-![Status](https://img.shields.io/badge/Status-{状态}-brightgreen)
+![Status](https://img.shields.io/badge/Status-{active|stagnant|concept-only}-brightgreen)
 ![World](https://img.shields.io/badge/World-{编码}-blue)
 
 ---
 
-## 1. 内容分级 / Content Rating
+## 一、内容分级 / Content Rating
 
 **成人内容警告 / 18+ Only**
 
@@ -19,17 +19,19 @@ This world contains adult content, sexual themes, violence, and dark narratives.
 
 ---
 
-## 2. 关于本世界观 / About This World
+## 二、关于本世界观 / About This World
 
 {核心概念描述，150-300字}
 
 ---
 
-{English version of the above}
+## I. About This World
+
+{English description, 150-300 words}
 
 ---
 
-## 3. 核心设定 / Core Settings
+## 三、核心设定 / Core Settings
 
 - **{设定要点1}**：{简述}
 - **{设定要点2}**：{简述}
@@ -39,6 +41,8 @@ This world contains adult content, sexual themes, violence, and dark narratives.
 
 ---
 
+## II. Core Settings
+
 - **{Setting Point 1}**: {brief}
 - **{Setting Point 2}**: {brief}
 - **{Setting Point 3}**: {brief}
@@ -47,21 +51,115 @@ For detailed settings, see: [settings/](settings/)
 
 ---
 
-## 4. 作品目录 / Works Directory
+## 四、作品目录 / Works Directory
 
 ### 4.1 原作存档 / Original Archives
 
-| 编码 | 中文名 | 英文名 | 形式 | 链接 |
+#### 主线 / Main
+
+| 编码 | 中文名 | 英文名 | 标签 | 链接 |
 |------|--------|--------|------|------|
+| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [目录](original-archives/chinese/chaptered-stories/main/{code}/README.md) |
+
+#### 支线 / Side
+
+| 编码 | 中文名 | 英文名 | 标签 | 链接 |
+|------|--------|--------|------|------|
+| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [目录](original-archives/chinese/chaptered-stories/side/{code}/README.md) |
+
+#### 短篇 / Short Stories
+
+| 编码 | 中文名 | 英文名 | 标签 | 链接 |
+|------|--------|--------|------|------|
+| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [阅读](original-archives/chinese/short-stories/{code}/{code}.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 
-| 编码 | 中文名 | 英文名 | 形式 | 链接 |
+#### 长篇分章 / Chaptered
+
+| 编码 | 中文名 | 英文名 | 标签 | 链接 |
 |------|--------|--------|------|------|
+| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [目录](adaptation-works/chaptered-stories/{code}/README.md) |
+
+#### 短篇 / Short Stories
+
+| 编码 | 中文名 | 英文名 | 标签 | 链接 |
+|------|--------|--------|------|------|
+| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [阅读](adaptation-works/short-stories/{code}/{code}.md) |
 
 ---
 
-## 5. 快速链接 / Quick Links
+## III. Works Directory
+
+### Original Archives
+
+#### Main
+
+| Code | Title | Tags | Link |
+|------|-------|------|------|
+| `{code}` | `{title-en}` | `{tags}` | [Directory](original-archives/english/chaptered-stories/main/{code}/README.md) |
+
+#### Side
+
+| Code | Title | Tags | Link |
+|------|-------|------|------|
+| `{code}` | `{title-en}` | `{tags}` | [Directory](original-archives/english/chaptered-stories/side/{code}/README.md) |
+
+#### Short Stories
+
+| Code | Title | Tags | Link |
+|------|-------|------|------|
+| `{code}` | `{title-en}` | `{tags}` | [Read](original-archives/english/short-stories/{code}/{code}.md) |
+
+### Adaptation Works
+
+#### Chaptered
+
+| Code | Title | Tags | Link |
+|------|-------|------|------|
+| `{code}` | `{title-en}` | `{tags}` | [Directory](adaptation-works/chaptered-stories/{code}/README.md) |
+
+#### Short Stories
+
+| Code | Title | Tags | Link |
+|------|-------|------|------|
+| `{code}` | `{title-en}` | `{tags}` | [Read](adaptation-works/short-stories/{code}/{code}.md) |
+
+---
+
+## 五、发现入口 / Discovery
+
+### 按兽人类型 / By Species
+
+| 类型 | 作品 |
+|------|------|
+| {species} | [{title}]({code}/) |
+
+### 按内容标签 / By Tags
+
+| 标签 | 作品 |
+|------|------|
+| {tag} | [{title}]({code}/) |
+
+---
+
+## IV. Discovery
+
+### By Species
+
+| Species | Works |
+|---------|-------|
+| {species} | [{title}]({code}/) |
+
+### By Tags
+
+| Tag | Works |
+|-----|-------|
+| {tag} | [{title}]({code}/) |
+
+---
+
+## 六、快速链接 / Quick Links
 
 - 原作存档：[original-archives/](original-archives/)
 - 改编作品：[adaptation-works/](adaptation-works/)
@@ -69,15 +167,19 @@ For detailed settings, see: [settings/](settings/)
 
 ---
 
-## 6. 原作者信息 / Original Creator
+## 七、原作者信息 / Original Creator
 
 | 平台 | 账号 | 链接 |
 |:----:|:----:|:----:|
 
 ---
 
-## 7. 许可协议 / License
+## 八、许可协议 / License
 
 本项目采用 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** 许可证。
 
 完整许可证文本：[LICENSE.md](../../LICENSE.md)
+
+---
+
+*最后更新：YYYY-MM-DD · Last updated: YYYY-MM-DD*

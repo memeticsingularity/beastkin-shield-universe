@@ -1,14 +1,29 @@
-# Beastshield Online（兽游世界OL）
+# Beastshield Online（兽游世界OL）/ Beastshield Online
 
-> Status: active
->
-> VR 网游世界，玩家通过专用游戏机（VR 头显 + 高精度联动装置）进入游戏世界。
+![Status](https://img.shields.io/badge/Status-active-brightgreen)
+![World](https://img.shields.io/badge/World-bso-blue)
 
 ---
 
-## 世界观概述
+## 一、内容分级 / Content Rating
 
-《兽游世界OL》是由兽盾游戏公司开发的一款 R18 VR 网络游戏。玩家通过专用游戏设备进入虚拟世界，扮演兽人角色进行冒险、战斗与生存。
+**成人内容警告 / 18+ Only**
+
+本世界观包含成人内容、性暗示、暴力及黑暗主题。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+
+---
+
+**Adult Content Warning / 18+ Only**
+
+This world contains adult content, sexual themes, violence, and dark narratives. All fictional content is artistic creation and does not encourage similar behavior in reality.
+
+---
+
+## 二、关于本世界观 / About This World
+
+**VR 网游世界**
+
+《兽游世界OL》是由兽盾游戏公司开发的一款 R18 VR 网络游戏。玩家通过专用游戏设备（VR 头显 + 高精度联动装置）进入虚拟世界，扮演兽人角色进行冒险、战斗与生存。
 
 **核心机制**：
 - **精槽系统**：角色受伤不扣血，而是增长精槽；精槽达到 100% 即射精死亡
@@ -19,45 +34,114 @@
 
 ---
 
-## 目录结构
+## I. About This World
 
-```
-beastshield-online/
-├── README.md               # 本文件
-├── settings/               # 设定档案
-│   ├── 0-original-setting/ # 原作设定（作者提供）
-│   │   ├── setting.md      # 按章节提取的元设定
-│   │   └── world-setting.md# 完整世界观设定集
-│   ├── 1-recommended-canon/# 推荐正史
-│   └── 2-story-variants/   # 故事变体
-├── original-archives/      # 原创档案（原作侧）
-│   ├── chinese/
-│   │   ├── chaptered-stories/
-│   │   │   └── main/       # 第一卷
-│   │   └── short-stories/
-│   └── english/
-│       ├── chaptered-stories/
-│       └── short-stories/
-├── adaptation-works/       # 改编作品（用户/AI 创作侧）
-│   ├── chaptered-stories/
-│   └── short-stories/
-└── assets/                 # 媒体资源
-    ├── characters/
-    ├── illustrations/
-    └── reference/
-```
+**VR Online Game World**
+
+Beastshield Online is an R18 VR online game developed by the Beastshield Game Company. Players enter the virtual world through specialized gaming equipment (VR headset + high-precision linkage devices), taking on the roles of beastkin characters for adventure, combat, and survival.
+
+**Core Mechanics**:
+- **Libido Gauge System**: Characters don't lose HP when injured; instead, their libido gauge increases. Reaching 100% results in ejaculation and death.
+- **Execution Mechanism**: Enemies lose their ability to resist when their libido gauge reaches a certain value, allowing free execution.
+- **Equipment-Driven Growth**: No explicit level values; character growth relies on actual experience and equipment acquisition.
+- **Single-Life Setting**: Character death means game over and cancellation of beta test qualifications.
+- **Cash Incentive**: Clearing players share a ten-million RMB prize pool.
 
 ---
 
-## 原作档案
+## 三、核心设定 / Core Settings
 
-| 内容 | 路径 |
+- **精槽系统**：替代血条的灰色空槽，受伤增长，100% 即射精死亡
+- **暴鸡**：暴击的谐音，攻击敏感部位造成巨额精槽增长
+- **撸币**：游戏货币
+- **单命设定**：角色死亡即游戏结束
+
+详细设定请参阅：[settings/](settings/)
+
+---
+
+## II. Core Settings
+
+- **Libido Gauge System**: A gray gauge replacing HP; increases when injured, reaching 100% causes ejaculation and death
+- **Critical Hits**: Attacking sensitive areas causes massive libido gauge increase
+- **In-Game Currency**: Used for trading and equipment purchases
+- **Single-Life Setting**: Character death means permanent game over
+
+For detailed settings, see: [settings/](settings/)
+
+---
+
+## 四、作品目录 / Works Directory
+
+### 4.1 原作存档 / Original Archives
+
+| 编码 | 中文名 | 英文名 | 标签 | 链接 |
+|------|--------|--------|------|------|
+| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [目录](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+
+### 4.2 改编作品 / Adaptation Works
+
+| 编码 | 中文名 | 英文名 | 标签 | 链接 |
+|------|--------|--------|------|------|
+| `bso-a-cs-1-sequel` | 兽游世界OL 续写 | Beastshield Online Sequel | `vr-game`, `daily-life` | [目录](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/README.md) |
+
+---
+
+## III. Works Directory
+
+### Original Archives
+
+| Code | Title | Tags | Link |
+|------|-------|------|------|
+| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [Directory](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+
+### Adaptation Works
+
+| Code | Title | Tags | Link |
+|------|-------|------|------|
+| `bso-a-cs-1-sequel` | Beastshield Online Sequel | `vr-game`, `daily-life` | [Directory](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/README.md) |
+
+---
+
+## 五、发现入口 / Discovery
+
+### 按兽人类型 / By Species
+
+| 类型 | 作品 |
 |------|------|
-| **第一卷** | [`original-archives/chinese/chaptered-stories/main/`](./original-archives/chinese/chaptered-stories/main/) |
+| 犬 / Dog | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| 虎 / Tiger | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| 狼 / Wolf | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+
+### 按内容标签 / By Tags
+
+| 标签 | 作品 |
+|------|------|
+| `vr-game` | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) · [续写](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/) |
+| `combat` | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
 
 ---
 
-## 角色速查
+## IV. Discovery
+
+### By Species
+
+| Species | Works |
+|---------|-------|
+| Dog | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| Tiger | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| Wolf | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+
+### By Tags
+
+| Tag | Works |
+|-----|-------|
+| `vr-game` | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) · [Sequel](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/) |
+| `combat` | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+
+---
+
+## 六、角色速查 / Character Quick Reference
 
 | 角色 | 种族 | 身份 | 说明 |
 |------|------|------|------|
@@ -69,7 +153,7 @@ beastshield-online/
 
 ---
 
-## 术语表
+## 七、术语表 / Glossary
 
 | 术语 | 说明 |
 |------|------|
@@ -81,4 +165,20 @@ beastshield-online/
 
 ---
 
-*最后更新：2026-05-09*
+## 八、快速链接 / Quick Links
+
+- 原作存档：[original-archives/](original-archives/)
+- 改编作品：[adaptation-works/](adaptation-works/)
+- 设定库：[settings/](settings/)
+
+---
+
+## 九、许可协议 / License
+
+本项目采用 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** 许可证。
+
+完整许可证文本：[LICENSE.md](../../LICENSE.md)
+
+---
+
+*最后更新：2026-05-16 · Last updated: 2026-05-16*

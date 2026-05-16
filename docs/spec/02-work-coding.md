@@ -14,7 +14,7 @@
 
 | 字段 | 可选值 | 含义 |
 |------|--------|------|
-| **世界观** | `bs`, `bsr`, `uba`, `bsp` | Beastshield, Reforged, UBA, Paradise |
+| **世界观** | `bs`, `bso`, `bsp`, `bsr`, `eks`, `pks`, `uba`, `wi` | Beastshield, Online, Paradise, Reforged, Empire Kik, Paradise Kik, UBA, Worldstrider |
 | **性质** | `o`, `a`, `c` | original, adaptation, crossover |
 | **形式** | `cm`, `cs`, `s` | chaptered-main, chaptered-side, short-story |
 | **序号** | 自然数 `1, 2, 3...` | 同世界观同性质同形式下的顺序 |
@@ -52,7 +52,7 @@ ch-{自然数}-{标题简写}.md
 编码必须匹配正则：
 
 ```regex
-^(bs|bsp|bsr|uba)-([oac])-(cm|cs|s)-\d+(-[a-z0-9-]+)?$
+^(bs|bso|bsp|bsr|eks|pks|uba|wi)-([oac])-(cm|cs|s)-\d+(-[a-z0-9-]+)?$
 ```
 
 - 禁止三位数补零：`001` ❌ → `1` ✅
