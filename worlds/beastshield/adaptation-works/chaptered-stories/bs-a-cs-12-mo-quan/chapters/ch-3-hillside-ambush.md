@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) | [返回目录](README.md) |
+| [上一章](ch-2-mountain-encounter.md) | [返回目录](README.md) |
 
 ---
 
@@ -229,7 +229,7 @@
 
 ---
 
-| [上一章](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) | [返回目录](README.md) |
+| [上一章](ch-2-mountain-encounter.md) | [返回目录](README.md) |
 
 ---
 
