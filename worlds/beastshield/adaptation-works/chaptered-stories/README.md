@@ -1,60 +1,98 @@
 # 分章长篇改编 / Chaptered Story Adaptations
 
-> 基于《兽盾》世界观创作的分章长篇改编作品。
-> Chaptered story adaptations based on the BeastShield universe.
+> 基于《兽盾》世界观创作的分章长篇改编作品。这里的每一部都是一段完整的旅程——从死亡游戏的血腥竞技场，到VR降临者的第一声心跳，再到黑暗企业帝国的日常缝隙。
+>
+> Chaptered story adaptations based on the BeastShield universe. Each work here is a complete journey—from the blood-soaked arena of death games to a VR newcomer's first heartbeat in the dark corporate empire.
 
 ---
 
-## 一、作品列表 / Works List
+## 一、阅读地图 / Reading Guide
 
-### 主线改编 / Main Story Adaptations
+**想体验最残酷的死亡游戏？** → [**血酬淘汰赛**](bs-a-cm-1-sanguipendium/README.md)，32名兽人只有一人能活。
 
-| 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
-|------|----------|----------|------|------|
-| `bs-a-cm-1-sanguipendium` | 血酬淘汰赛 | Sanguipendium | `改编` `tournament` `死亡游戏` `32角色` | [目录](bs-a-cm-1-sanguipendium/README.md) |
-| `bs-a-cm-2-moying` | 魔影 | Moying | `改编` `主线` `魔影` | [目录](bs-a-cm-2-moying/README.md) |
+**想看最纯粹的黑暗潜入？** → [**魔影**](bs-a-cm-2-moying/README.md)，更衣室里的十六道血痕。
 
-### 支线改编 / Side Story Adaptations
+**想要原作精髓的极致浓缩？** → [**炎魉**](bs-a-cs-4-yanliang/README.md)，赏金猎人炎与魉的顺手杀戮美学——死后像垃圾处理，塞垃圾桶、腿露外面。
 
-| 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
-|------|----------|----------|------|------|
-| `bs-a-cs-1-shorts` | 短篇故事集：兽盾日常切片 | Shorts: Slices of Beastshield Daily Life | `改编` `日常` `单元剧` `世界观扩展` | [目录](bs-a-cs-1-shorts/README.md) |
-| `bs-a-cs-2-birthday-deaths-of-uniforms` | 制服生日死亡 | Birthday Deaths of Uniforms | `改编` `支线` | [目录](bs-a-cs-2-birthday-deaths-of-uniforms/README.md) |
-| `bs-a-cs-3-all-clear` | 全杀 | All Clear | `改编` `支线` | [目录](bs-a-cs-3-all-clear/README.md) |
-| `bs-a-cs-4-yanliang` | 炎魉 | Yanliang | `改编` `支线` `炎魉` | [目录](bs-a-cs-4-yanliang/README.md) |
-| `bs-a-cs-5-beastshield-chronicles` | 兽盾编年史 | Beastshield Chronicles | `改编` `支线` `编年史` | [目录](bs-a-cs-5-beastshield-chronicles/README.md) |
-| `bs-a-cs-6-casual-massacre` | 随意处决 | Casual Massacre | `改编` `支线` | [目录](bs-a-cs-6-casual-massacre/README.md) |
-| `bs-a-cs-7-first-game` | 第一场游戏 | The First Game | `改编` `VR玩家` `降临者` `新手教程` | [目录](bs-a-cs-7-first-game/README.md) |
-| `bs-a-cs-8-auction-show` | 兽盾流拍处决秀 | The Auction Show | `改编` `支线` | [目录](bs-a-cs-8-auction-show/README.md) |
-| `bs-a-cs-9-songguo-story` | 松果的领养日记 | Songguo's Adoption Diary | `改编` `治愈` `日常` `角色扩展` | [目录](bs-a-cs-9-songguo-story/README.md) |
-| `bs-a-cs-10-leishan-resurrection` | 雷山复活 | Leishan Resurrection | `改编` `支线` | [目录](bs-a-cs-10-leishan-resurrection/README.md) |
-| `bs-a-cs-11-daily` | 日常 | Daily | `改编` `支线` `日常` | [目录](bs-a-cs-11-daily/README.md) |
-| `bs-a-cs-12-mo-quan` | 墨犬（续写） | Ink Hound (Sequel) | `改编` `续写` `墨犬` `武侠` | [目录](bs-a-cs-12-mo-quan/README.md) |
+**想换一个轻松的呼吸节奏？** → [**松果的领养日记**](bs-a-cs-9-songguo-story/README.md)，治愈向日常，在黑暗宇宙里找一个温暖的角落。
+
+**好奇"如果玩家降临这个世界"？** → [**第一场游戏**](bs-a-cs-7-first-game/README.md)，VR玩家的新手教程与第一次处决。
 
 ---
 
-## 二、发现入口 / Discovery
+## 二、主线改编 / Main Story Adaptations
+
+更贴近原作主线脉络的大型改编，规模与野心更大。
+
+| 作品 | 一句话简介 | 核心标签 |
+|------|-----------|---------|
+| [**血酬淘汰赛**](bs-a-cm-1-sanguipendium/README.md) | 32名兽人被投入封闭竞技场，只有一人能活着离开。死亡不是终点，是赛制。 | `死亡游戏` ` tournament` `32角色` |
+| [**魔影**](bs-a-cm-2-moying/README.md) | 赏金猎人魔影以黑暗为皮肤，在兽盾更衣室里留下十六道血痕。 | `潜入` `特工局` `黑暗美学` |
+
+---
+
+## 三、支线改编 / Side Story Adaptations
+
+从日常切片到死亡美学，从治愈到武侠——支线是兽盾宇宙最多元的实验场。
+
+### 黑暗与处决 / Darkness & Execution
+
+| 作品 | 一句话简介 | 核心标签 |
+|------|-----------|---------|
+| [**炎魉**](bs-a-cs-4-yanliang/README.md) | 赏金猎人炎负责杀戮，魉负责善后。顺手杀、顺手处理，像扔垃圾一样自然。 | `死亡美学` `顺手杀戮` `垃圾化处理` |
+| [**全杀**](bs-a-cs-3-all-clear/README.md) | 一个不剩。纯粹的清除任务，没有余地，没有怜悯。 | `清除任务` `全灭` |
+| [**兽盾流拍处决秀**](bs-a-cs-8-auction-show/README.md) | 流拍的兽人员工不会被浪费——他们会被摆上另一座舞台。 | `处决秀' `拍卖` `公开处刑` |
+| [**随意处决**](bs-a-cs-6-casual-massacre/README.md) | 死亡毫无价值，杀得顺手，死后像垃圾处理。v3.0 长篇化死亡美学。 | `死亡美学' `v3.0' `垃圾化处理` |
+
+### 日常与治愈 / Daily Life & Healing
+
+| 作品 | 一句话简介 | 核心标签 |
+|------|-----------|---------|
+| [**短篇故事集：兽盾日常切片**](bs-a-cs-1-shorts/README.md) | 单元剧形式的日常片段——食堂、宿舍、训练场，兽盾员工的另一面。 | `日常' `单元剧' `世界观扩展` |
+| [**松果的领养日记**](bs-a-cs-9-songguo-story/README.md) | 松果被领养后的生活记录。在黑暗宇宙中，这是一扇透进光的窗户。 | `治愈' `日常' `角色扩展` |
+| [**日常**](bs-a-cs-11-daily/README.md) | 没有任务，没有杀戮，只是兽盾员工普通的一天。 | `日常' `无任务` |
+
+### 特殊设定 / Special Concepts
+
+| 作品 | 一句话简介 | 核心标签 |
+|------|-----------|---------|
+| [**第一场游戏**](bs-a-cs-7-first-game/README.md) | VR玩家降临兽盾世界，从新手教程到第一次亲手处决一名兽人。 | `VR玩家' `降临者' `新手教程` |
+| [**制服生日死亡**](bs-a-cs-2-birthday-deaths-of-uniforms/README.md) | 兽盾员工的制服与生日，两个看似普通的元素交织成死亡预言。 | `制服' `生日' `命运` |
+| [**雷山复活**](bs-a-cs-10-leishan-resurrection/README.md) | 雷山死了，但故事没有结束。复活之后，他面对的是另一个自己。 | `复活' `身份' `后续` |
+| [**墨犬（续写）**](bs-a-cs-12-mo-quan/README.md) | 武侠风续写。墨犬离开兽盾之后，在另一个江湖里找到了新的刀。 | `武侠' `续写' `江湖` |
+| [**兽盾编年史**](bs-a-cs-5-beastshield-chronicles/README.md) | 以编年体形式梳理兽盾世界的大事记，从公司崛起到帝国黄昏。 | `编年史' `世界观' `史诗` |
+
+---
+
+## 四、发现入口 / Discovery
+
+### 按心情选故事 / By Mood
+
+| 你想感受… | 推荐作品 |
+|-----------|---------|
+| **紧张刺激，九死一生** | 血酬淘汰赛、魔影、全杀 |
+| **黑暗美学，顺手杀戮** | 炎魉、随意处决、兽盾流拍处决秀 |
+| **温暖治愈，喘口气** | 松果的领养日记、日常、兽盾日常切片 |
+| **新奇设定，脑洞大开** | 第一场游戏、制服生日死亡、雷山复活 |
+| **江湖意气，刀光剑影** | 墨犬（续写） |
+| **宏大叙事，史诗感** | 兽盾编年史 |
 
 ### 按标签筛选 / Filter by Tags
 
-- `主线改编 / Main Adaptation`: 魔影
-- `支线改编 / Side Adaptation`: 炎魉、兽盾编年史、随意处决、全杀、制服生日死亡、兽盾流拍处决秀、雷山复活、日常、墨犬（续写）
-- `VR/降临者 / VR/Arrival`: 第一场游戏
-- `日常/治愈 / Slice-of-life/Healing`: 兽盾日常切片、松果的领养日记、日常
 - `死亡游戏 / Death Game`: 血酬淘汰赛
-- `特工局 / Agent Bureau`: 魔影
+- `潜入 / Infiltration`: 魔影、炎魉
+- `日常 / Daily Life`: 兽盾日常切片、松果的领养日记、日常
+- `治愈 / Healing`: 松果的领养日记
+- `VR/降临者 / VR/Arrival`: 第一场游戏
 - `武侠 / Martial Arts`: 墨犬（续写）
-- `世界观扩展 / World Expansion`: 兽盾日常切片
+- `编年史 / Chronicles`: 兽盾编年史
+- `死亡美学 / Death Aesthetics`: 炎魉、随意处决
 - `角色扩展 / Character Expansion`: 松果的领养日记
-- `续写 / Sequel`: 墨犬（续写）
-
-### 按创作状态 / By Status
-
-- `更新中 / Updating`: 血酬淘汰赛、魔影、兽盾日常切片、制服生日死亡、全杀、炎魉、兽盾编年史、随意处决、第一场游戏、兽盾流拍处决秀、松果的领养日记、雷山复活、日常、墨犬（续写）
+- `世界观扩展 / World Expansion`: 兽盾日常切片
 
 ---
 
-## 三、创作规范 / Creation Guidelines
+## 五、创作规范 / Creation Guidelines
 
 1. **编码规则 / Naming**: 遵循 `[world]-a-[form_type]-[number]-[name]` 格式。
 2. **元数据 / Metadata**: 每个作品目录需包含 `metadata.yaml`。
