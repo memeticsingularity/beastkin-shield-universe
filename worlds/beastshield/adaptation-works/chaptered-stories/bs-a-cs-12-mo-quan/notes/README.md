@@ -37,6 +37,7 @@ notes/
 |---------|------|
 | 怎么写黑狗的语气 | `guides/style-guide.md` |
 | 兽盾世界观哪些能用 | `guides/worldview-adaptation.md` |
+| E级黑制服种族选哪个 | `guides/e-level-species-candidates-analysis.md` |
 | 某章的写作计划 | `plans/ch-N-plan.md` |
 | 读者反馈 | `feedback/` |
 | 色色细致度怎么提升 | `optimization/erotic-detail-improvement-plan.md` |
