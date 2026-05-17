@@ -107,9 +107,9 @@
 - [查看变更日志](.process/CHANGELOG.md)
 - [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
 - [项目协作指南](GUIDE.md)
-- [笔风指南](notes/style-guide.md)
-- [世界观适配指南](notes/worldview-adaptation.md)
-- [故事设定档案](notes/story-setting.md)
+- [笔风指南](notes/guides/style-guide.md)
+- [世界观适配指南](notes/guides/worldview-adaptation.md)
+- [故事设定档案](notes/setting/story-setting.md)
 
 ---
 

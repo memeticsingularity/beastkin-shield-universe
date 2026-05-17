@@ -31,7 +31,7 @@ The amnesiac black canine beastkin **Hei Gou (Black Dog)**, bearing the mysterio
 
 ### Project Materials
 
-- [Style Guide](notes/style-guide.md) — Narrative perspective, sentence rhythm, language style, erotic description standards, etc.
-- [Worldview Adaptation Guide](notes/worldview-adaptation.md) — Which parts of the Beastshield universe setting apply, which are stripped, quick-transmigration setting details
-- [Story Setting Files](notes/story-setting.md) — Character, prop, scene, martial arts technique files
+- [Style Guide](notes/guides/style-guide.md) — Narrative perspective, sentence rhythm, language style, erotic description standards, etc.
+- [Worldview Adaptation Guide](notes/guides/worldview-adaptation.md) — Which parts of the Beastshield universe setting apply, which are stripped, quick-transmigration setting details
+- [Story Setting Files](notes/setting/story-setting.md) — Character, prop, scene, martial arts technique files
 - [Project Collaboration Guide](GUIDE.md) — File structure, workflow, prohibited items
