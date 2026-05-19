@@ -20,7 +20,15 @@ notes/
 │   ├── ch-5-plan.md
 │   ├── ch-6-plan.md
 │   ├── ch-7-plan.md
-│   └── ch-8-plan.md
+│   ├── ch-8-plan.md
+│   ├── ch-9-plan-a.md                 # Plan A（暗室路线）：Ch.9–Ch.11
+│   ├── ch-10-plan-a.md
+│   ├── ch-11-plan-a.md
+│   ├── 2026-05-19-plan-a-to-b-reconstruction.md  # Plan A→B 思路重构记录
+│   ├── ch-9-plan-b.md                 # Plan B（武林路线）：Ch.9–Ch.12
+│   ├── ch-10-plan-b.md
+│   ├── ch-11-plan-b.md
+│   └── ch-12-plan-b.md
 ├── feedback/                          # 读者反馈与审查记录
 │   ├── lanse-2026-05-17.md            # lanse对Ch.3–Ch.6的物种+细致度反馈
 │   └── ch7-ch8-review.md              # Ch.7–Ch.8审查与3–8章优化方案
