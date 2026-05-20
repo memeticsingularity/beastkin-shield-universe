@@ -1,0 +1,77 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章故事元数据
+# ============================================
+
+work:
+  code: "bs-a-cs-13-farmhouse"
+
+  title:
+    chinese: "兽盾农家乐（续写）"
+    english: "Beastshield Farmhouse (Continuation)"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "completed"
+  location: "adaptation-works"
+
+  subtype: "side"
+
+  promotion_status: "eligible"
+
+  work_type: "expanded-adaptation"
+
+  tags:
+    - "expanded-adaptation"
+    - "farm-management"
+    - "revenge"
+    - "dark-business"
+    - "character-expansion"
+    - "adapted-from-short"
+
+  inspiration_sources:
+    - type: "expanded-adaptation"
+      original_code: "bs-o-s-farmhouse"
+      description: "Expanded from the short story 'Beastshield Farmhouse' with additional chapters and character development"
+
+  content_warnings:
+    - "violence"
+    - "sexual-content"
+    - "dark-themes"
+    - "non-consensual"
+    - "death"
+
+  reading_time_estimate:
+    minutes: 60
+
+  target_audience: "mature"
+
+creation:
+  author: "Unknown Creator"
+  start_date: "2025-01-01"
+
+  adaptation_info:
+    original_work: "bs-o-s-farmhouse"
+    original_title: "兽盾农家乐"
+    original_author: "Unknown"
+    adaptation_approach: "expanded"
+    key_changes: |
+      1. Expanded from a short story into an 8-chapter narrative
+      2. Added recurring characters (A Tie, Lao Hang, Hu Wei) with ongoing arcs
+      3. Developed the farm management and business expansion elements
+      4. Added relationship dynamics and loyalty conflicts among minions
+      5. Introduced new crop types (Lust Black Ginseng) and harvesting mechanics
+
+  last_update: "2026-05-20"
+  universe_based_on: "beastshield"
+
+  original_code: "bs-o-s-farmhouse"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-05-20"
+      changes: "Initial archive creation / 初始归档"
