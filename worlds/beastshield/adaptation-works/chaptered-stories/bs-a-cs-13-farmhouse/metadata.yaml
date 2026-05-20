@@ -12,7 +12,7 @@ work:
 
   format: "chaptered-story"
   form_type: "cs"
-  status: "completed"
+  status: "ongoing"
   location: "adaptation-works"
 
   subtype: "side"
@@ -27,6 +27,9 @@ work:
     - "revenge"
     - "dark-business"
     - "character-expansion"
+    - "found-family"
+    - "police-alliance"
+    - "transformation"
     - "adapted-from-short"
 
   inspiration_sources:
@@ -42,7 +45,7 @@ work:
     - "death"
 
   reading_time_estimate:
-    minutes: 60
+    minutes: 180
 
   target_audience: "mature"
 
@@ -56,11 +59,14 @@ creation:
     original_author: "Unknown"
     adaptation_approach: "expanded"
     key_changes: |
-      1. Expanded from a short story into an 8-chapter narrative
-      2. Added recurring characters (A Tie, Lao Hang, Hu Wei) with ongoing arcs
+      1. Expanded from a short story into a 26+ chapter narrative across two volumes
+      2. Added recurring characters (A Tie, Lao Hang, Hu Wei, Lao Zhou, Rex) with ongoing arcs
       3. Developed the farm management and business expansion elements
       4. Added relationship dynamics and loyalty conflicts among minions
-      5. Introduced new crop types (Lust Black Ginseng) and harvesting mechanics
+      5. Introduced new crop types (Lust Black Ginseng, Vitality Purple Stem) and harvesting mechanics
+      6. Transformed the narrative from dark revenge to an unconventional found-family story
+      7. Added police alliance storyline with Officer Rex
+      8. Developed romantic rivalry and harem dynamics among the minions
 
   last_update: "2026-05-20"
   universe_based_on: "beastshield"
