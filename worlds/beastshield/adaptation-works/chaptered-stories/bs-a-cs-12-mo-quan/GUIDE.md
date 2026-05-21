@@ -97,7 +97,7 @@ bs-a-cs-12-mo-quan/
 
 | 文件类型 | 存放位置 |
 |---------|---------|
-| 改编故事（新章节） | `chapters/` |
+| 改编故事（新章节） | `chapters/volume-N/` |
 | 角色设定档案 | `.process/settings/characters/` |
 | 场景/地点档案 | `.process/settings/scenes/` |
 | 机制档案 | `.process/settings/systems/` |
