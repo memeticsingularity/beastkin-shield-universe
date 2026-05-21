@@ -34,35 +34,61 @@
 
 ---
 
-## 三、主要角色 / Characters
+## 三、角色列表 / Characters
 
-| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
-|--------|------|----------|---------------|
+### 存活角色
+
+| 角色名 | 种族 | 身份/职业 | 简介 |
+|--------|------|----------|------|
 | 黑狗 | 黑色犬科兽人 | 失忆流浪者 | 身怀神秘功夫的失忆主角，好色但求生本能极强 |
-| 老灰 | 狼兽人 | 兽盾G级杂兵 | 被黑狗饶过一命的狼兽人，机灵且懂得讨好 |
-| 肥豪 | 野猪兽人 | 兽盾G级杂兵 | 壮硕的搜捕队员，死于黑狗的烈火掌 |
-| 河马兽人 | 河马兽人 | 兽盾O级监工 | 奉命在河边巡逻执行的壮硕兽人 |
-| G-15 | 豹兽人 | 兽盾G级杂兵 | 瘦弱的搜捕队员，误将黑狗认作O级长官 |
-| 水牛兽人 | 水牛兽人 | 兽盾R级守卫 | 检查哨的壮硕R级守卫，力量惊人 |
-| 杜宾兽人 | 杜宾犬兽人 | 兽盾R级守卫 | 检查哨的杜宾守卫，精明但春药误己 |
 | 白虎 | 白虎兽人 | 兽盾E级武斗兵 | 精壮的白虎任务负责人，被黑狗救下后关系复杂 |
 | 灰牛兽人 | 灰牛兽人 | 兽盾G级杂兵 | 老实迟钝的牛兽人，黑狗收编的第一个正式下属 |
+| 褐鹿兽人 | 褐鹿兽人 | 兽盾G级杂兵 | 青石镇留守杂兵，被黑狗拍喉点穴后暂时失声 |
+| 黑獒兽人 | 黑獒兽人 | 兽盾G级杂兵 | 青石镇留守杂兵，G-23编号原持有者 |
+
+### 已死亡角色
+
+| 角色名 | 种族 | 身份/职业 | 简介 |
+|--------|------|----------|------|
+| 肥豪 | 野猪兽人 | 兽盾G-12 | 壮硕的搜捕队员，死于黑狗的烈火掌 |
+| 老灰 | 狼兽人 | 兽盾G-8 | 机灵的狼兽人，曾被黑狗饶命，后死于武林夜袭 |
+| 河马兽人 | 河马兽人 | 兽盾O-3 | 奉命河边巡逻的壮硕监工，水中射精死亡 |
+| 水牛兽人 | 水牛兽人 | 兽盾R-1 | 检查哨壮硕守卫，力量惊人 |
+| 杜宾兽人 | 杜宾犬兽人 | 兽盾R-2 | 检查哨精明守卫，春药误己 |
+| 棕虎 | 虎兽人 | 兽盾G-1 | 搜捕队员，Ch.2被俘虏后于Ch.10死亡 |
+| 豹G-15 | 豹兽人 | 兽盾G-15 | 瘦弱搜捕队员，误将黑狗认作O级长官 |
+| 鬣狗兽人 | 鬣狗兽人 | 兽盾G-20 | 茶棚遭遇的杂兵 |
+| 熊兽人 | 熊兽人 | 兽盾G级 | Ch.1洞穴搜捕队员，第一个死于黑狗之手的兽盾兵 |
+| 野猪兽人 | 野猪兽人 | 兽盾G级 | Ch.7暗巷搜捕队员 |
 
 ---
 
 ## III. Characters
 
+### Alive
+
 | Name | Species | Role | Brief Description |
 |------|---------|------|-------------------|
 | Hei Gou (Black Dog) | Black Canine | Amnesiac wanderer | A lustful survivor with mysterious martial arts he barely understands |
-| Lao Hui | Wolf | Beastshield G-rank soldier | A clever wolf spared by Black Dog, useful and obedient |
-| Fei Hao | Boar | Beastshield G-rank soldier | A bulky pursuer who falls to Black Dog's fiery palm |
-| Hippo Beastman | Hippo | Beastshield O-rank overseer | A massive overseer patrolling the riverbank |
-| G-15 | Leopard | Beastshield G-rank soldier | A scrawny soldier who mistakes Black Dog for an officer |
-| Water Buffalo Beastman | Water Buffalo | Beastshield R-rank guard | A powerful R-rank checkpoint guard |
-| Doberman Beastman | Doberman | Beastshield R-rank guard | A sharp R-rank guard undone by his own aphrodisiac rounds |
 | Bai Hu (White Tiger) | White Tiger | Beastshield E-rank fighter | A muscular mission leader saved by Black Dog, complex relationship |
 | Gray Ox Beastman | Gray Ox | Beastshield G-rank soldier | A dull, obedient ox, Black Dog's first loyal subordinate |
+| Brown Deer Beastman | Brown Deer | Beastshield G-rank soldier | A garrison soldier in Qingshi Town, temporarily voiceless from acupoint strike |
+| Black Mastiff Beastman | Black Mastiff | Beastshield G-rank soldier | A garrison soldier in Qingshi Town, original holder of G-23 |
+
+### Deceased
+
+| Name | Species | Role | Brief Description |
+|------|---------|------|-------------------|
+| Fei Hao | Boar | Beastshield G-12 | A bulky pursuer who falls to Black Dog's fiery palm |
+| Lao Hui | Wolf | Beastshield G-8 | A clever wolf spared by Black Dog, later dies in the Wulin night raid |
+| Hippo Beastman | Hippo | Beastshield O-3 | A massive overseer patrolling the riverbank, drowned in semen |
+| Water Buffalo Beastman | Water Buffalo | Beastshield R-1 | A powerful R-rank checkpoint guard |
+| Doberman Beastman | Doberman | Beastshield R-2 | A sharp R-rank guard undone by his own aphrodisiac rounds |
+| Brown Tiger | Tiger | Beastshield G-1 | A pursuer captured in Ch.2, dies in Ch.10 |
+| G-15 | Leopard | Beastshield G-15 | A scrawny soldier who mistakes Black Dog for an officer |
+| Hyena Beastman | Hyena | Beastshield G-20 | A soldier encountered at the roadside teahouse |
+| Bear Beastman | Bear | Beastshield G-rank | The first Beastshield soldier killed by Black Dog in Ch.1 |
+| Boar Beastman | Boar | Beastshield G-rank | A soldier killed in Ch.7 |
 
 ---
 
@@ -76,7 +102,7 @@
 | Ch.4 | 月下河滩 | [阅读](chapters/ch-4-riverside-moonlight.md) |
 | Ch.5 | 山脚客栈 | [阅读](chapters/ch-5-mountain-inn.md) |
 | Ch.6 | 检查哨 | [阅读](chapters/ch-6-checkpoint.md) |
-| Ch.7 | 暗巷反杀 | [阅读](chapters/ch-7-alley-kill.md) |
+| Ch.7 | 路边茶棚 | [阅读](chapters/ch-7-roadside-teahouse.md) |
 | Ch.8 | 青石镇 | [阅读](chapters/ch-8-qingshi-town.md) |
 | Ch.9 | 边缘区 | [阅读](chapters/ch-9-judgment-day.md) |
 | Ch.10 | 同归于尽 | [阅读](chapters/ch-10-mutual-destruction.md) |
@@ -96,7 +122,7 @@
 | Ch.4 | Riverside Moonlight | [Read](chapters/ch-4-riverside-moonlight.md) |
 | Ch.5 | The Lean Leopard's Trial | [Read](chapters/ch-5-mountain-inn.md) |
 | Ch.6 | Checkpoint | [Read](chapters/ch-6-checkpoint.md) |
-| Ch.7 | Alley Kill | [Read](chapters/ch-7-alley-kill.md) |
+| Ch.7 | Roadside Teahouse | [Read](chapters/ch-7-roadside-teahouse.md) |
 | Ch.8 | Qingshi Town | [Read](chapters/ch-8-qingshi-town.md) |
 | Ch.9 | Edge Zone | [Read](chapters/ch-9-judgment-day.md) |
 | Ch.10 | Mutual Destruction | [Read](chapters/ch-10-mutual-destruction.md) |
