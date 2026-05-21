@@ -1,6 +1,6 @@
 # 墨犬（续写）/ Ink Hound (Continuation)
 
-> 状态：updating · 编码：`bs-a-cs-12-mo-quan` · 作者：memeticsingularity · 最后更新：2026-05-16
+> 状态：updating · 编码：`bs-a-cs-12-mo-quan` · 作者：memeticsingularity · 最后更新：2026-05-21
 
 ---
 
@@ -45,6 +45,8 @@
 | G-15 | 豹兽人 | 兽盾G级杂兵 | 瘦弱的搜捕队员，误将黑狗认作O级长官 |
 | 水牛兽人 | 水牛兽人 | 兽盾R级守卫 | 检查哨的壮硕R级守卫，力量惊人 |
 | 杜宾兽人 | 杜宾犬兽人 | 兽盾R级守卫 | 检查哨的杜宾守卫，精明但春药误己 |
+| 白虎 | 白虎兽人 | 兽盾E级武斗兵 | 精壮的白虎任务负责人，被黑狗救下后关系复杂 |
+| 灰牛兽人 | 灰牛兽人 | 兽盾G级杂兵 | 老实迟钝的牛兽人，黑狗收编的第一个正式下属 |
 
 ---
 
@@ -59,6 +61,8 @@
 | G-15 | Leopard | Beastshield G-rank soldier | A scrawny soldier who mistakes Black Dog for an officer |
 | Water Buffalo Beastman | Water Buffalo | Beastshield R-rank guard | A powerful R-rank checkpoint guard |
 | Doberman Beastman | Doberman | Beastshield R-rank guard | A sharp R-rank guard undone by his own aphrodisiac rounds |
+| Bai Hu (White Tiger) | White Tiger | Beastshield E-rank fighter | A muscular mission leader saved by Black Dog, complex relationship |
+| Gray Ox Beastman | Gray Ox | Beastshield G-rank soldier | A dull, obedient ox, Black Dog's first loyal subordinate |
 
 ---
 
@@ -72,6 +76,13 @@
 | Ch.4 | 月下河滩 | [阅读](chapters/ch-4-riverside-moonlight.md) |
 | Ch.5 | 山脚客栈 | [阅读](chapters/ch-5-mountain-inn.md) |
 | Ch.6 | 检查哨 | [阅读](chapters/ch-6-checkpoint.md) |
+| Ch.7 | 暗巷反杀 | [阅读](chapters/ch-7-alley-kill.md) |
+| Ch.8 | 青石镇 | [阅读](chapters/ch-8-qingshi-town.md) |
+| Ch.9 | 边缘区 | [阅读](chapters/ch-9-judgment-day.md) |
+| Ch.10 | 同归于尽 | [阅读](chapters/ch-10-mutual-destruction.md) |
+| Ch.11 | 都是我的 | [阅读](chapters/ch-11-all-mine.md) |
+| Ch.12 | 你…… | [阅读](chapters/ch-12-you.md) |
+| Ch.13 | 给我吧 | [阅读](chapters/ch-13-give-him-to-me.md) |
 
 ---
 
@@ -85,6 +96,13 @@
 | Ch.4 | Riverside Moonlight | [Read](chapters/ch-4-riverside-moonlight.md) |
 | Ch.5 | The Lean Leopard's Trial | [Read](chapters/ch-5-mountain-inn.md) |
 | Ch.6 | Checkpoint | [Read](chapters/ch-6-checkpoint.md) |
+| Ch.7 | Alley Kill | [Read](chapters/ch-7-alley-kill.md) |
+| Ch.8 | Qingshi Town | [Read](chapters/ch-8-qingshi-town.md) |
+| Ch.9 | Edge Zone | [Read](chapters/ch-9-judgment-day.md) |
+| Ch.10 | Mutual Destruction | [Read](chapters/ch-10-mutual-destruction.md) |
+| Ch.11 | All Mine | [Read](chapters/ch-11-all-mine.md) |
+| Ch.12 | You... | [Read](chapters/ch-12-you.md) |
+| Ch.13 | Give Him to Me | [Read](chapters/ch-13-give-him-to-me.md) |
 
 ---
 
@@ -124,4 +142,4 @@
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-05-21 · Last updated: 2026-05-21*
