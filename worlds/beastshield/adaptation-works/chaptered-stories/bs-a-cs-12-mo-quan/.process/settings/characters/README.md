@@ -66,7 +66,7 @@ characters/
 
 ### 武林猎网（第二卷追杀者）
 
-> 见 [05-wulin-hunters/README.md](./05-wulin-hunters/) — 共 28 名追杀者，其中 8 名已建档（W-01 至 W-08）
+> 见 [05-wulin-hunters/README.md](./05-wulin-hunters/) — 共 28 名追杀者，全部已建档（W-01 至 W-28）
 
 ### 暗室杀手组织（预留）
 
