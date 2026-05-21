@@ -34,7 +34,10 @@ bs-a-cs-12-mo-quan/
 ├── metadata.yaml               # 作品元数据
 │
 ├── chapters/                   # 章节正文
-│   └── ch-03.md                # 第三章起（原创续写）
+│   ├── volume-1/               # 第一卷：主角线（Ch.1–Ch.17）
+│   │   └── ch-0N.md
+│   ├── volume-2/               # 第二卷：武林视角线
+│   └── volume-3/               # 第三卷：交汇决战
 │
 ├── notes/                      # 创作笔记
 │   └── style-guide-reference.md # 笔风指南引用
@@ -85,7 +88,7 @@ bs-a-cs-12-mo-quan/
 - 在 `notes/` 下创建大纲文件：`YYYY-MM-DD-chapter-N-outline.md`
 
 **步骤6：正文创作**
-- 文件：`chapters/ch-0N.md`
+- 文件：`chapters/volume-1/ch-0N.md`
 - 遵循原作笔风指南的所有规范
 
 ---
