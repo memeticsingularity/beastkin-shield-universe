@@ -38,6 +38,22 @@
 | W-26 | 貂宋巧 | 貂 | 貂毒 | 夺功 | [026-diao-song-qiao.md](026-diao-song-qiao.md) |
 | W-27 | 鼬黄臭 | 鼬 | 鼬臭 | 误打误撞 | [027-you-huang-chou.md](027-you-huang-chou.md) |
 | W-28 | 狸花变 | 狸 | 狸猫换日 | 悬赏 | [028-li-hua-bian.md](028-li-hua-bian.md) |
+| W-29 | 狮王霸 | 狮 | 百兽啸 | 报仇 | [029-shi-wang-ba.md](029-shi-wang-ba.md) |
+| W-30 | 豺群烈 | 豺 | 群狼噬 | 报仇 | [030-chai-qun-lie.md](030-chai-qun-lie.md) |
+| W-31 | 獾土坚 | 獾 | 地行掘 | 误打误撞 | [031-huan-tu-jian.md](031-huan-tu-jian.md) |
+| W-32 | 鸦黑鸣 | 鸦 | 死亡预告 | 悬赏 | [032-ya-hei-ming.md](032-ya-hei-ming.md) |
+| W-33 | 鹫高空 | 鹫 | 高空食腐 | 悬赏 | [033-jiu-gao-kong.md](033-jiu-gao-kong.md) |
+| W-34 | 孔展开 | 孔雀 | 开屏幻光 | 夺功 | [034-kong-zhan-kai.md](034-kong-zhan-kai.md) |
+| W-35 | 蜥林断 | 蜥蜴 | 断尾再生 | 误打误撞 | [035-xi-lin-duan.md](035-xi-lin-duan.md) |
+| W-36 | 龟长寿 | 龟 | 龟息养生 | 清理门户 | [036-gui-chang-shou.md](036-gui-chang-shou.md) |
+| W-37 | 章八触 | 章鱼 | 八臂缚 | 夺功 | [037-zhang-ba-chu.md](037-zhang-ba-chu.md) |
+| W-38 | 蜂群刺 | 蜂 | 蜂群围攻 | 报仇 | [038-feng-qun-ci.md](038-feng-qun-ci.md) |
+| W-39 | 蚁巨力 | 蚁 | 巨颚咬合 | 悬赏 | [039-yi-ju-li.md](039-yi-ju-li.md) |
+| W-40 | 熊太极 | 熊猫 | 太极圆转 | 误打误撞 | [040-xiong-tai-ji.md](040-xiong-tai-ji.md) |
+| W-41 | 浣水清 | 浣熊 | 浣洗偷盗 | 悬赏 | [041-huan-shui-qing.md](041-huan-shui-qing.md) |
+| W-42 | 蝠夜声 | 蝙蝠 | 声波定位 | 夺功 | [042-fu-ye-sheng.md](042-fu-ye-sheng.md) |
+| W-43 | 驼沙远 | 骆驼 | 沙漠耐力 | 悬赏 | [043-tuo-sha-yuan.md](043-tuo-sha-yuan.md) |
+| W-44 | 猬蜷缩 | 猬 | 蜷缩防御 | 误打误撞 | [044-wei-quan-suo.md](044-wei-quan-suo.md) |
 
 ---
 
