@@ -17,6 +17,14 @@
 | 章节 | 标题 | 链接 |
 |------|------|------|
 | Ch.1 | 一同着的生活 | [阅读](ch-1-life-together.md) |
+| Ch.2 | 雷克斯的体验 | [阅读](ch-2-rexs-experience.md) |
+| Ch.3 | 阿铁的心事 | [阅读](ch-3-aties-mood.md) |
+| Ch.4 | 雷克斯的往事 | [阅读](ch-4-rexs-past.md) |
+| Ch.5 | 魅欲藤 | [阅读](ch-5-charm-vine.md) |
+| Ch.6 | 棕熊访客 | [阅读](ch-6-brown-bear-visitor.md) |
+| Ch.7 | 魅欲藤余波 | [阅读](ch-7-aftermath.md) |
+| Ch.8 | 大木归来 | [阅读](ch-8-reunion.md) |
+| Ch.9 | 离别与警告 | [阅读](ch-9-farewell-and-warning.md) |
 
 ---
 

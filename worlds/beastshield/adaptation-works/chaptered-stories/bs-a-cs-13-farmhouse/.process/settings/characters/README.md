@@ -39,6 +39,7 @@
 |------|--------|------|------|---------|
 | [`03-allies/001-rex.md`](03-allies/001-rex.md) | 雷克斯 | 德牧兽人 | 市警局特别行动组负责人 | vol1-ch20 |
 | [`03-allies/002-dr-gu.md`](03-allies/002-dr-gu.md) | 古博士 | 雪纳瑞狗兽人 | 生化学家/种子供应者 | vol1-ch1 |
+| [`03-allies/003-da-mu.md`](03-allies/003-da-mu.md) | 大木 | 棕熊兽人 | 兽盾调查组前成员 | vol1-ch18 / vol2-ch6 |
 
 ### 龙套
 
@@ -52,6 +53,7 @@
 | [`04-minor/006-basement-trio.md`](04-minor/006-basement-trio.md) | 未知×3 | 多种族 | 顽固分子（被带走） | vol1-ch20 |
 | [`04-minor/007-investigators.md`](04-minor/007-investigators.md) | 未知×3 | 两只狼+棕熊 | 兽盾调查组 | vol1-ch18 |
 | [`04-minor/008-others.md`](04-minor/008-others.md) | 未知若干 | 多种族 | 后棚其他无名肥料 | vol1-ch3 起 |
+| [`04-minor/009-wolf-brothers.md`](04-minor/009-wolf-brothers.md) | 狼峰、狼玛 | 灰狼兽人 | 大木的小弟/调查组队员 | vol2-ch8 |
 
 ---
 
@@ -62,4 +64,4 @@
 
 ---
 
-*最后更新：2026-05-20*
+*最后更新：2026-05-21*

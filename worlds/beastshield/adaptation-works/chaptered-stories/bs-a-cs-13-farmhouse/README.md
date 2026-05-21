@@ -42,6 +42,7 @@ As his operation grows, his motivations shift from pure revenge to genuine ambit
 | 老周 | 灰狼兽人 | 兽盾前小队长/新成员 | 被遗忘在地下室的灰狼，苏醒后色眯眯地爱上小谷，负责对外联络 |
 | 雷克斯 | 德牧兽人 | 市警局特别行动组负责人/新成员 | 身材健壮、胡茬性感的警官，意外成为农家乐最靠谱的盟友 |
 | 古博士 | 雪纳瑞狗兽人 | 生化学家/农场合作者 | 小谷爷爷的同事，提供种子和技术指导 |
+| 大木 | 棕熊兽人 | 兽盾调查组前成员/访客 | 落魄的调查组棕熊，带来兽盾内部混乱的消息，临别前留下对雷克斯的警告 |
 
 ---
 
@@ -58,4 +59,4 @@ As his operation grows, his motivations shift from pure revenge to genuine ambit
 
 ---
 
-*最后更新：2026-05-20 · Last updated: 2026-05-20*
+*最后更新：2026-05-21 · Last updated: 2026-05-21*
