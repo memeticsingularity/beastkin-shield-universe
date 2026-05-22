@@ -9,30 +9,30 @@
 
 ## 场景目录
 
-| 编号 | 场景名 | 猎手组合 | 敌人配置 | 档案 |
-|------|--------|----------|---------|------|
-| 001 | 矿山营地 | 牛蒋力 + 蚁巨力 | 蓝制服牛×1 + 绿制服×15 | [001-mine-camp.md](001-mine-camp.md) |
-| 002 | 青石镇酒馆 | 猪朱震 + 熊太极 | 白制服虎×1 + 绿制服×10 | [002-town-tavern.md](002-town-tavern.md) |
-| 003 | 青石镇码头 | 章八触 + 鲨海血 | 黑制服狗×1 + 绿制服×12 | [003-dock-wharf.md](003-dock-wharf.md) |
-| 004 | 青石镇外河流 | 鳄江翻 + 浣水清 | 蓝制服熊×1 + 绿制服×10 | [004-riverside.md](004-riverside.md) |
-| 005 | 荒野营地 | 狮王霸 + 狼银月 | 白制服虎×1 + 绿制服×12 | [005-wilderness-camp.md](005-wilderness-camp.md) |
-| 006 | 青石镇暗巷 | 蛛罗丝 + 鼠赵针 | 黑制服狗×1 + 绿制服×10 | [006-dark-alleys.md](006-dark-alleys.md) |
-| 007 | 沙漠哨站 | 驼沙远 + 蝎杜毒 | 蓝制服牛×1 + 绿制服×14 | [007-desert-outpost.md](007-desert-outpost.md) |
-| 008 | 兽盾训练场 | 鸡崔鸣 + 羊郑柔 | 白制服虎×1 + 绿制服×16 | [008-training-ground.md](008-training-ground.md) |
-| 009 | 密林猎场 | 虎黄啸 + 豺群烈 | 白制服虎×1 + 绿制服×12 | [009-forest-hunt.md](009-forest-hunt.md) |
-| 010 | 废弃寺庙 | 龙炎阳 + 龟长寿 | 蓝制服牛×1 + 绿制服×14 | [010-abandoned-temple.md](010-abandoned-temple.md) |
-| 011 | 镜花水月楼 | 狐陈香 + 狸花变 + 兔白幻 | 黑制服狗×1 + 绿制服×12 | [011-brothel-illusion.md](011-brothel-illusion.md) |
-| 012 | 屋顶夜袭 | 螳唐斩 + 豹林影 | 黑制服狗×1 + 绿制服×12 | [012-rooftop-assault.md](012-rooftop-assault.md) |
-| 013 | 地下暗渠 | 蛇柳青 + 蝠夜声 | 黑制服狗×1 + 绿制服×10 | [013-underground-aqueduct.md](013-underground-aqueduct.md) |
-| 014 | 平原追击 | 马周驰 + 犬吴踪 | 蓝制服牛×1 + 绿制服×14 | [014-plain-pursuit.md](014-plain-pursuit.md) |
-| 015 | 仓库潜入 | 猴孙偷 + 猬蜷缩 | 白制服虎×1 + 绿制服×12 | [015-warehouse-infiltration.md](015-warehouse-infiltration.md) |
-| 016 | 悬崖绝壁 | 鹰高飞 + 鹫高空 | 蓝制服牛×1 + 绿制服×12 | [016-cliff-assault.md](016-cliff-assault.md) |
-| 017 | 城门冲撞 | 象石踏 + 犀金冲 | 白制服虎×1 + 绿制服×16 | [017-gate-charge.md](017-gate-charge.md) |
-| 018 | 沼泽诱杀 | 鹿郑逸 + 熊贺抱 | 蓝制服熊×1 + 绿制服×10 | [018-swamp-trap.md](018-swamp-trap.md) |
-| 019 | 化工厂 | 貂宋巧 + 鼬黄臭 | 蓝制服牛×1 + 绿制服×12 | [019-chemical-plant.md](019-chemical-plant.md) |
-| 020 | 钟楼广场 | 鸦黑鸣 + 孔展开 | 白制服虎×1 + 绿制服×14 | [020-clocktower-plaza.md](020-clocktower-plaza.md) |
-| 021 | 废墟蜂群 | 蜥林断 + 蜂群刺 | 黑制服狗×1 + 绿制服×10 | [021-ruins-swarm.md](021-ruins-swarm.md) |
-| 022 | 地下隧道 | 獾土坚（独行） | 无高级士官 + 绿制服×10 | [022-underground-tunnel.md](022-underground-tunnel.md) |
+| 编号 | 场景名 | 对应章节 | 猎手组合 | 敌人配置 | 档案 |
+|------|--------|---------|----------|---------|------|
+| 001 | 矿山营地 | Ch.18 | 牛蒋力 + 蚁巨力 | 蓝制服牛×1 + 绿制服×15 | [001-mine-camp.md](001-mine-camp.md) |
+| 007 | 沙漠哨站 | Ch.19 | 驼沙远 + 蝎杜毒 | 蓝制服牛×1 + 绿制服×14 | [007-desert-outpost.md](007-desert-outpost.md) |
+| 005 | 荒野营地 | Ch.20 | 狮王霸 + 狼银月 | 白制服虎×1 + 绿制服×12 | [005-wilderness-camp.md](005-wilderness-camp.md) |
+| 009 | 密林猎场 | Ch.21 | 虎黄啸 + 豺群烈 | 白制服虎×1 + 绿制服×12 | [009-forest-hunt.md](009-forest-hunt.md) |
+| 018 | 沼泽诱杀 | Ch.22 | 鹿郑逸 + 熊贺抱 | 蓝制服熊×1 + 绿制服×10 | [018-swamp-trap.md](018-swamp-trap.md) |
+| 010 | 废弃寺庙 | Ch.23 | 龙炎阳 + 龟长寿 | 蓝制服牛×1 + 绿制服×14 | [010-abandoned-temple.md](010-abandoned-temple.md) |
+| 004 | 青石镇外河流 | Ch.24 | 鳄江翻 + 浣水清 | 蓝制服熊×1 + 绿制服×10 | [004-riverside.md](004-riverside.md) |
+| 016 | 悬崖绝壁 | Ch.25 | 鹰高飞 + 鹫高空 | 蓝制服牛×1 + 绿制服×12 | [016-cliff-assault.md](016-cliff-assault.md) |
+| 014 | 平原追击 | Ch.26 | 马周驰 + 犬吴踪 | 蓝制服牛×1 + 绿制服×14 | [014-plain-pursuit.md](014-plain-pursuit.md) |
+| 017 | 城门冲撞 | Ch.27 | 象石踏 + 犀金冲 | 白制服虎×1 + 绿制服×16 | [017-gate-charge.md](017-gate-charge.md) |
+| 002 | 青石镇酒馆 | Ch.28 | 猪朱震 + 熊太极 | 白制服虎×1 + 绿制服×10 | [002-town-tavern.md](002-town-tavern.md) |
+| 003 | 青石镇码头 | Ch.29 | 章八触 + 鲨海血 | 黑制服狗×1 + 绿制服×12 | [003-dock-wharf.md](003-dock-wharf.md) |
+| 008 | 兽盾训练场 | Ch.30 | 鸡崔鸣 + 羊郑柔 | 白制服虎×1 + 绿制服×16 | [008-training-ground.md](008-training-ground.md) |
+| 019 | 化工厂 | Ch.31 | 貂宋巧 + 鼬黄臭 | 蓝制服牛×1 + 绿制服×12 | [019-chemical-plant.md](019-chemical-plant.md) |
+| 006 | 青石镇暗巷 | Ch.32 | 蛛罗丝 + 鼠赵针 | 黑制服狗×1 + 绿制服×10 | [006-dark-alleys.md](006-dark-alleys.md) |
+| 012 | 屋顶夜袭 | Ch.33 | 螳唐斩 + 豹林影 | 黑制服狗×1 + 绿制服×12 | [012-rooftop-assault.md](012-rooftop-assault.md) |
+| 011 | 镜花水月楼 | Ch.34 | 狐陈香 + 狸花变 + 兔白幻 | 黑制服狗×1 + 绿制服×12 | [011-brothel-illusion.md](011-brothel-illusion.md) |
+| 020 | 钟楼广场 | Ch.35 | 鸦黑鸣 + 孔展开 | 白制服虎×1 + 绿制服×14 | [020-clocktower-plaza.md](020-clocktower-plaza.md) |
+| 015 | 仓库潜入 | Ch.36 | 猴孙偷 + 猬蜷缩 | 白制服虎×1 + 绿制服×12 | [015-warehouse-infiltration.md](015-warehouse-infiltration.md) |
+| 021 | 废墟蜂群 | Ch.37 | 蜥林断 + 蜂群刺 | 黑制服狗×1 + 绿制服×10 | [021-ruins-swarm.md](021-ruins-swarm.md) |
+| 013 | 地下暗渠 | Ch.38 | 蛇柳青 + 蝠夜声 | 黑制服狗×1 + 绿制服×10 | [013-underground-aqueduct.md](013-underground-aqueduct.md) |
+| 022 | 地下隧道 | Ch.39 | 獾土坚（独行） | 无高级士官 + 绿制服×10 | [022-underground-tunnel.md](022-underground-tunnel.md) |
 
 ---
 
@@ -84,6 +84,13 @@
 3. **猎手的物种特性必须体现在战斗中**：牛的冲撞、蛛的缠绕、龟的耐耗
 4. **结伴必须有理由**：不是硬凑，是命运/利益/仇恨的交汇
 5. **色色细致度**：武林猎手方承载创意，兽盾兵方保持规范
+
+---
+
+## 关联文档
+
+- [第二卷情节推进与汇聚框架](../../../../notes/plans/2026-05-23-volume-2-plot-progression.md) — 22场景如何编织为四幕叙事，最终汇聚至青石镇
+- [第二卷总体设计](../../../../notes/plans/2026-05-22-volume-2-plan.md) — 世界观元素、对轴方案、笔风规范
 
 ---
 

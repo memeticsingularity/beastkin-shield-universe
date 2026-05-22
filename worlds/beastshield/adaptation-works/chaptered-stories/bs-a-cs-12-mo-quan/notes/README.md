@@ -30,7 +30,12 @@ notes/
 │   ├── ch-11-plan-b.md
 │   ├── ch-12-plan-b.md
 │   ├── ch-13-plan.md
-│   └── ch-14-plan.md
+│   ├── ch-14-plan.md
+│   ├── ch-15-plan.md
+│   ├── ch-16-plan.md
+│   ├── ch-17-plan.md
+│   ├── 2026-05-22-volume-2-plan.md    # 第二卷总体设计（武林视角线）
+│   └── 2026-05-23-volume-2-plot-progression.md  # 第二卷情节推进与汇聚框架
 ├── feedback/                          # 读者反馈与审查记录
 │   ├── lanse-2026-05-17.md            # lanse对Ch.3–Ch.6的物种+细致度反馈
 │   └── ch7-ch8-review.md              # Ch.7–Ch.8审查与3–8章优化方案
@@ -49,9 +54,10 @@ notes/
 | 兽盾世界观哪些能用 | `guides/worldview-adaptation.md` |
 | E级黑制服种族选哪个 | `guides/e-level-species-candidates-analysis.md` |
 | 某章的写作计划 | `plans/ch-N-plan.md` |
+| 第二卷怎么安排 | `plans/2026-05-23-volume-2-plot-progression.md` |
 | 读者反馈 | `feedback/` |
 | 色色细致度怎么提升 | `optimization/erotic-detail-improvement-plan.md` |
 
 ---
 
-*最后更新：2026-05-21*
+*最后更新：2026-05-23*
