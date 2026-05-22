@@ -31,6 +31,10 @@
 | Ch.13 | 等待 | [阅读](ch-13-waiting-under-the-moon.md) |
 | Ch.14 | 变色龙 | [阅读](ch-14-the-chameleon.md) |
 | Ch.15 | 兄弟 | [阅读](ch-15-brothers-reckoning.md) |
+| Ch.16 | 真相的代价 | [阅读](ch-16-the-price-of-truth.md) |
+| Ch.17 | 老夯的泪水 | [阅读](ch-17-lao-hans-tears.md) |
+| Ch.18 | 爷爷的笔记 | [阅读](ch-18-grandpas-notes.md) |
+| Ch.19 | 老周的抉择 | [阅读](ch-19-zhous-choice.md) |
 
 ---
 
