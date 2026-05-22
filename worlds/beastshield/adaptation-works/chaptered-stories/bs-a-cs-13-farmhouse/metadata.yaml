@@ -31,6 +31,11 @@ work:
     - "police-alliance"
     - "transformation"
     - "adapted-from-short"
+    - "betrayal"
+    - "conspiracy"
+    - "blood-essence-stone"
+    - "semivore"
+    - "found-family-gone-wrong"
 
   inspiration_sources:
     - type: "expanded-adaptation"
@@ -50,7 +55,7 @@ work:
   target_audience: "mature"
 
 creation:
-  author: "Unknown Creator"
+  author: "雨禾"
   start_date: "2025-01-01"
 
   adaptation_info:
@@ -67,8 +72,13 @@ creation:
       6. Transformed the narrative from dark revenge to an unconventional found-family story
       7. Added police alliance storyline with Officer Rex
       8. Developed romantic rivalry and harem dynamics among the minions
+      9. Revealed the "Semivore" (噬精兽) elite conspiracy and the true purpose of the farm's crops
+      10. Introduced Blood Essence Stone (血精石) and the transformation cure hidden in Grandpa's notes
+      11. Lao Zhou's betrayal reveal: former police officer, seeking to restore his dead partner A Lan (who may be Xiao Gu)
+      12. Dr. Gu's true identity revealed as a Semivore and Beastshield researcher
+      13. Expanded to two volumes with 44 chapters total, shifting from dark revenge to conspiracy thriller
 
-  last_update: "2026-05-20"
+  last_update: "2026-05-23"
   universe_based_on: "beastshield"
 
   original_code: "bs-o-s-farmhouse"
@@ -81,3 +91,6 @@ creation:
     - version: "1.0"
       date: "2026-05-20"
       changes: "Initial archive creation / 初始归档"
+    - version: "1.1"
+      date: "2026-05-23"
+      changes: "Expanded to 44 chapters across two volumes; revealed Semivore conspiracy, Blood Essence Stone, and Lao Zhou's betrayal; updated all character profiles and story settings"
