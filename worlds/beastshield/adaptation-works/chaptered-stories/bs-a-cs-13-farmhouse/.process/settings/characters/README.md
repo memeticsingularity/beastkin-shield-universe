@@ -29,7 +29,7 @@
 | 档案 | 角色名 | 种族 | 身份 | 首次登场 |
 |------|--------|------|------|---------|
 | [`02-captured/001-a-tie.md`](02-captured/001-a-tie.md) | 阿铁 | 黑熊兽人 | 第一个跟班 | vol1-ch1 |
-| [`02-captured/002-lao-hang.md`](02-captured/002-lao-hang.md) | 老夯 | 野猪兽人 | 第二个跟班/后勤总管 | vol1-ch4 |
+| [`02-captured/002-liu-hang.md`](02-captured/002-liu-hang.md) | 刘夯（老夯） | 野猪兽人 | 第二个跟班/后勤总管 | vol1-ch4 |
 | [`02-captured/003-hu-wei.md`](02-captured/003-hu-wei.md) | 虎威 | 老虎兽人 | 私有财产（前小队长） | vol1-ch3 |
 | [`02-captured/004-lao-zhou.md`](02-captured/004-lao-zhou.md) | 老周 | 灰狼兽人 | 新成员/供货对接人 | vol1-ch2 |
 
@@ -40,6 +40,7 @@
 | [`03-allies/001-rex.md`](03-allies/001-rex.md) | 雷克斯 | 德牧兽人 | 市警局特别行动组负责人 | vol1-ch20 |
 | [`03-allies/002-dr-gu.md`](03-allies/002-dr-gu.md) | 古博士 | 雪纳瑞狗兽人 | 生化学家/种子供应者 | vol1-ch1 |
 | [`03-allies/003-da-mu.md`](03-allies/003-da-mu.md) | 大木 | 棕熊兽人 | 兽盾调查组前成员 | vol1-ch18 / vol2-ch6 |
+| [`03-allies/004-xiao-zhu.md`](03-allies/004-xiao-zhu.md) | 小竹 | 雪豹兽人 | 调查组新成员/刺客（已转化） | vol2-ch12 |
 
 ### 龙套
 
@@ -54,6 +55,8 @@
 | [`04-minor/007-investigators.md`](04-minor/007-investigators.md) | 未知×3 | 两只狼+棕熊 | 兽盾调查组 | vol1-ch18 |
 | [`04-minor/008-others.md`](04-minor/008-others.md) | 未知若干 | 多种族 | 后棚其他无名肥料 | vol1-ch3 起 |
 | [`04-minor/009-wolf-brothers.md`](04-minor/009-wolf-brothers.md) | 狼峰、狼玛 | 灰狼兽人 | 大木的小弟/调查组队员 | vol2-ch8 |
+| [`04-minor/010-liu-mao.md`](04-minor/010-liu-mao.md) | 刘昴 | 野猪兽人 | 影牙小队压轴成员/老夯之弟 | vol2-ch15 |
+| [`04-minor/011-chameleon.md`](04-minor/011-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
 
 ---
 
@@ -64,4 +67,4 @@
 
 ---
 
-*最后更新：2026-05-21*
+*最后更新：2026-05-22*

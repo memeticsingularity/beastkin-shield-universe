@@ -25,6 +25,12 @@
 | Ch.7 | 魅欲藤余波 | [阅读](ch-7-aftermath.md) |
 | Ch.8 | 大木归来 | [阅读](ch-8-reunion.md) |
 | Ch.9 | 离别与警告 | [阅读](ch-9-farewell-and-warning.md) |
+| Ch.10 | 备战 | [阅读](ch-10-preparation.md) |
+| Ch.11 | 影牙夜袭 | [阅读](ch-11-shadow-fang-night-raid.md) |
+| Ch.12 | 雪豹刺客 | [阅读](ch-12-snow-leopard-assassin.md) |
+| Ch.13 | 等待 | [阅读](ch-13-waiting-under-the-moon.md) |
+| Ch.14 | 变色龙 | [阅读](ch-14-the-chameleon.md) |
+| Ch.15 | 兄弟 | [阅读](ch-15-brothers-reckoning.md) |
 
 ---
 
