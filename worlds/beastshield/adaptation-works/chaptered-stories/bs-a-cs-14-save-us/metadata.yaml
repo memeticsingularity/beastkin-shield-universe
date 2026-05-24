@@ -1,0 +1,81 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章故事元数据
+# ============================================
+
+work:
+  code: "bs-a-cs-14-save-us"
+
+  title:
+    chinese: "Save Us Then Load World"
+    english: "Save Us Then Load World"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "planning"
+  location: "adaptation-works"
+
+  subtype: "side"
+
+  promotion_status: "not_eligible"
+
+  work_type: "original-adaptation"
+
+  tags:
+    - "original-adaptation"
+    - "save-load"
+    - "utopia-attempt"
+    - "time-loop"
+    - "found-family"
+    - "game-mechanics"
+    - "first-person"
+    - "consciousness-upload"
+    - "ethical-dilemma"
+    - "massacre-prevention"
+    - "delegation-system"
+    - "trigger-events"
+
+  content_warnings:
+    - "violence"
+    - "sexual-content"
+    - "dark-themes"
+    - "death"
+    - "psychological-trauma"
+
+  reading_time_estimate:
+    minutes: 0
+
+  target_audience: "mature"
+
+creation:
+  author: "memeticsingularity"
+  start_date: "2026-05-24"
+
+  adaptation_info:
+    original_work: "bs-o-cm-1-main-story-1"
+    original_title: "兽盾主线故事 第一卷·兽游世界"
+    original_author: "memeticsingularity"
+    adaptation_approach: "original-spinoff"
+    key_changes: |
+      1. First-person protagonist is a deceased player whose consciousness is uploaded into the game
+      2. Protagonist gains "Save Us Then Load World" abilities — primarily save/load with memory retention across loops
+      3. Genre shift from action/adventure kill-fest to utopian relationship-building / strategic tragedy
+      4. Core mechanic: protagonist tries to save everyone (including nameless grunts) through trial-and-error reloads
+      5. NPC delegation system: trusted companions can handle parallel crises, but may die in the attempt
+      6. Trigger-event awareness: the game world runs on event locks, not real-time simulation, creating strategic windows
+      7. Ethical core: no death is "acceptable"; every casualty is mourned and revisited
+      8. Romantic/relationship elements with multiple Beastshield employees (galgame-inspired but not harem-collecting)
+      9. Structural death (systemic violence of Beastshield) vs personal salvation as ultimate thematic conflict
+      10. Memory bleed and psychological cost of retaining loop memories while others reset
+
+  last_update: "2026-05-24"
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "0.1"
+      date: "2026-05-24"
+      changes: "Initial concept creation / 初始概念创建"
