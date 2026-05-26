@@ -8,7 +8,9 @@
 
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 首次登场 | 状态 |
 |------|----------|--------|------|------|------|----------|------|
-| G-001 | [g-001-zong-xiong](g-001-zong-xiong.md) | 棕熊兽人 | 熊 | 棕皮 | G级（军绿） | [L-01](../levels/l-01-tutorial/) | 可拯救 |
+| — | [protagonist-qidian](protagonist-qidian.md) | 奇点 | 人类（玩家） | — | — | [Ch.1](../../chapters/volume-1/ch-01-tutorial.md) | 主角 |
+| — | [npc-yuhe](npc-yuhe.md) | 雨禾 | 人类（玩家） | — | — | [Ch.1](../../chapters/volume-1/ch-01-tutorial.md) | 现实好友 |
+| G-001 | [g-001-zong-xiong](g-001-zong-xiong.md) | 熊石厚 | 熊 | 棕皮 | G级（军绿） | [L-01](../levels/l-01-tutorial/) | 已拯救 |
 | G-078 | [g-078-hei-xiong](g-078-hei-xiong.md) | 黑熊兽人 | 熊（黑熊） | 纯黑皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
 | G-112 | [g-112-hei-zhu](g-112-hei-zhu.md) | 黑猪兽人 | 猪（野猪） | 黑皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
 | G-205 | [g-205-hui-lan-niu](g-205-hui-lan-niu.md) | 灰蓝牛兽人 | 牛（水牛） | 灰蓝皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
@@ -50,5 +52,6 @@
 
 ---
 
-*角色总览版本：1.0*
+*角色总览版本：1.1*
 *创建日期：2026-05-24*
+*最后更新：2026-05-26*

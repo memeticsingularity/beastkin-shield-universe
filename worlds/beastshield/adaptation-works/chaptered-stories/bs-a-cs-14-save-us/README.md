@@ -1,6 +1,6 @@
 # Save Us Then Load World
 
-> 状态：planning · 编码：`bs-a-cs-14-save-us` · 作者：memeticsingularity · 最后更新：2026-05-24
+> 状态：drafting · 编码：`bs-a-cs-14-save-us` · 作者：memeticsingularity · 最后更新：2026-05-26
 
 ---
 
@@ -105,4 +105,4 @@
 
 ---
 
-*最后更新：2026-05-24 · Last updated: 2026-05-24*
+*最后更新：2026-05-26 · Last updated: 2026-05-26*

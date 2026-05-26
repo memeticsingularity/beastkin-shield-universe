@@ -48,7 +48,10 @@ settings/
 │           └── sc-01-truck.md
 └── characters/                        # 角色全局库（跨关卡复用）
     ├── README.md                      # 角色总览、按关卡索引角色
+    ├── NAMING_CONVENTION.md           # 命名规范
     ├── _warehouse-relationships.md    # 人际关系总图
+    ├── protagonist-qidian.md          # 主角·奇点
+    ├── npc-yuhe.md                    # 现实好友·雨禾
     ├── g-001-zong-xiong.md            # 棕熊兽人
     ├── g-078-hei-xiong.md             # 黑熊兽人
     ├── g-112-hei-zhu.md               # 黑猪兽人
@@ -81,6 +84,7 @@ settings/
 
 ---
 
-*设定总入口版本：1.0*
+*设定总入口版本：1.1*
 *创建日期：2026-05-24*
+*最后更新：2026-05-26*
 *适用范围：bs-a-cs-14-save-us 项目*
