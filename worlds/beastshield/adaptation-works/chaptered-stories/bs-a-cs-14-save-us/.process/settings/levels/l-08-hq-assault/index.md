@@ -34,7 +34,7 @@
 | G-309 | [熊柏年](../../characters/g-309-xiong-bai-nian.md) | 熊柏年 | 熊（棕熊） | 棕皮 | G级（军绿） | 可拯救 |
 | G-310 | [犬食卫](../../characters/g-310-quan-shi-wei.md) | 犬食卫 | 狗 | 黄毛 | G级（军绿） | 可拯救 |
 | W-001 | [牛金黄](../../characters/w-001-niu-jin-huang.md) | 牛金黄 | 牛（黄牛） | 黄皮 | W级（白色摔跤服） | 可拯救 |
-| E-088 | [虎秦战](../../characters/beastshield/e-088-hu-qin-zhan.md) | 虎秦战 | 虎 | 黄褐皮 | E级（黑） | 可拯救 |
+| E-088 | [虎秦战](../../characters/beastshield/l-08-hq-assault/e-088-hu-qin-zhan.md) | 虎秦战 | 虎 | 黄褐皮 | E级（黑） | 可拯救 |
 
 **跨关关联角色（来自L-06）**：
 - 熊贺晟（熊掌）

@@ -19,7 +19,7 @@
 
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 状态 |
 |------|----------|--------|------|------|------|------|
-| G-001 | [g-001-zong-xiong](../../characters/beastshield/g-001-zong-xiong.md) | 棕熊兽人 | 熊 | 棕皮 | G级（军绿） | **可拯救** |
+| G-001 | [g-001-zong-xiong](../../characters/beastshield/l-01-tutorial/g-001-zong-xiong.md) | 棕熊兽人 | 熊 | 棕皮 | G级（军绿） | **可拯救** |
 
 ---
 

@@ -17,7 +17,7 @@
 → 进对应关卡目录：`levels/l-XX-关卡名/index.md`，内含场景列表和出场角色。
 
 ### "我想看角色之间的关系"
-→ [characters/_warehouse-relationships.md](characters/_warehouse-relationships.md) — 当前覆盖 L-01 / L-02 六名角色。
+→ [characters/beastshield/l-02-warehouse/_warehouse-relationships.md](characters/beastshield/l-02-warehouse/_warehouse-relationships.md) — 当前覆盖 L-01 / L-02 六名角色。
 
 ### "我想了解兽盾制服/兽种设定"
 → [systems/beastshield-uniforms.md](systems/beastshield-uniforms.md) 或 [systems/species-traits.md](systems/species-traits.md)。
@@ -49,16 +49,31 @@ settings/
 └── characters/                        # 角色全局库（跨关卡复用）
     ├── README.md                      # 角色总览、按关卡索引角色
     ├── NAMING_CONVENTION.md           # 命名规范
-    ├── _warehouse-relationships.md    # 人际关系总图
-    ├── protagonist-qidian.md          # 主角·奇点
-    ├── npc-yuhe.md                    # 现实好友·雨禾
-    ├── g-001-zong-xiong.md            # 棕熊兽人
-    ├── g-078-hei-xiong.md             # 黑熊兽人
-    ├── g-112-hei-zhu.md               # 黑猪兽人
-    ├── g-205-hui-lan-niu.md           # 灰蓝牛兽人
-    ├── g-217-de-mu.md                 # 德牧兽人
-    ├── g-364-hong-niu.md              # 红牛兽人
-    └── o-089-cheng-hu.md              # 橙虎兽人
+    ├── main/                          # 主角及关联角色
+    │   ├── protagonist-qidian.md      # 主角·奇点
+    │   └── yuhe.md                    # 现实好友·雨禾
+    ├── beastshield/                   # 兽盾阵营
+    │   ├── ya-dong.md                 # 牙董（兽盾高层）
+    │   ├── liu-xu.md                  # 流墟（兽盾实验体）
+    │   ├── l-01-tutorial/g-001-zong-xiong.md   # 棕熊兽人
+    │   ├── l-02-warehouse/            # 仓库角色+人际关系
+    │   │   ├── g-078-hei-xiong.md     # 黑熊兽人
+    │   │   ├── g-112-hei-zhu.md       # 黑猪兽人
+    │   │   ├── g-205-hui-lan-niu.md   # 灰蓝牛兽人
+    │   │   ├── g-217-de-mu.md         # 德牧兽人
+    │   │   ├── o-089-cheng-hu.md      # 橙虎兽人
+    │   │   └── _warehouse-relationships.md
+    │   ├── l-03-wilderness/g-364-hong-niu.md   # 红牛兽人
+    │   ├── l-07-underground-arena/_underground-arena.md
+    │   ├── l-08-hq-assault/           # HQ攻略角色+档案
+    │   │   ├── e-088-hu-qin-zhan.md   # 虎秦战
+    │   │   └── _beastshield-hq-structure.md
+    │   ├── l-10-barracks-raid/        # 兵营档案
+    │   │   ├── _tiger-barracks.md
+    │   │   └── _bear-barracks.md
+    │   └── l-11-finale/               # 预留
+    ├── agent-bureau/                  # 特工局角色（含群体档案）
+    └── others/                        # 其他非兽盾非特工局角色
 ```
 
 ---
