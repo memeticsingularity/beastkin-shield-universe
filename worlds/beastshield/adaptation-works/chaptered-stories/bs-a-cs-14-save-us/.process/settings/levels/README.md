@@ -25,17 +25,17 @@
 ## 按关卡索引角色
 
 ### L-01 教程关
-- [G-001 棕熊兽人](../characters/g-001-zong-xiong.md)
+- [G-001 棕熊兽人](../characters/beastshield/g-001-zong-xiong.md)
 
 ### L-02 仓库逃脱
-- [G-217 德牧兽人](../characters/g-217-de-mu.md)
-- [O-089 橙虎兽人](../characters/o-089-cheng-hu.md)
-- [G-112 黑猪兽人](../characters/g-112-hei-zhu.md)
-- [G-205 灰蓝牛兽人](../characters/g-205-hui-lan-niu.md)
-- [G-078 黑熊兽人](../characters/g-078-hei-xiong.md)
+- [G-217 德牧兽人](../characters/beastshield/g-217-de-mu.md)
+- [O-089 橙虎兽人](../characters/beastshield/o-089-cheng-hu.md)
+- [G-112 黑猪兽人](../characters/beastshield/g-112-hei-zhu.md)
+- [G-205 灰蓝牛兽人](../characters/beastshield/g-205-hui-lan-niu.md)
+- [G-078 黑熊兽人](../characters/beastshield/g-078-hei-xiong.md)
 
 ### L-03 荒野公路
-- [G-364 红牛兽人](../characters/g-364-hong-niu.md)
+- [G-364 红牛兽人](../characters/beastshield/g-364-hong-niu.md)
 
 ### L-04 市区商业区
 - [G-401 猪石山](../characters/g-401-zhu-shi-shan.md) *(待建档)*
@@ -43,13 +43,13 @@
 - [G-403 虎白云](../characters/g-403-hu-bai-yun.md) *(待建档)*
 
 ### L-05 警局区域·潜入
-- [O-089 虎金烈](../characters/o-089-cheng-hu.md)（跨关·已有）
+- [O-089 虎金烈](../characters/beastshield/o-089-cheng-hu.md)（跨关·已有）
 - [G-404 熊岩重](../characters/g-404-xiong-yan-zhong.md) *(待建档)*
 
 ### L-06 训练营
 - [G-405 熊贺晟（熊掌）](../characters/g-405-xiong-he-sheng.md) *(待建档)*
 - [G-406 牛蒋顿（牛杂）](../characters/g-406-niu-jiang-dun.md) *(待建档)*
-- [O-089 虎金烈](../characters/o-089-cheng-hu.md)（跨关·已有）
+- [O-089 虎金烈](../characters/beastshield/o-089-cheng-hu.md)（跨关·已有）
 
 ### L-07 地下格斗场
 - [W-593 熊雪寒](../characters/w-593-xiong-xue-han.md) *(待建档)*
