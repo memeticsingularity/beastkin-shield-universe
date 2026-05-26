@@ -21,8 +21,8 @@
 
 | 想找的内容 | 所在位置 |
 |-----------|---------|
-| **原作主线第一卷** | [`../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/`](../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/) |
-| **原作世界观设定** | [`../../settings/0-original-setting/`](../../settings/0-original-setting/) |
+| **原作主线第一卷** | [`../../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/`](../../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/) |
+| **原作世界观设定** | [`../../../settings/0-original-setting/`](../../../settings/0-original-setting/) |
 
 **原则**：原作设定以 `original-archives/` 和 `settings/0-original-setting/` 为准，不可修改；改编侧如果发现冲突，在改编文档中标注差异即可。
 
@@ -55,10 +55,44 @@ bs-a-cs-14-save-us/
 
 ## 4. 笔风规范
 
+### 核心原则
+
 - **第一人称** "我"，紧贴主角的感官与心理
-- **保留游戏UI**：精槽、系统提示、存档界面等是叙事的一部分
+- **保留游戏UI**：系统提示、存档界面等是叙事的一部分
 - **情色与生死绑定**：原作机制保留，但情感基调从"征服"变为"拯救"
 - **时间循环叙事**：允许同一场景的多次描写（不同读档版本），通过细节差异体现主角的成长和挣扎
+
+### 写作风格参考
+
+本作改编自 lanse 原作，写作风格需与原作保持一致。完整的风格分析与写作规范位于：
+
+- [写作风格检查清单](../../../../../author/001-lanse/style-analysis/lanse-style-checklist.md) — 写前参照、写后逐项自检的硬性规则（出场公式、精液描写、段落节奏等）
+- [写作风格标准化提示词](../../../../../author/001-lanse/style-analysis/lanse-style-prompt.md) — AI 写作前注入此提示词，确保风格一致性
+- [写作风格变体策略](../../../../../author/001-lanse/style-analysis/lanse-style-variants.md) — 在保持风味的前提下避免同质化（白袜描写变化、处决流程压缩、段落节奏控制等）
+
+### 关键规则速查
+
+| 规则 | 说明 |
+|------|------|
+| 对话标签 | 统一用 **「道」**（说道/问道/颤声道/笑道），不用「说」 |
+| 角色登场 | 按公式走完：物种 → 制服色 → 体型 → 下体鼓包 → 白袜 → 鞋 |
+| 白袜 | **每章至少出现一次**，且每次出现视角/写法不同（静态、动态、触感、污损等） |
+| 省略号 | 恐惧/犹豫时用 **「。。。 」**（三点+空格），高潮前用 **「别！别别别——」** |
+| 段落 | 大部分 **1-2 句一段**，不超过 3 句。场景切换用硬切，不写过渡 |
+| 制服颜色编码 | 军绿=G级杂兵，蓝/蓝白=O级监工，黑=E级精英，白=特殊 |
+| 精液描写 | 必须写清：射向（何处）、股数（十几股为标配）、力度变化（初射有力→变弱）、终态（停了/还在流） |
+| 精槽 | 教程关出现 8-10 次（介绍机制），后续章节锐减或不再出现。描述为**视觉条**（涨一格/涨一截/填满），不用百分比数值 |
+| 避免事项 | 不用「说/问/答」作标签；不大段环境描写（≤3句）；不写深层心理活动或哲学思考；不省略性描写细节 |
+
+### 推荐阅读路径
+
+首次参与创作，建议按以下顺序阅读：
+
+1. 本项目 `README.md` — 故事核心设定与哲学
+2. [原作第一章](../../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) — 感受原文风味和叙事节奏
+3. [风格检查清单](../../../../../author/001-lanse/style-analysis/lanse-style-checklist.md) — 熟悉硬性规则
+4. 本项目 `chapters/volume-1/ch-01-tutorial.md` — 了解当前已写到的内容和写法基准
+5. `settings/README.md` — 查阅角色、关卡、场景设定
 
 ---
 
