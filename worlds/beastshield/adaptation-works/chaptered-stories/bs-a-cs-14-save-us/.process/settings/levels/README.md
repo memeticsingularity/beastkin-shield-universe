@@ -11,6 +11,14 @@
 | [L-01](l-01-tutorial/) | 教程关 | Ch.1 | 1 | 1 | 第一次拯救 |
 | [L-02](l-02-warehouse/) | 仓库逃脱 | Ch.2 | 1 | 5 | 多人拯救困境 |
 | [L-03](l-03-wilderness/) | 荒野公路 | Ch.3 | 1 | 1 | 随从位伦理 |
+| [L-04](l-04-city/) | 市区商业区 | Ch.4~5 | 3 | 6 | 群体拯救与处决干预 |
+| [L-05](l-05-infiltration/) | 警局区域·潜入 | Ch.6 | 2 | 6 | 已知敌人的再遇 |
+| [L-06](l-06-training/) | 训练营 | Ch.7 | 3 | 4 | 管理伦理与团队建立 |
+| [L-07](l-07-underground-arena/) | 地下格斗场 | Ch.8 | 3 | 6 | 招募替代杀戮 |
+| [L-08](l-08-hq-assault/) | 兽盾总部攻略 | Ch.9~10 | 5 | 16 | 大规模拯救的极限 |
+| [L-09](l-09-agent-bureau/) | 特工局 | Ch.8后半+11 | 2 | 7 | 势力博弈与阵营选择 |
+| [L-10](l-10-barracks-raid/) | 武斗兵营夜袭 | Ch.12 | 4 | 8+ | 群体命运的转折 |
+| [L-11](l-11-finale/) | 终局·封印 | Ch.13 | 1 | 2 | 力量的代价 |
 
 ---
 
@@ -29,6 +37,54 @@
 ### L-03 荒野公路
 - [G-364 红牛兽人](../characters/g-364-hong-niu.md)
 
+### L-04 市区商业区
+- [G-401 猪石山](../characters/g-401-zhu-shi-shan.md) *(待建档)*
+- [G-402 猪石河](../characters/g-402-zhu-shi-he.md) *(待建档)*
+- [G-403 虎白云](../characters/g-403-hu-bai-yun.md) *(待建档)*
+
+### L-05 警局区域·潜入
+- [O-089 虎金烈](../characters/o-089-cheng-hu.md)（跨关·已有）
+- [G-404 熊岩重](../characters/g-404-xiong-yan-zhong.md) *(待建档)*
+
+### L-06 训练营
+- [G-405 熊贺晟（熊掌）](../characters/g-405-xiong-he-sheng.md) *(待建档)*
+- [G-406 牛蒋顿（牛杂）](../characters/g-406-niu-jiang-dun.md) *(待建档)*
+- [O-089 虎金烈](../characters/o-089-cheng-hu.md)（跨关·已有）
+
+### L-07 地下格斗场
+- [W-593 熊雪寒](../characters/w-593-xiong-xue-han.md) *(待建档)*
+- [W-594 牛山重](../characters/w-594-niu-shan-zhong.md) *(待建档)*
+- [G-405 熊贺晟（熊掌）](../characters/g-405-xiong-he-sheng.md)（跨关·待建档）
+- [G-406 牛蒋顿（牛杂）](../characters/g-406-niu-jiang-dun.md)（跨关·待建档）
+
+### L-08 兽盾总部攻略
+- [G-311 虎赵阳](../characters/g-311-hu-zhao-yang.md) *(待建档)*
+- [G-131 犬孙原](../characters/g-131-quan-sun-yuan.md) *(待建档)*
+- [G-156 牛朱炎](../characters/g-156-niu-zhu-yan.md) *(待建档)*
+- [G-188 牛水远](../characters/g-188-niu-shui-yuan.md) *(待建档)*
+- [G-234 熊周平](../characters/g-234-xiong-zhou-ping.md) *(待建档)*
+- [G-267 猪吴林](../characters/g-267-zhu-wu-lin.md) *(待建档)*
+- [G-289 虎王青](../characters/g-289-hu-wang-qing.md) *(待建档)*
+- [G-334 牛李钧](../characters/g-334-niu-li-jun.md) *(待建档)*
+- [G-378 熊柏年](../characters/g-378-xiong-bai-nian.md) *(待建档)*
+- [G-445 犬冯卫](../characters/g-445-quan-feng-wei.md) *(待建档)*
+- [W-048 牛金黄](../characters/w-048-niu-jin-huang.md) *(待建档)*
+- [E-012 熊陈安](../characters/e-012-xiong-chen-an.md) *(待建档)*
+
+### L-09 特工局
+- *（大部分为非兽盾角色，无编号）*
+
+### L-10 武斗兵营夜袭
+- [E-023 熊赵山](../characters/e-023-xiong-zhao-shan.md) *(待建档)*
+- [E-034 熊钱川](../characters/e-034-xiong-qian-chuan.md) *(待建档)*
+- [E-045 熊孙海](../characters/e-045-xiong-sun-hai.md) *(待建档)*
+- [E-056 熊李云](../characters/e-056-xiong-li-yun.md) *(待建档)*
+- [E-067 熊周天](../characters/e-067-xiong-zhou-tian.md) *(待建档)*
+- [E-078 熊吴远](../characters/e-078-xiong-wu-yuan.md) *(待建档)*
+
+### L-11 终局·封印
+- [E-097 熊山暮](../characters/e-097-xiong-shan-mu.md) *(待建档)*
+
 ---
 
 ## 建档规范
@@ -40,5 +96,6 @@
 
 ---
 
-*关卡总览版本：1.0*
+*关卡总览版本：1.1*
 *创建日期：2026-05-24*
+*最后更新：2026-05-26*
