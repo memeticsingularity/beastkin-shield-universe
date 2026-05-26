@@ -38,52 +38,54 @@
 - [G-364 红牛兽人](../characters/beastshield/l-03-wilderness/g-364-hong-niu.md)
 
 ### L-04 市区商业区
-- [G-401 猪石山](../characters/g-401-zhu-shi-shan.md) *(待建档)*
-- [G-402 猪石河](../characters/g-402-zhu-shi-he.md) *(待建档)*
-- [G-403 虎白云](../characters/g-403-hu-bai-yun.md) *(待建档)*
+- [G-092 猪石山](../characters/beastshield/l-04-city/g-092-zhu-shi-shan.md) *(待建档)*
+- [G-116 猪石河](../characters/beastshield/l-04-city/g-116-zhu-shi-he.md) *(待建档)*
+- [G-045 虎白云](../characters/beastshield/l-04-city/g-045-hu-bai-yun.md) *(待建档)*
 
 ### L-05 警局区域·潜入
 - [O-089 虎金烈](../characters/beastshield/l-02-warehouse/o-089-cheng-hu.md)（跨关·已有）
-- [G-404 熊岩重](../characters/g-404-xiong-yan-zhong.md) *(待建档)*
+- [G-178 熊石坚](../characters/beastshield/l-05-infiltration/g-178-xiong-shi-jian.md) *(待建档)*
+- [G-461 灰狼杂兵](../characters/beastshield/l-05-infiltration/g-461-hui-lang.md) *(待建档)*
 
 ### L-06 训练营
-- [G-405 熊贺晟（熊掌）](../characters/g-405-xiong-he-sheng.md) *(待建档)*
-- [G-406 牛蒋顿（牛杂）](../characters/g-406-niu-jiang-dun.md) *(待建档)*
+- [G-405 熊贺晟（熊掌）](../characters/beastshield/l-06-training/g-405-xiong-he-sheng.md) *(待建档)*
+- [G-406 牛蒋顿（牛杂）](../characters/beastshield/l-06-training/g-406-niu-jiang-dun.md) *(待建档)*
 - [O-089 虎金烈](../characters/beastshield/l-02-warehouse/o-089-cheng-hu.md)（跨关·已有）
 
 ### L-07 地下格斗场
-- [W-593 熊雪寒](../characters/w-593-xiong-xue-han.md) *(待建档)*
-- [W-594 牛山重](../characters/w-594-niu-shan-zhong.md) *(待建档)*
-- [G-405 熊贺晟（熊掌）](../characters/g-405-xiong-he-sheng.md)（跨关·待建档）
-- [G-406 牛蒋顿（牛杂）](../characters/g-406-niu-jiang-dun.md)（跨关·待建档）
+- [W-593 熊雪寒](../characters/beastshield/l-07-underground-arena/w-593-xiong-xue-han.md) *(待建档)*
+- [W-594 牛山重](../characters/beastshield/l-07-underground-arena/w-594-niu-shan-zhong.md) *(待建档)*
+- [G-405 熊贺晟（熊掌）](../characters/beastshield/l-06-training/g-405-xiong-he-sheng.md)（跨关·待建档）
+- [G-406 牛蒋顿（牛杂）](../characters/beastshield/l-06-training/g-406-niu-jiang-dun.md)（跨关·待建档）
+- [G-462 灰狼杂兵](../characters/beastshield/l-07-underground-arena/g-462-hui-lang.md) *(待建档)*
 
 ### L-08 兽盾总部攻略
-- [G-311 虎赵阳](../characters/g-311-hu-zhao-yang.md) *(待建档)*
-- [G-131 犬孙原](../characters/g-131-quan-sun-yuan.md) *(待建档)*
-- [G-156 牛朱炎](../characters/g-156-niu-zhu-yan.md) *(待建档)*
-- [G-188 牛水远](../characters/g-188-niu-shui-yuan.md) *(待建档)*
-- [G-234 熊周平](../characters/g-234-xiong-zhou-ping.md) *(待建档)*
-- [G-267 猪吴林](../characters/g-267-zhu-wu-lin.md) *(待建档)*
-- [G-289 虎王青](../characters/g-289-hu-wang-qing.md) *(待建档)*
-- [G-334 牛李钧](../characters/g-334-niu-li-jun.md) *(待建档)*
-- [G-378 熊柏年](../characters/g-378-xiong-bai-nian.md) *(待建档)*
-- [G-445 犬冯卫](../characters/g-445-quan-feng-wei.md) *(待建档)*
-- [W-048 牛金黄](../characters/w-048-niu-jin-huang.md) *(待建档)*
-- [E-012 熊陈安](../characters/e-012-xiong-chen-an.md) *(待建档)*
+- [G-311 虎赵阳](../characters/beastshield/l-08-hq-assault/g-311-hu-zhao-yang.md) *(待建档)*
+- [G-131 犬孙原](../characters/beastshield/l-08-hq-assault/g-131-quan-sun-yuan.md) *(待建档)*
+- [G-156 牛朱炎](../characters/beastshield/l-08-hq-assault/g-156-niu-zhu-yan.md) *(待建档)*
+- [G-188 牛水远](../characters/beastshield/l-08-hq-assault/g-188-niu-shui-yuan.md) *(待建档)*
+- [G-234 熊周平](../characters/beastshield/l-08-hq-assault/g-234-xiong-zhou-ping.md) *(待建档)*
+- [G-267 猪吴林](../characters/beastshield/l-08-hq-assault/g-267-zhu-wu-lin.md) *(待建档)*
+- [G-289 虎王青](../characters/beastshield/l-08-hq-assault/g-289-hu-wang-qing.md) *(待建档)*
+- [G-334 牛李钧](../characters/beastshield/l-08-hq-assault/g-334-niu-li-jun.md) *(待建档)*
+- [G-378 熊柏年](../characters/beastshield/l-08-hq-assault/g-378-xiong-bai-nian.md) *(待建档)*
+- [G-445 犬冯卫](../characters/beastshield/l-08-hq-assault/g-445-quan-feng-wei.md) *(待建档)*
+- [W-124 牛金黄](../characters/beastshield/l-08-hq-assault/w-124-niu-jin-huang.md) *(待建档)*
+- [E-012 熊陈安](../characters/beastshield/l-08-hq-assault/e-012-xiong-chen-an.md) *(待建档)*
 
 ### L-09 特工局
 - *（大部分为非兽盾角色，无编号）*
 
 ### L-10 武斗兵营夜袭
-- [E-023 熊赵山](../characters/e-023-xiong-zhao-shan.md) *(待建档)*
-- [E-034 熊钱川](../characters/e-034-xiong-qian-chuan.md) *(待建档)*
-- [E-045 熊孙海](../characters/e-045-xiong-sun-hai.md) *(待建档)*
-- [E-056 熊李云](../characters/e-056-xiong-li-yun.md) *(待建档)*
-- [E-067 熊周天](../characters/e-067-xiong-zhou-tian.md) *(待建档)*
-- [E-078 熊吴远](../characters/e-078-xiong-wu-yuan.md) *(待建档)*
+- [E-023 熊赵山](../characters/beastshield/l-10-barracks-raid/e-023-xiong-zhao-shan.md) *(待建档)*
+- [E-034 熊钱川](../characters/beastshield/l-10-barracks-raid/e-034-xiong-qian-chuan.md) *(待建档)*
+- [E-045 熊孙海](../characters/beastshield/l-10-barracks-raid/e-045-xiong-sun-hai.md) *(待建档)*
+- [E-056 熊李云](../characters/beastshield/l-10-barracks-raid/e-056-xiong-li-yun.md) *(待建档)*
+- [E-067 熊周天](../characters/beastshield/l-10-barracks-raid/e-067-xiong-zhou-tian.md) *(待建档)*
+- [E-078 熊吴远](../characters/beastshield/l-10-barracks-raid/e-078-xiong-wu-yuan.md) *(待建档)*
 
 ### L-11 终局·封印
-- [E-097 熊山暮](../characters/e-097-xiong-shan-mu.md) *(待建档)*
+- [E-097 熊郑暮](../characters/beastshield/l-11-finale/e-097-xiong-zheng-mu.md) *(待建档)*
 
 ---
 
