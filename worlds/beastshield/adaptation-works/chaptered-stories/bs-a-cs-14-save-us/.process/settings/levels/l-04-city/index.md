@@ -20,9 +20,9 @@
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 状态 |
 |------|----------|--------|------|------|------|------|
 | — | — | 小熊猫店主 | 小熊猫 | 红棕 | 便服（围裙） | 非兽盾·平民 |
-| G-092 | [g-092-zhu-shi-shan](../../characters/beastshield/l-04-city/g-092-zhu-shi-shan.md) | 猪石山 | 猪（野猪） | 灰褐 | G级（军绿） | 可拯救 |
-| G-116 | [g-116-zhu-shi-he](../../characters/beastshield/l-04-city/g-116-zhu-shi-he.md) | 猪石河 | 猪（野猪） | 灰褐 | G级（军绿） | 可拯救 |
-| G-045 | [g-045-hu-bai-yun](../../characters/beastshield/l-04-city/g-045-hu-bai-yun.md) | 虎白云 | 虎 | 白皮黑纹 | G级（军绿） | **需拯救** |
+| G-092 | [g-092-zhu-hui](../../characters/beastshield/l-04-city/g-092-zhu-hui.md) | 灰猪兽人 | 猪（野猪） | 灰褐 | G级（军绿） | 可拯救 |
+| G-116 | [g-116-zhu-hui](../../characters/beastshield/l-04-city/g-116-zhu-hui.md) | 灰猪兽人 | 猪（野猪） | 灰褐 | G级（军绿） | 可拯救 |
+| G-045 | [g-045-hu-bai](../../characters/beastshield/l-04-city/g-045-hu-bai.md) | 白虎兽人 | 虎 | 白皮黑纹 | G级（军绿） | **需拯救** |
 | — | — | 白熊兽人 | 熊（北极熊） | 纯白 | 武道服（非兽盾） | 非兽盾·武道家 |
 | — | — | 警察×2 | 犬/牛等 | 各色 | 警服 | 非兽盾·执法人员 |
 

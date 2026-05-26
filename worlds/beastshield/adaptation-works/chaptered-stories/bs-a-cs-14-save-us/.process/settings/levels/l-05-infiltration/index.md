@@ -18,12 +18,12 @@
 
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 状态 |
 |------|----------|--------|------|------|------|------|
-| O-089 | [o-089-cheng-hu](../../characters/beastshield/l-02-warehouse/o-089-cheng-hu.md) | 虎金烈 | 虎 | 橙黄皮 | O级（蓝色） | 可拯救 |
-| G-178 | [g-178-xiong-shi-jian](../../characters/beastshield/l-05-infiltration/g-178-xiong-shi-jian.md) | 熊石坚 | 熊（灰熊） | 灰棕 | G级（军绿） | 可拯救 |
+| O-089 | [o-089-hu-cheng](../../characters/beastshield/l-02-warehouse/o-089-hu-cheng.md) | 虎金烈 | 虎 | 橙黄皮 | O级（蓝色） | 可拯救 |
+| G-178 | [g-178-xiong-hui](../../characters/beastshield/l-05-infiltration/g-178-xiong-hui.md) | 灰熊兽人 | 熊（灰熊） | 灰棕 | G级（军绿） | 可拯救 |
 | — | — | 牛警长 | 牛 | 棕白花 | 警服 | 非兽盾·警察 |
-| — | — | 狮子警察 | 狮 | 金棕 | 警服 | 非兽盾·警察 |
-| — | — | 野猪矿工 | 猪（野猪） | 灰黑 | 矿工服 | 非兽盾·平民证人 |
-| G-461 | [g-461-hui-lang](../../characters/beastshield/l-05-infiltration/g-461-hui-lang.md) | 灰狼杂兵 | 狼 | 灰蓝 | G级（军绿） | 保留原设定 |
+| — | [狮子警察](../../characters/police/lion-police.md) | 狮子警察 | 狮 | 金棕 | 警服 | 非兽盾·警察 |
+| — | [野猪矿工](../../characters/others/boar-miner.md) | 野猪矿工 | 猪（野猪） | 灰黑 | 矿工服 | 非兽盾·平民证人 |
+| G-461 | [g-461-lang-hui](../../characters/beastshield/l-05-infiltration/g-461-lang-hui.md) | 灰狼杂兵 | 狼 | 灰蓝 | G级（军绿） | 保留原设定 |
 
 > **物种说明**：蓝皮狼杂兵在原著中为兽盾员工，虽不属于五类兽种（熊/牛/虎/猪/狗），但保留其原始设定。后续创作中可考虑将其设定为外聘/特殊编制，或保持原样。
 

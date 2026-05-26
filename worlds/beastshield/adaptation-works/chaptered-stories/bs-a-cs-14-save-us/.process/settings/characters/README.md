@@ -10,13 +10,13 @@
 |------|----------|--------|------|------|------|----------|------|
 | — | [protagonist-qidian](main/protagonist-qidian.md) | 奇点 | 人类（玩家） | — | — | [Ch.1](../../chapters/volume-1/ch-01-tutorial.md) | 主角 |
 | — | [yuhe](main/yuhe.md) | 雨禾 | 人类（玩家） | — | — | [Ch.1](../../chapters/volume-1/ch-01-tutorial.md) | 现实好友 |
-| G-001 | [g-001-zong-xiong](beastshield/l-01-tutorial/g-001-zong-xiong.md) | 熊石厚 | 熊 | 棕皮 | G级（军绿） | [L-01](../levels/l-01-tutorial/) | 已拯救 |
-| G-078 | [g-078-hei-xiong](beastshield/l-02-warehouse/g-078-hei-xiong.md) | 黑熊兽人 | 熊（黑熊） | 纯黑皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
-| G-112 | [g-112-hei-zhu](beastshield/l-02-warehouse/g-112-hei-zhu.md) | 黑猪兽人 | 猪（野猪） | 黑皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
-| G-205 | [g-205-hui-lan-niu](beastshield/l-02-warehouse/g-205-hui-lan-niu.md) | 灰蓝牛兽人 | 牛（水牛） | 灰蓝皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
+| G-001 | [g-001-xiong-zong](beastshield/l-01-tutorial/g-001-xiong-zong.md) | 熊石厚 | 熊 | 棕皮 | G级（军绿） | [L-01](../levels/l-01-tutorial/) | 已拯救 |
+| G-078 | [g-078-xiong-hei](beastshield/l-02-warehouse/g-078-xiong-hei.md) | 黑熊兽人 | 熊（黑熊） | 纯黑皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
+| G-112 | [g-112-zhu-hei](beastshield/l-02-warehouse/g-112-zhu-hei.md) | 黑猪兽人 | 猪（野猪） | 黑皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
+| G-205 | [g-205-niu-hui-lan](beastshield/l-02-warehouse/g-205-niu-hui-lan.md) | 灰蓝牛兽人 | 牛（水牛） | 灰蓝皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
 | G-217 | [g-217-de-mu](beastshield/l-02-warehouse/g-217-de-mu.md) | 德牧兽人 | 狗（德牧） | 黑背黄腹 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
-| G-364 | [g-364-hong-niu](beastshield/l-03-wilderness/g-364-hong-niu.md) | 红牛兽人 | 牛 | 红棕色 | G级（军绿） | [L-03](../levels/l-03-wilderness/) | 可拯救 |
-| O-089 | [o-089-cheng-hu](beastshield/l-02-warehouse/o-089-cheng-hu.md) | 橙虎兽人 | 虎 | 橙黄皮 | O级（蓝色） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
+| G-364 | [g-364-niu-hong](beastshield/l-03-wilderness/g-364-niu-hong.md) | 红牛兽人 | 牛 | 红棕色 | G级（军绿） | [L-03](../levels/l-03-wilderness/) | 可拯救 |
+| O-089 | [o-089-hu-cheng](beastshield/l-02-warehouse/o-089-hu-cheng.md) | 橙虎兽人 | 虎 | 橙黄皮 | O级（蓝色） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
 
 ---
 
@@ -63,11 +63,11 @@ characters/
 │   ├── l-10-barracks-raid/      # 虎/熊兵营档案
 │   └── l-11-finale/             # 预留
 ├── agent-bureau/          # 特工局角色（含群体档案）
-│   ├── panda.md, yin.md, red-tiger.md, commander.md
-│   ├── white-bear.md            # 白熊武道家（后续加入）
+│   ├── panda.md, yin.md, tiger-red.md, commander.md
+│   ├── bear-white.md            # 白熊武道家（后续加入）
 │   └── _agent-bureau.md         # 群体档案
 ├── police/                # 警察系统
-│   └── sheriff-bull.md          # 牛警长
+│   └── bull-sheriff.md          # 牛警长
 └── others/                # 其他独立角色
     └── shopkeeper.md            # 武器店老板
 ```
@@ -77,7 +77,7 @@ characters/
 - 文件名：`[等级]-[编号]-[拼音].md`
 - 等级字母小写：`g`, `o`, `e`, `r`, `w`
 - 编号至少3位，不足补零：`g-001`, `o-089`
-- 拼音采用全拼，无分隔符或驼峰：`zong-xiong`, `hui-lan-niu`
+- 拼音采用全拼，无分隔符或驼峰，格式为`[种族][毛色]`：`xiong-zong`, `niu-hui-lan`
 - 按角色归属放入对应子目录
 
 ---

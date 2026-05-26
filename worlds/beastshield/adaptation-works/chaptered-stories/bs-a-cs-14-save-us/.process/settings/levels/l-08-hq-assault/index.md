@@ -23,18 +23,18 @@
 
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 状态 |
 |------|----------|--------|------|------|------|------|
-| G-311 | [虎赵阳](../../characters/beastshield/l-08-hq-assault/g-311-hu-zhao-yang.md) | 虎赵阳 | 虎（黄虎） | 黄皮 | G级（军绿） | 可拯救 |
-| G-131 | [犬孙原](../../characters/beastshield/l-08-hq-assault/g-131-quan-sun-yuan.md) | 犬孙原 | 狗（灰毛狗） | 灰毛 | G级（军绿） | 可拯救 |
-| G-156 | [牛朱炎](../../characters/beastshield/l-08-hq-assault/g-156-niu-zhu-yan.md) | 牛朱炎 | 牛（红牛） | 红棕皮 | G级（军绿） | 可拯救 |
-| G-188 | [牛水远](../../characters/beastshield/l-08-hq-assault/g-188-niu-shui-yuan.md) | 牛水远 | 牛（水牛） | 灰蓝皮 | G级（军绿） | 可拯救 |
-| G-234 | [熊周平](../../characters/beastshield/l-08-hq-assault/g-234-xiong-zhou-ping.md) | 熊周平 | 熊（棕熊） | 棕皮 | G级（军绿） | 可拯救 |
-| G-267 | [猪吴林](../../characters/beastshield/l-08-hq-assault/g-267-zhu-wu-lin.md) | 猪吴林 | 猪（野猪） | 黑棕皮 | G级（军绿） | 可拯救 |
-| G-289 | [虎王青](../../characters/beastshield/l-08-hq-assault/g-289-hu-wang-qing.md) | 虎王青 | 虎（蓝虎） | 蓝皮 | G级（军绿） | 可拯救 |
-| G-334 | [牛李钧](../../characters/beastshield/l-08-hq-assault/g-334-niu-li-jun.md) | 牛李钧 | 牛（黑牛） | 黑皮 | G级（军绿） | 可拯救 |
-| G-378 | [熊柏年](../../characters/beastshield/l-08-hq-assault/g-378-xiong-bai-nian.md) | 熊柏年 | 熊（棕熊·中年） | 棕皮 | G级（军绿） | 可拯救 |
-| W-124 | [牛金黄](../../characters/beastshield/l-08-hq-assault/w-124-niu-jin-huang.md) | 牛金黄 | 牛（黄牛） | 黄皮 | W级（白色摔跤服） | 可拯救 |
-| G-445 | [犬冯卫](../../characters/beastshield/l-08-hq-assault/g-445-quan-feng-wei.md) | 犬冯卫 | 狗（狗兽人） | 黄毛 | G级（军绿） | 可拯救 |
-| E-088 | [虎秦战](../../characters/beastshield/l-08-hq-assault/e-088-hu-qin-zhan.md) | 虎秦战 | 虎 | 黄褐皮 | E级（黑） | 已建档 |
+| G-311 | [虎赵阳](../../characters/beastshield/l-08-hq-assault/g-311-hu-huang.md) | 虎赵阳 | 虎（黄虎） | 黄皮 | G级（军绿） | 可拯救 |
+| G-131 | [犬孙原](../../characters/beastshield/l-08-hq-assault/g-131-quan-hui.md) | 犬孙原 | 狗（灰毛狗） | 灰毛 | G级（军绿） | 可拯救 |
+| G-156 | [牛朱炎](../../characters/beastshield/l-08-hq-assault/g-156-niu-hong.md) | 牛朱炎 | 牛（红牛） | 红棕皮 | G级（军绿） | 可拯救 |
+| G-188 | [牛水远](../../characters/beastshield/l-08-hq-assault/g-188-niu-hui-lan.md) | 牛水远 | 牛（水牛） | 灰蓝皮 | G级（军绿） | 可拯救 |
+| G-234 | [熊周平](../../characters/beastshield/l-08-hq-assault/g-234-xiong-zong.md) | 熊周平 | 熊（棕熊） | 棕皮 | G级（军绿） | 可拯救 |
+| G-267 | [猪吴林](../../characters/beastshield/l-08-hq-assault/g-267-zhu-hei.md) | 猪吴林 | 猪（野猪） | 黑棕皮 | G级（军绿） | 可拯救 |
+| G-289 | [虎王青](../../characters/beastshield/l-08-hq-assault/g-289-hu-lan.md) | 虎王青 | 虎（蓝虎） | 蓝皮 | G级（军绿） | 可拯救 |
+| G-334 | [牛李钧](../../characters/beastshield/l-08-hq-assault/g-334-niu-hei.md) | 牛李钧 | 牛（黑牛） | 黑皮 | G级（军绿） | 可拯救 |
+| G-378 | [熊柏年](../../characters/beastshield/l-08-hq-assault/g-378-xiong-zong.md) | 熊柏年 | 熊（棕熊·中年） | 棕皮 | G级（军绿） | 可拯救 |
+| W-124 | [牛金黄](../../characters/beastshield/l-08-hq-assault/w-124-niu-huang.md) | 牛金黄 | 牛（黄牛） | 黄皮 | W级（白色摔跤服） | 可拯救 |
+| G-445 | [犬冯卫](../../characters/beastshield/l-08-hq-assault/g-445-quan-huang.md) | 犬冯卫 | 狗（狗兽人） | 黄毛 | G级（军绿） | 可拯救 |
+| E-088 | [虎秦战](../../characters/beastshield/l-08-hq-assault/e-088-hu-he.md) | 虎秦战 | 虎 | 黄褐皮 | E级（黑） | 已建档 |
 
 **跨关关联角色（来自L-06）**：
 - 熊贺晟（熊掌）

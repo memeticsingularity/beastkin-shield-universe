@@ -20,19 +20,19 @@
 
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 状态 |
 |------|----------|--------|------|------|------|------|
-| - | [熊猫](../../characters/npc-xiong-mao.md) | 熊猫 | 熊猫 | 黑白毛 | 特工局制服 | 友方 |
-| - | [银/灰毛狼](../../characters/npc-yin-lang.md) | 银/灰毛狼 | 狼 | 银/灰毛 | 特工局制服 | 友方 |
-| - | [熊馆长](../../characters/npc-bai-xiong-guan-zhang.md) | 熊馆长 | 白熊 | 白毛 | 武道服（前武道馆馆长） | 友方 |
-| - | [红虎](../../characters/npc-hong-hu.md) | 红虎 | 虎 | 红毛 | 特工局制服 | 友方 |
-| - | [德牧总司令](../../characters/npc-de-mu-zong-si-ling.md) | 德牧总司令 | 狗（德牧） | 黑背黄腹 | 特工局总司令服 | 友方/任务发放者 |
+| - | [熊猫](../../characters/agent-bureau/panda.md) | 熊猫 | 熊猫 | 黑白毛 | 特工局制服 | 友方 |
+| - | [银/灰毛狼](../../characters/agent-bureau/yin.md) | 银/灰毛狼 | 狼 | 银/灰毛 | 特工局制服 | 友方 |
+| - | [熊馆长](../../characters/agent-bureau/bear-white.md) | 熊馆长 | 白熊 | 白毛 | 武道服（前武道馆馆长） | 友方 |
+| - | [红虎](../../characters/agent-bureau/tiger-red.md) | 红虎 | 虎 | 红毛 | 特工局制服 | 友方 |
+| - | [德牧总司令](../../characters/agent-bureau/commander.md) | 德牧总司令 | 狗（德牧） | 黑背黄腹 | 特工局总司令服 | 友方/任务发放者 |
 
 ### 非兽盾角色（其他）
 
 | 角色 | 种族 | 毛色 | 备注 |
 |------|------|------|------|
-| 白毛青年狼 | 狼 | 白毛 | 非兽盾，特工局关联人物 |
-| 黄皮牛俘虏 | 牛 | 黄皮 | 俘虏身份，牛科在兽盾5种内，可讨论其身份归属 |
-| 雪豹俘虏 | 豹科 | 雪白毛 | ⚠️ 雪豹不在兽盾5种内，俘虏身份无需遵守5种限制 |
+| [白毛青年狼](../../characters/others/wolf-white-fur-young.md) | 狼 | 白毛 | 非兽盾，特工局关联人物 |
+| [黄皮牛俘虏](../../characters/others/cow-yellow-prisoner.md) | 牛 | 黄皮 | 俘虏身份，牛科在兽盾5种内，可讨论其身份归属 |
+| [雪豹俘虏](../../characters/others/snow-leopard-prisoner.md) | 豹科 | 雪白毛 | ⚠️ 雪豹不在兽盾5种内，俘虏身份无需遵守5种限制 |
 
 ---
 

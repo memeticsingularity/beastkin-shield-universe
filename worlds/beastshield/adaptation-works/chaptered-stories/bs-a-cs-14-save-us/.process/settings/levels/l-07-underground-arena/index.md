@@ -19,11 +19,11 @@
 
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 状态 |
 |------|----------|--------|------|------|------|------|
-| W-593 | [w-593-xiong-xue-han](../../characters/beastshield/l-07-underground-arena/w-593-xiong-xue-han.md) | 熊雪寒 | 熊（北极熊） | 纯白 | W级（摔跤服） | 可拯救·可招募 |
-| W-594 | [w-594-niu-shan-zhong](../../characters/beastshield/l-07-underground-arena/w-594-niu-shan-zhong.md) | 牛山重 | 牛 | 深棕 | W级（摔跤服） | 可拯救·可招募 |
-| G-4?? | [g-4XX-hui-lang](../../characters/g-4XX-hui-lang.md) | 灰狼杂兵 | 狼 | 灰蓝 | G级（军绿） | 保留原设定 |
-| G-405 | [g-405-xiong-he-sheng](../../characters/beastshield/l-06-training/g-405-xiong-he-sheng.md) | 熊贺晟（熊掌） | 熊 | 深棕 | G级（军绿） | 随主角行动（可选） |
-| G-406 | [g-406-niu-jiang-dun](../../characters/beastshield/l-06-training/g-406-niu-jiang-dun.md) | 牛蒋顿（牛杂） | 牛 | 棕白花 | G级（军绿） | 随主角行动（可选） |
+| W-593 | [w-593-xiong-bai](../../characters/beastshield/l-07-underground-arena/w-593-xiong-bai.md) | 白熊兽人 | 熊（北极熊） | 纯白 | W级（摔跤服） | 可拯救·可招募 |
+| W-594 | [w-594-niu-zong](../../characters/beastshield/l-07-underground-arena/w-594-niu-zong.md) | 棕牛兽人 | 牛 | 深棕 | W级（摔跤服） | 可拯救·可招募 |
+| G-462 | [g-462-lang-hui](../../characters/beastshield/l-07-underground-arena/g-462-lang-hui.md) | 灰狼杂兵 | 狼 | 灰蓝 | G级（军绿） | 保留原设定 |
+| G-405 | [g-405-xiong-zong](../../characters/beastshield/l-06-training/g-405-xiong-zong.md) | 熊贺晟（熊掌） | 熊 | 深棕 | G级（军绿） | 随主角行动（可选） |
+| G-406 | [g-406-niu-hua](../../characters/beastshield/l-06-training/g-406-niu-hua.md) | 牛蒋顿（牛杂） | 牛 | 棕白花 | G级（军绿） | 随主角行动（可选） |
 
 > **物种说明**：灰狼杂兵在原著中为兽盾员工，虽不属于五类兽种（熊/牛/虎/猪/狗），但保留其原始设定。后续创作中可考虑是否将其重新设定。
 

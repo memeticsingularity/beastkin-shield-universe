@@ -24,10 +24,10 @@
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 状态 |
 |------|----------|--------|------|------|------|------|
 | G-217 | [g-217-de-mu](../../characters/beastshield/l-02-warehouse/g-217-de-mu.md) | 德牧兽人 | 狗（德牧） | 黑背黄腹 | G级（军绿） | 可拯救 |
-| O-089 | [o-089-cheng-hu](../../characters/beastshield/l-02-warehouse/o-089-cheng-hu.md) | 橙虎兽人 | 虎 | 橙黄皮 | O级（蓝色） | 可拯救 |
-| G-112 | [g-112-hei-zhu](../../characters/beastshield/l-02-warehouse/g-112-hei-zhu.md) | 黑猪兽人 | 猪（野猪） | 黑皮 | G级（军绿） | 可拯救 |
-| G-205 | [g-205-hui-lan-niu](../../characters/beastshield/l-02-warehouse/g-205-hui-lan-niu.md) | 灰蓝牛兽人 | 牛（水牛） | 灰蓝皮 | G级（军绿） | 可拯救 |
-| G-078 | [g-078-hei-xiong](../../characters/beastshield/l-02-warehouse/g-078-hei-xiong.md) | 黑熊兽人 | 熊（黑熊） | 纯黑皮 | G级（军绿） | 可拯救 |
+| O-089 | [o-089-hu-cheng](../../characters/beastshield/l-02-warehouse/o-089-hu-cheng.md) | 橙虎兽人 | 虎 | 橙黄皮 | O级（蓝色） | 可拯救 |
+| G-112 | [g-112-zhu-hei](../../characters/beastshield/l-02-warehouse/g-112-zhu-hei.md) | 黑猪兽人 | 猪（野猪） | 黑皮 | G级（军绿） | 可拯救 |
+| G-205 | [g-205-niu-hui-lan](../../characters/beastshield/l-02-warehouse/g-205-niu-hui-lan.md) | 灰蓝牛兽人 | 牛（水牛） | 灰蓝皮 | G级（军绿） | 可拯救 |
+| G-078 | [g-078-xiong-hei](../../characters/beastshield/l-02-warehouse/g-078-xiong-hei.md) | 黑熊兽人 | 熊（黑熊） | 纯黑皮 | G级（军绿） | 可拯救 |
 
 ---
 

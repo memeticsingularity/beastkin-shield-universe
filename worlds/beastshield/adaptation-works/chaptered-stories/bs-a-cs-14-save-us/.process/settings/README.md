@@ -55,18 +55,18 @@ settings/
     ├── beastshield/                   # 兽盾阵营
     │   ├── ya-dong.md                 # 牙董（兽盾高层）
     │   ├── liu-xu.md                  # 流墟（兽盾实验体）
-    │   ├── l-01-tutorial/g-001-zong-xiong.md   # 棕熊兽人
+    │   ├── l-01-tutorial/g-001-xiong-zong.md   # 棕熊兽人
     │   ├── l-02-warehouse/            # 仓库角色+人际关系
-    │   │   ├── g-078-hei-xiong.md     # 黑熊兽人
-    │   │   ├── g-112-hei-zhu.md       # 黑猪兽人
-    │   │   ├── g-205-hui-lan-niu.md   # 灰蓝牛兽人
+    │   │   ├── g-078-xiong-hei.md     # 黑熊兽人
+    │   │   ├── g-112-zhu-hei.md       # 黑猪兽人
+    │   │   ├── g-205-niu-hui-lan.md   # 灰蓝牛兽人
     │   │   ├── g-217-de-mu.md         # 德牧兽人
-    │   │   ├── o-089-cheng-hu.md      # 橙虎兽人
+    │   │   ├── o-089-hu-cheng.md      # 橙虎兽人
     │   │   └── _warehouse-relationships.md
-    │   ├── l-03-wilderness/g-364-hong-niu.md   # 红牛兽人
+    │   ├── l-03-wilderness/g-364-niu-hong.md   # 红牛兽人
     │   ├── l-07-underground-arena/_underground-arena.md
     │   ├── l-08-hq-assault/           # HQ攻略角色+档案
-    │   │   ├── e-088-hu-qin-zhan.md   # 虎秦战
+    │   │   ├── e-088-hu-he.md         # 虎秦战
     │   │   └── _beastshield-hq-structure.md
     │   ├── l-10-barracks-raid/        # 兵营档案
     │   │   ├── _tiger-barracks.md
@@ -85,7 +85,7 @@ settings/
 | 关卡目录 | `l-XX-英文名/` | `l-02-warehouse/` |
 | 关卡索引 | `index.md` | `l-02-warehouse/index.md` |
 | 场景档案 | `sc-NN-场景名.md` | `sc-01-warehouse.md` |
-| 角色档案 | `[等级]-[编号]-[拼音].md` | `g-001-zong-xiong.md` |
+| 角色档案 | `[等级]-[编号]-[拼音].md` | `g-001-xiong-zong.md` |
 
 ---
 

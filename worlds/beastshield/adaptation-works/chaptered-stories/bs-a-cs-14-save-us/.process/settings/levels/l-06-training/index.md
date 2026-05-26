@@ -19,9 +19,9 @@
 
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 状态 |
 |------|----------|--------|------|------|------|------|
-| G-405 | [g-405-xiong-he-sheng](../../characters/beastshield/l-06-training/g-405-xiong-he-sheng.md) | 熊贺晟（熊掌） | 熊 | 深棕 | G级（军绿，后升O级蓝） | 可拯救·可招募 |
-| G-406 | [g-406-niu-jiang-dun](../../characters/beastshield/l-06-training/g-406-niu-jiang-dun.md) | 牛蒋顿（牛杂） | 牛 | 棕白花 | G级（军绿，后升O级蓝） | 可拯救·可招募 |
-| O-089 | [o-089-cheng-hu](../../characters/beastshield/l-02-warehouse/o-089-cheng-hu.md) | 虎金烈 | 虎 | 橙黄皮 | O级（蓝色） | 可拯救（跨关角色） |
+| G-405 | [g-405-xiong-zong](../../characters/beastshield/l-06-training/g-405-xiong-zong.md) | 熊贺晟（熊掌） | 熊 | 深棕 | G级（军绿，后升O级蓝） | 可拯救·可招募 |
+| G-406 | [g-406-niu-hua](../../characters/beastshield/l-06-training/g-406-niu-hua.md) | 牛蒋顿（牛杂） | 牛 | 棕白花 | G级（军绿，后升O级蓝） | 可拯救·可招募 |
+| O-089 | [o-089-hu-cheng](../../characters/beastshield/l-02-warehouse/o-089-hu-cheng.md) | 虎金烈 | 虎 | 橙黄皮 | O级（蓝色） | 可拯救（跨关角色） |
 
 > **角色说明**：熊贺晟（外号"熊掌"）和牛蒋顿（外号"牛杂"）是主角在训练营阶段的两名直属下属。后期晋升为O级蓝制服。虎金烈作为O级队长出现在训练营区域，与本关主角进行日常对接。
 
