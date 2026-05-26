@@ -66,9 +66,10 @@ characters/
 │   ├── panda.md, yin.md, red-tiger.md, commander.md
 │   ├── white-bear.md            # 白熊武道家（后续加入）
 │   └── _agent-bureau.md         # 群体档案
-└── others/                # 其他非兽盾非特工局角色
-    ├── shopkeeper.md            # 武器店老板
-    └── sheriff-bull.md          # 牛警长
+├── police/                # 警察系统
+│   └── sheriff-bull.md          # 牛警长
+└── others/                # 其他独立角色
+    └── shopkeeper.md            # 武器店老板
 ```
 
 ## 建档规范
