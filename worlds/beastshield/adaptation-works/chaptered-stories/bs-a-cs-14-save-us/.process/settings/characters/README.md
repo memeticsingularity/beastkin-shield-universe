@@ -63,7 +63,7 @@ characters/
 │   ├── l-10-barracks-raid/      # 虎/熊兵营档案
 │   └── l-11-finale/             # 预留
 ├── agent-bureau/          # 特工局角色（含群体档案）
-│   ├── panda.md, yin.md, tiger-red.md, commander.md
+│   ├── panda.md, yin.md, lao-lei.md, commander.md
 │   ├── bear-white.md            # 白熊武道家（后续加入）
 │   └── _agent-bureau.md         # 群体档案
 ├── police/                # 警察系统

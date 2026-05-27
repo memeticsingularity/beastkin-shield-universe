@@ -23,7 +23,7 @@
 | - | [熊猫](../../characters/agent-bureau/panda.md) | 熊猫 | 熊猫 | 黑白毛 | 特工局制服 | 友方 |
 | - | [银/灰毛狼](../../characters/agent-bureau/yin.md) | 银/灰毛狼 | 狼 | 银/灰毛 | 特工局制服 | 友方 |
 | - | [熊馆长](../../characters/agent-bureau/bear-white.md) | 熊馆长 | 白熊 | 白毛 | 武道服（前武道馆馆长） | 友方 |
-| - | [红虎](../../characters/agent-bureau/tiger-red.md) | 红虎 | 虎 | 红毛 | 特工局制服 | 友方 |
+| - | [红虎/老雷](../../characters/agent-bureau/lao-lei.md) | 红虎/老雷 | 虎（红虎） | 赤红毛 | 特工局制服 | 友方 |
 | - | [德牧总司令](../../characters/agent-bureau/commander.md) | 德牧总司令 | 狗（德牧） | 黑背黄腹 | 特工局总司令服 | 友方/任务发放者 |
 
 ### 非兽盾角色（其他）
