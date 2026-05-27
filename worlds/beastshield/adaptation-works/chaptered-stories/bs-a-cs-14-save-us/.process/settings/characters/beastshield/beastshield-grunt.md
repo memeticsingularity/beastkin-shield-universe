@@ -97,33 +97,33 @@
 
 ### L-12 兽盾大楼（魔影卷·建筑篇）
 
-> **说明**：第二卷分为双线叙事——老雷的兽盾大楼屠杀线（G-017~G-091、G-511）与魔影的渗透暗杀线（G-501~G-513）。以下按击杀者分组。
+> **说明**：第二卷分为双线叙事——老雷的兽盾大楼屠杀线（G-237~G-680、G-511）与魔影的渗透暗杀线（G-714~G-513）。以下按击杀者分组。
 
-**老雷屠杀线（G-017~G-091）**
+**老雷屠杀线（G-237~G-680）**
 - [O-001 熊魏刚](l-12-beastshield-building/o-001-xiong.md)——棕熊，O级支援小队领队，一楼遇老雷，被三记灼流暗劲击倒后处决
-- [G-017 熊吴畏](l-12-beastshield-building/g-017-xiong-zong.md)——棕熊，一楼大厅守卫，被老雷带入厕所拧断脖子射精而死
-- [G-018 猪周冲](l-12-beastshield-building/g-018-zhu-hui.md)——野猪，一楼大厅守卫，被老雷膝撞击腹触发灼流暗劲射精而死
-- [G-019 牛马壮](l-12-beastshield-building/g-019-niu-huang.md)——黄牛，一楼大厅守卫，被老雷一拳击中腹部暗劲爆发射精而死
-- [G-020 虎叶怯](l-12-beastshield-building/g-020-hu-cheng-hei.md)——橙黑虎，被老雷抓脚踝拽倒后踩腹射精而死，死法最为惨烈
-- [G-021 虎陈蓝](l-12-beastshield-building/g-021-hu-lan-hui.md)——蓝灰虎，被老雷掐颈窒息并注入暗劲射精而死
-- [G-022 豹程怒](l-12-beastshield-building/g-022-bao-hei-lan.md)——黑蓝豹（非五兽种），被老雷掐脖后提前露出龟头包手帕，射精而死
-- [G-085 虎蒋雪](l-12-beastshield-building/g-085-hu-bai-hei.md)——白虎，被老雷一拳砸中腹部站立射精而死
-- [G-086 虎卫啸](l-12-beastshield-building/g-086-hu-cheng-hei.md)——橙黑虎，被捏碎卵蛋挤精后灌入自己嘴里，死状极为屈辱
-- [G-087 犀陈甲](l-12-beastshield-building/g-087-xi-hui.md)——灰犀（非五兽种），被过肩摔后一拳砸中腹部射精而死
-- [G-088 豹王影](l-12-beastshield-building/g-088-bao-hei-huang.md)——黑黄豹（非五兽种），被老雷一脚踢飞后射精而死
-- [G-089 猪吴刚](l-12-beastshield-building/g-089-zhu-hui.md)——灰猪，与狮李烈被一拳同时击杀
-- [G-090 狮李烈](l-12-beastshield-building/g-090-shi-zong-huang.md)——棕黄狮（非五兽种），与猪吴刚被一拳同时击杀
-- [G-091 犬郑风](l-12-beastshield-building/g-091-quan-huang.md)——黄犬，逃跑时被老雷追上处决
+- [G-237 熊吴畏](l-12-beastshield-building/g-237-xiong-zong.md)——棕熊，一楼大厅守卫，被老雷带入厕所拧断脖子射精而死
+- [G-248 猪周冲](l-12-beastshield-building/g-248-zhu-hui.md)——野猪，一楼大厅守卫，被老雷膝撞击腹触发灼流暗劲射精而死
+- [G-259 牛马壮](l-12-beastshield-building/g-259-niu-huang.md)——黄牛，一楼大厅守卫，被老雷一拳击中腹部暗劲爆发射精而死
+- [G-270 虎叶怯](l-12-beastshield-building/g-270-hu-cheng-hei.md)——橙黑虎，被老雷抓脚踝拽倒后踩腹射精而死，死法最为惨烈
+- [G-281 虎陈蓝](l-12-beastshield-building/g-281-hu-lan-hui.md)——蓝灰虎，被老雷掐颈窒息并注入暗劲射精而死
+- [G-292 豹程怒](l-12-beastshield-building/g-292-bao-hei-lan.md)——黑蓝豹（非五兽种），被老雷掐脖后提前露出龟头包手帕，射精而死
+- [G-614 虎蒋雪](l-12-beastshield-building/g-614-hu-bai-hei.md)——白虎，被老雷一拳砸中腹部站立射精而死
+- [G-625 虎卫啸](l-12-beastshield-building/g-625-hu-cheng-hei.md)——橙黑虎，被捏碎卵蛋挤精后灌入自己嘴里，死状极为屈辱
+- [G-636 犀陈甲](l-12-beastshield-building/g-636-xi-hui.md)——灰犀（非五兽种），被过肩摔后一拳砸中腹部射精而死
+- [G-647 豹王影](l-12-beastshield-building/g-647-bao-hei-huang.md)——黑黄豹（非五兽种），被老雷一脚踢飞后射精而死
+- [G-658 猪吴刚](l-12-beastshield-building/g-658-zhu-hui.md)——灰猪，与狮李烈被一拳同时击杀
+- [G-669 狮李烈](l-12-beastshield-building/g-669-shi-zong-huang.md)——棕黄狮（非五兽种），与猪吴刚被一拳同时击杀
+- [G-680 犬郑风](l-12-beastshield-building/g-680-quan-huang.md)——黄犬，逃跑时被老雷追上处决
 - [G-511 牛跟宝](l-12-beastshield-building/g-511-niu-zong.md)——浅棕牛，试图装死被老雷从尸体堆中揪出，作为"蓝药"泄火，灌入灼热精液后浑身发红肿胀而死
 
-**魔影暗杀线（G-501~G-513）**
-- [G-501 虎守卫](l-12-beastshield-building/g-501-hu-cheng-hei.md)——橙黑虎，走廊守卫，被魔影从背后制服后撸射至死
-- [G-502 豹守卫](l-12-beastshield-building/g-502-bao-hei.md)——黑豹（非五兽种），被魔影用麻醉枪射倒后踩踏下体至死
-- [G-503 虎守卫](l-12-beastshield-building/g-503-hu-hei-bai.md)——白虎，走廊守卫，被魔影从背后勒颈撸射至死
-- [G-504 熊守卫](l-12-beastshield-building/g-504-xiong-zong.md)——棕熊，更衣室守卫，被魔影审讯后撸射至死
-- [G-505 猪守卫](l-12-beastshield-building/g-505-zhu-hui.md)——野猪，更衣室守卫，被魔影仅刺激乳头至流尽精液而死
-- [G-506 牛守卫](l-12-beastshield-building/g-506-niu-zong.md)——深棕牛，更衣室守卫，被魔影用袜子堵口鼻窒息射精致死
-- [G-507 狗守卫](l-12-beastshield-building/g-507-gou-huang.md)——黄狗，更衣室守卫，被魔影从背后制服后撸射至死
+**魔影暗杀线（G-714~G-513）**
+- [G-714 虎守卫](l-12-beastshield-building/g-714-hu-cheng-hei.md)——橙黑虎，走廊守卫，被魔影从背后制服后撸射至死
+- [G-725 豹守卫](l-12-beastshield-building/g-725-bao-hei.md)——黑豹（非五兽种），被魔影用麻醉枪射倒后踩踏下体至死
+- [G-736 虎守卫](l-12-beastshield-building/g-736-hu-hei-bai.md)——白虎，走廊守卫，被魔影从背后勒颈撸射至死
+- [G-747 熊守卫](l-12-beastshield-building/g-747-xiong-zong.md)——棕熊，更衣室守卫，被魔影审讯后撸射至死
+- [G-758 猪守卫](l-12-beastshield-building/g-758-zhu-hui.md)——野猪，更衣室守卫，被魔影仅刺激乳头至流尽精液而死
+- [G-769 牛守卫](l-12-beastshield-building/g-769-niu-zong.md)——深棕牛，更衣室守卫，被魔影用袜子堵口鼻窒息射精致死
+- [G-780 狗守卫](l-12-beastshield-building/g-780-gou-huang.md)——黄狗，更衣室守卫，被魔影从背后制服后撸射至死
 - [G-509 狼传令兵](l-12-beastshield-building/g-509-lang-hui.md)——灰狼（非五兽种），向虎组长报告噩耗时被捏碎睾丸处决
 - [G-510 水牛守卫](l-12-beastshield-building/g-510-shui-zong.md)——深棕水牛（水牛属牛科，算五兽种），被老大选中做成活体精液寿司，在餐桌上射精至死
 - [G-512 牛大柱](l-12-beastshield-building/g-512-niu-zong-hei.md)——棕黑牛，被魔影口交至死，精液量极大，大部分从魔影嘴角溢出溅满厕所
@@ -312,6 +312,12 @@
 - [熊棕尾](l-34-emerald-ruins/g-9801-xiong-zong-wei.md)——棕熊，被选为司机载魔影去浮岛，后被口交至死
 
 ---
+
+## 版本变更日志
+
+| 版本 | 日期 | 变更内容 |
+|------|------|---------|
+| 1.0 | 2026-05-24 | 初始建档（G级角色索引） |
 
 *索引版本：3.3*
 *创建日期：2026-05-26*
