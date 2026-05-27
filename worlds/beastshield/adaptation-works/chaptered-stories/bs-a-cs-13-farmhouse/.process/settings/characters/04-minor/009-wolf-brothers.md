@@ -76,4 +76,4 @@
 ## 六、来源标注
 
 *【原作】来源：基于短篇《兽盾农家乐》扩写改编*
-*【待定】来源：bs-a-cs-13-farmhouse 项目原创设定*
+*【bs-a-cs-13-farmhouse】来源：vol2-ch6、vol2-ch8、vol2-ch9、vol2-ch12 正文*

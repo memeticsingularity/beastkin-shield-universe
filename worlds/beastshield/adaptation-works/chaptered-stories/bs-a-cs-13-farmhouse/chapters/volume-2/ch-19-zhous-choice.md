@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-18-grandpas-notes.md) | [返回目录](../../README.md) |
+| [上一章](ch-18-grandpas-notes.md) | [返回目录](../../README.md) | [下一章](ch-20-the-blood-essence-stone.md) |
 
 ---
 
@@ -56,7 +56,7 @@
 
 ---
 
-| [上一章](ch-18-grandpas-notes.md) | [返回目录](../../README.md) |
+| [上一章](ch-18-grandpas-notes.md) | [返回目录](../../README.md) | [下一章](ch-20-the-blood-essence-stone.md) |
 
 ---
 

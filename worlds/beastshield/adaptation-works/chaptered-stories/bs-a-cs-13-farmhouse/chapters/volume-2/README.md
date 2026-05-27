@@ -39,6 +39,12 @@
 | Ch.17 | 老夯的泪水 | [阅读](ch-17-lao-hans-tears.md) |
 | Ch.18 | 爷爷的笔记 | [阅读](ch-18-grandpas-notes.md) |
 | Ch.19 | 老周的抉择 | [阅读](ch-19-zhous-choice.md) |
+| Ch.20 | 血精石 | [阅读](ch-20-the-blood-essence-stone.md) |
+| Ch.21 | 失控 | [阅读](ch-21-out-of-control.md) |
+| Ch.22 | 散场 | [阅读](ch-22-collapse.md) |
+| Ch.23 | 小谷的信 | [阅读](ch-23-farewell-letter.md) |
+| Ch.24 | 谷之家 | [阅读](ch-24-gus-home.md) |
+| Ch.25 | 番外篇：掰手腕与合照 | [阅读](ch-25-bonus-arm-wrestling.md) |
 
 ---
 
