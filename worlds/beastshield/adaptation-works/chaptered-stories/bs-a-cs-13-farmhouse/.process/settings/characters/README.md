@@ -47,9 +47,9 @@
 | 档案 | 角色名 | 种族 | 身份 | 首次登场 |
 |------|--------|------|------|---------|
 | [`04-minor/001-leopard-deceased.md`](04-minor/001-leopard-deceased.md) | 未知 | 豹兽人 | 肥料（已死亡） | vol1-ch7 |
-| [`04-minor/002-hyena.md`](04-minor/002-hyena.md) | 未知 | 斑鬣狗兽人 | 肥料 | vol1-ch5 |
+| [`04-minor/002-a-chang.md`](04-minor/002-a-chang.md) | 阿常 | 斑鬣狗兽人 | 肥料→转正→遣散 | vol1-ch5 |
 | [`04-minor/003-wolf-pair.md`](04-minor/003-wolf-pair.md) | 未知×2 | 狼兽人 | 肥料 | vol1-ch5 |
-| [`04-minor/004-black-panther.md`](04-minor/004-black-panther.md) | 未知 | 黑豹兽人 | 肥料 | vol1-ch16 |
+| [`04-minor/004-a-hao.md`](04-minor/004-a-hao.md) | 阿豪 | 黑豹兽人 | 肥料→遣散 | vol1-ch16 |
 | [`04-minor/005-flower-leopard.md`](04-minor/005-flower-leopard.md) | 未知 | 花豹兽人 | 肥料（选择留下） | vol1-ch18 |
 | [`04-minor/006-basement-trio.md`](04-minor/006-basement-trio.md) | 未知×3 | 多种族 | 顽固分子（被带走） | vol1-ch20 |
 | [`04-minor/007-investigators.md`](04-minor/007-investigators.md) | 未知×3 | 两只狼+棕熊 | 兽盾调查组 | vol1-ch18 |
@@ -57,6 +57,7 @@
 | [`04-minor/009-wolf-brothers.md`](04-minor/009-wolf-brothers.md) | 狼峰、狼玛 | 灰狼兽人 | 大木的小弟/调查组队员 | vol2-ch8 |
 | [`04-minor/010-liu-mao.md`](04-minor/010-liu-mao.md) | 刘昴 | 野猪兽人 | 影牙小队压轴成员/老夯之弟 | vol2-ch15 |
 | [`04-minor/011-chameleon.md`](04-minor/011-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
+| [`04-minor/012-scarred-black-wolf.md`](04-minor/012-scarred-black-wolf.md) | 未知 | 黑狼兽人 | 兽盾黑制服/Z市地头蛇 | vol3-ch2 |
 
 ---
 
@@ -67,4 +68,4 @@
 
 ---
 
-*最后更新：2026-05-22（基于全文40章校对完毕）*
+*最后更新：2026-05-29（全线更新至 Vol.3 Ch.2）*
