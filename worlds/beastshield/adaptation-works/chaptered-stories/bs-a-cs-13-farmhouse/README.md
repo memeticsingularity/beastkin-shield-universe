@@ -1,6 +1,6 @@
 # 兽盾农家乐（续写）/ Beastshield Farmhouse (Continuation)
 
-> 状态：ongoing · 编码：`bs-a-cs-13-farmhouse` · 作者：雨禾 · 最后更新：2026-05-23
+> 状态：ongoing · 编码：`bs-a-cs-13-farmhouse` · 作者：雨禾 · 最后更新：2026-06-03
 
 ---
 
@@ -32,7 +32,7 @@ Yet beneath the surface warmth lies a deeper conspiracy. The true buyers of the 
 |------|------|--------|------|------|
 | 第一卷 | 挣扎着的人们 | 25章 | 已完成 | [阅读](chapters/volume-1/README.md) |
 | 第二卷 | 一同着的生活 | 25章 | 已完成 | [阅读](chapters/volume-2/README.md) |
-| 第三卷 | 散开，相连着的人们 | 连载中 | 进行中 | [阅读](chapters/volume-3/README.md) |
+| 第三卷 | 散开，相连着的人们 | 13章 (Ch.1–13) | 连载中 | [阅读](chapters/volume-3/README.md) |
 
 ---
 
@@ -66,4 +66,4 @@ Yet beneath the surface warmth lies a deeper conspiracy. The true buyers of the 
 
 ---
 
-*最后更新：2026-05-29 · Last updated: 2026-05-29*
+*最后更新：2026-06-03 · Last updated: 2026-06-03*
