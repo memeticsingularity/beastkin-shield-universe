@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-12-return.md) | [返回目录](../volume-3/README.md) |
+| [上一章](ch-12-return.md) | [返回目录](../volume-3/README.md) | [下一章](ch-14-awakening.md) |
 
 ---
 
