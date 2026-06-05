@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-19-guilt.md) | [返回目录](../volume-3/README.md) |
+| [上一章](ch-19-guilt.md) | [返回目录](../volume-3/README.md) | [下一章](ch-21-blood-king.md) |
 
 ---
 
