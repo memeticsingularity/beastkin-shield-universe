@@ -6,6 +6,12 @@
 
 ---
 
+## 原文索引
+
+- [第二卷第12章《训练课》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-12-training-session.md)
+
+---
+
 ## 一、核心发现：小豪的"害怕"是表演
 
 ### 1.1 关键证据（来自第三卷 ch-4）
