@@ -1,0 +1,37 @@
+work:
+  code: "eks-o-cs-1-lurking"
+  title:
+    chinese: "潜伏"
+    english: "Lurking"
+  format: "chaptered-story"
+  form_type: "cs"
+  subtype: "side"
+  status: "completed"
+  location: "original-archives"
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+  tags:
+    - wolf
+    - bear
+    - tiger
+    - bull
+    - boar
+    - rhino
+    - leopard
+    - panda
+    - dystopia
+    - combat
+    - stealth
+    - father-son
+    - mentor-student
+  content_warnings:
+    - "extreme-violence"
+    - "sexual-content"
+    - "execution"
+    - "mind-control"
+
+creation:
+  author: "骸虎"
+  start_date: ""
+  last_update: ""
+  universe_based_on: "empire-kik-soldiers"

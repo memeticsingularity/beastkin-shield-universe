@@ -29,9 +29,9 @@ Chinese original archives for *Long Live the Empire*. Chinese is the official fi
 
 #### 支线 / Side
 
-暂无支线作品。
-
-No side stories yet.
+| 编码 | 标题 | 状态 | 链接 |
+|------|------|------|------|
+| `eks-o-cs-1` | 潜伏 | 已完成 | [目录](chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
 
 ### 短篇 / Short Stories
 
@@ -53,9 +53,9 @@ No short stories yet.
 
 #### Side
 
-暂无支线作品。
-
-No side stories yet.
+| Code | Title | Status | Link |
+|------|-------|--------|------|
+| `eks-o-cs-1` | Lurking | Completed | [Directory](chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
 
 ### Short Stories
 
@@ -65,4 +65,4 @@ No short stories yet.
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-06-08 · Last updated: 2026-06-08*
