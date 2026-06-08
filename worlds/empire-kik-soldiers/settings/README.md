@@ -22,7 +22,8 @@ The *Long Live the Empire* settings library stores core worldview settings, comp
 
 | 文档 | 说明 | 链接 |
 |------|------|------|
-| 帝国万岁完整设定集 | 涵盖1-113章的完整世界观设定文档 | [empire-kik-soldiers-setting-complete.md](empire-kik-soldiers-setting-complete.md) |
+| 帝国万岁完整设定集 | 涵盖1-113章主线+支线《潜伏》设定的完整世界观设定文档 | [empire-kik-soldiers-setting-complete.md](empire-kik-soldiers-setting-complete.md) |
+| 潜伏支线设定集 | 支线《潜伏》26章独有设定的独立文档 | [跳转至支线设定集](eks-o-cs-1-lurking-side-settings.md) |
 
 ---
 
@@ -32,7 +33,8 @@ The *Long Live the Empire* settings library stores core worldview settings, comp
 
 | Document | Description | Link |
 |----------|-------------|------|
-| Long Live the Empire Complete Setting | Complete worldview setting covering chapters 1–113 | [empire-kik-soldiers-setting-complete.md](empire-kik-soldiers-setting-complete.md) |
+| Long Live the Empire Complete Setting | Complete worldview setting covering main story (ch.1-113) + side story *Lurking* | [empire-kik-soldiers-setting-complete.md](empire-kik-soldiers-setting-complete.md) |
+| Lurking Side Setting | Standalone setting doc for *Lurking* (eks-o-cs-1) exclusive content | [side-settings.md](eks-o-cs-1-lurking-side-settings.md) |
 
 ---
 
@@ -50,6 +52,12 @@ The *Long Live the Empire* settings library stores core worldview settings, comp
 | `主奴仪式` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
 | `对话语体` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
 | `装备序列` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
+| `矿物排斥星球` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md)、[潜伏支线设定集](eks-o-cs-1-lurking-side-settings.md) |
+| `刺客兵` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md)、[潜伏支线设定集](eks-o-cs-1-lurking-side-settings.md) |
+| `实验型白袜兵` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md)、[潜伏支线设定集](eks-o-cs-1-lurking-side-settings.md) |
+| `脚垫兵仪式` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md)、[潜伏支线设定集](eks-o-cs-1-lurking-side-settings.md) |
+| `强化血清` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md)、[潜伏支线设定集](eks-o-cs-1-lurking-side-settings.md) |
+| `矿物武器` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md)、[潜伏支线设定集](eks-o-cs-1-lurking-side-settings.md) |
 
 ---
 
@@ -62,6 +70,12 @@ The *Long Live the Empire* settings library stores core worldview settings, comp
 | `complete setting` | [Long Live the Empire Complete Setting](empire-kik-soldiers-setting-complete.md) |
 | `kiki soldiers` | [Long Live the Empire Complete Setting](empire-kik-soldiers-setting-complete.md) |
 | `rank system` | [Long Live the Empire Complete Setting](empire-kik-soldiers-setting-complete.md) |
+| | [Lurking Side Setting](eks-o-cs-1-lurking-side-settings.md) |
+| `mineral planet` | [Long Live the Empire Complete Setting](empire-kik-soldiers-setting-complete.md), [Lurking Side Setting](eks-o-cs-1-lurking-side-settings.md) |
+| `assassin troop` | [Long Live the Empire Complete Setting](empire-kik-soldiers-setting-complete.md), [Lurking Side Setting](eks-o-cs-1-lurking-side-settings.md) |
+| `foot stool soldier` | [Long Live the Empire Complete Setting](empire-kik-soldiers-setting-complete.md), [Lurking Side Setting](eks-o-cs-1-lurking-side-settings.md) |
+| `enhancement serum` | [Long Live the Empire Complete Setting](empire-kik-soldiers-setting-complete.md), [Lurking Side Setting](eks-o-cs-1-lurking-side-settings.md) |
+| `mineral weapon` | [Long Live the Empire Complete Setting](empire-kik-soldiers-setting-complete.md), [Lurking Side Setting](eks-o-cs-1-lurking-side-settings.md) |
 
 ---
 

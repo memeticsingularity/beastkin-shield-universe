@@ -41,7 +41,11 @@ structure
 *.bak
 *.backup
 
-# 09 CLAUDE.md
+# 09 .vscode/
+# 忽略 VSCode IDE 本地配置
+.vscode/
+
+# 10 CLAUDE.md
 # AI 协作速查手册为本地辅助文档，不纳入版本控制
 CLAUDE.md
 
