@@ -1,6 +1,6 @@
 # 兽盾农家乐（续写）/ Beastshield Farmhouse (Continuation)
 
-> 状态：ongoing · 编码：`bs-a-cs-13-farmhouse` · 作者：雨禾 · 最后更新：2026-06-03
+> 状态：已完成 · 编码：`bs-a-cs-13-farmhouse` · 作者：雨禾 · 最后更新：2026-06-08
 
 ---
 
@@ -112,7 +112,7 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 |------|------|--------|------|------|
 | 第一卷 | 挣扎着的人们 | 25章 | 已完成 | [阅读](chapters/volume-1/README.md) |
 | 第二卷 | 一同着的生活 | 25章 | 已完成 | [阅读](chapters/volume-2/README.md) |
-| 第三卷 | 散开，相连着的人们 | 13章 (Ch.1–13) | 连载中 | [阅读](chapters/volume-3/README.md) |
+| 第三卷 | 散开，相连着的人们 | 25章 | 已完成 | [阅读](chapters/volume-3/README.md) |
 
 ---
 
@@ -143,7 +143,8 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 ## 五、创作留痕 / Creation Trail
 
 - [故事设定档案](notes/setting/story-setting.md)
+- [作者完整原文（三卷全本）](original-text/兽盾农家乐-完整版.txt)
 
 ---
 
-*最后更新：2026-06-03 · Last updated: 2026-06-03*
+*最后更新：2026-06-08 · Last updated: 2026-06-08*
