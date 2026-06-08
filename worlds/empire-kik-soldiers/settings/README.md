@@ -45,6 +45,11 @@ The *Long Live the Empire* settings library stores core worldview settings, comp
 | `完整设定` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
 | `基尅兵` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
 | `等级制度` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
+| `叙事机制与仪式体系` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
+| `处决机制` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
+| `主奴仪式` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
+| `对话语体` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
+| `装备序列` | [帝国万岁完整设定集](empire-kik-soldiers-setting-complete.md) |
 
 ---
 
@@ -60,4 +65,4 @@ The *Long Live the Empire* settings library stores core worldview settings, comp
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-06-08 · Last updated: 2026-06-08*

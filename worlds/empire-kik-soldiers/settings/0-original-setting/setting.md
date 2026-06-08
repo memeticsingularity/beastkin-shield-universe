@@ -1,3 +1,5 @@
+>⚠️ **本文件为早期归档版本，仅覆盖第1-41章设定。** 完整设定请参阅 [`empire-kik-soldiers-setting-complete.md`](../empire-kik-soldiers-setting-complete.md)。
+
 # 帝国万岁设定目录集（完整版：1-41章）
 
 ## 1 帝国概况与组织结构

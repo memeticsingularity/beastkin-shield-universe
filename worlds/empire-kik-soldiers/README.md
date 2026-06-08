@@ -51,6 +51,9 @@ The narrative revolves around several key threads: the rise of Black Sock soldie
 - **芯片控制**：所有士兵植入生物芯片，受皇帝直接控制，退役后五年内芯片会激活死亡程序。
 - **退役与召回**：帝国可以召回退役老兵执行特殊任务，退役并非自由的开始，而是另一种形式的奴役。
 - **钥匙回收**：魔王力量被封印在六把钥匙中，回收钥匙是帝国的核心战略目标。
+- **殖民叙事**：帝国对新星球的征服遵循"接触→威慑→征服→改造"四步模板，灰袜兵与见习军袜为殖民扩张产物。
+- **勇者真相**：勇者实为"基兽001号"实验体，是魔王/皇帝30万年前的忠实部下，第六把钥匙即勇者本身。
+- **行星级战舰**：星球表面可被改造为银色镜面金属，分裂重组为战舰形态，吞噬恒星能量。
 
 详细设定请参阅：[settings/](settings/)
 
@@ -89,6 +92,7 @@ For detailed settings, see: [settings/](settings/)
 - 原作存档：[original-archives/](original-archives/)
 - 改编作品：[adaptation-works/](adaptation-works/)
 - 设定库：[settings/](settings/)
+- 作者风格分析：[author/002-hutu/style-analysis/](../../author/002-hutu/style-analysis/)
 
 ---
 
