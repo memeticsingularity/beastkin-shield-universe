@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 濒死射精、精液描写、性器官勃起、前列腺液、后穴刺激；部分章节含直接性接触(后入中出) |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.4** | 日常暗杀、宿舍谋杀、霸凌致死、狙击射杀、匕首刺杀、窒息、精液致死 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 系统性冷漠、旁观者恐惧、梦想破碎、生日即忌日、日常悲剧、无力感 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 生日死亡、睡眠谋杀、霸凌、窒息、狙击恋人、食堂暴力、毕业实习处决、袜子收集 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：在兽盾，连死亡都变得如此日常，如此廉价——但每一个死去的角色，都曾是一个完整的生命。
@@ -22,7 +40,38 @@ The series adopts an AI-human co-creation model, deeply exploring daily scenes f
 
 ---
 
-## 二、内容标签 / Content Tags
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+`牛兽人` `熊兽人` `狼兽人` `狗兽人` `虎兽人` `狮兽人` `野猪兽人` `犀牛兽人` `羚羊兽人` `鹿兽人` `鬣狗兽人` `黑豹兽人` `北极熊兽人` `红虎兽人`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`濒死射精` `精液描写` `勃起` `前列腺液` `后入中出` `脂包肌` `白袜` `紧身制服` `雄性体味` `性器官操控`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`匕首刺杀` `窒息` `睡眠谋杀` `霸凌致死` `狙击射杀` `食堂暴力` `毕业处决` `日常暗杀` `精液致死`
+
+### 🏛️ 权力与关系 / Power & Relations
+`G级杂兵` `底层互害` `赏金猎人` `监工压迫` `宿舍等级` `新兵霸凌` `玩家介入` `公司体制`
+
+### 🎭 主题与情感 / Themes & Emotions
+`日常悲剧` `梦想破碎` `生日即忌日` `旁观者恐惧` `系统性冷漠` `黑暗幽默` `无力感` `生命编号化`
+
+### 🎨 叙事与风格 / Narrative & Style
+`grimdark` `slice-of-life` `tragedy` `dark-humor` `单元剧` `慢镜头解剖` `感官放大`
+
+### 🗺️ 核心场景 / Key Settings
+`员工宿舍` `蛋糕店` `新兵营` `食堂` `狙击点` `仓库` `走廊` `垃圾桶`
+
+### 🧩 世界观机制 / World Mechanics
+`性欲值系统` `伤害转化欲望` `射精即死` `赏金系统(白袜编号)` `G级消耗品` `等级制度`
+
+### 🎯 结局指向 / Ending Tendency
+`单元悲剧` `无人生还` `日常循环` `梦想破碎` `开放式死亡`
+
+---
+
+## 二、旧版内容标签 / Legacy Content Tags
 
 - **兽人类型**：牛 / Bull、熊 / Bear、狼 / Wolf、狗 / Dog、虎 / Tiger、狮 / Lion、野猪 / Boar、犀牛 / Rhino、羚羊 / Antelope、鹿 / Deer、鬣狗 / Hyena、黑豹 / Black Panther、北极熊 / Polar Bear、红虎 / Red Tiger
 - **内容要素**：death、daily-life、corporate、bounty-hunter、bullying、combat、assassination、tragedy
@@ -30,7 +79,7 @@ The series adopts an AI-human co-creation model, deeply exploring daily scenes f
 
 ---
 
-## II. Content Tags
+## II. Legacy Content Tags
 
 - **Species**: Bull, Bear, Wolf, Dog, Tiger, Lion, Boar, Rhino, Antelope, Deer, Hyena, Black Panther, Polar Bear, Red Tiger
 - **Elements**: death, daily-life, corporate, bounty-hunter, bullying, combat, assassination, tragedy

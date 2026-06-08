@@ -1,12 +1,51 @@
 # 夜哨无声 / Silent Night Watch
 
-> **⚠️ 内容分级警告 (R-18) / Content Rating Warning (R-18)**
-> 本作品包含以下成人内容：
-> - 明确的性描写 / Explicit Sexual Descriptions
-> - 暴力与战斗场面 / Violence and Combat Scenes
-> - 成人主题及情节 / Adult Themes and Plotlines
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.2** | 改编自黑暗原作但进行了主题反转，性内容服务于救赎与治愈，具体级别以实际章节为准（当前章节文件为空） |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.1** | 原作涉及暴力，但改编后主题从死亡转为新生，暴力被弱化或逆转 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.2** | 原作黑暗背景的心理阴影，但通过救赎者视角转化为治愈与希望 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 改编自黑暗猎奇原作、主题反转、救赎叙事 |
+>
+> ⚠️ **世界观核心机制说明**：本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡），但核心机制为"心愿模组"——玩家通过温柔介入与真诚羁绊，改写被系统设定为"敌人"的角色的命运，以"家人契约"替代暴力征服。
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+青牛兽人（主角）
+
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽机制` `身体描写` `制服 fetish`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`原作暴力背景` `主题反转` `无死亡结局`
+
+### 🏛️ 权力与关系 / Power & Relations
+`救赎者-被救者` `家人契约` `玩家-NPC`
+
+### 🎭 主题与情感 / Themes & Emotions
+`绝境救赎` `温柔治愈` `主题反转` `新生` `希望`
+
+### 🎨 叙事与风格 / Narrative & Style
+`改编自黑暗` `治愈向` `温柔逆转` `前传与后日谈`
+
+### 🗺️ 核心场景 / Key Settings
+`夜哨` `浴室` `晨光`
+
+### 🧩 世界观机制 / World Mechanics
+`精槽系统` `心愿模组` `家人契约` `主题反转改编`
+
+### 🎯 结局指向 / Ending Tendency
+`HE` `新生` `治愈`
 
 ---
 

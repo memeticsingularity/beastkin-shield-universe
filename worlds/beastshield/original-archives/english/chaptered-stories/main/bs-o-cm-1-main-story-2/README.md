@@ -1,14 +1,51 @@
 # Beastshield Main Story · Vol. 2: Demon Shadow
 
-> **⚠️ Content Rating Warning (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions
-> - Violence and Combat Scenes
-> - Adult Themes and Plotlines
-> - Non-traditional Worldview Settings
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
 >
-> **Please ensure you are at least 18 years old.**
-> If the content makes you uncomfortable, please stop reading immediately.
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.4** | Frequent and explicit sexual descriptions; core mechanic is the "Lust Value System" where damage converts to sexual pleasure, full gauge triggers ejaculatory death; includes nipple-pinching to death, rear stimulation, sock gagging, forced climax, post-death corpse play, etc. / 频繁且明确的性描写；核心机制为"性欲值系统"，伤害转化为性快感，蓄满即射精死亡；含捏乳头致死、后庭刺激、袜子堵嘴、强制高潮、死后亵玩等场景 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.5** | Large-scale serial hunt (locker room 16-person execution), floor-by-floor building clearance, child execution training, suffocation to death, poison-blood paralysis followed by torture-kill, corpse stacking and manipulation. / 大规模连环猎杀（更衣室16人处决）、大楼逐层清场、儿童处决教学、窒息致死、毒血麻痹后虐杀、尸体堆放与摆弄 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.4** | Assassin perspective prey-playing, child killer training (Xiao Hao), organization brainwashing, Red Crystal mutation causing physical and psychological distortion, betrayal and exploitation, normalization of death. / 刺客视角的猎物玩弄、儿童杀手培训（小豪）、组织洗脑、红水晶变异导致的身体与心理扭曲、背叛与利用、死亡常态化 |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Involuntary sexual pleasure (mechanism-based)` `Ejaculatory death` `Corpse play/manipulation` `Suffocation to death (sock gagging/nostril blockage)` `Nipple-pinching to death` `Rear stimulation` `Tight uniform fetishization` `Designation replacing name` `Child involvement in violence/execution` `Organization brainwashing` `Poison blood mutation` `Bioweapon experiments` `Disguise infiltration` / `非自愿性快感（机制性）` `射精死亡` `尸体亵玩/摆弄` `窒息致死（袜子堵嘴/鼻孔堵塞）` `捏乳头致死` `后庭刺激` `紧身制服物化` `编号取代姓名` `儿童参与暴力/处决` `组织洗脑` `毒血变异` `生物武器实验` `伪装潜入` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: In this worldview, all physical damage is converted into the target's Lust Value. When full, the target is forced to ejaculate and die. This mechanism runs through all combat and death scenes and cannot be skipped. / 本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
+> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Dog, Bear (brown bear/white bear), Bull, Wild Boar, Tiger, Wolf, Panda, Rabbit, Sheep (mentioned) / 犬、熊（棕熊/白熊）、牛、野猪、虎、狼、熊猫、兔、羊（提及）
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Lust Value System` `Ejaculatory death` `Erotic combat` `Forced climax` `Nipple-pinching to death` `Rear stimulation` `Sock gagging/throat stuffing` `Suffocation ejaculation` `Tight uniform` `White socks/number` `Disguise/infiltration` `Erection depiction` `Semen depiction` `Poison blood aphrodisiac` `Poison fang paralysis` `Device exhaustion` `Masochism` / `性欲值系统` `射精死亡` `情趣战斗` `强制高潮` `捏乳头致死` `后庭刺激` `袜子堵嘴/塞喉` `窒息射精` `紧身制服` `白袜/编号` `换装/伪装` `勃起描写` `精液描写` `毒血催情` `毒牙麻痹` `飞机杯耗尽` `M体质`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Large-scale serial hunt` (locker room 16 people) `One-on-one kill` `Floor-by-floor building clearance` `Suffocation to death` `Poison blood paralysis then torture-kill` `Nipple-pinching execution` `Post-death corpse play/manipulation` `Corpse stacking` `Aerial corpse disposal` `Child execution training` `Bounty redemption` / `大规模连环猎杀`（更衣室16人）`一对一击杀` `大楼逐层清场` `窒息致死` `毒血麻痹后虐杀` `捏乳头处决` `死后亵玩/摆弄` `尸体堆放` `高空抛尸` `儿童处决教学` `赏金兑换`
+
+### 🏛️ Power & Relations / 权力与关系
+`Assassin protagonist` `Partner combo (Demon Shadow + Lao Lei)` `Disguise infiltration` `Master-apprentice/teaching` `Organization brainwashing` `New recruit training` `Dual identity` `Bioweapon implantation (Red Crystal)` `Betrayal and mutation` `Captive disposal` / `刺客主角` `搭档组合（魔影+老雷）` `伪装潜入` `师徒/教学` `组织洗脑` `新人培训` `双面身份` `生物武器植入（红水晶）` `背叛与变异` `俘虏处置`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Assassin aesthetics` `Prey-playing` `Violence aesthetics` `Gradual darkening` `Identity distortion` `Organization loyalty and brainwashing` `Memory and transformation` `Black humor` `Normalization of death` / `刺客美学` `猎物玩弄` `暴力美学` `逐步黑化` `身份扭曲` `组织忠诚与洗脑` `回忆与转变` `黑色幽默` `死亡常态化`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Third-person limited perspective (Demon Shadow/Lao Lei)` `Infiltration narrative` `Fast-paced action` `Explicit and blunt` `Chapter-based progression` `Flashback interludes` `Dual protagonist parallel` / `第三人称限知视角（魔影/老雷）` `潜入叙事` `快节奏动作` `直白露骨` `章节式推进` `回忆穿插` `双主角并行`
+
+### 🗺️ Key Settings / 核心场景
+`Beastshield HQ building` `Locker room` `Corridor/restroom` `Terrace` `Kitchen` `Alchemy room` `Torture room` `Bear Clan territory` `Bull Clan territory` `Agent Bureau classroom` `Python Island` / `兽盾总部大楼` `更衣室` `走廊/洗手间` `露台` `厨房` `炼药房` `刑房` `熊族领地` `牛族领地` `特工局教室` `蟒蛇岛`
+
+### 🧩 World Mechanics / 世界观机制
+`Lust Value/Libido System` `Semen Gauge System` `Poison blood/poison fang ability (Red Crystal mutation)` `Scorching Flow Dark Force` `Golden Bell Cover` `Disguise infiltration` `Bounty system` `Follower system` `Azure Sparrow Yang-Binding Lock (Twelve Divine Weapons)` `Flowing Ruin (bioweapon)` / `性欲值/Libido系统` `精槽系统` `毒血/毒牙能力（红水晶变异）` `灼流暗劲` `金钟罩` `换装伪装` `赏金系统` `随从系统` `青雉缚阳锁（十二神武）` `流墟（生物武器）`
+
+### 🎯 Ending Tendency / 结局指向
+`To be continued` `Assassination failure` `Foreshadowing payoff` `Identity awakening` `New recruit growth` / `未完待续` `刺杀失败` `伏笔回收` `身份觉醒` `新人成长`
 
 ---
 

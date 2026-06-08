@@ -5,17 +5,28 @@
 
 ---
 
-## 一、内容分级 / Content Rating
+## 一、内容分级与标签总览 / Content Rating & Tags Overview
 
-**成人内容警告 / 18+ Only**
-
-本世界观包含成人内容、性暗示、暴力及黑暗主题。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.1–2**（因作品而异） | 基尅兵改造背景提及、日常情感与亲密关系描写；和平时期以温情互动为主，无 explicit 场景 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.1** | 和平时期无战斗与处决；偶有帝国背景提及，但叙事重心为日常与成长 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.1–2**（因作品而异） | 退役兵适应平民生活的心理调适、芯片背景带来的隐性不安；整体以治愈与希望为基调 |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `芯片控制背景提及` `基因改造背景` `帝国体制背景` `退役适应` |
+>
+> ⚠️ **世界观核心机制说明**：本世界为《帝国万岁》的温暖向对应版本，核心机制为"乐园设施"——为退役或休假的 Kik 士兵提供康复与娱乐场所，帮助他们融入普通社会生活。与原作不同，本世界不聚焦芯片控制的恐怖，而聚焦于角色在和平环境中的温情日常、友谊与成长。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
 
 ---
 
 **Adult Content Warning / 18+ Only**
 
-This world contains adult content, sexual themes, violence, and dark narratives. All fictional content is artistic creation and does not encourage similar behavior in reality.
+This world contains background references to adult themes from the original *Empire Kik Soldiers* setting. All fictional content is artistic creation and does not encourage similar behavior in reality.
 
 ---
 

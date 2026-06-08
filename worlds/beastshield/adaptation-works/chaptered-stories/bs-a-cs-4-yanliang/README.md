@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.5** | 极端详细的强制勃起、射精、前列腺液、精液喷射描写；性器官直接操控；后穴刺激；乳头摩挲 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.5** | 大规模暗杀、窒息、内力催情致死、尸体处理、名单式清除、银针刺杀 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 赏金猎杀、生命编号化、尊严摧毁、梦想破碎、死亡作为生意 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 性暴力、窒息play、内力催情、后穴刺激、乳头敏感点折磨、名单式处决、尸体拍照 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：当死亡成为一门生意，杀手与清道夫在欲望与鲜血中丈量生命的边界。
@@ -18,7 +36,38 @@ The bounty hunters Yan and Liang infiltrate a Beastshield recruit training base�
 
 ---
 
-## 二、内容标签 / Content Tags
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+`虎兽人` `犬兽人` `狼兽人` `熊兽人` `白熊兽人` `棕熊兽人` `犀牛兽人`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`强制射精` `精液喷射` `前列腺液` `性器官操控` `后穴刺激` `乳头摩挲` `内力催情` `窒息勃起` `脂包肌` `白袜` `紧身制服` `雄性体味`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`暗杀` `窒息` `内力致死` `银针刺杀` `尸体处理` `名单式清除` `走廊屠杀` `会议室处决` `楼梯碾压`
+
+### 🏛️ 权力与关系 / Power & Relations
+`赏金猎人` `杀手-清道夫` `猎手-猎物` `新兵-组长` `公司底层` `绝对支配` `名单处决`
+
+### 🎭 主题与情感 / Themes & Emotions
+`死亡即生意` `生命编号化` `尊严摧毁` `梦想破碎` `赏金冷漠` `怜悯与无奈` `生存计算`
+
+### 🎨 叙事与风格 / Narrative & Style
+`grimdark` `tragedy` `thriller` `慢镜头解剖` `感官极致化` `双主角视角` `名单叙事`
+
+### 🗺️ 核心场景 / Key Settings
+`新兵训练基地` `办公室` `走廊` `会议室` `楼梯间` `墙角` `灌木丛` `垃圾桶`
+
+### 🧩 世界观机制 / World Mechanics
+`性欲值系统` `伤害转化欲望` `射精即死` `灼流暗劲` `金刚护体` `隐身能力` `赏金系统(白袜编号)` `G级消耗品`
+
+### 🎯 结局指向 / Ending Tendency
+`名单清除` `无人生还` `赏金循环` `梦想破碎` `开放式杀戮`
+
+---
+
+## 二、旧版内容标签 / Legacy Content Tags
 
 - **兽人类型**：虎 / Tiger、犬 / Dog、狼 / Wolf、熊 / Bear
 - **内容要素**：death、combat、corporate、bounty-hunter、stealth
@@ -26,7 +75,7 @@ The bounty hunters Yan and Liang infiltrate a Beastshield recruit training base�
 
 ---
 
-## II. Content Tags
+## II. Legacy Content Tags
 
 - **Species**: Tiger, Dog, Wolf, Bear
 - **Elements**: death, combat, corporate, bounty-hunter, stealth

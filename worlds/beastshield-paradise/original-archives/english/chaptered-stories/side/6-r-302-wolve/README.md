@@ -1,12 +1,51 @@
 # R-302: Gray Wolf Sniper / R-302：灰狼狙击手
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.2** | Uniform/white sock fetish background, collar mention, Semen Gauge System background; no explicit sexual behavior scenes. / 制服/白袜 fetish 背景、项圈提及、精槽系统背景；无 explicit 性行为场景 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.3** | Electric shock torture, bloody wounds, system punishment, permanent damage threat, demotion to expendable unit. / 电击拷问、血肉伤口、系统惩戒、永久损伤威胁、降级为消耗部队 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.3** | System crushing the individual, executioner's shared guilt and awakening, tremor in despair, identity tear after witnessing redemption. / 系统碾压个体、执行者的共罪与觉醒、绝望中的震动、见证救赎后的身份撕裂 |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Electric shock torture` `Blood and wounds` `System oppression` `Demotion/expendable unit` `Surveillance interrogation` `Execution mission` `Permanent damage` / `电击拷问` `血与伤口` `系统压迫` `降级/消耗部队` `监控审讯` `处决任务` `永久损伤` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: This world inherits the Beastshield base setting—the Semen Gauge System (damage converts to Lust Value, full gauge triggers ejaculatory death). Core mechanic is the "Follower Contract"—making NPCs followers through coercion, strength conquest, or voluntary submission; this story shows the "bystander awakening" path, where a sniper witnesses possibilities beyond system logic during a mission, triggering a sacred defection of identity and stance. / 本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡）。核心机制为"随从契约"——通过威逼利诱、实力征服或自愿臣服使NPC成为随从；本故事展现的是"旁观者觉醒"路径，狙击手在执行任务时目睹了超越系统逻辑的可能性，从而引发身份与立场的神圣倒戈。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
+> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Gray Wolf Beastkin / 灰狼兽人
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Semen Gauge mechanism` `Uniform fetish` `White socks/knee-highs` `Collar` `Electric shock scars` `Bloody sweat` / `精槽机制` `制服 fetish` `白袜/长筒袜` `项圈` `电击伤痕` `血汗`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Electric shock torture` `Bloody wounds` `System punishment` `Permanent damage threat` `Demotion execution` `Sniping/execution mission` / `电击拷问` `血肉伤口` `系统惩戒` `永久损伤威胁` `降级处决` `狙击/处决任务`
+
+### 🏛️ Power & Relations / 权力与关系
+`Sniper-target` `Executioner-saved` `Player-NPC` `O-level overseer-punished` `System-individual` / `狙击手-目标` `执行者-被救者` `玩家-NPC` `O级监工-受罚者` `系统-个体`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Bystander's shared guilt` `Identity defection` `Despair and redemption` `System crushing` `Executioner's awakening` `Power of gentleness` / `旁观者的共罪` `身份倒戈` `绝望与救赎` `系统碾压` `执行者的觉醒` `温柔的力量`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Dark sci-fi` `Psychological realism` `Gentle reversal` `Redemption` `Sensory details` `Tense rhythm` / `黑暗科幻` `心理写实` `温柔逆转` `救赎` `感官细节` `紧张节奏`
+
+### 🗺️ Key Settings / 核心场景
+`Sniper nest` `Punishment room` `Observation room` `Qimu Lodge` `White Capital back alley` / `狙击巢` `惩戒室` `观察室` `栖木筑` `白之都后巷`
+
+### 🧩 World Mechanics / 世界观机制
+`Semen Gauge System` `Follower Contract` `Heart-to-Heart Bond` `Beastshield number system` `Three-level punishment` `Demotion system` / `精槽系统` `随从契约` `心有灵犀的羁绊` `兽盾编号体系` `三级惩戒` `降级制度`
+
+### 🎯 Ending Tendency / 结局指向
+`HE` `Redemption` `New life` `Bystander awakening` / `HE` `救赎` `新生` `旁观者觉醒`
 
 ---
 

@@ -5,11 +5,22 @@
 
 ---
 
-## 一、内容分级 / Content Rating
+## 一、内容分级与标签总览 / Content Rating & Tags Overview
 
-**成人内容警告 / 18+ Only**
-
-本世界观包含成人内容、性暗示、暴力及黑暗主题。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.{0–5}**（因作品而异） | {说明} |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.{0–5}**（因作品而异） | {说明} |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.{0–5}**（因作品而异） | {说明} |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `{trigger1}` `{trigger2}` |
+>
+> ⚠️ **世界观核心机制说明**：{本世界核心机制说明}。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
 
 ---
 
@@ -57,35 +68,35 @@ For detailed settings, see: [settings/](settings/)
 
 #### 主线 / Main
 
-| 编码 | 中文名 | 英文名 | 标签 | 链接 |
-|------|--------|--------|------|------|
-| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [目录](original-archives/chinese/chaptered-stories/main/{code}/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `{code}` | `{title-zh}` | `{title-en}` | Lv.{x} | Lv.{x} | Lv.{x} | `{tag}` | [目录](original-archives/chinese/chaptered-stories/main/{code}/README.md) |
 
 #### 支线 / Side
 
-| 编码 | 中文名 | 英文名 | 标签 | 链接 |
-|------|--------|--------|------|------|
-| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [目录](original-archives/chinese/chaptered-stories/side/{code}/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `{code}` | `{title-zh}` | `{title-en}` | Lv.{x} | Lv.{x} | Lv.{x} | `{tag}` | [目录](original-archives/chinese/chaptered-stories/side/{code}/README.md) |
 
 #### 短篇 / Short Stories
 
-| 编码 | 中文名 | 英文名 | 标签 | 链接 |
-|------|--------|--------|------|------|
-| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [阅读](original-archives/chinese/short-stories/{code}/{code}.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `{code}` | `{title-zh}` | `{title-en}` | Lv.{x} | Lv.{x} | Lv.{x} | `{tag}` | [阅读](original-archives/chinese/short-stories/{code}/{code}.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 
 #### 长篇分章 / Chaptered
 
-| 编码 | 中文名 | 英文名 | 标签 | 链接 |
-|------|--------|--------|------|------|
-| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [目录](adaptation-works/chaptered-stories/{code}/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `{code}` | `{title-zh}` | `{title-en}` | Lv.{x} | Lv.{x} | Lv.{x} | `{tag}` | [目录](adaptation-works/chaptered-stories/{code}/README.md) |
 
 #### 短篇 / Short Stories
 
-| 编码 | 中文名 | 英文名 | 标签 | 链接 |
-|------|--------|--------|------|------|
-| `{code}` | `{title-zh}` | `{title-en}` | `{tags}` | [阅读](adaptation-works/short-stories/{code}/{code}.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `{code}` | `{title-zh}` | `{title-en}` | Lv.{x} | Lv.{x} | Lv.{x} | `{tag}` | [阅读](adaptation-works/short-stories/{code}/{code}.md) |
 
 ---
 

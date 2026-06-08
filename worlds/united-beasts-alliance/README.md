@@ -5,11 +5,22 @@
 
 ---
 
-## 1. 内容分级 / Content Rating
+## 1. 内容分级与标签总览 / Content Rating & Tags Overview
 
-**成人内容警告 / 18+ Only**
-
-本世界观包含暴力与创伤描写、心理冲击及世界观特有主题。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 雄兽人社会设定（兼具雄雌双重性征）、成人社会关系与情感纽带描写，非直接性行为导向 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.3–4**（因章节而异） | 战斗伤害、关节扭断、撕咬见血、血腥仪式（生食）、死亡噩耗与头颅展示 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.3** | 失去亲人的极致悲伤、自我伤害的蜕变仪式、复仇执念、从温和到决绝的人格剧变 |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `雄兽人设定` `血腥场面` `自我伤害/生食` `死亡噩耗` `头颅展示` `战斗伤害` `复仇` |
+>
+> ⚠️ **世界观核心机制说明**：本世界为独立的奇幻世界观，所有兽人均为兼具雄雌双重性征的雄兽人。故事聚焦于亲情、失去、复仇与成长，核心冲突围绕兽盟堡的权力体系与狼风谷的威胁展开。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
 
 ---
 
@@ -57,9 +68,9 @@ For detailed settings, see: [settings/](settings/)
 
 ### 4.1 原作存档 / Original Archives
 
-暂无已整理的原作存档。项目正在持续整理中。
-
-No original archives organized yet. The project is ongoing.
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `uba-o-cm-1-main-story-1` | 万兽盟 主线故事 | United Beasts Alliance Main Story | Lv.2 | Lv.3 | Lv.3 | `连载中` `复仇` `黑暗成长` | [目录](original-archives/chinese/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 

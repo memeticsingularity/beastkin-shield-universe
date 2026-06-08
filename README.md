@@ -5,7 +5,7 @@
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-orange)
 ![Worlds](https://img.shields.io/badge/Worlds-8%20Unique%20Settings-purple)
 
-**版本 3.1 · 最后更新：2026年5月16日 · 规范体系：[docs/spec/](docs/spec/) · 重构记录：[project-docs/restructure-2026/](project-docs/restructure-2026/) · 贡献指南：[CONTRIBUTING.md](CONTRIBUTING.md)**
+**版本 3.2 · 最后更新：2026年6月8日 · 规范体系：[docs/spec/](docs/spec/) · 重构记录：[project-docs/restructure-2026/](project-docs/restructure-2026/) · 贡献指南：[CONTRIBUTING.md](CONTRIBUTING.md)**
 
 ---
 
@@ -26,25 +26,50 @@
 
 ---
 
-## 一、内容分级 / Content Rating
+## 一、内容分级与标签体系 / Content Rating & Tag System
 
 **成人内容警告 / 18+ Only**
 
-本宇宙中的部分作品包含成人内容，包括但不限于：
-- 强烈的性暗示和明确的性内容描写
-- 暴力和战斗场景
-- 复杂的道德困境和黑暗主题
+本宇宙中的全部作品采用统一的内容分级体系，从四个维度评估内容强度，并辅以九类内容标签帮助读者快速定位核心元素。
 
-**所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。**
+---
+
+### 四维分级矩阵 / 4-Dimensional Rating Matrix
+
+每个作品（及世界观总览）均标注以下四个维度的级别（Lv.0–5）：
+
+| 维度 | 级别范围 | 说明 |
+|------|:-------:|------|
+| 🔞 性内容 / Sexual Content | **Lv.0–5** | 从背景提及（Lv.1）到 explicit 性行为/体液描写（Lv.4–5） |
+| 💀 暴力与死亡 / Violence & Death | **Lv.0–5** | 从战斗提及（Lv.1）到大规模屠杀/虐杀（Lv.5） |
+| 🧠 心理黑暗度 / Psychological Darkness | **Lv.0–5** | 从轻度压抑（Lv.1）到系统性绝望/身份撕裂（Lv.4–5） |
+| ⚡ 特殊触发 / Specific Triggers | — | 逐项列出可能触发的内容（如`芯片控制` `尸体处理` `背叛`等） |
+
+**分级依据文档**：[docs/spec/13-rating-criteria.md](docs/spec/13-rating-criteria.md)
+
+---
+
+### 九类内容标签 / 9-Category Tag Taxonomy
+
+每部作品README均包含以下九类标签：
+
+| 类别 | 说明 |
+|------|------|
+| 🐾 物种 | 出场的兽人种族 |
+| 🔞 情色与身体 | 性器官/制服/体液/身体描写元素 |
+| ⚔️ 死亡与暴力 | 处决/虐杀/战斗/死亡机制 |
+| 🏛️ 权力与关系 | 等级/主从/组织/身份关系 |
+| 🎭 主题与情感 | 核心情感与叙事主题 |
+| 🎨 叙事与风格 | 叙事视角、节奏、风格 |
+| 🗺️ 核心场景 | 关键空间与地点 |
+| 🧩 世界观机制 | 本作涉及的特有机制 |
+| 🎯 结局指向 | HE/BE/开放式/单元悲剧等 |
 
 ---
 
 **Adult Content Warning / 18+ Only**
 
-Some works in this universe contain adult content, including but not limited to:
-- Strong sexual implications and explicit sexual content descriptions
-- Violence and combat scenes
-- Complex moral dilemmas and dark themes
+All works in this universe use a unified content rating system, assessing intensity across four dimensions plus nine content tag categories to help readers locate core elements.
 
 **All fictional content is artistic creation and does not encourage similar behavior in reality.**
 
@@ -369,6 +394,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 - 📊 [元数据规范](docs/spec/04-metadata.md) | Metadata Spec
 - 📄 [故事格式规范](docs/spec/11-story-format.md) | Story Format Spec
 - 🎨 [内容指南](docs/spec/12-content-guidelines.md) | Content Guidelines
+- ⚠️ [内容分级标准](docs/spec/13-rating-criteria.md) | Rating Criteria (v1.0)
 - 💾 [Git LFS 设置指南](docs/git-large-file-storage-guide.md) | Git LFS Setup Guide
 - 🔧 [Git 身份检查指南](docs/git-identity-check-guide.md) | Git Identity Check Guide
 - 📜 [许可协议](LICENSE.md) | License Agreement
@@ -376,6 +402,16 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 ---
 
 ## 十二、更新记录 / Update History
+
+- **2026-06-08 v3.2**：全面跃迁内容分级与标签体系，覆盖 27+ 个 README
+    - 引入四维分级矩阵（🔞性内容 / 💀暴力死亡 / 🧠心理黑暗 / ⚡特殊触发），Lv.0–5 标准
+    - 引入九类内容标签体系（🐾物种 / 🔞情色身体 / ⚔️死亡暴力 / 🏛️权力关系 / 🎭主题情感 / 🎨叙事风格 / 🗺️核心场景 / 🧩世界观机制 / 🎯结局指向）
+    - 更新 7 个世界观根 README 的分级总览与作品表评分列
+    - 更新 3 个中文故事 README（雪夜岗哨、R-302、E-419）为完整 4D+9 标签格式
+    - 更新 13 个英文故事 README 以匹配中文版本
+    - 更新 4 套模板（world/story-type/archive/story）嵌入新体系
+    - 新建 `docs/spec/13-rating-criteria.md` 定义评分依据与实操规范
+    - 更新 `docs/spec/03-intermediate-documents.md` 强制要求新分级格式
 
 - **2026-05-16 v3.1**：全面重构 README 体系，补全 8 个世界观索引，新增发现引擎
     - 世界观概览从 3 个扩展为 8 个，补充 beastshield-online、paradise-kik-soldiers 等
@@ -408,5 +444,5 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 
 ---
 
-*最后更新：2026年5月16日 · 文档版本：3.1*  
+*最后更新：2026年6月8日 · 文档版本：3.2*  
 *Last updated: May 16, 2026 · Document Version: 3.1*

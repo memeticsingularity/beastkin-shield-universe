@@ -1,12 +1,51 @@
 # E-419：笨重的珍宝 / E-419: The Cumbersome Treasure
 
-> **⚠️ 内容分级警告 (R-18) / Content Rating Warning (R-18)**
-> 本作品包含以下成人内容：
-> - 明确的性描写 / Explicit Sexual Descriptions
-> - 暴力与战斗场面 / Violence and Combat Scenes
-> - 成人主题及情节 / Adult Themes and Plotlines
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.2** | 精槽系统背景、催情药剂网、身体描写；无 explicit 性行为场景 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.2** | 赏金猎人伏击、弩箭/飞刀威胁、系统裁汰/优化、肌肉松弛剂 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.2** | 边缘化绝望、被系统视为"低效拖累"的无力感、守护执念（野花） |
+> | ⚡ 特殊触发 / Specific Triggers | — | `赏金猎人伏击` `药剂/催情` `系统裁汰` `边缘化` `身份否定` |
+>
+> ⚠️ **世界观核心机制说明**：本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡）。核心机制为"心愿模组"——玩家通过温柔介入与真诚羁绊，改写被系统设定为"敌人"或"可消耗品"的角色的命运。
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+棕熊兽人
+
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽机制` `药剂/催情` `身体描写` `脂包肌` `制服 fetish`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`赏金猎人伏击` `弩箭` `飞刀` `系统裁汰` `肌肉松弛剂` `巨网陷阱`
+
+### 🏛️ 权力与关系 / Power & Relations
+`被边缘化者-系统` `玩家-NPC` `赏金猎人-目标` `底层杂兵`
+
+### 🎭 主题与情感 / Themes & Emotions
+`守护执念` `边缘化绝望` `被接纳` `温柔` `效率与人性` `自然与系统`
+
+### 🎨 叙事与风格 / Narrative & Style
+`温暖治愈` ` draft/草案` `救援叙事` `情感驱动`
+
+### 🗺️ 核心场景 / Key Settings
+`废弃仓库` `旧工业区` `白之都` `栖木筑` `后院阳光`
+
+### 🧩 世界观机制 / World Mechanics
+`精槽系统` `赏金系统` `心愿模组` `肌肉松弛剂` `催情网` `系统优化裁汰`
+
+### 🎯 结局指向 / Ending Tendency
+`HE` `救赎` `新生` `草稿/草案`
 
 ---
 
@@ -28,22 +67,22 @@
 
 熊兽人"大块"（E-419）落单了。他遇到赏金猎人袭击，命悬一线。玩家奇点虎口夺食，在其他玩家手中救下了这个憨厚沉默的熊兽人。与雷山的主动投靠、铁蹄的自我惩罚、山敦的温柔放弃都不同，大块的救赎之路更加被动——他几乎已经放弃了希望，只是本能地护着怀里那盆野花。奇点将如何让这盆花在温暖中重新绽放？
 
-Bear beastkin "Dakuai" (E-419) is stranded. He encounters a bounty hunter attack, his life hanging by a thread. Player Singularity snatches him from the tiger's jaws, rescuing this honest and silent bear beastkin from another player. Unlike Leishan's active allegiance, Tieti's self-punishment, or Shandun's gentle surrender, Dakuai's path to redemption is more passive—he has almost given up hope, instinctively protecting only the pot of wildflowers in his arms. How will Singularity make these flowers bloom again in warmth?
+At three in the morning, the back alleys of White Capital reek of rotting garbage. Bounty hunter Li You has just finished off a lone G-level wild boar beastkin when he looks up to see a tall black figure at the alley entrance—E-level combat soldier, tiger beastkin Leishan. But unexpectedly, the other party doesn't attack. Instead, he slowly raises his hands and proposes a deal: he is willing to offer three chips—intelligence, weakness, and loyalty—to become Li You's follower.
 
 ---
 
 ## 章节列表 / Chapter List
 
-- [第一章：笨重的珍宝 / Chapter 1: The Cumbersome Treasure](ch-1-1.md)
-- [第二章：花盆与心跳 / Chapter 2: Flower Pot and Heartbeat](ch-1-2.md)
+- [第一章：落单与伏击 / Chapter 1: Isolation and Ambush](ch-1-1.md)
+- [第二章：故事深化讨论 / Chapter 2: Story Development Discussion](ch-1-2.md)
 
 ---
 
 ## 核心主题 / Core Themes
 
-- **被动的救赎**: 不是主动求救，而是在绝望中被人发现
-- **沉默的温柔**: 大块不擅言辞，但他的行动比语言更有力
-- **野花的隐喻**: 在最不适合生长的地方，依然顽强绽放的生命
+- **笨拙的珍宝**: 被系统视为"低效拖累"的存在，却拥有最纯粹的守护本能
+- **野花与希望**: 一盆几乎枯死的野花，是与过去温柔世界唯一的联结
+- **虎口夺食**: 从赏金猎人和系统双重绞杀中，抢救一个即将被碾碎的灵魂
 
 ---
 

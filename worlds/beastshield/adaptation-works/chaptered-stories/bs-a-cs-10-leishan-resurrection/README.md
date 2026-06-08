@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.4** | 濒死射精经历、强制勃起回忆、精液与体液描写、性器官状态细节 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.4** | 濒死体验、尸体处理场环境、同伴死亡、逃亡中的暴力威胁 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 濒死创伤、PTSD、身份丧失、被系统抹除存在的恐惧、绝望中的求生 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 濒死体验、尸体/腐臭描写、性侵犯回忆（转化为射精机制）、创伤后应激 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：被扔进垃圾桶的虎兽人新兵在精液与汗水的混合物中睁开了眼睛——而隔壁那具"尸体"，似乎也在呼吸。
@@ -18,19 +36,65 @@ This is the story of Leizhao—the tiger beastkin patrolling the perimeter of Be
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容标签与核心元素 / Content Tags & Core Elements
 
-- **兽人类型**：虎 / Tiger、牛 / Bull、犬 / Dog
-- **内容要素**：survival、resurrection、escape、corporate、mentorship、found-family、trauma
-- **叙事风格**：grimdark、thriller、survival-drama、emotional
+### 🐾 物种 / Species
+虎 `Tiger` · 牛 `Bull` · 犬 `Dog`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`濒死射精` `强制勃起回忆` `精液描写` `体液细节` `性器官状态` `憋精功` `身体背叛感`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`濒死体验` `尸体处理场` `同伴死亡` `逃亡暴力` `赏金猎杀` `系统清除`
+
+### 🏛️ 权力与关系 / Power & Relations
+`老兵-新兵` `幸存者互助` `found-family` `师徒` `体制弃子` `被标记为已死`
+
+### 🎭 主题与情感 / Themes & Emotions
+`死而复生` `求生本能` `创伤愈合` `信任建立` `绝望中的希望` `身份重建` `相依为命`
+
+### 🎨 叙事与风格 / Narrative & Style
+`grimdark` `thriller` `survival-drama` `emotional` `感官写实` `慢节奏恢复`
+
+### 🗺️ 核心场景 / Key Settings
+`垃圾桶/尸体堆` `尸体处理场` `下水道` `废弃建筑` `城市边缘` `阴影中的藏身处`
+
+### 🧩 世界观机制 / World Mechanics
+`伤害→精槽→射精死亡` `憋精功` `赏金猎人制度` `兽盾编号系统` `尸体处理流程`
+
+### 🎯 结局指向 / Ending Tendency
+`开放式` `生存继续` `羁绊加深`
 
 ---
 
-## II. Content Tags
+## II. Content Tags & Core Elements
 
-- **Species**: Tiger, Bull, Dog
-- **Elements**: survival, resurrection, escape, corporate, mentorship, found-family, trauma
-- **Style**: grimdark, thriller, survival-drama, emotional
+### 🐾 Species
+Tiger `Tiger` · Bull `Bull` · Dog `Dog`
+
+### 🔞 Erotic & Bodily
+`near-death-ejaculation` `forced-erection-memory` `semen-detailed` `bodily-fluids` `genital-status` `semen-retention-technique` `bodily-betrayal`
+
+### ⚔️ Death & Violence
+`near-death-experience` `corpse-disposal-yard` `companion-death` `escape-violence` `bounty-hunting` `systematic-elimination`
+
+### 🏛️ Power & Relations
+`veteran-recruit` `survivor-mutual-aid` `found-family` `mentorship` `system-castoff` `marked-as-deceased`
+
+### 🎭 Themes & Emotions
+`resurrection` `survival-instinct` `trauma-healing` `trust-building` `hope-in-despair` `identity-reconstruction` `mutual-dependence`
+
+### 🎨 Narrative & Style
+`grimdark` `thriller` `survival-drama` `emotional` `sensory-realism` `slow-recovery`
+
+### 🗺️ Key Settings
+`trash-bin-corpse-pile` `corpse-disposal-yard` `sewers` `abandoned-buildings` `city-periphery` `shadow-hideout`
+
+### 🧩 World Mechanics
+`damage-to-lust-to-death` `semen-retention-technique` `bounty-hunter-system` `beastshield-numbering` `corpse-disposal-protocol`
+
+### 🎯 Ending Tendency
+`open-ended` `survival-continues` `bond-deepens`
 
 ---
 

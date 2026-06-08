@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 核心机制为伤害转化为性欲值，主角需管理NPC精槽以避免射精死亡；含敏感部位探索、边缘控制描写 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.3** | 原作大量死亡场景被主角试图避免，但失败循环中仍包含战斗、处决、屠杀等暴力事件 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 时间循环精神负担、记忆闪回、人格碎片化、NPC牺牲 guilt、存档伦理困境、完美主义焦虑 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 时间循环创伤、精神崩溃、同伴牺牲 guilt、无法拯救所有人的绝望、VR与现实边界模糊 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。主角的目标是在不触发该机制的前提下拯救所有人，但失败循环中机制仍会展现。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：一名普通玩家沉迷于 VR 游戏《兽游世界》，凭借"Save Us Then Load World"（风灵月影/外挂）的存档读档能力，在一场注定杀戮的世界里，笨拙而固执地试图让每一个人活下来。
@@ -20,7 +38,69 @@
 
 ---
 
-## 二、核心机制 / Core Mechanics
+## 二、内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+熊 `Bear` · 猪 `Boar` · 牛 `Bull` · 狗 `Dog` · 虎 `Tiger` · 狼 `Wolf` · 兔 `Rabbit` · 熊猫 `Panda` · 山羊 `Goat` · 多种兽人
+
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽管理` `边缘控制` `敏感部位探索` `射精死亡机制（避免向）` `制服性特征` `体液描写（轻度）`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`战斗` `处决` `屠杀（失败循环中）` `实验虐杀` `战争` `精神冲击` `NPC牺牲`
+
+### 🏛️ 权力与关系 / Power & Relations
+`玩家-NPC` `随从系统` `委托关系` `锚定角色` `羁绊建立` `跨时间线记忆`
+
+### 🎭 主题与情感 / Themes & Emotions
+`拯救伦理` `时间循环` `完美主义` `牺牲 guilt` `希望与绝望` `人性保持` `集体行动`
+
+### 🎨 叙事与风格 / Narrative & Style
+`第一人称` `策略性悲剧` `时间循环伦理剧` `情感救赎` `meta叙事` `游戏化叙事`
+
+### 🗺️ 核心场景 / Key Settings
+`VR游戏世界` `兽盾基地` `仓库` `地下街` `兵营` `训练室` `安全屋`
+
+### 🧩 世界观机制 / World Mechanics
+`伤害→精槽→射精死亡` `存档/读档` `随从系统` `换装系统` `属性加点` `NPC委托` `触发式事件链`
+
+### 🎯 结局指向 / Ending Tendency
+`全活路线（目标）` `策略性悲剧` `集体救赎` `连载中`
+
+---
+
+## II. Content Tags & Core Elements
+
+### 🐾 Species
+Bear `Bear` · Boar `Boar` · Bull `Bull` · Dog `Dog` · Tiger `Tiger` · Wolf `Wolf` · Rabbit `Rabbit` · Panda `Panda` · Goat `Goat` · Various Beastkin
+
+### 🔞 Erotic & Bodily
+`lust-meter-management` `edge-control` `sensitive-area-exploration` `ejaculation-death-mechanic-avoidance` `uniform-sexual-features` `bodily-fluids-mild`
+
+### ⚔️ Death & Violence
+`combat` `execution` `massacre-failure-loops` `experimental-torture` `war` `psychic-assault` `npc-sacrifice`
+
+### 🏛️ Power & Relations
+`player-npc` `follower-system` `delegation` `anchor-characters` `bond-building` `cross-timeline-memory`
+
+### 🎭 Themes & Emotions
+`salvation-ethics` `time-loop` `perfectionism` `sacrifice-guilt` `hope-and-despair` `retaining-humanity` `collective-action`
+
+### 🎨 Narrative & Style
+`first-person` `strategic-tragedy` `time-loop-ethical-drama` `emotional-redemption` `meta-narrative` `gamified-narrative`
+
+### 🗺️ Key Settings
+`vr-game-world` `beastshield-base` `warehouse` `underground-street` `barracks` `training-room` `safe-house`
+
+### 🧩 World Mechanics
+`damage-to-lust-to-death` `save-load` `follower-system` `disguise-system` `stat-allocation` `npc-delegation` `triggered-event-chain`
+
+### 🎯 Ending Tendency
+`everyone-lives-goal` `strategic-tragedy` `collective-redemption` `ongoing`
+
+---
+
+## 三、核心机制 / Core Mechanics
 
 ### 1. Save Us Then Load World（存档读档）
 - 主角可以在任意时刻设立**存档点**

@@ -1,14 +1,20 @@
 # Beastshield Paradise · Main Story / 兽盾乐园 · 主线故事
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
-> - Non-traditional Worldview Settings / 非传统世界观设定
+> **⚠️ Content Rating & Warnings**
 >
-> **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
-> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension | Level | Description |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content | **Lv.3** | Explicit sexual organ contact and Libido Value mechanism descriptions, but serving the theme of "redemption" rather than pure erotica; includes body descriptions under uniforms and sexualized weakness control |
+> | 💀 Violence & Death | **Lv.2** | Warehouse corpse descriptions, grappling control, abdominal strikes, Libido Value execution threats, but no actual deaths occur; violence is transformed into gentle reversal |
+> | 🧠 Psychological Darkness | **Lv.3** | Deep excavation of fear and inferiority, the cold oppression of the Beastshield system, characters' inner despair and shame, but ultimately resolved through warm acceptance |
+> | ⚡ Specific Triggers | — | `Sexualized weakness control (crotch grabbing)` `Asphyxiation threat` `Libido Value countdown visualization` `Uniform/white sock fetish` `Betrayal and snitching anxiety` `Inferiority and self-worth denial` |
+>
+> ⚠️ **Core Worldview Mechanic**: This world inherits the *Beastshield* foundation—the Libido Value system (damage converts to lust value, full bar = ejaculation death)—but the core mechanic is "Wish Modules": the player rewrites the fates of characters designated as "enemies" by the system through gentle intervention and sincere bonds, replacing violent conquest with "Family Contracts."
+>
+> **Please ensure you are at least 18 years old.**
+> If the content makes you uncomfortable, please stop reading immediately.
 
 ---
 

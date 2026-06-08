@@ -1,12 +1,51 @@
 # Beastshield · Warm Archive: Oath of Home / 兽盾·温暖存档：家园誓约
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.3** | Includes wedding night explicit scenes, but core serves emotional bonding and Oath of Home; uniform/white sock fetish elements. / 包含洞房婚礼夜等 explicit 场景，但核心服务于情感缔结与家园誓约；有制服/白袜 fetish 元素 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.2** | Canon plot involves sniping, suicide, execution threats; in Warm Archive violence is reversed into redemption, no actual death occurs. / 背板剧情涉及狙击、自杀、处决威胁；温暖存档中暴力被逆转为救赎，无实际死亡发生 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.3** | Deep despair, suicide moment, identity tear (sniper vs lover), Beastshield system oppression and betrayal, Warm Archive provides healing outlet. / 深层绝望、自杀瞬间、身份撕裂（狙击手 vs 恋人）、兽盾体系的压迫与背叛，温暖存档提供治愈出口 |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Suicide/self-harm scenes` `Sniping/firearms` `Uniform/white sock fetish` `Birthday death mechanism` `Debt oppression` `Identity tear` / `自杀/自残场景` `狙击/枪械` `制服/白袜 fetish` `生日死亡机制` `债务压迫` `身份撕裂` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: This world has a dual narrative layer of "Canon Plot" and "Warm Archive." Under canon plot, the Beastshield system executes characters on their birthdays; in Warm Archive, player "Memetic Singularity" intervenes with "Wish Modules" (Heart-to-Heart Bond, Magic of Time, etc.) to rewrite fate at the last moment, replacing death with a "Family Contract." / 本世界存在"背板剧情"与"温暖存档"双重叙事层。背板剧情下，兽盾体系在角色生日当天执行处决；温暖存档中，玩家"模因奇点"以"心愿模组"（心有灵犀、时间的魔法等）介入，在最后一刻改写命运，以"家人契约"替代死亡。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
+> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Gray Wolf Beastkin, White Tiger Beastkin, Brown Bear Beastkin, Ape Beastkin / 灰狼兽人、白虎兽人、棕熊兽人、猿猴兽人
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Semen Gauge mechanism` `Uniform fetish` `White socks/knee-highs` `Wedding night` `Body depiction` `Emotional intimacy` / `精槽机制` `制服 fetish` `白袜/长筒袜` `洞房婚礼夜` `身体描写` `情感性亲密`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Sniping` `Suicide/self-harm` `Execution threat` `Canon death` `Time-stop intervention` `No actual death (Warm Archive)` / `狙击` `自杀/自残` `处决威胁` `背板死亡` `时间停止干预` `无实际死亡（温暖存档）`
+
+### 🏛️ Power & Relations / 权力与关系
+`Sniper-target` `Lover/police academy classmate` `Player-NPC` `Family contract` `Beastshield rank system (R-level/G-level)` `Superior-subordinate` / `狙击手-目标` `恋人/警校同期` `玩家-NPC` `家人契约` `兽盾等级体系（R级/G级）` `上级-下属`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Redemption from despair` `Identity tear` `Birthday death` `Debt oppression` `Belated confession` `Wedding and oath` `Echoes of kindness` `Healing` / `绝境救赎` `身份撕裂` `生日死亡` `债务压迫` `迟来的告白` `婚礼与誓约` `善意的回响` `治愈`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Dual narrative layers` `Canon vs Warm Archive` `Time stop` `Gentle reversal` `Healing epic` `Multi-volume longform` / `双重叙事层` `背板 vs 温暖存档` `时间停止` `温柔逆转` `治愈史诗` `多卷长篇`
+
+### 🗺️ Key Settings / 核心场景
+`Abandoned factory sniper nest` `Seaside cabin` `Before the fireplace` `Hot spring` `Under maple leaves` `Wedding chamber` `Panshi Manor` / `废弃工厂狙击点` `海边小屋` `壁炉前` `温泉` `枫叶下` `洞房` `磐石庄园`
+
+### 🧩 World Mechanics / 世界观机制
+`Canon plot` `Warm Archive` `Wish Module` `Heart-to-Heart Bond` `Magic of Time` `Family Contract` `Beastshield number system` `Birthday execution mechanism` / `背板剧情` `温暖存档` `心愿模组` `心有灵犀` `时间的魔法` `家人契约` `兽盾编号体系` `生日处决机制`
+
+### 🎯 Ending Tendency / 结局指向
+`HE` `Wedding` `Oath of Home` `All redeemed` `Closed loop` / `HE` `婚礼` `家园誓约` `全员救赎` `闭合的循环`
 
 ---
 

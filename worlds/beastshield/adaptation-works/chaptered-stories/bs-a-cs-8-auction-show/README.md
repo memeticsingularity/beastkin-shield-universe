@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.5** | 公开性刺激处决，春药弹、直接刺激、精液喷射全程详细描写，群体 spectacle |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.5** | 十段处决秀，每段均以射精死亡终结，包含羞辱性公开死亡 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.5** | 体制性残酷，尊严崩塌，绝望等待，公开羞辱，心理折磨 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 公开性处决、体制暴力、尊严剥夺、春药/药物控制、群体死亡 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：当起拍价只有1撸币，却从无人出价——因为所有人都知道，流拍的"拍品"将迎来比死亡更漫长的终幕。
@@ -18,19 +36,65 @@ Beneath BeastShield Inc. lies a hidden spectacle called the "Routine Auction." E
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容标签与核心元素 / Content Tags & Core Elements
 
-- **兽人类型**：狼 / Wolf、熊 / Bear、虎 / Tiger、牛 / Bull、犬 / Dog、豹 / Leopard、野猪 / Boar、鹿 / Deer、狮 / Lion、狐 / Fox
-- **内容要素**：death、auction、execution、corporate、systemic-violence、sexual-stimulation、public-spectacle
-- **叙事风格**：grimdark、body-horror、psychological、institutional-cruelty
+### 🐾 物种 / Species
+灰狼 `Gray Wolf` · 棕熊 `Brown Bear` · 黄虎 `Yellow Tiger` · 黑牛 `Black Bull` · 黄狗 `Yellow Dog` · 黑豹 `Black Leopard` · 野猪 `Wild Boar` · 白鹿 `White Deer` · 雄狮 `Male Lion` · 赤狐 `Red Fox`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`公开射精死亡` `春药控制` `强制勃起` `精液描写` `性刺激处决` `身体失控` `公开羞辱`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`处决秀` `公开死亡` `体制性杀戮` `羞辱性死亡` `连续死亡` `拍卖-处决链` `尸体处理`
+
+### 🏛️ 权力与关系 / Power & Relations
+`公司 vs 员工` `观众 vs 猎物` `体制压迫` `等级制度` `逃兵审判` `可抛弃品`
+
+### 🎭 主题与情感 / Themes & Emotions
+`体制性残酷` `尊严崩塌` `绝望` `傲慢与惩罚` `悔恨` `贪婪` `温顺与坚韧`
+
+### 🎨 叙事与风格 / Narrative & Style
+`单元剧` `群像` `grimdark` `body-horror` `psychological` `institutional-cruelty` `倒计时叙事`
+
+### 🗺️ 核心场景 / Key Settings
+`地下拍卖场` `候场室` `处决舞台` `观众席` `转盘处决台` `尸体处理区`
+
+### 🧩 世界观机制 / World Mechanics
+`伤害→精槽→射精死亡` `春药弹` `拍卖-处决制度` `G级杂兵可抛弃机制` `编号系统`
+
+### 🎯 结局指向 / Ending Tendency
+`全员死亡` `无救赎` `体制胜利`
 
 ---
 
-## II. Content Tags
+## II. Content Tags & Core Elements
 
-- **Species**: Wolf, Bear, Tiger, Bull, Dog, Leopard, Boar, Deer, Lion, Fox
-- **Elements**: death, auction, execution, corporate, systemic-violence, sexual-stimulation, public-spectacle
-- **Style**: grimdark, body-horror, psychological, institutional-cruelty
+### 🐾 Species
+Gray Wolf `Gray Wolf` · Brown Bear `Brown Bear` · Yellow Tiger `Yellow Tiger` · Black Bull `Black Bull` · Yellow Dog `Yellow Dog` · Black Leopard `Black Leopard` · Wild Boar `Wild Boar` · White Deer `White Deer` · Male Lion `Male Lion` · Red Fox `Red Fox`
+
+### 🔞 Erotic & Bodily
+`public-ejaculation-death` `aphrodisiac-control` `forced-erection` `semen-detailed` `sexual-stimulation-execution` `bodily-loss-of-control` `public-humiliation`
+
+### ⚔️ Death & Violence
+`execution-show` `public-death` `institutional-killing` `humiliating-death` `serial-deaths` `auction-execution-chain` `corpse-disposal`
+
+### 🏛️ Power & Relations
+`company-vs-employee` `audience-vs-prey` `institutional-oppression` `rank-system` `deserter-trial` `disposable`
+
+### 🎭 Themes & Emotions
+`institutional-cruelty` `dignity-collapse` `despair` `arrogance-and-punishment` `regret` `greed` `gentleness-and-resilience`
+
+### 🎨 Narrative & Style
+`anthology` `ensemble` `grimdark` `body-horror` `psychological` `institutional-cruelty` `countdown-narrative`
+
+### 🗺️ Key Settings
+`underground-auction-house` `waiting-room` `execution-stage` `auditorium` `roulette-execution-platform` `corpse-disposal-area`
+
+### 🧩 World Mechanics
+`damage-to-lust-to-death` `aphrodisiac-rounds` `auction-execution-system` `g-rank-disposable` `numbering-system`
+
+### 🎯 Ending Tendency
+`everyone-dies` `no-redemption` `system-victory`
 
 ---
 

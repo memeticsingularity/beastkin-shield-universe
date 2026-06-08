@@ -5,11 +5,22 @@
 
 ---
 
-## 1. 内容分级 / Content Rating
+## 1. 内容分级与标签总览 / Content Rating & Tags Overview
 
-**成人内容警告 / 18+ Only**
-
-本世界观包含大量成人向内容，包括但不限于暴力与战斗描写、性暗示与明确性内容、黑暗与残酷叙事。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3–4**（因作品而异） | 芯片触发射精自毁（撸杀）机制、性弱点暴露与利用、性器官机械刺激、精液气味与体液描写 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.3–5**（因作品而异） | 撸杀处决、芯片自毁、战友死亡、帝国空袭、人体实验、培养舱复制品、大规模殖民屠杀 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 深度PTSD、嗅觉记忆闪回、创伤后生存 guilt、克隆伦理困境、帝国体制下的情感联结诅咒、身份抹除 |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `芯片控制/植入` `射精自毁（撸杀）` `退役召回` `培养舱/克隆` `帝国空袭` `抑制药物依赖` `军袜等级制度` `身份编号体系` |
+>
+> ⚠️ **世界观核心机制说明**：本世界核心机制为"芯片控制"——所有士兵颈椎植入控制芯片，射精即触发自毁；军袜等级制度（白袜/绿袜/蓝袜/黑袜）标识身份与权力；培养舱批量生产士兵并可制造记忆复制品；退役兵的芯片会在五年内激活死亡程序，需每日服用抑制药物。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
 
 ---
 
@@ -59,17 +70,17 @@ For detailed settings, see: [settings/](settings/)
 
 ### 4.1 原作存档 / Original Archives
 
-| 编码 | 中文名 | 英文名 | 形式 | 链接 |
-|------|--------|--------|------|------|
-| `eks-o-cm-1-long-live-the-empire` | 帝国万岁 | Long Live the Empire | 主线分章 | [目录](original-archives/chinese/chaptered-stories/main/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `eks-o-cm-1-long-live-the-empire` | 帝国万岁 | Long Live the Empire | Lv.4 | Lv.5 | Lv.4 | `帝国胜利` `文明终结` | [目录](original-archives/chinese/chaptered-stories/main/README.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 
-| 编码 | 中文名 | 英文名 | 形式 | 链接 |
-|------|--------|--------|------|------|
-| `eks-o-s-1-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | 短篇 | [目录](adaptation-works/chaptered-stories/bs-a-c-1-short-stories/README.md) |
-| `eks-o-cm-1-recall-protocol` | 召回协议 | Recall Protocol | 主线分章 | [目录](adaptation-works/chaptered-stories/eks-o-cm-1-recall-protocol/README.md) |
-| `eks-o-cm-2-dog-soldier-dreams` | 狗兵梦想 | Dog Soldier Dreams | 主线分章 | [目录](adaptation-works/chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `eks-o-s-1-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | Lv.3 | Lv.3 | Lv.3 | `单元悲剧` `死亡` | [目录](adaptation-works/chaptered-stories/bs-a-c-1-short-stories/README.md) |
+| `eks-o-cm-1-recall-protocol` | 召回协议 | Recall Protocol | Lv.3 | Lv.3 | Lv.4 | `开放式` `反乌托邦` | [目录](adaptation-works/chaptered-stories/eks-o-cm-1-recall-protocol/README.md) |
+| `eks-o-cm-2-dog-soldier-dreams` | 狗兵梦想 | Dog Soldier Dreams | Lv.3 | Lv.3 | Lv.4 | `已完成` `记忆与现实的和解` | [目录](adaptation-works/chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
 
 ---
 

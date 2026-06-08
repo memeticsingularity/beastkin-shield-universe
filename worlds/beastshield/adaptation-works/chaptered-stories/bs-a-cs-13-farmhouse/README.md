@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.5** | 强制榨精、精液作为肥料、详细性器官描写、自慰/控精、射精死亡/濒死 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.4** | 迷药绑架、囚禁、榨精致死、枪击、背叛、黑暗产业暴力 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 复仇快感转向经营野心、忠诚与裂痕、畸形家庭、身份谜团、噬精兽黑幕 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 绑架囚禁、药物控制、精液榨取、死亡肥料、背叛、身份替换/失忆 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。本作品将这一机制极端化为"精液作为农作物肥料"的黑暗产业，大量榨精场景贯穿始终。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：社畜牛兽人小谷继承爷爷的实验农场，以兽盾员工为"肥料"种植神奇作物，在复仇与经营之间逐渐建立起属于自己的黑暗产业帝国。
@@ -26,7 +44,69 @@ Yet beneath the surface warmth lies a deeper conspiracy. The true buyers of the 
 
 ---
 
-## 二、分卷总览 / Volumes
+## 二、内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+牛 `Bull` · 黑熊 `Black Bear` · 野猪 `Wild Boar` · 虎 `Tiger` · 灰狼 `Gray Wolf` · 德牧 `German Shepherd` · 雪纳瑞 `Schnauzer` · 棕熊 `Brown Bear` · 雪豹 `Snow Leopard`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`强制榨精` `精液肥料` `性器官详细描写` `自慰控精` `射精死亡/濒死` `体液描写` `勃起控制` `性器官喂食`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`迷药绑架` `囚禁` `榨精致死` `枪击` `背叛` `黑暗产业暴力` `尸体掩埋`
+
+### 🏛️ 权力与关系 / Power & Relations
+`农场主-跟班` `复仇者-受害者` `畸形家庭` `警察-罪犯` `研究员-实验体` `旧识羁绊` `背叛者`
+
+### 🎭 主题与情感 / Themes & Emotions
+`复仇与经营` `忠诚与裂痕` `畸形温暖` `身份谜团` `黑暗产业` `失忆与真相` `家庭定义`
+
+### 🎨 叙事与风格 / Narrative & Style
+`长篇连载` `多卷结构` `黑暗喜剧` `群像` `悬疑` `反转` `感官写实`
+
+### 🗺️ 核心场景 / Key Settings
+`实验农场` `农家乐餐厅` `地下棚屋` `地下室` `农田` `兽盾分公司` `城市警局`
+
+### 🧩 世界观机制 / World Mechanics
+`伤害→精槽→射精死亡` `精液灌溉作物` `蛮力萝卜` `欲望黑参` `活力紫茎` `噬精兽` `血精石终极造物`
+
+### 🎯 结局指向 / Ending Tendency
+`连载中` `开放式` `黑暗温馨`
+
+---
+
+## II. Content Tags & Core Elements
+
+### 🐾 Species
+Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger` · Gray Wolf `Gray Wolf` · German Shepherd `German Shepherd` · Schnauzer `Schnauzer` · Brown Bear `Brown Bear` · Snow Leopard `Snow Leopard`
+
+### 🔞 Erotic & Bodily
+`forced-milking` `semen-fertilizer` `genital-detailed` `self-pleasure-control` `ejaculation-death-near-death` `bodily-fluids` `erection-control` `genital-feeding`
+
+### ⚔️ Death & Violence
+`drugged-kidnapping` `imprisonment` `milking-to-death` `gunshot` `betrayal` `dark-industry-violence` `corpse-burial`
+
+### 🏛️ Power & Relations
+`farmmaster-subordinate` `avenger-victim` `dysfunctional-family` `police-criminal` `researcher-test-subject` `old-bond` `betrayer`
+
+### 🎭 Themes & Emotions
+`revenge-and-ambition` `loyalty-and-fracture` `twisted-warmth` `identity-mystery` `dark-industry` `amnesia-and-truth` `definition-of-family`
+
+### 🎨 Narrative & Style
+`long-running-serial` `multi-volume` `dark-comedy` `ensemble` `mystery` `twist` `sensory-realism`
+
+### 🗺️ Key Settings
+`experimental-farm` `farmhouse-restaurant` `underground-shed` `basement` `farmland` `beastshield-branch` `city-police-station`
+
+### 🧩 World Mechanics
+`damage-to-lust-to-death` `semen-irrigation-crops` `brute-radish` `lust-black-ginseng` `vitality-purple-stem` `semivore` `blood-essence-stone-creation`
+
+### 🎯 Ending Tendency
+`ongoing` `open-ended` `dark-warmth`
+
+---
+
+## 三、分卷总览 / Volumes
 
 | 卷次 | 标题 | 章节数 | 状态 | 目录 |
 |------|------|--------|------|------|

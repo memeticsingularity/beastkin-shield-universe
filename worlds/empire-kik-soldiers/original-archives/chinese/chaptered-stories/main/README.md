@@ -2,48 +2,52 @@
 
 ---
 
-## ⚠️ 分级与内容提示
-
-**成人内容警告 / 18+ Only**
-
-本作品包含大量成人向内容，阅读前请务必知悉：
-
-- **暴力与战斗描写**：包含枪战、格斗、处决、虐杀、撸杀等详细场景。
-- **性暗示与明确性内容**：涉及改造士兵的生理特性、性刺激处决、强迫行为、吞噬精液等。
-- **黑暗与残酷叙事**：包含权力压迫、人体实验、种族改造、背叛、复仇、文明毁灭等沉重主题。
-- **可能引起不适的场面**：包括但不限于尸体处理、生理羞辱、死亡时的射精反应、精液作为能量源等。
-
-**推荐读者年龄：18岁以上**
-
-所有内容均为虚构创作，旨在构建戏剧冲突与黑暗科幻设定，请勿模仿或在现实中实施任何类似行为。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.5** | 极端且频繁的性刺激处决（撸杀）、强迫射精、精液吞噬/作为能量源、性器官改造、explicit 性行为与身体羞辱贯穿全书 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.5** | 枪战、格斗、处决、虐杀、无差别屠戮、公开处决、尸体处理、人体实验、文明毁灭 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.5** | 绝对权力压迫、身份彻底异化（编号取代姓名）、系统性的生理与心理控制、背叛、复仇、文明轮回的虚无感 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 撸杀/射精处决、强迫性行为、精液吞噬、人体实验、芯片控制、培养舱诞生、编号身份体系、奴隶烙印、公开羞辱、文明毁灭 |
+>
+> ⚠️ **世界观核心机制说明**：本世界核心机制为"芯片-射精自毁"——所有基尅兵颈椎植入控制芯片，射精即触发自毁死亡；军袜等级制度（黑袜/绿袜/蓝袜/白袜）标识身份与绝对权力；培养舱批量生产士兵；"撸杀"是帝国管理士兵的标志性处决手段，也是战斗中的致命弱点。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
 
 ---
 
-## ⚠️ Content Rating and Warnings
+## 内容标签与核心元素 / Content Tags & Core Elements
 
-**Adult Content Warning / 18+ Only**
+### 🐾 物种 / Species
+虎兽人、狼兽人、熊兽人、熊猫兽人、雪豹兽人、各类基尅兵
 
-This work contains a significant amount of adult-oriented content. Please be fully aware before
-reading:
+### 🔞 情色与身体 / Erotic & Bodily
+`芯片-射精自毁` `撸杀` `性刺激处决` `精液吞噬/能量源` `性器官改造` `强迫性行为` `身体羞辱` `军袜 fetish` `护裆/弱点`
 
-- **Violence and Combat Descriptions**: Includes detailed scenes of gunfights, brawls, executions,
-  torture, kills, and
-  specialized "ejaculation executions".
-- **Sexual Implications and Explicit Sexual Content**: Involves the physiological traits of modified
-  soldiers,
-  sexual-stimulation executions, forced acts, semen consumption, etc.
-- **Dark and Brutal Narrative**: Includes heavy themes such as power oppression, human
-  experimentation, genetic
-  modification, betrayal, revenge, and civilization annihilation.
-- **Scenes That May Cause Discomfort**: Including but not limited to corpse disposal, physiological
-  humiliation,
-  ejaculation at death, semen as an energy source, etc.
+### ⚔️ 死亡与暴力 / Death & Violence
+`枪战` `格斗` `处决` `虐杀` `无差别屠戮` `公开处决` `尸体处理` `人体实验` `文明毁灭` `星际战争`
 
-**Recommended Reader Age: 18+**
+### 🏛️ 权力与关系 / Power & Relations
+`皇帝-士兵` `白袜-蓝袜-绿袜-黑袜等级` `长官-下属` `奴隶-主人` `处刑官-囚犯` `帝国-抵抗组织`
 
-All content is fictional, created to build dramatic conflict within a dark sci-fi setting. Do not
-imitate or carry out
-any similar actions in reality.
+### 🎭 主题与情感 / Themes & Emotions
+`绝对权力压迫` `身份彻底异化` `系统性控制` `背叛与复仇` `文明轮回` `存在主义虚无` `黑暗统治`
+
+### 🎨 叙事与风格 / Narrative & Style
+`黑暗科幻` `军事幻想` `反英雄` `史诗决战` `反乌托邦` `星际战争` `基因改造`
+
+### 🗺️ 核心场景 / Key Settings
+`雪山基地` `培养舱设施` `处刑场` `大通铺宿舍` `娱乐场所` `星际舰队` `殖民星球` `碳酸泉` `蜂巢基地`
+
+### 🧩 世界观机制 / World Mechanics
+`芯片控制` `射精自毁` `军袜等级制度` `培养舱生产` `撸杀处决` `基因改造` `纳米科技` `六把钥匙` `上古力量`
+
+### 🎯 结局指向 / Ending Tendency
+`文明毁灭` `帝国永恒` `BE` `轮回`
 
 ---
 

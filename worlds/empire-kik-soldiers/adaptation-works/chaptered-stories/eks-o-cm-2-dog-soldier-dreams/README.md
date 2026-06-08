@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 芯片触发射精自毁（撸杀）场景、护裆/弱点暴露、性器官机械刺激、精液气味描写，但核心服务于体制批判与心理创伤叙事 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.3** | 撸杀处决、芯片自毁、战友死亡、帝国空袭、颈骨疤痕、人体实验（培养舱复制品） |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 深度PTSD、嗅觉记忆闪回、创伤后生存 guilt、克隆伦理困境、帝国体制下的情感联结诅咒 |
+> | ⚡ 特殊触发 / Specific Triggers | — | PTSD闪回、芯片控制/植入、射精自毁（撸杀）、培养舱/克隆、帝国空袭、停药倒计时、颈骨疤痕、记忆迷宫 |
+>
+> ⚠️ **世界观核心机制说明**：本世界核心机制为"芯片控制"——所有士兵颈椎植入控制芯片，射精即触发自毁；军袜等级制度标识身份与权力；培养舱批量生产士兵并可制造记忆复制品；退役兵的芯片会在五年内激活死亡程序，需每日服用抑制药物。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：当嗅觉能唤醒完整的记忆，一只退役犬兵发现帝国从不真正放走任何人——包括那个他以为早已死去的战友。
@@ -18,19 +36,34 @@ B-45231, an eight-year veteran black-sock soldier and dog beastkin, is renowned 
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容标签与核心元素 / Content Tags & Core Elements
 
-- **兽人类型**：犬兽人（德牧/狼犬混血）、狼兽人、豺狼兽人（混血）、狐狸兽人、虎兽人、熊兽人
-- **内容要素**：芯片控制、嗅觉记忆、PTSD、培养舱复制品、克隆伦理、帝国召回、抵抗组织、走私者
-- **叙事风格**：记忆闪回、感官驱动、心理创伤、慢节奏、存在主义、轮回与选择
+### 🐾 物种 / Species
+犬兽人（德牧/狼犬混血）、狼兽人、豺狼兽人（混血）、狐狸兽人、虎兽人、熊兽人
 
----
+### 🔞 情色与身体 / Erotic & Bodily
+`芯片触发射精自毁` `撸杀` `护裆/弱点` `军袜 fetish` `性器官机械刺激` `精液气味` `嗅觉记忆`
 
-## II. Content Tags
+### ⚔️ 死亡与暴力 / Death & Violence
+`撸杀处决` `芯片自毁` `战友死亡` `帝国空袭` `颈骨疤痕` `培养舱复制品/克隆`
 
-- **Species**: Dog (German Shepherd / Wolfhound Mix), Wolf, Jackal-Wolf Hybrid, Fox, Tiger, Bear
-- **Elements**: Implant Control, Olfactory Memory, PTSD, Vat-Grown Copies, Clone Ethics, Imperial Recall, Resistance Network, Smugglers
-- **Style**: Memory Flashbacks, Sensory-Driven, Psychological Trauma, Slow-Paced, Existentialism, Karma and Choice
+### 🏛️ 权力与关系 / Power & Relations
+`帝国-士兵` `白袜-绿袜-黑袜等级` `退役兵-新兵` `走私者-退役兵` `抵抗组织-帝国` `战友羁绊`
+
+### 🎭 主题与情感 / Themes & Emotions
+`PTSD` `嗅觉记忆闪回` `创伤后生存 guilt` `克隆伦理` `情感联结诅咒` `自由与奴役` `轮回与选择`
+
+### 🎨 叙事与风格 / Narrative & Style
+`记忆闪回` `感官驱动` `心理创伤` `慢节奏` `存在主义` `反乌托邦`
+
+### 🗺️ 核心场景 / Key Settings
+`雪山基地` `边境森林木屋` `地下惩戒室` `培养舱设施` `雨夜战场` `走私者路线`
+
+### 🧩 世界观机制 / World Mechanics
+`芯片控制` `射精自毁` `军袜等级制度` `培养舱生产` `退役召回` `抑制药物` `嗅觉记忆` `克隆/复制品`
+
+### 🎯 结局指向 / Ending Tendency
+`已完成` `开放式` `反乌托邦` `记忆与现实的和解`
 
 ---
 

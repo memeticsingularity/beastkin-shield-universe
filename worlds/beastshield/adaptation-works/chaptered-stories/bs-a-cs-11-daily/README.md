@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.0** | 无性内容，仅底层生存日常 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.1** | 无直接暴力，但存在体制压迫的隐性暴力、生存焦虑 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.2** | 底层绝望、身份迷失、被编号取代名字、生存麻木 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 贫困描写、体制压迫、生存焦虑、仓库悬疑 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。本故事为日常向支线，核心机制未直接触发，但世界观背景存在。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：当铁幕之下的底层兽人醒来，他们数的是肋骨底下的心跳，攒的是四个半月的全部积蓄，面对的是不知道装着什么的箱子。
@@ -18,19 +36,65 @@
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容标签与核心元素 / Content Tags & Core Elements
 
-- **兽人类型**：牛兽人、狗兽人、北极熊兽人、黑豹兽人、虎兽人、棕熊兽人、野猪兽人、刺猬兽人、羚羊兽人、鬣狗兽人、浣熊兽人、兔兽人
-- **内容要素**：群像叙事、底层生存、感官写实、去英雄化、日常切片、仓库悬疑
-- **叙事风格**：多角色POV、环境细节强化、去英雄化、缓慢节奏
+### 🐾 物种 / Species
+牛 `Bull` · 狗 `Dog` · 北极熊 `Polar Bear` · 黑豹 `Black Panther` · 虎 `Tiger` · 棕熊 `Brown Bear` · 野猪 `Boar` · 刺猬 `Hedgehog` · 羚羊 `Gazelle` · 鬣狗 `Hyena` · 浣熊 `Raccoon` · 兔 `Rabbit`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`无性内容` `身体劳动` `体味写实` `生存疲惫` `身体磨损`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`隐性暴力` `体制压迫` `生存焦虑` `编号取代名字` `仓库悬疑`
+
+### 🏛️ 权力与关系 / Power & Relations
+`底层同事` `宿舍共同体` `阶级固化` `G级杂兵` `被消耗品`
+
+### 🎭 主题与情感 / Themes & Emotions
+`底层生存` `微小抗争` `彼此取暖` `梦想与现实` `麻木与希望` `身份迷失`
+
+### 🎨 叙事与风格 / Narrative & Style
+`多角色POV` `群像` `感官写实` `去英雄化` `缓慢节奏` `环境细节强化` `日常切片`
+
+### 🗺️ 核心场景 / Key Settings
+`兽盾仓库宿舍` `食堂` `仓库货区` `洗漱区` `铁架床`
+
+### 🧩 世界观机制 / World Mechanics
+`兽盾G级制度` `编号系统` `底层员工生存` `仓库管理体系`
+
+### 🎯 结局指向 / Ending Tendency
+`日常继续` `开放式` `微小光芒`
 
 ---
 
-## II. Content Tags
+## II. Content Tags & Core Elements
 
-- **Species**: Bull, Dog, Polar Bear, Black Panther, Tiger, Brown Bear, Boar, Hedgehog, Gazelle, Hyena, Raccoon, Rabbit
-- **Elements**: Ensemble cast, bottom-rung survival, sensory realism, de-heroicized, daily slice-of-life, warehouse mystery
-- **Style**: Multi-POV, environmental detail, anti-heroic, slow-paced
+### 🐾 Species
+Bull `Bull` · Dog `Dog` · Polar Bear `Polar Bear` · Black Panther `Black Panther` · Tiger `Tiger` · Brown Bear `Brown Bear` · Boar `Boar` · Hedgehog `Hedgehog` · Gazelle `Gazelle` · Hyena `Hyena` · Raccoon `Raccoon` · Rabbit `Rabbit`
+
+### 🔞 Erotic & Bodily
+`no-sexual-content` `physical-labor` `body-odor-realism` `survival-exhaustion` `bodily-wear`
+
+### ⚔️ Death & Violence
+`implicit-violence` `institutional-oppression` `survival-anxiety` `numbers-over-names` `warehouse-mystery`
+
+### 🏛️ Power & Relations
+`bottom-rung-colleagues` `dormitory-community` `class-solidification` `g-rank-grunt` `expendable`
+
+### 🎭 Themes & Emotions
+`bottom-rung-survival` `micro-resistance` `mutual-warmth` `dreams-vs-reality` `numbness-and-hope` `identity-loss`
+
+### 🎨 Narrative & Style
+`multi-pov` `ensemble` `sensory-realism` `de-heroicized` `slow-paced` `environmental-detail` `daily-slice`
+
+### 🗺️ Key Settings
+`beastshield-warehouse-dorm` `cafeteria` `warehouse-cargo-area` `wash-area` `iron-bunk-beds`
+
+### 🧩 World Mechanics
+`beastshield-g-rank-system` `numbering-system` `bottom-employee-survival` `warehouse-management`
+
+### 🎯 Ending Tendency
+`daily-continues` `open-ended` `tiny-glimmer`
 
 ---
 

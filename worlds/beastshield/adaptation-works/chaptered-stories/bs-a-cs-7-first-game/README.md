@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.4** | 核心机制为伤害转化为性欲值，大量射精死亡场景，性器官反应与体液描写频繁 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.4** | 战斗死亡频繁，包含处决、实验虐杀、战争屠杀，尸体描写具体 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 存在主义危机、人性丧失恐惧、意识转移伦理、牺牲与背叛 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 实验虐杀、意识转移、精神崩溃、同伴死亡、VR与现实边界模糊 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：当一个程序员花三个月工资买下VR头盔，他以为等待自己的只是一场游戏——直到那温热的、腥臊的液体溅到他新生的脸颊上。
@@ -18,19 +36,65 @@ Chen Mo, a 27-year-old programmer, enters the Beastshield universe for the first
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容标签与核心元素 / Content Tags & Core Elements
 
-- **兽人类型**：熊 / Bear、兔 / Rabbit、狼 / Wolf、野猪 / Boar、豹 / Panther、山羊 / Goat、鼠 / Rat、狐 / Fox、牛 / Bull、狗 / Dog、虎 / Tiger
-- **内容要素**：vr-game、death、combat、espionage、conspiracy、awakening、mentor-student
-- **叙事风格**：grimdark、thriller、coming-of-age、philosophical
+### 🐾 物种 / Species
+棕熊 `Brown Bear` · 白兔 `White Rabbit` · 狼 `Wolf` · 野猪 `Boar` · 黑豹 `Black Panther` · 山羊 `Goat` · 鼠 `Rat` · 狐 `Fox` · 牛 `Bull` · 狗 `Dog` · 虎 `Tiger`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`射精死亡机制` `强制勃起` `精液描写` `性器官反应` `敏感部位探索` `体液细节` `边缘控制`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`战斗死亡` `处决` `实验虐杀` `战争屠杀` `尸体保存` `意识转移` `精神冲击`
+
+### 🏛️ 权力与关系 / Power & Relations
+`降临者 vs 原住民` `导师-学生` `同伴背叛` `组织阴谋` `阶级压迫` `实验体`
+
+### 🎭 主题与情感 / Themes & Emotions
+`人性保持` `存在主义` `觉醒` `牺牲` `复仇` `孤独` `希望与绝望`
+
+### 🎨 叙事与风格 / Narrative & Style
+`第一人称` `成长叙事` `哲学思辨` `grimdark` `thriller` `多线叙事`
+
+### 🗺️ 核心场景 / Key Settings
+`VR游戏世界` `兽盾基地` `地下实验室` `城市街道` `安全屋` `战场`
+
+### 🧩 世界观机制 / World Mechanics
+`伤害→精槽→射精死亡` `意识转移` `精神冲击` `随从系统` `VR降临` `属性加点`
+
+### 🎯 结局指向 / Ending Tendency
+` bittersweet` `牺牲与救赎` `开放式`
 
 ---
 
-## II. Content Tags
+## II. Content Tags & Core Elements
 
-- **Species**: Bear, Rabbit, Wolf, Boar, Panther, Goat, Rat, Fox, Bull, Dog, Tiger
-- **Elements**: vr-game, death, combat, espionage, conspiracy, awakening, mentor-student
-- **Style**: grimdark, thriller, coming-of-age, philosophical
+### 🐾 Species
+Brown Bear `Brown Bear` · White Rabbit `White Rabbit` · Wolf `Wolf` · Boar `Boar` · Black Panther `Black Panther` · Goat `Goat` · Rat `Rat` · Fox `Fox` · Bull `Bull` · Dog `Dog` · Tiger `Tiger`
+
+### 🔞 Erotic & Bodily
+`ejaculation-death-mechanic` `forced-erection` `semen-detailed` `genital-reactions` `sensitive-area-exploration` `bodily-fluids` `edge-control`
+
+### ⚔️ Death & Violence
+`combat-death` `execution` `experimental-torture` `war-massacre` `body-preservation` `consciousness-transfer` `psychic-assault`
+
+### 🏛️ Power & Relations
+`player-vs-native` `mentor-student` `companion-betrayal` `organizational-conspiracy` `class-oppression` `test-subject`
+
+### 🎭 Themes & Emotions
+`retaining-humanity` `existentialism` `awakening` `sacrifice` `revenge` `loneliness` `hope-and-despair`
+
+### 🎨 Narrative & Style
+`first-person` `coming-of-age` `philosophical` `grimdark` `thriller` `multi-thread`
+
+### 🗺️ Key Settings
+`vr-game-world` `beastshield-base` `underground-laboratory` `city-streets` `safe-house` `battlefield`
+
+### 🧩 World Mechanics
+`damage-to-lust-to-death` `consciousness-transfer` `psychic-assault` `follower-system` `vr-descent` `stat-allocation`
+
+### 🎯 Ending Tendency
+`bittersweet` `sacrifice-and-redemption` `open-ended`
 
 ---
 

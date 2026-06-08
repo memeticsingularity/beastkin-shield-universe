@@ -1,12 +1,20 @@
 # 兽盾·温暖存档：家园誓约 / Beastshield · Warm Archive: Oath of Home
 
-> **⚠️ 内容分级警告 (R-18) / Content Rating Warning (R-18)**
-> 本作品包含以下成人内容：
-> - 明确的性描写 / Explicit Sexual Descriptions
-> - 暴力与战斗场面 / Violence and Combat Scenes
-> - 成人主题及情节 / Adult Themes and Plotlines
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 包含洞房婚礼夜等 explicit 场景，但核心服务于情感缔结与家园誓约；有制服/白袜 fetish 元素 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.2** | 背板剧情涉及狙击、自杀、处决威胁；温暖存档中暴力被逆转为救赎，无实际死亡发生 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.3** | 深层绝望、自杀瞬间、身份撕裂（狙击手 vs 恋人）、兽盾体系的压迫与背叛，温暖存档提供治愈出口 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 自杀/自残场景、狙击/枪械、制服/白袜 fetish、生日死亡机制、债务压迫、身份撕裂 |
+>
+> ⚠️ **世界观核心机制说明**：本世界存在"背板剧情"与"温暖存档"双重叙事层。背板剧情下，兽盾体系在角色生日当天执行处决；温暖存档中，玩家"模因奇点"以"心愿模组"（心有灵犀、时间的魔法等）介入，在最后一刻改写命运，以"家人契约"替代死亡。
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
 
 ---
 
@@ -21,6 +29,37 @@
 - **位置 / Location**: original-archives
 - **作者 / Author**: memetic-singularity
 - **世界观 / Universe**: Beastshield Paradise
+
+---
+
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+灰狼兽人、白虎兽人、棕熊兽人、猿猴兽人
+
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽机制` `制服 fetish` `白袜/长筒袜` `洞房婚礼夜` `身体描写` `情感性亲密`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`狙击` `自杀/自残` `处决威胁` `背板死亡` `时间停止干预` `无实际死亡（温暖存档）`
+
+### 🏛️ 权力与关系 / Power & Relations
+`狙击手-目标` `恋人/警校同期` `玩家-NPC` `家人契约` `兽盾等级体系（R级/G级）` `上级-下属`
+
+### 🎭 主题与情感 / Themes & Emotions
+`绝境救赎` `身份撕裂` `生日死亡` `债务压迫` `迟来的告白` `婚礼与誓约` `善意的回响` `治愈`
+
+### 🎨 叙事与风格 / Narrative & Style
+`双重叙事层` `背板 vs 温暖存档` `时间停止` `温柔逆转` `治愈史诗` `多卷长篇`
+
+### 🗺️ 核心场景 / Key Settings
+`废弃工厂狙击点` `海边小屋` `壁炉前` `温泉` `枫叶下` `洞房` `磐石庄园`
+
+### 🧩 世界观机制 / World Mechanics
+`背板剧情` `温暖存档` `心愿模组` `心有灵犀` `时间的魔法` `家人契约` `兽盾编号体系` `生日处决机制`
+
+### 🎯 结局指向 / Ending Tendency
+`HE` `婚礼` `家园誓约` `全员救赎` `闭合的循环`
 
 ---
 

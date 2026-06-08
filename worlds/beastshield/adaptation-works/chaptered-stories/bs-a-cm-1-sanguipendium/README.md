@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.2** | 战斗中的性欲值机制导致强制勃起与射精描写，非直接性行为 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.5** | 格斗至死，大量死亡场景，尸体描写，系统性屠杀 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 绝望、背叛、金钱对生命的量化、底层无力感 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 死亡格斗、赌博成瘾、债务压迫、同伴相残、矿石病 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：三十二名底层武斗兵，三十一场至死方休的厮杀——你的奖金，取决于队友死得够不够快。
@@ -30,7 +48,38 @@ This is not a story of glory. It is a brutal tale of money, despair, and the cal
 
 ---
 
-## 二、内容标签 / Content Tags
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+`牛兽人` `虎兽人` `熊兽人` `犬兽人` `大猩猩兽人` `犀牛兽人` `火狐兽人` `河马兽人` `灰狼兽人` `野猪兽人`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`性欲值机制` `强制勃起` `射精即死` `体液描写` `制服紧身` `脂包肌` `雄性体味`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`格斗至死` `死亡赛事` `尸体描写` `匕首` `徒手格斗` `系统性屠杀` `背叛杀戮`
+
+### 🏛️ 权力与关系 / Power & Relations
+`公司帝国` `底层士兵` `高层决策` `债务压迫` `赌博成瘾` `等级制度` `阵营对抗`
+
+### 🎭 主题与情感 / Themes & Emotions
+`绝望` `金钱量化生命` `生存博弈` `荣誉与幻想` `背叛最优解` `悲剧英雄` `底层无力感`
+
+### 🎨 叙事与风格 / Narrative & Style
+`grimdark` `thriller` `tragedy` `多视角群像` `会议叙事` `规则设计` `冷峻客观`
+
+### 🗺️ 核心场景 / Key Settings
+`兽盾总部` `会议室` `武斗兵营` `白之都` `擂台` `地下仓储区`
+
+### 🧩 世界观机制 / World Mechanics
+`性欲值系统` `伤害转化欲望` `博彩系统` `命运抽签` `阵营奖金公式` `等级制度(E/G/O)` `矿石病`
+
+### 🎯 结局指向 / Ending Tendency
+`全灭倾向` `唯一幸存者` `无人生还` `悲剧` `开放式残酷`
+
+---
+
+## 二、旧版内容标签 / Legacy Content Tags
 
 - **兽人类型**：牛 / Bull、虎 / Tiger、熊 / Bear、犬 / Dog
 - **内容要素**：death、combat、tournament、corporate、gambling、survival
@@ -38,7 +87,7 @@ This is not a story of glory. It is a brutal tale of money, despair, and the cal
 
 ---
 
-## II. Content Tags
+## II. Legacy Content Tags
 
 - **Species**: Bull, Tiger, Bear, Dog
 - **Elements**: death, combat, tournament, corporate, gambling, survival

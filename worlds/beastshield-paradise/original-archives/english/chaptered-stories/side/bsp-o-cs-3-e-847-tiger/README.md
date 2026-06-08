@@ -1,12 +1,51 @@
 # Back Alley Bargain: Leishan / 后巷的筹码：雷山
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.3** | Explicit body weakness exposure, groin/cup depiction, uniform fetish, collar control and aphrodisiac mechanism, but core serves loyalty and trust narrative. / 明确的身体弱点暴露、下体/护裆描写、制服 fetish、项圈控制与催情机制，但核心服务于忠诚与信任的叙事 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.2** | Back alley corpse, bounty hunting, Beastshield cleanup team threat, self-discipline collar execution mechanism, but no main character death. / 后巷尸体、赏金猎杀、兽盾清理队威胁、自律项圈处决机制，但无主要角色死亡 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.3** | Psychology of voluntary submission, identity stripping (E-847 → Leishan), instrumentalization vs de-instrumentalization struggle, deep craving to be needed. / 自愿臣服的心理动机、身份剥离（E-847→雷山）、工具化与去工具化的挣扎、对"被需要"的深层渴望 |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Voluntary collar/shackle wearing` `Weakness exposure` `Aphrodisiac electric shock execution` `Number identity stripping` `Debt oppression background` `Parents deceased` / `自愿戴项圈/枷锁` `弱点暴露` `催情电击处决` `编号身份剥离` `债务压迫背景` `父母双亡` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: This world inherits the Beastshield base setting—the Semen Gauge System (damage converts to Lust Value, full gauge triggers ejaculatory death). Core mechanic is the "Follower Contract"—making NPCs followers through coercion, strength conquest, or voluntary submission; this story shows the voluntary submission path, with the "self-discipline collar" as a materialized symbol of loyalty. / 本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡）。核心机制为"随从契约"——通过威逼利诱、实力征服或自愿臣服使NPC成为随从；本故事展现的是自愿臣服路径，以"自律项圈"作为忠诚的物化象征。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
+> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Tiger Beastkin, Wild Boar Beastkin, Black Bull Beastkin (mentioned) / 虎兽人、野猪兽人、黑牛兽人（提及）
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Semen Gauge mechanism` `Weakness exposure` `Groin guard/metal protection` `Uniform fetish` `Black uniform` `Knee-highs` `Self-discipline collar` `Aphrodisiac electric shock` `Groin depiction` `Femoral artery weak point` / `精槽机制` `弱点暴露` `护裆/金属护具` `制服 fetish` `黑制服` `长筒袜` `自律项圈` `催情电击` `下体描写` `股动脉薄弱点`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Bounty hunting` `Back alley corpse` `Beastshield cleanup team` `Self-discipline collar execution` `Throwing knife` `Dagger` / `赏金猎杀` `后巷尸体` `兽盾清理队` `自律项圈处决` `飞刀` `匕首`
+
+### 🏛️ Power & Relations / 权力与关系
+`Player-follower` `Voluntary submission` `Bounty hunter-combat soldier` `Superior-subordinate` `Beastshield rank system (E-level/G-level)` `Master-servant contract` / `玩家-随从` `自愿臣服` `赏金猎人-武斗兵` `上级-下属` `兽盾等级体系（E级/G级）` `主从契约`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Voluntary submission` `Chips and trust` `Identity reshaping` `Craving to be needed` `Choosing who binds you` `Redemption and belonging` / `自愿的臣服` `筹码与信任` `身份重塑` `被需要的渴望` `选择被谁束缚` `救赎与归属`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Transaction narrative` `Back alley noir` `Power reversal` `Body politics` `Loyalty trial` / `交易叙事` `后巷 noir` `权力反转` `身体政治` `忠诚考验`
+
+### 🗺️ Key Settings / 核心场景
+`White Capital back alley` `Streetlamp at alley entrance` `Beastshield HQ ventilation duct` `Black market` / `白之都后巷` `巷口路灯` `兽盾总部通风管道` `黑市`
+
+### 🧩 World Mechanics / 世界观机制
+`Semen Gauge System` `Ejaculatory death` `Follower Contract` `Self-discipline collar` `Beastshield number system` `Bounty system` `Biometric key binding` / `精槽系统` `射精死亡` `随从契约` `自律项圈` `兽盾编号体系` `赏金系统` `生物密钥绑定`
+
+### 🎯 Ending Tendency / 结局指向
+`Follower ending` `Open-ended adventure` `Master-servant bond` / `随从结局` `开放式冒险` `主从羁绊`
 
 ---
 

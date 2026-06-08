@@ -5,6 +5,23 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.{0–5}**（因作品而异） | {说明} |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.{0–5}**（因作品而异） | {说明} |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.{0–5}**（因作品而异） | {说明} |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `{trigger1}` `{trigger2}` |
+>
+> ⚠️ **世界观核心机制说明**：{本世界核心机制说明}。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
+
+---
+
 ## 一、形式说明 / Format Overview
 
 {本形式的特点说明：分章故事的章节结构、短篇的篇幅要求等}
@@ -45,9 +62,9 @@
 - 特殊设定 / Special Concepts
 }
 
-| 作品 | 一句话简介 | 核心标签 |
-|------|-----------|---------|
-| [**{中文标题}**]({code}/README.md) | {用一句话勾起阅读欲望，不要平铺直叙} | `{tag1}` `{tag2}` |
+| 作品 | 一句话简介 | 🔞 | 💀 | 🧠 | 🎯 |
+|------|-----------|:--:|:--:|:--:|:--:|
+| [**{中文标题}**]({code}/README.md) | {用一句话勾起阅读欲望，不要平铺直叙} | Lv.{x} | Lv.{x} | Lv.{x} | `{tag}` |
 
 ---
 
@@ -55,9 +72,9 @@
 
 {Group by theme/mood if there are 4+ works. Each work MUST have a one-line hook.}
 
-| Work | One-line Hook | Tags |
-|------|---------------|------|
-| [**{Title}**]({code}/README.md) | {One sentence that sparks curiosity} | `{tag1}` `{tag2}` |
+| Work | One-line Hook | 🔞 | 💀 | 🧠 | 🎯 |
+|------|---------------|:--:|:--:|:--:|:--:|
+| [**{Title}**]({code}/README.md) | {One sentence that sparks curiosity} | Lv.{x} | Lv.{x} | Lv.{x} | `{tag}` |
 
 ---
 

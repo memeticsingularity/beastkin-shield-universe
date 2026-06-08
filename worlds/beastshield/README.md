@@ -5,17 +5,20 @@
 
 ---
 
-## 1. 内容分级 / Content Rating
+## 1.5 世界观分级与标签总览 / Universe Rating & Tags Overview
 
-**成人内容警告 / 18+ Only**
+### 世界观整体分级 / Universe-Wide Rating
 
-本世界观包含成人内容、性暗示、暴力及黑暗主题。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+| 维度 Dimension | 级别 Level | 说明 Description |
+|:--|:--:|:--|
+| 🔞 性内容 / Sexual Content | **Lv.3–5**（因作品而异） | 世界观核心机制为"性欲值系统"，伤害转化为性快感、蓄满射精死亡。即使非色情向作品也不可回避此机制。原作及多数改编作品含明确性描写 |
+| 💀 暴力与死亡 / Violence & Death | **Lv.3–5**（因作品而异） | 员工被视为消耗品，处决、战斗死亡、公司内斗为常态。部分作品（如《随意处决》《屠杀与善后》《炎魉》）达大规模屠杀级别 |
+| 🧠 心理黑暗度 / Psychological Darkness | **Lv.2–4**（因作品而异） | 企业反乌托邦背景、员工无尊严生存、阶级压迫、角色随时可被抛弃的命运感；Paradise/Reforged变体可降低 |
+| ⚡ 普遍存在触发项 / Common Triggers | — | `非自愿性快感（机制性）` `射精死亡` `紧身制服物化` `编号取代姓名` `阶级羞辱` `尸体亵玩（部分作品）` `大规模处决（部分作品）` `药物/催情（部分作品）` `组织洗脑/培训（部分作品）` `VR穿越/降临者（部分作品）` |
 
----
+### 世界观核心标签 / Core Universe Tags
 
-**Adult Content Warning / 18+ Only**
-
-This world contains adult content, sexual themes, violence, and dark narratives. All fictional content is artistic creation and does not encourage similar behavior in reality.
+`企业反乌托邦` `兽人帝国` `性欲值系统` `射精死亡` `紧身制服` `等级制度（G/O/E/R/W）` `编号身份` `消耗品员工` `VR游戏接入` `军火走私` `地下格斗` `军事安保` `情色战斗` `赏金系统` `特工局` `十二神武`
 
 ---
 
@@ -59,64 +62,65 @@ For detailed settings, see: [settings/](settings/)
 
 #### 主线 / Main
 
-| 编码 | 中文名 | 英文名 | 链接 |
-|------|--------|--------|------|
-| `bs-o-cm-1-main-story-1` | 兽盾主线故事 第一卷·兽游世界 | Beastshield Main Story Vol.1: Beast Game World | [目录](original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/README.md) |
-| `bs-o-cm-1-main-story-2` | 兽盾主线故事 第二卷·魔影 | Beastshield Main Story Vol.2: Moying | [目录](original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/README.md) |
-| `bs-o-cm-1-main-story-3` | 兽盾主线故事 第三卷·白之都 | Beastshield Main Story Vol.3: White Capital | [目录](original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/README.md) |
+| 编码 | 中文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|:--|:--|:--:|:--:|:--:|:--:|:--|
+| `bs-o-cm-1-main-story-1` | 兽盾主线故事 第一卷·兽游世界 | Lv.4 | Lv.4 | Lv.2 | `未完待续` `力量觉醒` | [目录](original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/README.md) |
+| `bs-o-cm-1-main-story-2` | 兽盾主线故事 第二卷·魔影 | Lv.4 | Lv.5 | Lv.4 | `未完待续` `刺杀失败` | [目录](original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/README.md) |
+| `bs-o-cm-1-main-story-3` | 兽盾主线故事 第三卷·白之都 | Lv.4 | Lv.5 | Lv.4 | `三部曲完结` `新世界开启` | [目录](original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/README.md) |
 
 #### 支线 / Side
 
-| 编码 | 中文名 | 英文名 | 链接 |
-|------|--------|--------|------|
-| `bs-o-cs-1-yan-liang` | 炎魉 | Yanliang | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) |
-| `bs-o-cs-2-mo-quan` | 墨犬 | Ink Hound | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md) |
+| 编码 | 中文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|:--|:--|:--:|:--:|:--:|:--:|:--|
+| `bs-o-cs-1-yan-liang` | 炎魉 | Lv.4 | Lv.5 | Lv.3 | `任务完成` `赏金获取` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) |
+| `bs-o-cs-2-mo-quan` | 墨犬 | Lv.4 | Lv.4 | Lv.3 | `未完待续` `力量觉醒` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md) |
 
 #### 短篇 / Short Stories
 
-| 编码 | 中文名 | 英文名 | 链接 |
-|------|--------|--------|------|
-| `bs-o-s-1-farm-inn` | 兽盾农家乐 | Beast Shield Farmhouse | [阅读](original-archives/chinese/short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md) |
-| `bs-o-s-2-blackstone` | 黑石 | Blackstone | [阅读](original-archives/chinese/short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md) |
-| `bs-o-s-3-blackstone-2` | 黑石2 | Blackstone 2 | [阅读](original-archives/chinese/short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) |
-| `bs-o-s-4-captive-delivery` | 俘虏快递 | Captive Delivery | [阅读](original-archives/chinese/short-stories/bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md) |
-| `bs-o-s-5-employee-diary` | 兽盾员工的一天 | Beast Shield Employee's Day | [阅读](original-archives/chinese/short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
-| `bs-o-s-6-night-raid` | 夜袭 | Night Raid | [阅读](original-archives/chinese/short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
-| `bs-o-s-7-graduation-internship` | 毕业实习 | Graduation Internship | [阅读](original-archives/chinese/short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
-| `bs-o-s-8-the-night-watch` | 守夜人 | The Night Watch | [目录](original-archives/chinese/short-stories/bs-o-s-8-the-night-watch/README.md) |
+| 编码 | 中文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|:--|:--|:--:|:--:|:--:|:--:|:--|
+| `bs-o-s-1-farm-inn` | 兽盾农家乐 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md) |
+| `bs-o-s-2-blackstone` | 黑石 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md) |
+| `bs-o-s-3-blackstone-2` | 黑石2 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) |
+| `bs-o-s-4-captive-delivery` | 俘虏快递 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md) |
+| `bs-o-s-5-employee-diary` | 兽盾员工的一天 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
+| `bs-o-s-6-night-raid` | 夜袭 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
+| `bs-o-s-7-graduation-internship` | 毕业实习 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
+| `bs-o-s-8-the-night-watch` | 守夜人 | Lv.3 | Lv.3 | Lv.2 | `开放式` | [目录](original-archives/chinese/short-stories/bs-o-s-8-the-night-watch/README.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 
 #### 主线分章 / Chaptered Main
 
-| 编码 | 中文名 | 英文名 | 链接 |
-|------|--------|--------|------|
-| `bs-a-cm-1-sanguipendium` | 血酬淘汰赛 | Sanguipendium | [目录](adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/README.md) |
-| `bs-a-cm-2-moying` | 魔影 | Moying | [目录](adaptation-works/chaptered-stories/bs-a-cm-2-moying/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `bs-a-cm-1-sanguipendium` | 血酬淘汰赛 | Sanguipendium | Lv.2 | Lv.5 | Lv.4 | `全灭倾向` `唯一幸存者` | [目录](adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/README.md) |
+| `bs-a-cm-2-moying` | 魔影 | Moying | Lv.5 | Lv.5 | Lv.5 | `猎杀继续` `无人生还` | [目录](adaptation-works/chaptered-stories/bs-a-cm-2-moying/README.md) |
 
 #### 支线分章 / Chaptered Side
 
-| 编码 | 中文名 | 英文名 | 链接 |
-|------|--------|--------|------|
-| `bs-a-cs-1-shorts` | 短篇故事集：兽盾日常切片 | Shorts: Slices of Beastshield Daily Life | [目录](adaptation-works/chaptered-stories/bs-a-cs-1-shorts/README.md) |
-| `bs-a-cs-2-birthday-deaths-of-uniforms` | 制服生日死亡 | Birthday Deaths of Uniforms | [目录](adaptation-works/chaptered-stories/bs-a-cs-2-birthday-deaths-of-uniforms/README.md) |
-| `bs-a-cs-3-all-clear` | 全杀 | All Clear | [目录](adaptation-works/chaptered-stories/bs-a-cs-3-all-clear/README.md) |
-| `bs-a-cs-4-yanliang` | 炎魉 | Yanliang | [目录](adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/README.md) |
-| `bs-a-cs-5-beastshield-chronicles` | 兽盾编年史 | Beastshield Chronicles | [目录](adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/README.md) |
-| `bs-a-cs-6-casual-massacre` | 随意处决 | Casual Massacre | [目录](adaptation-works/chaptered-stories/bs-a-cs-6-casual-massacre/README.md) |
-| `bs-a-cs-7-first-game` | 第一场游戏 | The First Game | [目录](adaptation-works/chaptered-stories/bs-a-cs-7-first-game/README.md) |
-| `bs-a-cs-8-auction-show` | 兽盾流拍处决秀 | The Auction Show | [目录](adaptation-works/chaptered-stories/bs-a-cs-8-auction-show/README.md) |
-| `bs-a-cs-9-songguo-story` | 松果的领养日记 | Songguo's Adoption Diary | [目录](adaptation-works/chaptered-stories/bs-a-cs-9-songguo-story/README.md) |
-| `bs-a-cs-10-leishan-resurrection` | 雷山复活 | Leishan Resurrection | [目录](adaptation-works/chaptered-stories/bs-a-cs-10-leishan-resurrection/README.md) |
-| `bs-a-cs-11-daily` | 日常 | Daily | [目录](adaptation-works/chaptered-stories/bs-a-cs-11-daily/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `bs-a-cs-1-shorts` | 短篇故事集：兽盾日常切片 | Shorts: Slices of Beastshield Daily Life | Lv.3 | Lv.4 | Lv.4 | `单元悲剧` `无人生还` | [目录](adaptation-works/chaptered-stories/bs-a-cs-1-shorts/README.md) |
+| `bs-a-cs-2-birthday-deaths-of-uniforms` | 制服生日死亡 | Birthday Deaths of Uniforms | Lv.3 | Lv.4 | Lv.4 | `单元悲剧` `生日死亡循环` | [目录](adaptation-works/chaptered-stories/bs-a-cs-2-birthday-deaths-of-uniforms/README.md) |
+| `bs-a-cs-3-all-clear` | 全杀 | All Clear | Lv.5 | Lv.5 | Lv.5 | `全收集` `全杀路线` | [目录](adaptation-works/chaptered-stories/bs-a-cs-3-all-clear/README.md) |
+| `bs-a-cs-4-yanliang` | 炎魉 | Yanliang | Lv.5 | Lv.5 | Lv.4 | `名单清除` `无人生还` | [目录](adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/README.md) |
+| `bs-a-cs-5-beastshield-chronicles` | 兽盾编年史 | Beastshield Chronicles | Lv.4 | Lv.4 | Lv.4 | `无人生还` `悲剧` | [目录](adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/README.md) |
+| `bs-a-cs-6-casual-massacre` | 随意处决 | Casual Massacre | Lv.5 | Lv.5 | Lv.4 | `全员死亡` `无救赎` | [目录](adaptation-works/chaptered-stories/bs-a-cs-6-casual-massacre/README.md) |
+| `bs-a-cs-7-first-game` | 第一场游戏 | The First Game | Lv.4 | Lv.4 | Lv.4 | ` bittersweet` `牺牲与救赎` | [目录](adaptation-works/chaptered-stories/bs-a-cs-7-first-game/README.md) |
+| `bs-a-cs-8-auction-show` | 兽盾流拍处决秀 | The Auction Show | Lv.5 | Lv.5 | Lv.5 | `全员死亡` `无救赎` | [目录](adaptation-works/chaptered-stories/bs-a-cs-8-auction-show/README.md) |
+| `bs-a-cs-9-songguo-story` | 松果的领养日记 | Songguo's Adoption Diary | Lv.1 | Lv.1 | Lv.2 | `HE` `温馨治愈` | [目录](adaptation-works/chaptered-stories/bs-a-cs-9-songguo-story/README.md) |
+| `bs-a-cs-10-leishan-resurrection` | 雷山复活 | Leishan Resurrection | Lv.4 | Lv.4 | Lv.4 | `开放式` `生存继续` | [目录](adaptation-works/chaptered-stories/bs-a-cs-10-leishan-resurrection/README.md) |
+| `bs-a-cs-11-daily` | 日常 | Daily | Lv.0 | Lv.1 | Lv.2 | `日常继续` `微小光芒` | [目录](adaptation-works/chaptered-stories/bs-a-cs-11-daily/README.md) |
 
 #### 短篇 / Short Stories
 
-| 编码 | 中文名 | 英文名 | 链接 |
-|------|--------|--------|------|
-| `bs-a-s-1-sentry-elimination` | 哨兵清除系列 | Sentry Elimination | [目录](adaptation-works/short-stories/series-1-sentry-elimination/README.md) |
-| `bs-a-s-2-daily-hunt` | 日常猎杀系列 | Daily Hunt | [目录](adaptation-works/short-stories/series-2-daily-hunt/README.md) |
-| `bs-a-s-3-massacre-cleanup` | 屠杀与善后 | Massacre & Cleanup | [目录](adaptation-works/short-stories/series-3-massacre-cleanup/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `bs-a-s-1-sentry-elimination` | 哨兵清除系列 | Sentry Elimination | Lv.4 | Lv.4 | Lv.2 | `任务完成` `赏金获取` | [目录](adaptation-works/short-stories/series-1-sentry-elimination/README.md) |
+| `bs-a-s-2-daily-hunt` | 日常猎杀系列 | Daily Hunt | Lv.4 | Lv.4 | Lv.2 | `搜刮战利品` `升级` | [目录](adaptation-works/short-stories/series-2-daily-hunt/README.md) |
+| `bs-a-s-3-massacre-cleanup` | 屠杀与善后 | Massacre & Cleanup | Lv.4 | Lv.5 | Lv.3 | `赏金获取` `尸体垃圾处理` | [目录](adaptation-works/short-stories/series-3-massacre-cleanup/README.md) |
+| `bs-a-s-5-original-echoes` | 原作回响系列 | Original Echoes | Lv.3–4 | Lv.4 | Lv.3 | `悲剧死亡` `治愈救赎(分支)` | [目录](adaptation-works/short-stories/series-5-original-echoes/README.md) |
 
 ---
 

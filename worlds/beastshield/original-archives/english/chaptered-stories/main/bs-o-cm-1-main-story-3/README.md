@@ -1,14 +1,51 @@
 # Beastshield Main Story · Vol. 3: White Capital / 兽盾主线故事 · 第三卷：白之都
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
-> - Non-traditional Worldview Settings / 非传统世界观设定
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.4** | Core mechanic is the "Lust Value System" where damage converts to sexual pleasure, full gauge triggers ejaculatory death; includes Red Stone Potion aphrodisiac, forced climax, post-death corpse play, large-scale ejaculatory death scenes; erotic descriptions relatively reduced in war mainline but death mechanism unchanged. / 核心机制为"性欲值系统"，伤害转化为性快感，蓄满即射精死亡；含红石药剂催情、强制高潮、死后亵玩、大规模射精死亡等场景；战争主线中情色描写相对减少但死亡机制不变 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.5** | Large-scale war and systematic execution: promotion test corpse mountain, dojo massacre, warehouse revenge slaughter, floating island battle, Dragon God fall, Blood King resurrection; includes drug-aphrodisiac execution, combat kills, corpse mountain stacking, final battle mass death. / 大规模战争与系统化处决：晋升测试尸山、武馆灭门、仓库复仇屠杀、浮岛大战、龙神陨落、血君王复活；含药物催情处决、战斗击杀、尸山堆叠、最终决战大量死亡 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.4** | Organization conspiracy (Chairman Ya resurrecting Blood King), betrayal (Chairman Hui stabbing Dragon God), clone identity crisis, Xiao Kun's death revenge, five-hundred-year human-beast war history, Blood Essence Stone mutation distortion. / 组织阴谋（牙董复活血君王）、背叛（辉董刺龙神）、复制体 identity crisis、小昆之死的复仇、五百年人兽大战历史、血精石改造的扭曲 |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Involuntary sexual pleasure (mechanism-based/drug-based)` `Ejaculatory death` `Systematic execution` `Corpse mountain/corpse stacking` `Drug aphrodisiac (Red Stone Potion)` `Betrayal and murder` `Clone/identity fusion` `Large-scale war` `Child killing (mentioned)` `Tight uniform fetishization` `Designation replacing name` / `非自愿性快感（机制性/药物性）` `射精死亡` `系统化处决` `尸山/尸体堆叠` `药物催情（红石药剂）` `背叛与谋杀` `复制体/identity融合` `大规模战争` `儿童杀戮（提及）` `紧身制服物化` `编号取代姓名` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: In this worldview, all physical damage is converted into the target's Lust Value. When full, the target is forced to ejaculate and die. This mechanism runs through all combat and death scenes and cannot be skipped. / 本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
 > If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Bull, Tiger, Wild Boar, Lion, Bear, Wolf, Dragon, Rhinoceros, Crocodile, Mouse, Rabbit, Sheep, Dog, Panda, Golden Retriever / 牛、虎、野猪、狮子、熊、狼、龙、犀牛、鳄鱼、鼠、兔、羊、犬、熊猫、金毛犬
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Lust Value System` `Ejaculatory death` `Red Stone Potion aphrodisiac` `Forced climax` `Drug-induced arousal` `Post-death corpse play` `Tight uniform` `White socks/number` `Erection depiction` `Semen depiction` `Semen-eater addiction` / `性欲值系统` `射精死亡` `红石药剂催情` `强制高潮` `药物诱发` `死后亵玩` `紧身制服` `白袜/编号` `勃起描写` `精液描写` `嗜精瘾`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Large-scale war` `Systematic execution` `Promotion test corpse mountain` `Massacre` `Revenge slaughter` `Floating island battle` `Dragon God fall` `Drug-aphrodisiac execution` `Combat kills` `Corpse stacking` `Final battle` `Betrayal assassination` / `大规模战争` `系统化处决` `晋升测试尸山` `灭门屠杀` `复仇屠杀` `浮岛大战` `龙神陨落` `药物催情处决` `战斗击杀` `尸体堆叠` `最终决战` `背叛刺杀`
+
+### 🏛️ Power & Relations / 权力与关系
+`Player protagonist` `Agent Bureau vs Beastshield` `Twelve Divine Weapons inheritors` `Organization conspiracy` `Betrayal and revenge` `Master-disciple inheritance` `Clone identity` `Blood Essence Stone mutation` `Five-hundred-year human-beast war` `High-level power struggle` / `玩家主角` `特工局vs兽盾` `十二神武传人` `组织阴谋` `背叛与复仇` `师徒传承` `复制体identity` `血精石改造` `五百年前人兽大战` `高层权力斗争`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Fate intertwining` `Revenge` `Betrayal` `Identity crisis` `Historical truth` `Race survival` `Sacrifice and inheritance` `Power and conspiracy` `Epic duel` / `命运交织` `复仇` `背叛` `identity危机` `历史真相` `种族存亡` `牺牲与传承` `权力与阴谋` `史诗对决`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Multi-thread parallel` `Epic narrative` `Combat-intensive` `Flashback interludes` `Conspiracy revelation` `Fast-paced action` `Explicit and blunt` / `多线并行` `史诗叙事` `战斗密集` `回忆穿插` `阴谋揭露` `快节奏动作` `直白露骨`
+
+### 🗺️ Key Settings / 核心场景
+`Beastshield HQ` `Promotion test department` `Dojo` `Warehouse department` `Psychological counseling villa` `Police station` `East Sea floating island` `Heavenly Prison` `Desert` `Emerald Ruins` `Milk tea shop` `Secret room` / `兽盾总部` `晋升测试科室` `武馆` `仓储部` `心理咨询别墅` `警局` `东海浮岛` `天牢` `沙漠` `翠绿遗迹` `奶茶店` `密室`
+
+### 🧩 World Mechanics / 世界观机制
+`Lust Value/Libido System` `Semen Gauge System` `Twelve Divine Weapons system` `Azure Sparrow Yang-Binding Lock` `Kui Niu Bow` `Mouse Divine Weapon · Demon-Eroding Cone` `Sun-Burning City-Breaking Cannon` `Celestial Sound` `Xianxian Bei Shi Armor` `Blood Essence Stone/Red Crystal` `Semen-Eater Beast` `Flowing Ruin (bioweapon)` `Five Elements Seal` `Yellow Spring Earth Shrink` `Four Seasons Divine Melody` / `性欲值/Libido系统` `精槽系统` `十二神武体系` `青雉缚阳锁` `夔牛弓` `鼠神武·蚀魔锥` `焚阳破城炮` `天籁` `先贤卑豕甲` `血精石/红水晶` `嗜精兽` `流墟（生物武器）` `五行封禁` `黄泉缩地` `四季神曲`
+
+### 🎯 Ending Tendency / 结局指向
+`Trilogy conclusion` `New world opens` `Revenge completed` `Identity fusion` `Sacrifice and inheritance` `Blood King departs` `New suspense` / `三部曲完结` `新世界开启` `复仇完成` `identity融合` `牺牲与传承` `血君王离去` `新悬念`
 
 ---
 

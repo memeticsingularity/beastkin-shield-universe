@@ -1,12 +1,51 @@
 # E-419: The Cumbersome Treasure / E-419：笨重的珍宝
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.2** | Semen Gauge System background, aphrodisiac drug net, body depiction; no explicit sexual behavior scenes. / 精槽系统背景、催情药剂网、身体描写；无 explicit 性行为场景 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.2** | Bounty hunter ambush, crossbow bolt/throwing knife threat, system culling/optimization, muscle relaxant. / 赏金猎人伏击、弩箭/飞刀威胁、系统裁汰/优化、肌肉松弛剂 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.2** | Marginalization despair, helplessness of being seen as "inefficient burden" by the system, protection obsession (wildflowers). / 边缘化绝望、被系统视为"低效拖累"的无力感、守护执念（野花） |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Bounty hunter ambush` `Drugs/aphrodisiac` `System culling` `Marginalization` `Identity denial` / `赏金猎人伏击` `药剂/催情` `系统裁汰` `边缘化` `身份否定` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: This world inherits the Beastshield base setting—the Semen Gauge System (damage converts to Lust Value, full gauge triggers ejaculatory death). Core mechanic is the "Wish Module"—players rewrite the fate of characters designated as "enemies" or "expendables" through gentle intervention and sincere bonds. / 本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡）。核心机制为"心愿模组"——玩家通过温柔介入与真诚羁绊，改写被系统设定为"敌人"或"可消耗品"的角色的命运。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
+> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Brown Bear Beastkin / 棕熊兽人
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Semen Gauge mechanism` `Drugs/aphrodisiac` `Body depiction` `Fat-over-muscle` `Uniform fetish` / `精槽机制` `药剂/催情` `身体描写` `脂包肌` `制服 fetish`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Bounty hunter ambush` `Crossbow bolt` `Throwing knife` `System culling` `Muscle relaxant` `Giant net trap` / `赏金猎人伏击` `弩箭` `飞刀` `系统裁汰` `肌肉松弛剂` `巨网陷阱`
+
+### 🏛️ Power & Relations / 权力与关系
+`Marginalized-system` `Player-NPC` `Bounty hunter-target` `Bottom-level grunt` / `被边缘化者-系统` `玩家-NPC` `赏金猎人-目标` `底层杂兵`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Protection obsession` `Marginalization despair` `Being accepted` `Gentleness` `Efficiency vs humanity` `Nature vs system` / `守护执念` `边缘化绝望` `被接纳` `温柔` `效率与人性` `自然与系统`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Warm healing` `Draft` `Rescue narrative` `Emotion-driven` / `温暖治愈` ` draft/草案` `救援叙事` `情感驱动`
+
+### 🗺️ Key Settings / 核心场景
+`Abandoned warehouse` `Old industrial district` `White Capital` `Qimu Lodge` `Backyard sunlight` / `废弃仓库` `旧工业区` `白之都` `栖木筑` `后院阳光`
+
+### 🧩 World Mechanics / 世界观机制
+`Semen Gauge System` `Bounty system` `Wish Module` `Muscle relaxant` `Aphrodisiac net` `System optimization culling` / `精槽系统` `赏金系统` `心愿模组` `肌肉松弛剂` `催情网` `系统优化裁汰`
+
+### 🎯 Ending Tendency / 结局指向
+`HE` `Redemption` `New life` `Draft` / `HE` `救赎` `新生` `草稿/草案`
 
 ---
 

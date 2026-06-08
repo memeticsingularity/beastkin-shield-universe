@@ -1,15 +1,5 @@
 # Beastshield Main Story · Trilogy Overview / 兽盾主线故事 · 三部曲总览
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
-> - Non-traditional Worldview Settings / 非传统世界观设定
->
-> **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
-> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
-
 ---
 
 ## Main Story Trilogy / 主线故事三部曲

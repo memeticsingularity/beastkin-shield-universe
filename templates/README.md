@@ -18,23 +18,58 @@
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容分级与警告 / Content Rating & Warnings
 
-- **兽人类型**：{种族列表，如：虎 / Tiger、犬 / Dog、熊 / Bear}
-- **内容要素**：{标签列表，如：death、combat、daily-life、corporate}
-- **叙事风格**：{标签列表，如：grimdark、thriller、slice-of-life}
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.{0–5}** | {说明} |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.{0–5}** | {说明} |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.{0–5}** | {说明} |
+> | ⚡ 特殊触发 / Specific Triggers | — | `{trigger1}` `{trigger2}` |
+>
+> ⚠️ **世界观核心机制说明**：{本作品所在世界观的核心机制说明}。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
 
 ---
 
-## II. Content Tags
+## 三、内容标签与核心元素 / Content Tags & Core Elements
 
-- **Species**: {Species list}
-- **Elements**: {Element tags}
-- **Style**: {Style tags}
+### 🐾 物种 / Species
+{种族列表}
+
+### 🔞 情色与身体 / Erotic & Bodily
+`{tag1}` `{tag2}`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`{tag1}` `{tag2}`
+
+### 🏛️ 权力与关系 / Power & Relations
+`{tag1}` `{tag2}`
+
+### 🎭 主题与情感 / Themes & Emotions
+`{tag1}` `{tag2}`
+
+### 🎨 叙事与风格 / Narrative & Style
+`{tag1}` `{tag2}`
+
+### 🗺️ 核心场景 / Key Settings
+`{tag1}` `{tag2}`
+
+### 🧩 世界观机制 / World Mechanics
+`{tag1}` `{tag2}`
+
+### 🎯 结局指向 / Ending Tendency
+`{tag1}` `{tag2}`
 
 ---
 
-## 三、主要角色 / Characters
+## 四、主要角色 / Characters
 
 | 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
 |--------|------|----------|---------------|
@@ -50,7 +85,7 @@
 
 ---
 
-## 四、章节列表 / Chapters
+## 五、章节列表 / Chapters
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
@@ -68,7 +103,7 @@
 
 ---
 
-## 五、关联作品 / Related Works
+## 六、关联作品 / Related Works
 
 - 原作/改编来源：{code} — {作品名}
 - 同一世界观：{code} — {作品名}
@@ -82,7 +117,7 @@
 
 ---
 
-## 六、创作留痕 / Creation Trail
+## 七、创作留痕 / Creation Trail
 
 - [查看变更日志](.process/CHANGELOG.md)
 - [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)

@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.5** | 大规模强制射精死亡，全程详细描写性器官反应、精液喷射与身体失控过程 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.5** | 系统性大规模处决（60+目标），顺手杀戮，尸体垃圾化处理，无仪式感 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 去人格化叙事，将生命视为可消耗资源，冷峻高效的死亡美学 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 大规模谋杀、尸体羞辱、性暴力（转化为射精机制）、多人死亡场景 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：死亡毫无价值，杀得顺手，死后像垃圾处理——这不是宣言，只是今晚的工作节奏。
@@ -18,19 +36,65 @@
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容标签与核心元素 / Content Tags & Core Elements
 
-- **兽人类型**：牛兽人、虎兽人、熊兽人、狼兽人、狗兽人、猪兽人等（涵盖 G/E/O/R/W 全兵种）
-- **内容要素**：大规模处决、顺手杀戮、垃圾化处理、换装系统、感官重构、多方杀手博弈、据点潜入
-- **叙事风格**：直白记录式、去文学腔、冷峻高效、无仪式感、元叙事删除
+### 🐾 物种 / Species
+牛兽人 `Bull` · 虎兽人 `Tiger` · 熊兽人 `Bear` · 狼兽人 `Wolf` · 狗兽人 `Dog` · 猪兽人 `Boar` · 全兵种覆盖（G/E/O/R/W）
+
+### 🔞 情色与身体 / Erotic & Bodily
+`强制射精` `强制勃起` `精液喷射` `性器官详细描写` `身体失控反应` `敏感部位操控` `射精死亡机制`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`大规模处决` `顺手杀戮` `尸体垃圾化处理` `无仪式感死亡` `系统清除` `潜行暗杀` `多人连续死亡`
+
+### 🏛️ 权力与关系 / Power & Relations
+`赏金猎人 vs 兽盾员工` `杀手搭档` `绝对碾压` `去人格化` `编号取代名字` `等级制度`
+
+### 🎭 主题与情感 / Themes & Emotions
+`死亡无价值` `冷峻美学` `效率至上` `去文学化` `感官写实` `黑色幽默`
+
+### 🎨 叙事与风格 / Narrative & Style
+`第一人称记录式` `直白朴素` `元叙事删除` `去英雄化` `快节奏杀戮` `多杀手博弈`
+
+### 🗺️ 核心场景 / Key Settings
+`兽盾能源调度中心` `监控塔` `深夜食堂` `宿舍区` `更衣室` `核心区域`
+
+### 🧩 世界观机制 / World Mechanics
+`伤害→精槽→射精死亡` `热流技能` `换装伪装` `编号系统` `兽盾等级制`
+
+### 🎯 结局指向 / Ending Tendency
+`全员死亡` `任务完成` `无救赎`
 
 ---
 
-## II. Content Tags
+## II. Content Tags & Core Elements
 
-- **Species**: Bull, Tiger, Bear, Wolf, Dog, Boar, etc. (covering all ranks G/E/O/R/W)
-- **Elements**: Mass execution, casual killing, garbage disposal, disguise system, sensory reconstruction, multi-killer博弈, base infiltration
-- **Style**: Straightforward documentary, de-literarized, cold and efficient, ritual-free, meta-narrative removed
+### 🐾 Species
+Bull `Bull` · Tiger `Tiger` · Bear `Bear` · Wolf `Wolf` · Dog `Dog` · Boar `Boar` · All Ranks (G/E/O/R/W)
+
+### 🔞 Erotic & Bodily
+`forced-ejaculation` `forced-erection` `semen-detailed` `genital-manipulation` `bodily-loss-of-control` `sensory-reconstruction` `ejaculation-death-mechanic`
+
+### ⚔️ Death & Violence
+`mass-execution` `casual-killing` `garbage-disposal` `ritual-free-death` `systematic-elimination` `stealth-assassination` `serial-deaths`
+
+### 🏛️ Power & Relations
+`bounty-hunter-vs-beastshield` `killer-partnership` `absolute-domination` `dehumanization` `numbers-over-names` `rank-system`
+
+### 🎭 Themes & Emotions
+`death-without-value` `cold-aesthetic` `efficiency-supremacy` `de-literarized` `sensory-realism` `black-humor`
+
+### 🎨 Narrative & Style
+`first-person-documentary` `straightforward` `meta-narrative-removed` `de-heroicized` `fast-paced-killing` `multi-killer-rivalry`
+
+### 🗺️ Key Settings
+`beastshield-energy-dispatch-center` `watchtower` `late-night-cafeteria` `dormitory` `changing-room` `core-area`
+
+### 🧩 World Mechanics
+`damage-to-lust-to-death` `heat-flow-skill` `disguise-system` `numbering-system` `beastshield-ranks`
+
+### 🎯 Ending Tendency
+`everyone-dies` `mission-complete` `no-redemption`
 
 ---
 

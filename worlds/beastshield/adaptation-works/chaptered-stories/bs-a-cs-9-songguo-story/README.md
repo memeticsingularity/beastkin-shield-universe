@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.1** | 主版本无性内容；恋爱分支版含轻度亲密描写与情感暧昧 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.1** | 提及战损退役背景，无直接暴力或死亡描写 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.2** | 创伤后应激、自卑与孤独、被遗弃感、身份认同危机 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 残疾/截肢描写、心理创伤、被歧视经历、战争后遗症 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。本故事为温馨日常向，核心机制未直接触发，但世界观背景存在。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：一只失去右腿的退役军犬，在领养中心等待了无数个日夜，直到一位金毛教师推开了那扇玻璃门。
@@ -18,19 +36,65 @@ At BeastShield's retired combatant adoption center, a brown-yellow canine beastk
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容标签与核心元素 / Content Tags & Core Elements
 
-- **兽人类型**：犬 / Dog（德国牧羊犬型、金毛寻回犬型）
-- **内容要素**：adoption、disability、daily-life、family-bonding、trauma-healing、school-life
-- **叙事风格**：slice-of-life、heartwarming、gentle、drama
+### 🐾 物种 / Species
+德国牧羊犬 `German Shepherd` · 金毛寻回犬 `Golden Retriever`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`无性内容（主版本）` `轻度亲密（恋爱分支）` `身体残缺` `义肢` `康复训练`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`无直接暴力` `战争后遗症` `创伤记忆（间接提及）`
+
+### 🏛️ 权力与关系 / Power & Relations
+`领养关系` `伴侣/家人` `师生` `残疾人与照护者` `创伤互助`
+
+### 🎭 主题与情感 / Themes & Emotions
+`创伤愈合` `归属感` `自我接纳` `被选择` `日常温暖` `希望` `身份认同`
+
+### 🎨 叙事与风格 / Narrative & Style
+`slice-of-life` `heartwarming` `gentle` `drama` `双版本（主版本+恋爱分支）` `感官写实`
+
+### 🗺️ 核心场景 / Key Settings
+`领养中心` `公寓` `学校` `城市街道` `家庭空间`
+
+### 🧩 世界观机制 / World Mechanics
+`兽盾战损员工领养制度` `G级护卫犬退役` `残疾兽人社会处境`
+
+### 🎯 结局指向 / Ending Tendency
+`HE` `温馨治愈` `家庭建立`
 
 ---
 
-## II. Content Tags
+## II. Content Tags & Core Elements
 
-- **Species**: Dog (German Shepherd type, Golden Retriever type)
-- **Elements**: adoption, disability, daily-life, family-bonding, trauma-healing, school-life
-- **Style**: slice-of-life, heartwarming, gentle, drama
+### 🐾 Species
+German Shepherd `German Shepherd` · Golden Retriever `Golden Retriever`
+
+### 🔞 Erotic & Bodily
+`no-sexual-content-main` `mild-intimacy-romance-branch` `physical-disability` `prosthetic` `rehabilitation`
+
+### ⚔️ Death & Violence
+`no-direct-violence` `war-trauma` `traumatic-memories-implied`
+
+### 🏛️ Power & Relations
+`adoption-relationship` `partner-family` `teacher-student` `disabled-and-caregiver` `trauma-support`
+
+### 🎭 Themes & Emotions
+`trauma-healing` `belonging` `self-acceptance` `being-chosen` `everyday-warmth` `hope` `identity`
+
+### 🎨 Narrative & Style
+`slice-of-life` `heartwarming` `gentle` `drama` `dual-version-main-plus-romance` `sensory-realism`
+
+### 🗺️ Key Settings
+`adoption-center` `apartment` `school` `city-streets` `domestic-space`
+
+### 🧩 World Mechanics
+`beastshield-retired-combatant-adoption` `g-rank-guard-retirement` `disabled-beastkin-social-status`
+
+### 🎯 Ending Tendency
+`happy-ending` `healing` `family-established`
 
 ---
 

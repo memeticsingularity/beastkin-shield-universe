@@ -5,11 +5,22 @@
 
 ---
 
-## 1. 内容分级 / Content Rating
+## 1. 内容分级与标签总览 / Content Rating & Tags Overview
 
-**成人内容警告 / 18+ Only**
-
-本世界观包含大量成人向内容，包括但不限于暴力与战斗描写、性暗示与明确性内容、黑暗与残酷叙事。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.4** | 频繁的性弱点攻击、捏蛋/揉龟头、射精死亡、不应期虚弱、explicit 身体描写与精液场景 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.4** | 枪击爆头、扭断脖子、踩踏处决、无差别屠戮、嗜精兽盛宴、尸体检验、改造士兵实验 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.3** | 体制性人体实验、改造士兵的物化、警察与罪犯的灰色地带、扭曲的羁绊与友谊 |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `性弱点折磨` `人体实验` `精液提取/嗜精` `白袜 fetish` `改造士兵` `处决` `虐杀` `爆头/枪击` |
+>
+> ⚠️ **世界观核心机制说明**：本世界为《兽盾》重构世界观，核心机制为"始祖之血改造"——将稀释的始祖之血注射进强壮兽人的性器官，使其获得刀枪不入的超级士兵能力，但副作用是性器官异常敏感、射精后进入30分钟不应期（强化能力全失）。精槽机制与性弱点攻击仍是核心战斗方式。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
 
 ---
 
@@ -57,9 +68,9 @@ For detailed settings, see: [settings/](settings/)
 
 ### 4.1 原作存档 / Original Archives
 
-| 编码 | 中文名 | 英文名 | 形式 | 链接 |
-|------|--------|--------|------|------|
-| `bsr-o-cm-1-main-story-1` | 兽盾新纪元 | Beast Shield: Reforged | 主线分章 | [目录](original-archives/chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `bsr-o-cm-1-main-story-1` | 兽盾新纪元 | Beast Shield: Reforged | Lv.4 | Lv.4 | Lv.3 | `连载中` `开放式` | [目录](original-archives/chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/README.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 

@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.4** | 性虐待、强制撸动射精、鞋踩裆部、袜子塞口、舔鞋/舔爪、性器官操控、精液喷射 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.4** | 血腥屠杀、剑击、殴打、性虐待致死、尸体处理、权力处决 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 卧底恐惧、权力博弈、统御项圈、无人生还、复仇与救赎的扭曲 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 性虐待、鞋踩生殖器、袜子塞口、舔鞋/舔爪、统御项圈、卧底暴露、权力羞辱 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：当最后一只白兔被迫戴上统御项圈，一场关于生存、复仇与救赎的博弈在兽盾的阴影下悄然展开。
@@ -18,7 +36,38 @@ White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu
 
 ---
 
-## 二、内容标签 / Content Tags
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+`萨摩耶兽人` `白狼兽人` `黑狼兽人` `黄虎兽人` `棕熊兽人` `狼犬兽人` `灰狼兽人` `绵羊兽人` `犬兽人` `雪兔兽人`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`性虐待` `强制撸动射精` `鞋踩裆部` `袜子塞口` `舔鞋` `舔爪` `性器官操控` `精液喷射` `前列腺液` `紧身制服` `脂包肌`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`血腥屠杀` `剑击` `殴打` `性虐待致死` `尸体处理` `权力处决` `卧底暴露` `巷战`
+
+### 🏛️ 权力与关系 / Power & Relations
+`卧底-掌权者` `黑制服-白制服` `统御项圈` `十二兽组织` `公司分部` `权力博弈` `利用而非揭发`
+
+### 🎭 主题与情感 / Themes & Emotions
+`生存博弈` `复仇` `救赎扭曲` `卧底恐惧` `无人生还` `权力羞辱` `身份隐藏` `旧时代遗民`
+
+### 🎨 叙事与风格 / Narrative & Style
+`grimdark` `thriller` `tragedy` `espionage` `conspiracy` `supernatural` `主线叙事` `多视角`
+
+### 🗺️ 核心场景 / Key Settings
+`白之都` `兽盾分部` `出租房` `小巷` `楼顶` `中药铺` `办公室` `邮局`
+
+### 🧩 世界观机制 / World Mechanics
+`性欲值系统` `伤害转化欲望` `射精即死` `卯兽部队` `药物符文改造` `统御项圈` `血精石` `十二兽`
+
+### 🎯 结局指向 / Ending Tendency
+`无人生还` `悲剧` `复仇循环` `救赎扭曲` `开放式黑暗`
+
+---
+
+## 二、旧版内容标签 / Legacy Content Tags
 
 - **兽人类型**：犬 / Dog、狼 / Wolf、虎 / Tiger、熊 / Bear、兔 / Rabbit、羊 / Sheep、狐狸 / Fox、牛 / Bull
 - **内容要素**：combat、corporate、espionage、conspiracy、supernatural
@@ -26,7 +75,7 @@ White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu
 
 ---
 
-## II. Content Tags
+## II. Legacy Content Tags
 
 - **Species**: Dog, Wolf, Tiger, Bear, Rabbit, Sheep, Fox, Bull
 - **Elements**: combat, corporate, espionage, conspiracy, supernatural

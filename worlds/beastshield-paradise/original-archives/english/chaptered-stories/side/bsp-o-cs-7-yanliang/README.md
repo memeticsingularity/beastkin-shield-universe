@@ -1,12 +1,51 @@
 # Yan & Liang: Ghosts of the Recruit Base / 炎魉：新兵基地的幽灵
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.3** | Explicit Semen Gauge mechanism combat depiction, sexual weakness attack, ejaculatory death scenes, uniform/white sock fetish, but serves bounty hunting narrative. / 明确的精槽机制战斗描写、性弱点攻击、射精死亡场景、制服/白袜 fetish，但服务于赏金猎杀叙事 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.3** | Bounty hunting, Scorching Flow Dark Force subdue, Silver Needle Sealing, execution, corpse handling/number recording, strong crushing weak. / 赏金猎杀、灼流暗劲制服、银针封穴、处决、尸体处理/编号记录、强者碾压 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.2** | Bounty hunter's moral dilemma, contrast between mercy to prey and coldness, survival law under institutional darkness. / 赏金猎人的道德困境、对猎物的怜悯与冷酷的对比、体制黑暗下的生存法则 |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Hunting/execution scenes` `Semen Gauge execution` `Invisibility sneak attack` `Silver Needle Sealing` `Uniform/white sock fetish` `Institutional oppression` / `猎杀/处决场景` `精槽处决` `隐身偷袭` `银针封穴` `制服/白袜 fetish` `体制压迫` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: This world inherits the Beastshield base setting—the Semen Gauge System (damage converts to Lust Value, full gauge triggers ejaculatory death). Core mechanic is "bounty hunting"—hunting Beastshield guards for rewards, utilizing targets' sexual weaknesses to quickly subdue and record numbers during the hunt. / 本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡）。核心机制为"赏金猎杀"——以狩猎兽盾守卫换取赏金，猎杀过程中需利用目标的性弱点快速制服并记录编号。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
+> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Chameleon Beastkin, Panda Beastkin, Gray Wolf Beastkin, various Beastshield guards / 变色龙兽人、熊猫兽人、灰狼兽人、各类兽盾守卫
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Semen Gauge mechanism` `Sexual weakness attack` `Ejaculatory death` `Uniform fetish` `White socks/knee-highs` `Scorching Flow Dark Force` `Silver Needle Sealing` / `精槽机制` `性弱点攻击` `射精死亡` `制服 fetish` `白袜/长筒袜` `灼流暗劲` `银针封穴`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Bounty hunting` `Scorching Flow Dark Force subdue` `Silver Needle Sealing` `Execution` `Corpse handling` `Number recording` `Strong crushing weak` / `赏金猎杀` `灼流暗劲制服` `银针封穴` `处决` `尸体处理` `编号记录` `强者碾压`
+
+### 🏛️ Power & Relations / 权力与关系
+`Bounty hunter duo` `Hunter-prey` `Agent Bureau-Beastshield` `Strong-weak` / `赏金猎人搭档` `猎人-猎物` `特工局-兽盾` `强者-弱者`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Coldness and mercy` `Bounty hunter moral dilemma` `Institutional darkness` `Survival law` `Strong crushing weak` / `冷酷与怜悯` `赏金猎人道德困境` `体制黑暗` `生存法则` `强者碾压`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Hunt narrative` `Dual protagonist contrast` `Action scenes` `Noir` `Institutional critique` / `猎杀叙事` `双主角对比` `动作戏` `noir` `体制批判`
+
+### 🗺️ Key Settings / 核心场景
+`Beastshield recruit training base` `Uniform reform scene` `Minister-level dereliction punishment scene` / `兽盾新兵训练基地` `制服改革现场` `部长级失职惩罚场景`
+
+### 🧩 World Mechanics / 世界观机制
+`Semen Gauge System` `Ejaculatory death` `Bounty system` `Scorching Flow Dark Force` `Innate invisibility` `Silver Needle Sealing` `Beastshield number system` / `精槽系统` `射精死亡` `赏金系统` `灼流暗劲` `先天隐身` `银针封穴` `兽盾编号体系`
+
+### 🎯 Ending Tendency / 结局指向
+`Open-ended` `Hunt continues` `Institutional confrontation` / `开放式` `猎杀继续` `体制对抗`
 
 ---
 

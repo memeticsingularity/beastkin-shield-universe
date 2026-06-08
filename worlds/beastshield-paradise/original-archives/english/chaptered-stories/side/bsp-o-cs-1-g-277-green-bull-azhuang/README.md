@@ -1,12 +1,51 @@
 # Silent Night Watch / 夜哨无声
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.2** | Adapted from a dark original with thematic inversion; sexual content serves redemption and healing; specific level subject to actual chapters (current chapter files are empty). / 改编自黑暗原作但进行了主题反转，性内容服务于救赎与治愈，具体级别以实际章节为准（当前章节文件为空） |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.1** | Original involves violence, but adaptation shifts theme from death to new life; violence is weakened or reversed. / 原作涉及暴力，但改编后主题从死亡转为新生，暴力被弱化或逆转 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.2** | Psychological shadow from the dark original's background, but transformed into healing and hope through the redeemer perspective. / 原作黑暗背景的心理阴影，但通过救赎者视角转化为治愈与希望 |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Adapted from dark curiosity original` `Thematic inversion` `Redemption narrative` / `改编自黑暗猎奇原作` `主题反转` `救赎叙事` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: This world inherits the Beastshield base setting—the Semen Gauge System (damage converts to Lust Value, full gauge triggers ejaculatory death), but the core mechanic is the "Wish Module"—players rewrite the fate of characters designated as "enemies" through gentle intervention and sincere bonds, replacing violent conquest with a "Family Contract." / 本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡），但核心机制为"心愿模组"——玩家通过温柔介入与真诚羁绊，改写被系统设定为"敌人"的角色的命运，以"家人契约"替代暴力征服。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
+> If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Green Bull Beastkin (protagonist) / 青牛兽人（主角）
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Semen Gauge mechanism` `Body depiction` `Uniform fetish` / `精槽机制` `身体描写` `制服 fetish`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Original violence background` `Thematic inversion` `No death ending` / `原作暴力背景` `主题反转` `无死亡结局`
+
+### 🏛️ Power & Relations / 权力与关系
+`Redeemer-redeemed` `Family contract` `Player-NPC` / `救赎者-被救者` `家人契约` `玩家-NPC`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Redemption from despair` `Gentle healing` `Thematic inversion` `New life` `Hope` / `绝境救赎` `温柔治愈` `主题反转` `新生` `希望`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Adapted from darkness` `Healing-oriented` `Gentle reversal` `Prequel and epilogue` / `改编自黑暗` `治愈向` `温柔逆转` `前传与后日谈`
+
+### 🗺️ Key Settings / 核心场景
+`Night watch` `Bathroom` `Morning light` / `夜哨` `浴室` `晨光`
+
+### 🧩 World Mechanics / 世界观机制
+`Semen Gauge System` `Wish Module` `Family Contract` `Thematic inversion adaptation` / `精槽系统` `心愿模组` `家人契约` `主题反转改编`
+
+### 🎯 Ending Tendency / 结局指向
+`HE` `New life` `Healing` / `HE` `新生` `治愈`
 
 ---
 

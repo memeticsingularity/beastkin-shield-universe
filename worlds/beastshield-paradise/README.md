@@ -5,11 +5,26 @@
 
 ---
 
-## 1. 内容注意 / Content Notice
+## 1. 内容分级与标签总览 / Content Rating & Tags Overview
 
-Beastshield Paradise 世界观衍生自包含成人内容的原创设定《兽盾》。本世界观致力于重构为温暖、治愈的走向，但部分背景提及或角色经历可能间接涉及原始设定中的敏感主题。建议读者在了解原始设定的基础上阅读，以便更好理解本世界的变革意义。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.1–3**（因作品而异） | 精槽系统背景提及、性弱点控制（抓裆等）、制服与身体描写；核心服务于救赎与治愈主题，非单纯情色 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.1–3**（因作品而异） | 原作暴力背景提及、擒拿控制、自我惩罚、地下格斗等；温暖存档中暴力被逆转为救赎，无主要角色死亡 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.1–3**（因作品而异） | 角色内心创伤与自卑、兽盾体系的冰冷压迫背景、债务/奴隶绝望；但最终被温暖接纳与家园誓约所化解 |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `精槽系统背景` `性弱点控制` `原作黑暗背景` `角色过往创伤` `改造士兵背景` `制服 fetish` `自卑与自我价值否定` `债务压迫` `父母双亡` `绝育/自残` |
+>
+> ⚠️ **世界观核心机制说明**：本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡），但核心机制为"心愿模组"——玩家通过温柔介入与真诚羁绊，改写被系统设定为"敌人"的角色的命运，以"家人契约"替代暴力征服。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
 
 ---
+
+**Adult Content Warning / 18+ Only**
 
 Beastshield Paradise is derived from the original *Beastshield* setting, which contains adult content. This setting is dedicated to a warm, healing direction, but some background references or character experiences may indirectly touch upon sensitive themes from the original.
 
@@ -53,9 +68,18 @@ For detailed settings, see: [settings/](settings/)
 
 ### 4.1 原作存档 / Original Archives
 
-暂无原作存档。
-
-No original archives.
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `bsp-o-cm-main` | 兽盾乐园 · 主线故事 | Beastshield Paradise · Main Story | Lv.3 | Lv.2 | Lv.3 | `HE` `救赎` `家园誓约` | [目录](original-archives/chinese/chaptered-stories/main/README.md) |
+| `bsp-o-cs-1-g-277` | 夜哨无声 | Silent Night Watch | Lv.2 | Lv.1 | Lv.2 | `HE` `新生` `治愈` | [目录](original-archives/chinese/chaptered-stories/side/bsp-o-cs-1-g-277-green-bull-azhuang/README.md) |
+| `bsp-o-cs-2-r-217` | 兽盾·温暖存档：家园誓约 | Beastshield · Warm Archive: Oath of Home | Lv.3 | Lv.2 | Lv.3 | `HE` `婚礼` `家园誓约` | [目录](original-archives/chinese/chaptered-stories/side/bsp-o-cs-2-r-217-wolve-yuanzhi/README.md) |
+| `bsp-o-cs-3-e-847` | 后巷的筹码：雷山 | Back Alley Bargain: Leishan | Lv.3 | Lv.2 | Lv.3 | `随从结局` `开放式` | [目录](original-archives/chinese/chaptered-stories/side/bsp-o-cs-3-e-847-tiger/README.md) |
+| `bsp-o-cs-4-e-619` | 铁蹄的誓言：铁蹄 | Iron Hoof's Vow: Tieti | Lv.3 | Lv.3 | Lv.3 | `赎罪` `随从结局` | [目录](original-archives/chinese/chaptered-stories/side/bsp-o-cs-4-e-619-bull/README.md) |
+| `bsp-o-cs-5-e-302` | 冻土下的温柔：山敦 | Frozen Earth Beneath: Shandun | Lv.3 | Lv.3 | Lv.3 | `牺牲` `守护` `随从结局` | [目录](original-archives/chinese/chaptered-stories/side/bsp-o-cs-5-e-302-bear/README.md) |
+| `bsp-o-cs-6-e-` | 暗影中的利刃与晨曦：锋牙 | Blade in Shadow and Morning Light: Fengya | Lv.3 | Lv.3 | Lv.3 | `随从结局` | [目录](original-archives/chinese/chaptered-stories/side/bsp-o-cs-6-e-/README.md) |
+| `bsp-o-cs-7-yanliang` | 炎魉：新兵基地的幽灵 | Yan & Liang: Ghosts of the Recruit Base | Lv.3 | Lv.3 | Lv.2 | `赏金猎杀` | [目录](original-archives/chinese/chaptered-stories/side/bsp-o-cs-7-yanliang/README.md) |
+| `6-r-302-wolve` | R-302：灰狼狙击手 | R-302: Gray Wolf Sniper | Lv.3 | Lv.2 | Lv.3 | `HE` `救赎` | [目录](original-archives/chinese/chaptered-stories/side/6-r-302-wolve/README.md) |
+| `7-e-419-bear` | E-419：笨重的珍宝 | E-419: The Cumbersome Treasure | Lv.2 | Lv.1 | Lv.2 | `HE` `救赎` | [目录](original-archives/chinese/chaptered-stories/side/7-e-419-bear/README.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 

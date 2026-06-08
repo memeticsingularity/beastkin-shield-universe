@@ -5,11 +5,22 @@
 
 ---
 
-## 一、内容分级 / Content Rating
+## 一、内容分级与标签总览 / Content Rating & Tags Overview
 
-**成人内容警告 / 18+ Only**
-
-本世界观包含成人内容、性暗示、暴力及黑暗主题。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.2–4**（因接入世界而异） | 本平台可接入含成人内容的世界（如兽盾），治愈线作品本身无直接性描写，但涉及角色身体康复与亲密关系重建 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.1–4**（因接入世界而异） | 治愈线避免直接暴力，但角色背景涉及原作悲剧死亡；部分副本保留战斗与处决场景 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.2–3**（因作品而异） | 创伤后应激、身份认同危机、跨世界存在焦虑、救赎与失去的恐惧；治愈线以希望与重建为主基调 |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `跨世界接入` `意识原型` `创伤记忆` `原作悲剧背景` `角色死亡（背景提及）` `治愈与救赎` |
+>
+> ⚠️ **世界观核心机制说明**：万界巡行是一个跨世界VR沙盒平台，可接入其他世界观（如兽盾）的"意识原型"。本平台下的创作以"治愈线"为主——玩家强势介入悲剧节点，将角色救下并锚定至万象庭院。悲剧背景存在，但叙事重心为救赎与新生。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
 
 ---
 
@@ -75,10 +86,10 @@ For detailed settings, see: [settings/](settings/)
 
 ### 4.1 原创及改编作品 / Original & Adaptation Works
 
-| 编码 | 中文名 | 英文名 | 标签 | 链接 |
-|------|--------|--------|------|------|
-| `wi-o-cs-1-yan-sui` | 岩岁/岩参父子救赎故事 | Yan Sui / Yan Can Redemption Story | `redemption`, `father-son`, `dog`, `tiger` | [目录](original-archives/chaptered-stories/yan-sui/README.md) |
-| `wi-o-cs-2-echoes-healing` | 原作回响 · 治愈线 | Original Echoes · Healing | `healing`, `cross-world`, `dog`, `tiger`, `cow` | [目录](original-archives/chaptered-stories/echoes-healing/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `wi-o-cs-1-yan-sui` | 岩岁/岩参父子救赎故事 | Yan Sui / Yan Can Redemption Story | Lv.2 | Lv.2 | Lv.3 | `HE` `救赎` `家庭重建` | [目录](original-archives/chaptered-stories/yan-sui/README.md) |
+| `wi-o-cs-2-echoes-healing` | 原作回响 · 治愈线 | Original Echoes · Healing | Lv.2 | Lv.1 | Lv.2 | `HE` `治愈` `生存` | [目录](original-archives/chaptered-stories/echoes-healing/README.md) |
 
 ---
 

@@ -1,6 +1,51 @@
-# 《兽盾新纪元》章节目录
+# 《兽盾新纪元》章节目录 / Beast Shield: Reforged - Chapter Index
 
-# Beast Shield: Reforged - Chapter Index
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.4** | 频繁的性弱点攻击、捏蛋/揉龟头、射精死亡、不应期虚弱、explicit 身体描写与精液场景 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.4** | 枪击爆头、扭断脖子、踩踏处决、无差别屠戮、嗜精兽盛宴、尸体检验、改造士兵实验 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.3** | 体制性人体实验、改造士兵的物化、警察与罪犯的灰色地带、扭曲的羁绊与友谊 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 爆头/枪击、捏蛋/性弱点折磨、改造人体实验、精液提取/嗜精、白袜 fetish、处决、虐杀 |
+>
+> ⚠️ **世界观核心机制说明**：本世界为《兽盾》重构世界观，核心机制为"始祖之血改造"——将稀释的始祖之血注射进强壮兽人的性器官，使其获得刀枪不入的超级士兵能力，但副作用是性器官异常敏感、射精后进入30分钟不应期（强化能力全失）。精槽机制与性弱点攻击仍是核心战斗方式。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+熊兽人、猎犬兽人、水牛兽人、虎兽人、白虎兽人、各类改造士兵
+
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽机制` `性弱点攻击` `捏蛋/揉龟头` `射精死亡` `不应期` `白袜 fetish` `勃起描写` `精液提取` `始祖之血改造`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`枪击爆头` `扭断脖子` `踩踏处决` `无差别屠戮` `嗜精兽盛宴` `尸体检验` `人体实验` `暗杀`
+
+### 🏛️ 权力与关系 / Power & Relations
+`警察-罪犯` `改造士兵-公司` `赏金猎人-目标` `扭曲的友谊` `警局内部`
+
+### 🎭 主题与情感 / Themes & Emotions
+`体制性黑暗` `人体实验` `改造与异化` `灰色正义` `扭曲的羁绊` `生存挣扎`
+
+### 🎨 叙事与风格 / Narrative & Style
+`警匪 noir` `动作战斗` `人体恐怖` `黑色幽默` `多线叙事`
+
+### 🗺️ 核心场景 / Key Settings
+`白之都` `酒店房间` `警局/会议厅` `停尸间` `废弃仓库` `荒脊平原` `绿洲镇` `兽盾公司总部`
+
+### 🧩 世界观机制 / World Mechanics
+`精槽系统` `射精死亡` `始祖之血改造` `超级士兵` `不应期弱点` `刀枪不入` `编号体系` `赏金系统`
+
+### 🎯 结局指向 / Ending Tendency
+`连载中` `开放式` `体制对抗`
 
 ---
 

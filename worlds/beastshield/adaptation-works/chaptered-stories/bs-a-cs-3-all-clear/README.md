@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.5** | 极端详细的尸体性探索、后入中出尸体、精液喷射、性器官直接描写、尸体亵渎 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.5** | 系统性清除、尸体堆积、尸体性亵渎、多风格处决、战利品收集 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.5** | 玩家视角物化生命、游戏化死亡、冷峻收集、尸体实验、无道德约束 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 尸体性接触、尸体亵渎、后入尸体、精液与尸体混合、战利品收集(袜子/衣物)、存档实验 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：当一位"全掌控型玩家"带着满级外挂降临兽游世界，仓库里的每一只兽人都成了待收集的战利品。
@@ -18,7 +36,38 @@
 
 ---
 
-## 二、内容标签 / Content Tags
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+`棕熊兽人` `德牧狗兽人` `黄牛兽人` `野猪兽人` `灰狼兽人` `白虎兽人` `红牛兽人` `黑豹兽人` `犀牛兽人` `猛虎兽人` `猿猴兽人`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`尸体性探索` `后入中出尸体` `精液喷射` `性器官直接描写` `尸体亵渎` `脂包肌` `白袜` `紧身制服` `雄性体味` `前列腺液`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`系统性清除` `尸体堆积` `尸体性亵渎` `多风格处决` `战利品收集` `存档实验` `英雄系战败` `潜行暗杀` `战斗碾压` `射击狙杀`
+
+### 🏛️ 权力与关系 / Power & Relations
+`玩家-NPC` `绝对支配` `赏金猎人` `公司底层` `全掌控型玩家` `战利品化生命` `元叙事权力`
+
+### 🎭 主题与情感 / Themes & Emotions
+`游戏化死亡` `物化生命` `冷峻收集` `无道德约束` `实验性体验` `全收集强迫症` `尸体作为内容`
+
+### 🎨 叙事与风格 / Narrative & Style
+`meta-narrative` `gamified` `cold-and-objective` `mechanics-driven` `experimental` `immersive-interaction` `玩家视角`
+
+### 🗺️ 核心场景 / Key Settings
+`废弃仓库` `兽盾第七区` `尸堆角落` `存档点` `通道入口` `货箱阴影` `主通道`
+
+### 🧩 世界观机制 / World Mechanics
+`性欲值系统` `伤害转化欲望` `射精即死` `MOD修改` `存档系统` `英雄系/潜行系/战斗系/射击系` `战利品系统` `全掌控体验包`
+
+### 🎯 结局指向 / Ending Tendency
+`全收集` `全杀路线` `无人生还` `实验性结局` `元叙事循环` `开放式清除`
+
+---
+
+## 二、旧版内容标签 / Legacy Content Tags
 
 - **兽人类型**：棕熊、德牧狗、黄牛、野猪、灰狼、白虎、红牛、黑豹、犀牛、猛虎等
 - **内容要素**：游戏化叙事、全杀路线、战利品收集、元叙事、自动存档、多系玩法、系统化清除
@@ -26,7 +75,7 @@
 
 ---
 
-## II. Content Tags
+## II. Legacy Content Tags
 
 - **Species**: Brown Bear, German Shepherd, Yellow Cattle, Boar, Gray Wolf, White Tiger, Red Bull, Black Panther, Rhino, Tiger, etc.
 - **Elements**: Gamified narrative, all-kill route, trophy collection, meta-narrative, auto-save, multi-style gameplay, systematic elimination

@@ -1,12 +1,51 @@
 # 铁蹄的誓言：铁蹄 / Iron Hoof's Vow: Tieti
 
-> **⚠️ 内容分级警告 (R-18) / Content Rating Warning (R-18)**
-> 本作品包含以下成人内容：
-> - 明确的性描写 / Explicit Sexual Descriptions
-> - 暴力与战斗场面 / Violence and Combat Scenes
-> - 成人主题及情节 / Adult Themes and Plotlines
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 明确的身体描写（脂包肌、胸肌、下体轮廓）、疼痛转性奋机制、神经抑制器与性欲槽自毁设定，但核心服务于赎罪与救赎叙事 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.3** | 自我惩罚（拳头砸液压机至血肉模糊）、父母被迫害致死（过劳死、跳楼）、地下格斗杀戮、神经抑制器处决威胁 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.3** | 自我惩罚与自毁倾向、债务奴隶的绝望、父母双亡的创伤、背叛与赎罪的深层挣扎、七年盲从的羞耻 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 自残/自我惩罚、父母死亡（过劳/自杀）、债务奴隶、烙印/烙铁、神经抑制器植入、公开处刑威胁、角作为尊严象征 |
+>
+> ⚠️ **世界观核心机制说明**：本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡）。核心机制为"随从契约"——通过威逼利诱、实力征服或自愿臣服使NPC成为随从；本故事展现的是赎罪型自愿臣服路径，以"神经抑制器"作为忠诚与赎罪的物化象征。
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+黑牛兽人、虎兽人（提及）
+
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽机制` `疼痛转性奋` `脂包肌` `胸肌/乳晕` `下体轮廓` `制服 fetish` `长筒袜` `牛角` `烙印`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`自我惩罚` `血肉模糊` `父母迫害致死` `地下格斗杀戮` `神经抑制器处决` `债务奴隶`
+
+### 🏛️ 权力与关系 / Power & Relations
+`玩家-随从` `赏金猎人-叛逃武斗兵` `债务奴隶-兽盾` `上级-下属` `赎罪关系`
+
+### 🎭 主题与情感 / Themes & Emotions
+`自我惩罚与救赎` `血债与赎罪` `牛兽人的固执` `被需要的渴望` `选择尊严` `自由的重担`
+
+### 🎨 叙事与风格 / Narrative & Style
+`后巷 noir` `工业废墟` `身体政治` `赎罪史诗` `沉默寡言型叙事`
+
+### 🗺️ 核心场景 / Key Settings
+`废弃屠宰场` `液压机厂房` `债务奴隶档案库` `黑石牧场（回忆）`
+
+### 🧩 世界观机制 / World Mechanics
+`精槽系统` `射精死亡` `随从契约` `神经抑制器` `兽盾编号体系` `债务奴隶` `赏金系统`
+
+### 🎯 结局指向 / Ending Tendency
+`随从结局` `赎罪之路` `开放式冒险` `为自由而战`
 
 ---
 

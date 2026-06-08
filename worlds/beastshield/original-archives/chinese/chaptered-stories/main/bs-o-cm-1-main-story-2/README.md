@@ -1,11 +1,17 @@
 # 兽盾主线故事 · 第二卷：魔影 / Beastshield Main Story · Vol. 2: Shadow Demon
 
-> **⚠️ 内容分级警告 (R-18) / Content Rating Warning (R-18)**
-> 本作品包含以下成人内容：
-> - 明确的性描写 / Explicit Sexual Descriptions
-> - 暴力与战斗场面 / Violence and Combat Scenes
-> - 成人主题及情节 / Adult Themes and Plotlines
-> - 非传统世界观设定 / Non-traditional Worldview Settings
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.4** | 频繁且明确的性描写；核心机制为"性欲值系统"，伤害转化为性快感，蓄满即射精死亡；含捏乳头致死、后庭刺激、袜子堵嘴、强制高潮、死后亵玩等场景 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.5** | 大规模连环猎杀（更衣室16人处决）、大楼逐层清场、儿童处决教学、窒息致死、毒血麻痹后虐杀、尸体堆放与摆弄 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 刺客视角的猎物玩弄、儿童杀手培训（小豪）、组织洗脑、红水晶变异导致的身体与心理扭曲、背叛与利用、死亡常态化 |
+> | ⚡ 特殊触发 / Specific Triggers | — | `非自愿性快感（机制性）` `射精死亡` `尸体亵玩/摆弄` `窒息致死（袜子堵嘴/鼻孔堵塞）` `捏乳头致死` `后庭刺激` `紧身制服物化` `编号取代姓名` `儿童参与暴力/处决` `组织洗脑` `毒血变异` `生物武器实验` `伪装潜入` |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
 > 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
@@ -39,99 +45,130 @@ This volume consists of 15 chapters, starting from Shadow Demon's infiltration o
 
 ---
 
-## 3. 全卷章节目录 / Full Volume Chapter Index
+## 3. 内容标签与核心元素 / Content Tags & Core Elements
 
-### 第1章：更衣室狩猎 / Chapter 1: Locker Room Hunt ([ch-01-locker-room-hunt.md](./chapters/ch-01-locker-room-hunt.md))
+### 🐾 物种 / Species
+犬、熊（棕熊/白熊）、牛、野猪、虎、狼、熊猫、兔、羊（提及）
+
+### 🔞 情色与身体 / Erotic & Bodily
+`性欲值系统` `射精死亡` `情趣战斗` `强制高潮` `捏乳头致死` `后庭刺激` `袜子堵嘴/塞喉` `窒息射精` `紧身制服` `白袜/编号` `换装/伪装` `勃起描写` `精液描写` `毒血催情` `毒牙麻痹` `飞机杯耗尽` `M体质`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`大规模连环猎杀`（更衣室16人）`一对一击杀` `大楼逐层清场` `窒息致死` `毒血麻痹后虐杀` `捏乳头处决` `死后亵玩/摆弄` `尸体堆放` `高空抛尸` `儿童处决教学` `赏金兑换`
+
+### 🏛️ 权力与关系 / Power & Relations
+`刺客主角` `搭档组合（魔影+老雷）` `伪装潜入` `师徒/教学` `组织洗脑` `新人培训` `双面身份` `生物武器植入（红水晶）` `背叛与变异` `俘虏处置`
+
+### 🎭 主题与情感 / Themes & Emotions
+`刺客美学` `猎物玩弄` `暴力美学` `逐步黑化` `身份扭曲` `组织忠诚与洗脑` `回忆与转变` `黑色幽默` `死亡常态化`
+
+### 🎨 叙事与风格 / Narrative & Style
+`第三人称限知视角（魔影/老雷）` `潜入叙事` `快节奏动作` `直白露骨` `章节式推进` `回忆穿插` `双主角并行`
+
+### 🗺️ 核心场景 / Key Settings
+`兽盾总部大楼` `更衣室` `走廊/洗手间` `露台` `厨房` `炼药房` `刑房` `熊族领地` `牛族领地` `特工局教室` `蟒蛇岛`
+
+### 🧩 世界观机制 / World Mechanics
+`性欲值/Libido系统` `精槽系统` `毒血/毒牙能力（红水晶变异）` `灼流暗劲` `金钟罩` `换装伪装` `赏金系统` `随从系统` `青雉缚阳锁（十二神武）` `流墟（生物武器）`
+
+### 🎯 结局指向 / Ending Tendency
+`未完待续` `刺杀失败` `伏笔回收` `身份觉醒` `新人成长`
+
+---
+
+## 4. 全卷章节目录 / Full Volume Chapter Index
+
+### 第1章：更衣室狩猎 / Chapter 1: Locker Room Hunt ([ch-1-locker-room-hunt.md](./ch-1-locker-room-hunt.md))
 
 - **章节标签 / Tags**: `#潜入 #更衣室 #连环猎杀` / `#Infiltration #Locker Room #Serial Hunt`
 - **剧情简介 / Synopsis**: 魔影潜入兽盾大楼，在更衣室连续猎杀16名守卫，展现其独特的暗杀技巧。 / Shadow Demon infiltrates the Beastshield building and consecutively hunts 16 guards in the locker room, showcasing his unique assassination techniques.
 
-### 第2章：走廊巡逻 / Chapter 2: Corridor Patrol ([ch-02-corridor-patrol.md](./chapters/ch-02-corridor-patrol.md))
+### 第2章：走廊巡逻 / Chapter 2: Corridor Patrol ([ch-2-corridor-patrol.md](./ch-2-corridor-patrol.md))
 
 - **章节标签 / Tags**: `#走廊 #洗手间 #情报收集` / `#Corridor #Restroom #Intel Gathering`
 - **剧情简介 / Synopsis**: 魔影换装后继续潜入，在走廊和洗手间猎杀巡逻守卫，获得高层情报。 / After changing disguise, Shadow Demon continues infiltration, hunting patrol guards in corridors and restrooms to obtain high-level intelligence.
 
-### 第3章：露台狩猎 / Chapter 3: Terrace Hunt ([ch-03-terrace-hunt.md](./chapters/ch-03-terrace-hunt.md))
+### 第3章：露台狩猎 / Chapter 3: Terrace Hunt ([ch-3-terrace-hunt.md](./ch-3-terrace-hunt.md))
 
 - **章节标签 / Tags**: `#十层露台 #高层守卫 #高空抛尸` / `#Tenth Floor Terrace #Elite Guards #Aerial Disposal`
 - **剧情简介 / Synopsis**: 魔影来到十层露台，猎杀抽烟休息的棕熊兽人等高层守卫，换装后继续深入。 / Shadow Demon reaches the tenth-floor terrace, hunting elite guards like brown bear beastkin who are taking smoke breaks, then continues deeper after changing disguise.
 
-### 第4章：虎卫组之战 / Chapter 4: Tiger Guard Battle ([ch-04-tiger-guard-battle.md](./chapters/ch-04-tiger-guard-battle.md))
+### 第4章：虎卫组之战 / Chapter 4: Tiger Guard Battle ([ch-4-tiger-guard-battle.md](./ch-4-tiger-guard-battle.md))
 
 - **章节标签 / Tags**: `#虎卫组 #血毒 #四小猫` / `#Tiger Guard Unit #Blood Poison #Four Kittens`
 - **剧情简介 / Synopsis**: 魔影遭遇虎卫组组长及其三名手下，利用血毒能力击败"虎卫组四小猫"。 / Shadow Demon encounters the Tiger Guard captain and his three subordinates, using his blood poison ability to defeat the "Tiger Guard's Four Kittens."
 
-### 第5章：厨房与致命午餐 / Chapter 5: Kitchen and Fatal Lunch ([ch-05-kitchen-and-lunch.md](./chapters/ch-05-kitchen-and-lunch.md))
+### 第5章：厨房与致命午餐 / Chapter 5: Kitchen and Fatal Lunch ([ch-5-kitchen-and-lunch.md](./ch-5-kitchen-and-lunch.md))
 
 - **章节标签 / Tags**: `#厨房 #白熊厨师 #牛兽人午餐` / `#Kitchen #White Bear Chef #Bull Beastkin Lunch`
 - **剧情简介 / Synopsis**: 魔影在厨房猎杀白熊厨师，恰逢兽盾老大处决失职守卫当午餐，见识到组织的残酷。 / Shadow Demon hunts a white bear chef in the kitchen, coincidentally witnessing the Beastshield boss executing negligent guards for lunch, experiencing the organization's cruelty.
 
-### 第6章：老雷登场 / Chapter 6: Lao Lei Arrival ([ch-06-lei-lei-arrival.md](./chapters/ch-06-lei-lei-arrival.md))
+### 第6章：老雷登场 / Chapter 6: Lao Lei Arrival ([ch-6-lei-lei-arrival.md](./ch-6-lei-lei-arrival.md))
 
 - **章节标签 / Tags**: `#老雷 #灼流暗劲 #一楼镇守` / `#Lao Lei #Scorching Flow Dark Force #First Floor Defense`
 - **剧情简介 / Synopsis**: 老雷在一楼镇守，以灼流暗劲击败多波增援守卫，展现暴力美学，与魔影形成对比。 / Lao Lei defends the first floor, using Scorching Flow Dark Force to defeat multiple waves of reinforcements, showcasing violent aesthetics in contrast to Shadow Demon.
 
-### 第7章：熊族领地渗透 / Chapter 7: Bear Territory Infiltration ([ch-07-bear-territory-infiltration.md](./chapters/ch-07-bear-territory-infiltration.md))
+### 第7章：熊族领地渗透 / Chapter 7: Bear Territory Infiltration ([ch-7-bear-territory-infiltration.md](./ch-7-bear-territory-infiltration.md))
 
 - **章节标签 / Tags**: `#十一层 #熊族领地 #三分钟赌约` / `#Eleventh Floor #Bear Clan Territory #Three-Minute Bet`
 - **剧情简介 / Synopsis**: 魔影进入熊族专属领地，与熊守卫打赌三分钟内让其射精，展现玩弄猎物的技巧。 / Shadow Demon enters the Bear Clan's exclusive territory, betting with a bear guard to make him ejaculate within three minutes, showcasing his prey-playing techniques.
 
-### 第8章：炼药房之战 / Chapter 8: Alchemy Room Battle ([ch-08-alchemy-room-battle.md](./chapters/ch-08-alchemy-room-battle.md))
+### 第8章：炼药房之战 / Chapter 8: Alchemy Room Battle ([ch-8-alchemy-room-battle.md](./ch-8-alchemy-room-battle.md))
 
 - **章节标签 / Tags**: `#炼药房 #春药池 #熊组长` / `#Alchemy Room #Aphrodisiac Pool #Bear Captain`
 - **剧情简介 / Synopsis**: 魔影在炼药房与熊组长决战，利用春药池和通风管道智取，最终处决练金钟罩的熊组长。 / Shadow Demon battles the Bear Captain in the alchemy room, using the aphrodisiac pool and ventilation ducts to outwit him, ultimately executing the Bear Captain who practices Golden Bell Cover.
 
-### 第9章：走廊清理 / Chapter 9: Corridor Cleanup ([ch-09-corridor-cleanup.md](./chapters/ch-09-corridor-cleanup.md))
+### 第9章：走廊清理 / Chapter 9: Corridor Cleanup ([ch-9-corridor-cleanup.md](./ch-9-corridor-cleanup.md))
 
 - **章节标签 / Tags**: `#老雷 #走廊清理 #牛跟班` / `#Lao Lei #Corridor Cleanup #Bull Follower`
 - **剧情简介 / Synopsis**: 老雷继续清理走廊增援，收服一名牛兽人作为跟班，展现其"打扫战场"的强迫症。 / Lao Lei continues clearing corridor reinforcements, recruiting a bull beastkin as a follower, showcasing his "battlefield cleanup" obsession.
 
-### 第10章：十三层潜入 / Chapter 10: Thirteenth Floor Infiltration ([ch-10-thirteenth-floor-infiltration.md](./chapters/ch-10-thirteenth-floor-infiltration.md))
+### 第10章：十三层潜入 / Chapter 10: Thirteenth Floor Infiltration ([ch-10-thirteenth-floor-infiltration.md](./ch-10-thirteenth-floor-infiltration.md))
 
 - **章节标签 / Tags**: `#十三层 #牛族领地 #刑房` / `#Thirteenth Floor #Bull Clan Territory #Torture Room`
 - **剧情简介 / Synopsis**: 魔影与老雷潜入十三层牛族领地，营救行动开始，遭遇更多强敌。 / Shadow Demon and Lao Lei infiltrate the thirteenth-floor Bull Clan territory, beginning a rescue operation and encountering more powerful enemies.
 
-### 第11章：冥府牛头之战 / Chapter 11: Hell Bull Battle ([ch-11-hell-bull-battle.md](./chapters/ch-11-hell-bull-battle.md))
+### 第11章：冥府牛头之战 / Chapter 11: Hell Bull Battle ([ch-11-hell-bull-battle.md](./ch-11-hell-bull-battle.md))
 
 - **章节标签 / Tags**: `#冥府牛头 #不死体质 #自动飞机杯` / `#Hell Bull #Immortal Constitution #Automatic Device`
 - **剧情简介 / Synopsis**: 魔影与老雷对决拥有不死体质的牛组长"冥府牛头"，最终靠自动飞机杯将其耗死。 / Shadow Demon and Lao Lei confront the Bull Captain "Hell Bull" with an immortal constitution, ultimately exhausting him using an automatic device.
 
-### 第12章：教学篇 / Chapter 12: Training Session ([ch-12-training-session.md](./chapters/ch-12-training-session.md))
+### 第12章：教学篇 / Chapter 12: Training Session ([ch-12-training-session.md](./ch-12-training-session.md))
 
 - **章节标签 / Tags**: `#教学 #小豪 #野猪处决` / `#Training #Xiao Hao #Boar Execution`
 - **剧情简介 / Synopsis**: 视角转换到特工局教室，年幼的小豪在老师指导下处决野猪兽人，展现新一代特工培训。 / Perspective shifts to the Agent Bureau classroom, where young Xiao Hao executes a boar beastkin under teacher guidance, showcasing the new generation of agent training.
 
-### 第13章：蟒蛇岛回忆·上 / Chapter 13: Python Island Flashback · Part 1 ([ch-13-python-island-flashback.md](./chapters/ch-13-python-island-flashback.md))
+### 第13章：蟒蛇岛回忆·上 / Chapter 13: Python Island Flashback · Part 1 ([ch-13-python-island-flashback.md](./ch-13-python-island-flashback.md))
 
 - **章节标签 / Tags**: `#回忆 #五年前 #初任务` / `#Flashback #Five Years Ago #First Mission`
 - **剧情简介 / Synopsis**: 魔影回忆五年前刚毕业时的蟒蛇岛初任务，展现从青涩到冷酷的转变过程。 / Shadow Demon recalls his first mission on Python Island right after graduation five years ago, showing his transformation from greenhorn to cold-blooded assassin.
 
-### 第14章：蟒蛇岛回忆·下 / Chapter 14: Python Island Transformation ([ch-14-python-island-transformation.md](./chapters/ch-14-python-island-transformation.md))
+### 第14章：蟒蛇岛回忆·下 / Chapter 14: Python Island Transformation ([ch-14-python-island-transformation.md](./ch-14-python-island-transformation.md))
 
 - **章节标签 / Tags**: `#红水晶 #变异 #白熊` / `#Red Crystal #Mutation #White Bear`
 - **剧情简介 / Synopsis**: 魔影触碰红水晶后变异，获得毒血和毒牙能力，从此改变人生轨迹。 / Shadow Demon mutates after touching the Red Crystal, gaining poison blood and venom fang abilities, forever changing his life trajectory.
 
-### 第15章：重返蟒蛇岛 / Chapter 15: Return to Python Island ([ch-15-return-to-python-island.md](./chapters/ch-15-return-to-python-island.md))
+### 第15章：重返蟒蛇岛 / Chapter 15: Return to Python Island ([ch-15-return-to-python-island.md](./ch-15-return-to-python-island.md))
 
 - **章节标签 / Tags**: `#三年后 #小豪 #儡先生` / `#Three Years Later #Xiao Hao #Mr. Lei`
 - **剧情简介 / Synopsis**: 魔影带新人小豪重返蟒蛇岛，遭遇儡先生的诡异法阵，刺杀嗜精兽头目失败，引出第三部剧情。 / Shadow Demon brings new recruit Xiao Hao back to Python Island, encountering Mr. Lei's mysterious formation. The assassination of the Semen-Eater Beast leader fails, setting up the plot for Volume 3.
 
 ---
 
-## 4. 世界观设定（本卷提及部分）/ Worldview Setting (Mentioned in This Volume)
+## 5. 世界观设定（本卷提及部分）/ Worldview Setting (Mentioned in This Volume)
 
-### 4.1 主要组织 / Major Organizations
+### 5.1 主要组织 / Major Organizations
 
 - **特工局 / Agent Bureau**: 对抗兽盾的秘密组织，魔影与老雷所属 / A secret organization opposing Beastshield, to which Shadow Demon and Lao Lei belong
 - **兽盾公司 / Beastshield Company**: 本章深入其大楼内部结构，包括各层职能 / This volume delves into its building's internal structure, including the functions of each floor
 
-### 4.2 特殊能力 / Special Abilities
+### 5.2 特殊能力 / Special Abilities
 
 - **魔影的血毒 / Shadow Demon's Blood Poison**: 红水晶变异后获得，血液和毒牙可麻痹并催情敌人 / Gained after Red Crystal mutation; blood and venom fangs can paralyze and arouse enemies
 - **灼流暗劲 / Scorching Flow Dark Force**: 老雷的独门功夫，暗劲传导至前列腺引发射精死亡 / Lao Lei's unique technique; dark force transmits to the prostate causing ejaculatory death
 - **金钟罩 / Golden Bell Cover**: 熊组长修炼的硬气功，濒死时全身金刚不坏 / Bear Captain's hard qigong; body becomes invulnerable near death
 
-### 4.3 兽盾内部结构 / Beastshield Internal Structure
+### 5.3 兽盾内部结构 / Beastshield Internal Structure
 
 1. **一层 / First Floor**: 普通守卫值班区域 / Ordinary guard duty area
 2. **十层 / Tenth Floor**: 高层守卫区域，露台休息区 / Elite guard area, terrace rest area
@@ -140,29 +177,29 @@ This volume consists of 15 chapters, starting from Shadow Demon's infiltration o
 
 ---
 
-## 5. 主要角色 / Main Characters
+## 6. 主要角色 / Main Characters
 
-### 5.1 特工局 / Agent Bureau
+### 6.1 特工局 / Agent Bureau
 
 - **魔影 / Shadow Demon**: 本章主角，特工局顶尖刺客，擅长潜入暗杀 / This volume's protagonist, Agent Bureau's top assassin, skilled in infiltration and assassination
 - **老雷 / Lao Lei**: 魔影搭档，性格暴力直接，有洁癖和强迫症 / Shadow Demon's partner, violent and direct personality, with cleanliness obsession and OCD
 - **小豪 / Xiao Hao**: 年轻特工，魔影带的新人，初次登场 / Young agent, Shadow Demon's recruit, debut appearance
 
-### 5.2 兽盾公司 / Beastshield Company
+### 6.2 兽盾公司 / Beastshield Company
 
 - **虎卫组组长 / Tiger Guard Captain**: 被魔影击败的强敌 / A powerful enemy defeated by Shadow Demon
 - **熊组长 / Bear Captain**: 十一层守护者，练金钟罩 / Eleventh floor guardian, practices Golden Bell Cover
 - **牛组长"冥府牛头" / Bull Captain "Hell Bull"**: 不死体质的强者 / A powerful being with an immortal constitution
 - **嗜精兽头目 / Semen-Eater Beast Leader**: 本章最终BOSS，真实身份揭晓 / This volume's final boss, true identity revealed
 
-### 5.3 回忆角色 / Flashback Characters
+### 6.3 回忆角色 / Flashback Characters
 
 - **白熊 / White Bear**: 蟒蛇岛回忆中的叛变守卫 / A rebel guard in the Python Island flashback
 - **年轻魔影 / Young Shadow Demon**: 五年前刚毕业的青涩刺客 / The greenhorn assassin right after graduation five years ago
 
 ---
 
-## 6. 作者备注 / Author's Note
+## 7. 作者备注 / Author's Note
 
 本卷为《兽盾》世界观主线第二卷，深入展现特工局成员的背景故事，特别是魔影和老雷这对经典搭档的初次合作。通过回忆章节，揭示了魔影特殊能力的起源，为后续剧情埋下伏笔。
 
@@ -177,14 +214,14 @@ Highlights of this volume:
 
 ---
 
-## 7. 更新记录 / Update Record
+## 8. 更新记录 / Update Record
 
 - **2025-03-18 v1.0.0**: 第二卷全15章正式发布 / Official release of all 15 chapters of Volume 2
     - **主要变更 / Major Changes**:
-        1. **完整章节目录 / Complete Chapter Index**: 包含15章详细内容 / Includes detailed content for 15 chapters
-        2. **魔影与老雷 / Shadow Demon and Lao Lei**: 双主角模式确立 / Dual protagonist model established
-        3. **回忆章节 / Flashback Chapters**: 五年前蟒蛇岛往事 / Python Island events from five years ago
-        4. **分章文件 / Chapter Files**: 所有章节独立为md文件 / All chapters separated into individual md files
+      1. **完整章节目录 / Complete Chapter Index**: 包含15章详细内容 / Includes detailed content for 15 chapters
+      2. **魔影与老雷 / Shadow Demon and Lao Lei**: 双主角模式确立 / Dual protagonist model established
+      3. **回忆章节 / Flashback Chapters**: 五年前蟒蛇岛往事 / Python Island events from five years ago
+      4. **分章文件 / Chapter Files**: 所有章节独立为md文件 / All chapters separated into individual md files
 
 ---
 
@@ -193,7 +230,7 @@ Highlights of this volume:
 
 ---
 
-## 8. 版权与使用说明 / Copyright & Usage Guidelines
+## 9. 版权与使用说明 / Copyright & Usage Guidelines
 
 本作品为Beastkin Universe世界观下的原创官方作品，版权归世界观原作者及核心团队所有。
 

@@ -2,37 +2,21 @@
 
 ---
 
-## ⚠️ 分级与内容提示 / Content Rating and Warnings
-
-**成人内容警告 / 18+ Only**
-
-本作品包含大量成人向内容，阅读前请务必知悉：
-
-- **暴力与战斗描写**：包含枪战、格斗、处决、虐杀、撸杀等详细场景。
-- **性暗示与明确性内容**：涉及改造士兵的生理特性、性刺激处决、强迫行为、吞噬精液等。
-- **黑暗与残酷叙事**：包含权力压迫、人体实验、种族改造、背叛、复仇、文明毁灭等沉重主题。
-- **可能引起不适的场面**：包括但不限于尸体处理、生理羞辱、死亡时的射精反应、精液作为能量源等。
-
-**推荐读者年龄：18岁以上**
-
-所有内容均为虚构创作，旨在构建戏剧冲突与黑暗科幻设定，请勿模仿或在现实中实施任何类似行为。
-
----
-
-## ⚠️ Content Rating and Warnings
-
-**Adult Content Warning / 18+ Only**
-
-This work contains a significant amount of adult-oriented content. Please be fully aware before reading:
-
-- **Violence and Combat Descriptions**: Includes detailed scenes of gunfights, brawls, executions, torture, kills, and specialized "ejaculation executions".
-- **Sexual Implications and Explicit Sexual Content**: Involves the physiological traits of modified soldiers, sexual-stimulation executions, forced acts, semen consumption, etc.
-- **Dark and Brutal Narrative**: Includes heavy themes such as power oppression, human experimentation, genetic modification, betrayal, revenge, and civilization annihilation.
-- **Scenes That May Cause Discomfort**: Including but not limited to corpse disposal, physiological humiliation, ejaculation at death, semen as an energy source, etc.
-
-**Recommended Reader Age: 18+**
-
-All content is fictional, created to build dramatic conflict within a dark sci-fi setting. Do not imitate or carry out any similar actions in reality.
+> **⚠️ Content Rating & Warnings**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension | Level | Description |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content | **Lv.5** | Extreme and frequent sexual-stimulation execution (ejaculation kill), forced ejaculation, semen consumption/energy source, sexual organ modification, explicit sexual acts and bodily humiliation throughout |
+> | 💀 Violence & Death | **Lv.5** | Gunfights, brawls, executions, torture, indiscriminate slaughter, public executions, corpse disposal, human experimentation, civilization annihilation |
+> | 🧠 Psychological Darkness | **Lv.5** | Absolute power oppression, complete identity alienation (numbers replace names), systematic physiological and psychological control, betrayal, revenge, existential nihilism of civilization cycles |
+> | ⚡ Specific Triggers | — | `Ejaculation kill/execution` `Forced sexual acts` `Semen consumption` `Human experimentation` `Chip control` `Cultivation pod birth` `Number identity system` `Slave branding` `Public humiliation` `Civilization annihilation` |
+>
+> ⚠️ **Core Worldview Mechanic**: The core mechanism of this world is "Chip-Ejaculation Self-Destruction"—all Kiki Soldiers have control chips implanted at the cervical vertebra; ejaculation triggers self-destructive death. The military sock rank system (Black/Green/Blue/White) marks identity and absolute power. Cultivation pods mass-produce soldiers. "Ejaculation kill" is the Empire's signature execution method for managing soldiers, and also a fatal weakness in combat.
+>
+> **Please ensure you are at least 18 years old.**
+> If the content makes you uncomfortable, please stop reading immediately.
 
 ---
 

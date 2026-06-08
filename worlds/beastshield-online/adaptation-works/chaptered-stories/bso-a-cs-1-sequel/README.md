@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.4** | 频繁且详细的射精死亡机制描写，包括手交、指交、器具刺激等 explicit 性行为场景，贯穿战斗与死亡过程 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.3** | 战斗中的性化处决，角色因射精而死亡，有处决机制与招降杀戮，但带有黑色幽默风格缓冲 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.2** | 玩家间的背叛与博弈、NPC被欺骗利用、生存竞技压力，但主角吐槽风格消解了部分沉重感 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 窒息play、马眼插入、性化死亡、尸体利用暗示、欺骗/背叛、非自愿征兵 |
+>
+> ⚠️ **世界观核心机制说明**：本世界为R18 VR网络游戏，核心机制为"精槽"——所有伤害转化为性欲值，达到100%即射精死亡。死亡被设计成性高潮的终点，战斗与性行为完全融合。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：当一款R18 VR网游把死亡设计成射精，一千名内测玩家中，谁能笑着走到最后？
@@ -18,19 +36,34 @@
 
 ---
 
-## 二、内容标签 / Content Tags
+## 二、内容标签与核心元素 / Content Tags & Core Elements
 
-- **兽人类型**：狗兽人、虎兽人、牛兽人、狼兽人、野猪兽人、蜥蜴兽人、狐兽人、狈兽人、熊兽人、山羊兽人、獾兽人、鬣狗兽人、鼠兽人
-- **内容要素**：VR网游、R18、生存竞技、精槽机制、山贼山寨、玩家博弈、黑色幽默
-- **叙事风格**：第一人称吐槽、荒诞写实、暴力美学、权力博弈
+### 🐾 物种 / Species
+狗兽人、虎兽人、牛兽人、狼兽人、野猪兽人、蜥蜴兽人、狐兽人、狈兽人、熊兽人、山羊兽人、獾兽人、鬣狗兽人、鼠兽人
 
----
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽机制` `射精死亡` `手交` `指交` `胸交` `窒息play` `马眼插入` `蛋蛋攻击` `包皮退下` `前列腺液` `勃起描写` `处决机制`
 
-## II. Content Tags
+### ⚔️ 死亡与暴力 / Death & Violence
+`性化处决` `战斗射精` `招降杀戮` `偷袭` `拳头格斗` `斧击` `箭杀` `尸体利用暗示`
 
-- **Species**: Dog, Tiger, Cattle, Wolf, Boar, Lizard, Fox, Beki, Bear, Goat, Badger, Hyena, Rat
-- **Elements**: VR MMO, R18, Survival Competition, Essence Gauge Mechanic, Bandit Fortress, Player Rivalry, Dark Humor
-- **Style**: First-Person Commentary, Absurdist Realism, Violent Aesthetics, Power Struggle
+### 🏛️ 权力与关系 / Power & Relations
+`寨主-下属` `玩家-玩家` `玩家-NPC` `欺骗与背叛` `招降纳叛` `奴隶/俘虏` `山贼组织`
+
+### 🎭 主题与情感 / Themes & Emotions
+`黑色幽默` `生存竞技` `吐槽风` `玩家博弈` `身份隐藏` `老乡相认` `权力更迭`
+
+### 🎨 叙事与风格 / Narrative & Style
+`第一人称吐槽` `荒诞写实` `暴力美学` `魂类战斗` `游戏系统流` `凤凰传奇暗号` `网络热梗`
+
+### 🗺️ 核心场景 / Key Settings
+`新手山坡` `小村庄` `萝卜地` `征兵处` `山寨大厅` `厨房` `训练场` `宿舍区` `码头` `竞技场`
+
+### 🧩 世界观机制 / World Mechanics
+`VR网游` `精槽系统` `射精即死` `无血条设计` `实践领悟技能` `装备属性可见` `人物属性隐藏` `撸币货币` `厨艺系统` `暴击/暴鸡机制`
+
+### 🎯 结局指向 / Ending Tendency
+`开放结局` `多分支` `玩家竞争` `经营养成` `通关奖励`
 
 ---
 

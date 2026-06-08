@@ -1,12 +1,51 @@
 # 炎魉：新兵基地的幽灵 / Yan & Liang: Ghosts of the Recruit Base
 
-> **⚠️ 内容分级警告 (R-18) / Content Rating Warning (R-18)**
-> 本作品包含以下成人内容：
-> - 明确的性描写 / Explicit Sexual Descriptions
-> - 暴力与战斗场面 / Violence and Combat Scenes
-> - 成人主题及情节 / Adult Themes and Plotlines
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 明确的精槽机制战斗描写、性弱点攻击、射精死亡场景、制服/白袜 fetish，但服务于赏金猎杀叙事 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.3** | 赏金猎杀、灼流暗劲制服、银针封穴、处决、尸体处理/编号记录、强者碾压 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.2** | 赏金猎人的道德困境、对猎物的怜悯与冷酷的对比、体制黑暗下的生存法则 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 猎杀/处决场景、精槽处决、隐身偷袭、银针封穴、制服/白袜 fetish、体制压迫 |
+>
+> ⚠️ **世界观核心机制说明**：本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡）。核心机制为"赏金猎杀"——以狩猎兽盾守卫换取赏金，猎杀过程中需利用目标的性弱点快速制服并记录编号。
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+变色龙兽人、熊猫兽人、灰狼兽人、各类兽盾守卫
+
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽机制` `性弱点攻击` `射精死亡` `制服 fetish` `白袜/长筒袜` `灼流暗劲` `银针封穴`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`赏金猎杀` `灼流暗劲制服` `银针封穴` `处决` `尸体处理` `编号记录` `强者碾压`
+
+### 🏛️ 权力与关系 / Power & Relations
+`赏金猎人搭档` `猎人-猎物` `特工局-兽盾` `强者-弱者`
+
+### 🎭 主题与情感 / Themes & Emotions
+`冷酷与怜悯` `赏金猎人的道德困境` `体制黑暗` `生存法则` `强者碾压`
+
+### 🎨 叙事与风格 / Narrative & Style
+`猎杀叙事` `双主角对比` `动作戏` `noir` `体制批判`
+
+### 🗺️ 核心场景 / Key Settings
+`兽盾新兵训练基地` `制服改革现场` `部长级失职惩罚场景`
+
+### 🧩 世界观机制 / World Mechanics
+`精槽系统` `射精死亡` `赏金系统` `灼流暗劲` `先天隐身` `银针封穴` `兽盾编号体系`
+
+### 🎯 结局指向 / Ending Tendency
+`开放式` `猎杀继续` `体制对抗`
 
 ---
 

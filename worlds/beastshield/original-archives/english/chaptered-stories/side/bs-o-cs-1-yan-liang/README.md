@@ -1,14 +1,51 @@
 # Yan & Liang Side Story: Ghosts of the Recruit Base / 炎魉外传：新兵基地的幽灵
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
-> - Non-traditional Worldview Settings / 非传统世界观设定
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.4** | Core mechanic is the "Lust Value System"; Scorching Flow Dark Force converts to sexual pleasure; includes rapid subdue ejaculation, forced climax, post-death corpse play (Liang's mercy handling), etc. / 核心机制为"性欲值系统"，灼流暗劲转化为性快感；含快速制服射精、强制高潮、死后亵玩（魉的怜悯处理）等场景 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.5** | Large-scale base hunt: from perimeter patrol to office lure-kill, conference room massacre, basement floor clearance; mass execution of recruits and officials; corpse handling and number recording. / 大规模基地猎杀：从外围巡逻到办公室诱杀、会议室屠杀、负一层清剿；大量新兵与官员被处决；尸体处理与编号记录 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.3** | Contrast between cold execution and merciful cleanup, bounty hunter's moral dilemma, powerlessness of the strong crushing the weak, institutional cruelty (dereliction suicide). / 冷酷处决与怜悯善后的对比、赏金猎人的道德困境、强者碾压弱者的无力感、组织体制的冷酷（失职自尽） |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Involuntary sexual pleasure (mechanism-based/technique-based)` `Ejaculatory death` `Corpse handling/cleanup` `Invisibility ability` `Scorching Flow Dark Force` `Tight uniform fetishization` `Designation replacing name` `Mass execution` `Lure-kill/deception` `Dereliction punishment/suicide` / `非自愿性快感（机制性/功法性）` `射精死亡` `尸体处理/善后` `隐身能力` `灼流暗劲` `紧身制服物化` `编号取代姓名` `大规模处决` `诱杀/欺骗` `失职惩罚/自尽` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: In this worldview, all physical damage is converted into the target's Lust Value. When full, the target is forced to ejaculate and die. Scorching Flow Dark Force and other special techniques can accelerate this process. / 本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。灼流暗劲等特殊功法可加速此过程。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
 > If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Tiger, Dog, White Bear, Panda, Wolf, Bull, Chameleon / 虎、狗、白熊、熊猫、狼、牛、变色龙
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Lust Value System` `Ejaculatory death` `Scorching Flow Dark Force aphrodisiac` `Rapid subdue` `Forced climax` `Post-death corpse play (light)` `Tight uniform` `White socks/number` `Erection depiction` `Semen depiction` / `性欲值系统` `射精死亡` `灼流暗劲催情` `快速制服` `强制高潮` `死后亵玩（轻度）` `紧身制服` `白袜/编号` `勃起描写` `精液描写`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`Large-scale hunt` `Perimeter cleanup` `Office lure-kill` `Conference room massacre` `Basement floor clearance` `Strong crushing weak` `Bounty redemption` `Corpse handling/cleanup` `Number recording` `Dereliction suicide` / `大规模猎杀` `外围清理` `办公室诱杀` `会议室屠杀` `负一层清剿` `强者碾压` `赏金兑换` `尸体处理/善后` `编号记录` `失职自尽`
+
+### 🏛️ Power & Relations / 权力与关系
+`Bounty hunter duo` `Cold executor + merciful cleanup` `Disguise/invisibility` `Organization system` `Class oppression` `Strong vs weak` / `赏金猎人搭档` `冷酷执行者+怜悯善后` `伪装/隐身` `组织体制` `等级压迫` `强者vs弱者`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Coldness and mercy` `Bounty hunter moral dilemma` `Strong crushing weak` `Institutional darkness` `Normalization of death` `Partner tacit understanding` / `冷酷与怜悯` `赏金猎人道德困境` `强者碾压` `体制黑暗` `死亡常态化` `搭档默契`
+
+### 🎨 Narrative & Style / 叙事与风格
+`Dual protagonist perspective` `Fast-paced hunt` `Infiltration narrative` `Contrast portrayal` `Explicit and blunt` / `双主角视角` `快节奏猎杀` `潜入叙事` `对比刻画` `直白露骨`
+
+### 🗺️ Key Settings / 核心场景
+`Recruit training base` `Perimeter patrol area` `Office` `Conference room` `Basement floor` `Grass/trash bin` / `新兵训练基地` `外围巡逻区` `办公室` `会议室` `负一层` `草丛/垃圾箱`
+
+### 🧩 World Mechanics / 世界观机制
+`Lust Value/Libido System` `Scorching Flow Dark Force` `Golden Bell Cover` `Invisibility talent` `Bounty system` `Number identity` `Uniform rank` / `性欲值/Libido系统` `灼流暗劲` `金刚护体` `隐身天赋` `赏金系统` `编号身份` `制服等级`
+
+### 🎯 Ending Tendency / 结局指向
+`Mission completed` `Bounty obtained` `Strong crushing weak` `Institutional irony` / `任务完成` `赏金获取` `强者碾压` `体制讽刺`
 
 ---
 

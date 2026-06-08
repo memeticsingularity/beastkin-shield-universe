@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.5** | 极端详细的强制勃起、射精、前列腺液、精液喷射描写；性器官直接操控；后穴侵犯；乳头敏感点折磨 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.5** | 大规模暗杀、尸体堆积、窒息、毒杀、神经毒素、尸体亵渎 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.5** | 极致羞辱、尊严摧毁、猎杀者视角、物化猎物、死亡游戏化 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 性暴力、窒息play、袜子塞口、后穴侵入、乳头处刑、尸体堆叠、食精、食尸暗示 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：他以黑暗为皮肤，以恐惧为武器，在兽盾的缝隙中狩猎那些迷失在灯光下的猎物。
@@ -26,7 +44,38 @@ This is neither a trial of justice nor a flame of vengeance. It is a private rit
 
 ---
 
-## 二、内容标签 / Content Tags
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+`犬兽人` `熊兽人` `牛兽人` `虎兽人` `野猪兽人` `黑豹兽人` `灰狼兽人` `雪豹兽人` `狮兽人` `犀牛兽人`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`强制射精` `精液喷射` `前列腺液` `性器官操控` `后穴侵入` `乳头敏感点` `窒息勃起` `毒液催情` `袜子塞口` `食精` `脂包肌` `白袜` `紧身制服`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`暗杀` `毒杀` `窒息` `神经毒素` `尸体堆积` `尸体亵渎` `更衣室屠杀` `大规模处决`
+
+### 🏛️ 权力与关系 / Power & Relations
+`猎手-猎物` `绝对支配` `赏金猎人` `公司底层` `无名杂兵` `身份隐匿` `单方面的权力`
+
+### 🎭 主题与情感 / Themes & Emotions
+`欲望即死亡` `尊严摧毁` `猎杀快感` `物化生命` `死亡仪式化` `羞辱处刑` `猎手冷漠`
+
+### 🎨 叙事与风格 / Narrative & Style
+`grimdark` `thriller` `horror` `慢镜头解剖` `感官极致化` `猎杀者视角` `实验性叙事`
+
+### 🗺️ 核心场景 / Key Settings
+`更衣室` `通风管道` `走廊盲区` `兽盾总部` `储物柜` `洗手台`
+
+### 🧩 世界观机制 / World Mechanics
+`性欲值系统` `伤害转化欲望` `暗劲` `毒术` `赏金系统(白袜编号)` `G级杂兵消耗品`
+
+### 🎯 结局指向 / Ending Tendency
+`猎杀继续` `无人生还` `开放式杀戮` `尸体堆叠` `无结局循环`
+
+---
+
+## 二、旧版内容标签 / Legacy Content Tags
 
 - **兽人类型**：犬 / Dog、熊 / Bear、牛 / Bull、虎 / Tiger、野猪 / Boar、黑豹 / Black Panther、灰狼 / Gray Wolf、雪豹 / Snow Leopard、狮 / Lion、犀牛 / Rhino
 - **内容要素**：death、stealth、combat、corporate、assassination、sexual-violence
@@ -34,7 +83,7 @@ This is neither a trial of justice nor a flame of vengeance. It is a private rit
 
 ---
 
-## II. Content Tags
+## II. Legacy Content Tags
 
 - **Species**: Dog, Bear, Bull, Tiger, Boar, Black Panther, Gray Wolf, Snow Leopard, Lion, Rhino
 - **Elements**: death, stealth, combat, corporate, assassination, sexual-violence

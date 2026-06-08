@@ -5,11 +5,22 @@
 
 ---
 
-## 一、内容分级 / Content Rating
+## 一、内容分级与标签总览 / Content Rating & Tags Overview
 
-**成人内容警告 / 18+ Only**
-
-本世界观包含成人内容、性暗示、暴力及黑暗主题。所有虚构内容均为艺术创作，不鼓励在现实中进行类似行为。
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3–4**（因作品而异） | 精槽系统为核心机制，伤害转化为性欲值，射精即死亡；VR游戏内包含明确的性器官反应与体液描写 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.3–4**（因作品而异） | 战斗中的性化处决，角色因射精死亡；处决机制与招降杀戮 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.2–3**（因作品而异） | 玩家间背叛与博弈、NPC被欺骗利用、生存竞技压力；黑色幽默风格缓冲部分沉重感 |
+> | ⚡ 普遍存在触发项 / Common Triggers | — | `精槽系统` `射精死亡` `VR游戏接入` `玩家背叛` `欺骗/背叛` `非自愿征兵` `窒息play` |
+>
+> ⚠️ **世界观核心机制说明**：本世界为R18 VR网络游戏，核心机制为"精槽"——所有伤害转化为性欲值，达到100%即射精死亡。死亡被设计成性高潮的终点，战斗与性行为完全融合。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old。**
 
 ---
 
@@ -75,15 +86,15 @@ For detailed settings, see: [settings/](settings/)
 
 ### 4.1 原作存档 / Original Archives
 
-| 编码 | 中文名 | 英文名 | 标签 | 链接 |
-|------|--------|--------|------|------|
-| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [目录](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | Beastshield Online Vol.1 | Lv.4 | Lv.4 | Lv.2 | `未完待续` `VR网游` | [目录](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 
-| 编码 | 中文名 | 英文名 | 标签 | 链接 |
-|------|--------|--------|------|------|
-| `bso-a-cs-1-sequel` | 兽游世界OL 续写 | Beastshield Online Sequel | `vr-game`, `daily-life` | [目录](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/README.md) |
+| 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
+|------|--------|--------|:--:|:--:|:--:|:--:|------|
+| `bso-a-cs-1-sequel` | 兽游世界OL 续写 | Beastshield Online Sequel | Lv.4 | Lv.3 | Lv.2 | `开放结局` `多分支` `玩家竞争` | [目录](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/README.md) |
 
 ---
 

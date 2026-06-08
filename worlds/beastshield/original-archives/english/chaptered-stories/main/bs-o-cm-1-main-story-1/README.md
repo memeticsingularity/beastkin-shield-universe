@@ -1,14 +1,51 @@
 # Beastshield Main Story · Vol. 1: Beast World / 兽盾主线故事 · 第一卷：兽游世界
 
-> **⚠️ Content Rating Warning (R-18) / 内容分级警告 (R-18)**
-> This work contains the following adult content:
-> - Explicit Sexual Descriptions / 明确的性描写
-> - Violence and Combat Scenes / 暴力与战斗场面
-> - Adult Themes and Plotlines / 成人主题及情节
-> - Non-traditional Worldview Settings / 非传统世界观设定
+> **⚠️ Content Rating & Warnings / 内容分级与警告**
+>
+> **Adult Content / 18+ ONLY**
+>
+> | Dimension / 维度 | Level / 级别 | Description / 说明 |
+> |:--|:--:|:--|
+> | 🔞 Sexual Content / 性内容 | **Lv.4** | Core mechanic is the "Lust Value System"—all damage converts to sexual pleasure, full gauge triggers ejaculatory death; includes explicit sexual descriptions, forced climax, post-battle corpse play, disguise teasing, etc. / 核心机制为"性欲值系统"，所有伤害转化为性快感，蓄满即射精死亡；含明确性描写、强制高潮、战后亵玩、换装调戏等场景 |
+> | 💀 Violence & Death / 暴力与死亡 | **Lv.4** | Frequent one-on-one / one-to-many combat executions; protagonist kills Beastshield employees at all levels (bear, tiger, boar, etc.); includes ejaculatory death, post-battle corpse abuse, subordinate execution, etc. / 频繁一对一/一对多战斗处决；主角击杀兽盾各级员工（熊、虎、野猪等）；含射精死亡、战后虐尸、处决下属等描写 |
+> | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.2** | Corporate dystopia backdrop with objectified employees, but VR game perspective provides some distance; protagonist gradually darkens (semen-eater addiction after Blood Essence Stone implantation), interspersed with black humor and growth satisfaction. / 企业反乌托邦背景下员工被物化，但VR游戏视角提供一定距离感；主角逐步黑化（植入血精石后嗜精瘾），夹杂黑色幽默与成长爽感 |
+> | ⚡ Specific Triggers / 特殊触发 | — | `Involuntary sexual pleasure (mechanism-based)` `Ejaculatory death` `Corpse play/post-battle necrophilia` `Tight uniform fetishization` `Designation replacing name` `Class oppression` `Subordinate execution` `Disguise infiltration` `Bioweapon experiments (Flowing Ruin)` / `非自愿性快感（机制性）` `射精死亡` `尸体亵玩/战后撸尸` `紧身制服物化` `编号取代姓名` `阶级压迫` `下属处决` `伪装潜入` `生物武器实验（流墟）` |
+>
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: In this worldview, all physical damage is converted into the target's Lust Value. When full, the target is forced to ejaculate and die. This mechanism runs through all combat and death scenes and cannot be skipped. / 本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
 > If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
+
+---
+
+## Content Tags & Core Elements / 内容标签与核心元素
+
+### 🐾 Species / 物种
+Bear (brown bear/grizzly/white bear), Tiger, Dog, Bull, Wild Boar, Wolf, Panda, Rabbit, Sheep (mentioned) / 熊（棕熊/灰熊/白熊）、虎、犬、牛、野猪、狼、熊猫、兔、羊（提及）
+
+### 🔞 Erotic & Bodily / 情色与身体
+`Lust Value System` `Ejaculatory death` `Erotic combat` `Post-battle corpse play` `Forced climax` `Tight uniform` `White socks/number` `Disguise/infiltration` `Crotch grab/ball squeeze` `Thousand-year kill` `Erection depiction` `Ejaculation depiction` `Semen consumption (Semen-Eater Beast)` `Masochism` `Bondage (Azure Sparrow Yang-Binding Lock)` / `性欲值系统` `射精死亡` `情趣战斗` `战后亵玩` `强制高潮` `紧身制服` `白袜/编号` `换装/伪装` `抓裆/捏蛋` `千年杀` `勃起描写` `射精描写` `精液消耗（嗜精兽）` `M体质` `捆绑（青雉缚阳锁）`
+
+### ⚔️ Death & Violence / 死亡与暴力
+`One-on-one kill` `One-to-many clearance` `Ball squeeze to death` `Strike to death` `Silver needle sealing to death` `Subordinate execution` `Corpse stacking` `Post-death forgetting` `Bounty redemption` `Combat leveling` / `一对一击杀` `一对多清场` `捏蛋致死` `击打致死` `银针封穴致死` `处决下属` `尸体堆放` `死后遗忘` `赏金兑换` `战斗升级`
+
+### 🏛️ Power & Relations / 权力与关系
+`Player protagonist` `VR game intervention` `Disguise infiltration` `Promotion and salary raise` `Recruiting subordinates` `Master-apprentice/training` `Company loyalty test` `Dual identity (Beastshield → Agent Bureau)` `Bioweapon implantation` / `玩家主角` `VR游戏介入` `伪装潜入` `升职加薪` `收编下属` `师徒/训练` `公司 loyalty test` `双面身份（兽盾→特工局）` `生物武器植入`
+
+### 🎭 Themes & Emotions / 主题与情感
+`Growth power fantasy` `Gradual darkening` `Gamified survival` `Power climb` `Black humor` `Identity loss (Semen-Eater Beast mutation)` `Good-evil faction switch` / `成长爽文` `逐步黑化` `游戏化生存` `权力攀升` `黑色幽默` `身份迷失（嗜精兽变异）` `正邪阵营转换`
+
+### 🎨 Narrative & Style / 叙事与风格
+`First-person player perspective` `VR game meta-narrative` `Fast-paced action` `Explicit and blunt` `Chapter-based growth` `Power fantasy rhythm` / `第一人称玩家视角` `VR游戏元叙事` `快节奏动作` `直白露骨` `章节式成长` `爽文节奏`
+
+### 🗺️ Key Settings / 核心场景
+`VR game world` `Warehouse (tutorial)` `White Capital` `Beastshield HQ building` `Weapon store` `Martial arts dojo` `Hotel` `Underground fighting ring` `Agent Bureau base` `South Sea Cloud Peak floating island` / `VR游戏世界` `仓库（教程关）` `白之都` `兽盾总部大楼` `武器商店` `武道馆` `酒店` `地下格斗场` `特工局基地` `南海云顶浮岛`
+
+### 🧩 World Mechanics / 世界观机制
+`Lust Value/Libido System` `Semen Gauge System` `Attribute allocation (Combat/Shooting/Stealth/Heroic)` `Skill system (Poison/Disguise/Shadow Assault/Silver Needle Sealing)` `Follower system` `Bounty system` `Class change system` `Disguise infiltration` `Blood Essence Stone implantation` `Azure Sparrow Yang-Binding Lock (Twelve Divine Weapons)` `Flowing Ruin (bioweapon)` / `性欲值/Libido系统` `精槽系统` `属性加点（战斗/射击/潜行/英雄）` `技能系统（涂毒/换装/影袭/银针封穴）` `随从系统` `赏金系统` `转职系统` `换装伪装` `血精石植入` `青雉缚阳锁（十二神武）` `流墟（生物武器）`
+
+### 🎯 Ending Tendency / 结局指向
+`To be continued` `Power awakening` `Identity transformation (Semen-Eater Beast)` `Dual faction` `Foreshadowing payoff` / `未完待续` `力量觉醒` `身份转变（嗜精兽）` `正邪双阵营` `伏笔回收`
 
 ---
 

@@ -4,6 +4,24 @@
 
 ---
 
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 濒死射精、精液与蛋糕混合、性器官勃起、前列腺液、制服下的身体描写 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.4** | 日常暗杀、匕首刺杀、窒息、生日主题死亡、尸体处理、精液致死 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.4** | 生日即忌日、梦想破碎、系统性冷漠、底层无力感、日常悲剧美学 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 生日死亡、蛋糕亵渎、精液与食物混合、赏金猎人、袜子收集、经济绝望 |
+>
+> ⚠️ **世界观核心机制说明**：本作品所在世界观中，所有物理伤害会转化为目标的性欲值，蓄满后目标强制射精并死亡。这一机制贯穿全部战斗与死亡场景，无法跳过。
+>
+> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
+> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
 ## 一、简介 / Introduction
 
 **一句话钩子**：生日本该是庆祝生命的日子，但在兽盾，它往往成为生命的终点。
@@ -18,7 +36,38 @@ A dark series centered around the theme of "birthdays," telling the fatal fates 
 
 ---
 
-## 二、内容标签 / Content Tags
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+`牛兽人` `德牧狗兽人` `灰狼兽人` `野猪兽人` `白虎兽人` `黄牛兽人` `黑豹兽人` `犀牛兽人` `猛虎兽人` `红牛兽人`
+
+### 🔞 情色与身体 / Erotic & Bodily
+`濒死射精` `精液与蛋糕混合` `勃起` `前列腺液` `脂包肌` `白袜` `紧身制服` `雄性体味` `性器官描写`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`匕首刺杀` `窒息` `日常暗杀` `精液致死` `尸体处理` `赏金狩猎` `生日处决`
+
+### 🏛️ 权力与关系 / Power & Relations
+`G级杂兵` `赏金猎人` `监工压迫` `公司底层` `经济绝望` `转正渴望` `等级制度`
+
+### 🎭 主题与情感 / Themes & Emotions
+`生日即忌日` `梦想破碎` `日常悲剧` `系统性冷漠` `底层无力感` `生命编号化` `悲剧美学`
+
+### 🎨 叙事与风格 / Narrative & Style
+`dark-realism` `anthology` `cold-and-objective` `deep-character` `sensory-details` `grimdark`
+
+### 🗺️ 核心场景 / Key Settings
+`蛋糕店` `公司门口` `仓库` `巡逻路线` `卡车` `瞭望哨` `装卸区`
+
+### 🧩 世界观机制 / World Mechanics
+`性欲值系统` `伤害转化欲望` `射精即死` `赏金系统(白袜编号)` `G级消耗品` `等级制度(G/O)`
+
+### 🎯 结局指向 / Ending Tendency
+`单元悲剧` `无人生还` `生日死亡循环` `梦想破碎` `开放式死亡`
+
+---
+
+## 二、旧版内容标签 / Legacy Content Tags
 
 - **兽人类型**：牛兽人、德牧狗兽人、灰狼兽人、野猪兽人、白虎兽人、黄牛兽人、黑豹兽人、犀牛兽人、猛虎兽人、红牛兽人等
 - **内容要素**：系统性暴力、日常死亡、感官细节、悲剧美学、生日主题、兵种等级体系
@@ -26,7 +75,7 @@ A dark series centered around the theme of "birthdays," telling the fatal fates 
 
 ---
 
-## II. Content Tags
+## II. Legacy Content Tags
 
 - **Species**: Bull, German Shepherd, Gray Wolf, Boar, White Tiger, Yellow Cattle, Black Panther, Rhino, Tiger, Red Bull, etc.
 - **Elements**: Systemic violence, everyday death, sensory details, tragic aesthetics, birthday theme, military rank system

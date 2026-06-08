@@ -1,14 +1,51 @@
 # 兽盾乐园 · 主线故事 / Beastshield Paradise · Main Story
 
-> **⚠️ 内容分级警告 (R-18) / Content Rating Warning (R-18)**
-> 本作品包含以下成人内容：
-> - 明确的性描写 / Explicit Sexual Descriptions
-> - 暴力与战斗场面 / Violence and Combat Scenes
-> - 成人主题及情节 / Adult Themes and Plotlines
-> - 非传统世界观设定 / Non-traditional Worldview Settings
+> **⚠️ 内容分级与警告 / Content Rating & Warnings**
+>
+> **成人内容 / 18+ ONLY**
+>
+> | 维度 Dimension | 级别 Level | 说明 Description |
+> |:--|:--:|:--|
+> | 🔞 性内容 / Sexual Content | **Lv.3** | 明确的性器官触碰与精槽机制描写，但服务于"救赎"主题而非单纯情色；有制服下的身体描写与性化弱点控制 |
+> | 💀 暴力与死亡 / Violence & Death | **Lv.2** | 仓库尸体描写、擒拿控制、腹部击打、精槽处决威胁，但无实际死亡发生；暴力被转化为温柔的逆转 |
+> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.3** | 深层恐惧与自卑的挖掘、兽盾体系的冰冷压迫、角色内心的绝望与羞耻，但最终被温暖接纳所化解 |
+> | ⚡ 特殊触发 / Specific Triggers | — | 性化弱点控制（抓裆）、窒息威胁、精槽可视化倒计时、制服/白袜 fetish、背叛与告密焦虑、自卑与自我价值否定 |
+>
+> ⚠️ **世界观核心机制说明**：本世界继承《兽盾》基础设定——精槽系统（伤害转化为性欲值，满槽射精死亡），但核心机制为"心愿模组"——玩家通过温柔介入与真诚羁绊，改写被系统设定为"敌人"的角色的命运，以"家人契约"替代暴力征服。
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
 > 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
+## 内容标签与核心元素 / Content Tags & Core Elements
+
+### 🐾 物种 / Species
+猿猴兽人、棕熊兽人、德牧兽人、虎兽人、狼兽人、黑豹兽人、野猪兽人、鬣狗兽人、黄牛兽人
+
+### 🔞 情色与身体 / Erotic & Bodily
+`精槽机制` `性弱点控制` `抓裆擒拿` `制服 fetish` `白袜/长筒袜` `紧身衣` `勃起/射精死亡设定` `身体描写`
+
+### ⚔️ 死亡与暴力 / Death & Violence
+`仓库尸体` `精槽处决威胁` `腹部击打` `窒息控制` `颈侧击打` `擒拿拖行` `无实际死亡`
+
+### 🏛️ 权力与关系 / Power & Relations
+`袭击者-俘虏` `玩家-NPC` `上级-下属` `家人契约` `兽盾公司体系` `底层杂兵`
+
+### 🎭 主题与情感 / Themes & Emotions
+`绝境救赎` `温柔改写命运` `自卑与接纳` `被看见` `选择权的赋予` `泪水与释放` `治愈`
+
+### 🎨 叙事与风格 / Narrative & Style
+`双视角切换` `细腻感官描写` `心理写实` `温柔逆转` `治愈向` `慢节奏沉浸`
+
+### 🗺️ 核心场景 / Key Settings
+`仓库` `货架阴影` `水泥地面` `金属推拉门` `主通道` `角落夹角` `通风管道`
+
+### 🧩 世界观机制 / World Mechanics
+`精槽系统` `射精死亡` `心愿模组` `家人契约` `兽盾编号体系` `制服等级` `被动技能`
+
+### 🎯 结局指向 / Ending Tendency
+`全员救赎` `HE` `家园誓约` `温暖存档`
 
 ---
 
