@@ -24,7 +24,7 @@
 | Ch.6 | 关系与秘密 | [阅读](ch-6-relationships-and-secrets.md) |
 | Ch.7 | 棚屋之死 | [阅读](ch-7-death-in-the-shed.md) |
 | Ch.8 | 选择与后果 | [阅读](ch-8-choices-and-consequences.md) |
-| Ch.9 | 虎威的命运 | [阅读](ch-9-tigers-fate.md) |
+| Ch.9 | 虎彻的命运 | [阅读](ch-9-tigers-fate.md) |
 | Ch.10 | 活力紫茎 | [阅读](ch-10-purple-stem.md) |
 | Ch.11 | 地下室的秘密 | [阅读](ch-11-basement-secret.md) |
 | Ch.12 | 营救 | [阅读](ch-12-rescue.md) |
