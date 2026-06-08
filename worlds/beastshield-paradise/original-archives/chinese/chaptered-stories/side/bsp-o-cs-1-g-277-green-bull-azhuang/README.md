@@ -58,7 +58,7 @@
 - **子类型 / Subtype**: 支线 / Side
 - **状态 / Status**: 已完成 / Completed
 - **位置 / Location**: original-archives
-- **作者 / Author**: memetic-singularity
+- **作者 / Author**: memeticsingularity
 - **开始日期 / Start Date**: 2025-12-15
 - **最后更新 / Last Update**: 2025-12-15
 - **世界观 / Universe**: Beastshield Paradise

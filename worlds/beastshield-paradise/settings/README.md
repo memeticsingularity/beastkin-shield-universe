@@ -37,8 +37,8 @@ The Beastshield Paradise settings library stores core worldview settings, develo
 
 | 文档 | 说明 | 链接 |
 |------|------|------|
-| 模因奇点核心（中文版） | Memetic Singularity core setting (Chinese) | [tmp/memetic-singularity-core-chinese.md](tmp/memetic-singularity-core-chinese.md) |
-| 模因奇点核心（英文版） | Memetic Singularity core setting (English) | [tmp/memetic-singularity-core-english.md](tmp/memetic-singularity-core-english.md) |
+| memeticsingularity核心（中文版） | Memetic Singularity core setting (Chinese) | [tmp/memeticsingularity-core-chinese.md](tmp/memeticsingularity-core-chinese.md) |
+| memeticsingularity核心（英文版） | Memetic Singularity core setting (English) | [tmp/memeticsingularity-core-english.md](tmp/memeticsingularity-core-english.md) |
 
 ---
 
@@ -63,8 +63,8 @@ The Beastshield Paradise settings library stores core worldview settings, develo
 
 | Document | Description | Link |
 |----------|-------------|------|
-| Memetic Singularity Core (Chinese) | Core setting draft | [tmp/memetic-singularity-core-chinese.md](tmp/memetic-singularity-core-chinese.md) |
-| Memetic Singularity Core (English) | Core setting draft | [tmp/memetic-singularity-core-english.md](tmp/memetic-singularity-core-english.md) |
+| Memetic Singularity Core (Chinese) | Core setting draft | [tmp/memeticsingularity-core-chinese.md](tmp/memeticsingularity-core-chinese.md) |
+| Memetic Singularity Core (English) | Core setting draft | [tmp/memeticsingularity-core-english.md](tmp/memeticsingularity-core-english.md) |
 
 ---
 
@@ -77,7 +77,7 @@ The Beastshield Paradise settings library stores core worldview settings, develo
 | `核心宣言` | [玩家的暖心](a-players-warm-heart-chinese.md) |
 | `世界观基础` | [兽盾设定](beastshield_setting_chinese.md) |
 | `开发记录` | [DeepSeek 讨论](development-logs/discuss-with-deepseek/) |
-| `心愿模组` | [模因奇点核心](tmp/memetic-singularity-core-chinese.md) |
+| `心愿模组` | [memeticsingularity核心](tmp/memeticsingularity-core-chinese.md) |
 
 ---
 
@@ -90,7 +90,7 @@ The Beastshield Paradise settings library stores core worldview settings, develo
 | `manifesto` | [A Player's Warm Heart](a-players-warm-heart-english.md) |
 | `worldview base` | [Beastshield Setting](beastshield_setting_chinese.md) |
 | `development logs` | [DeepSeek Discussion](development-logs/discuss-with-deepseek/) |
-| `wish modules` | [Memetic Singularity Core](tmp/memetic-singularity-core-english.md) |
+| `wish modules` | [Memetic Singularity Core](tmp/memeticsingularity-core-english.md) |
 
 ---
 

@@ -51,7 +51,7 @@
 
 ## 关于本作 / About This Work
 
-《兽盾乐园》是《兽盾》世界观的衍生分支，聚焦于玩家"模因奇点"以独特的"心愿模组"介入后，在残酷的游戏规则中为那些被系统抛弃的灵魂开辟生路的温暖故事。与原作黑暗猎奇的基调不同，本系列主打**绝境救赎、善意回响、伤痕愈合并最终缔结家园誓约**的治愈向叙事。
+《兽盾乐园》是《兽盾》世界观的衍生分支，聚焦于玩家"memeticsingularity"以独特的"心愿模组"介入后，在残酷的游戏规则中为那些被系统抛弃的灵魂开辟生路的温暖故事。与原作黑暗猎奇的基调不同，本系列主打**绝境救赎、善意回响、伤痕愈合并最终缔结家园誓约**的治愈向叙事。
 
 *Beastshield Paradise* is a derivative branch of the *Beastshield* worldview, focusing on the player "Memetic Singularity" who, through unique "wish modules," intervenes in the cruel game rules to carve out paths of survival for souls abandoned by the system. Unlike the original's dark and bizarre tone, this series centers on **healing narratives of redemption from despair, echoes of kindness, wound healing, and ultimately forging oaths of home.**
 
@@ -64,7 +64,7 @@
 - **状态 / Status**: 连载中 / Ongoing
 - **章节数 / Chapters**: 5章已发布 / 5 chapters released
 - **简介 / Synopsis**:
-  玩家模因奇点在一个堆满尸体的仓库角落醒来，面对系统冰冷的击杀教程提示，他选择了另一条路——理解、触碰与救赎。从棕熊守卫"熊仔"开始，一段以温柔改写命运的旅程就此展开。
+  玩家memeticsingularity在一个堆满尸体的仓库角落醒来，面对系统冰冷的击杀教程提示，他选择了另一条路——理解、触碰与救赎。从棕熊守卫"熊仔"开始，一段以温柔改写命运的旅程就此展开。
 
   The player Memetic Singularity awakens in a corner of a warehouse piled with corpses. Faced with the system's cold kill-tutorial prompt, he chooses another path—understanding, touching, and redemption. Starting with the brown bear guard "Xiong Zai," a journey to rewrite fate through gentleness begins.
 

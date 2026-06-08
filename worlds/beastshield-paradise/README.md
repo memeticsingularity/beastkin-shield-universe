@@ -32,7 +32,7 @@ Beastshield Paradise is derived from the original *Beastshield* setting, which c
 
 ## 2. 关于本世界观 / About This World
 
-**Beastshield Paradise**（兽盾天堂）并非独立平行宇宙，而是对"兽盾世界观"底层规则的另一种解读与重构。它源自玩家**"模因奇点"**在体验游戏残酷默认玩法后的情感不适与哲学质疑。
+**Beastshield Paradise**（兽盾天堂）并非独立平行宇宙，而是对"兽盾世界观"底层规则的另一种解读与重构。它源自玩家**"memeticsingularity"**在体验游戏残酷默认玩法后的情感不适与哲学质疑。
 
 核心理念是证明**"温柔"本身即是一种强大的生存与繁荣策略**。这里不消灭敌人而"收养"他们，不争夺资源而创造"丰裕"，不追求个体最强而编织"羁绊网络"。与原始兽盾世界观强调竞争、征服、欲望消耗不同，Paradise 的目标是"建立家园"与"守护幸福"。
 
@@ -46,7 +46,7 @@ The core philosophy is to prove that **"gentleness" itself is a powerful strateg
 
 ## 3. 核心设定 / Core Settings
 
-- **模因奇点与心愿模组**：玩家通过极致共情与意志催生的规则扭曲，包括心有灵犀的羁绊、时间的魔法、不设限的家、心想事成的小幸运、瞬间移动的约定、温柔世界的庇护。
+- **memeticsingularity与心愿模组**：玩家通过极致共情与意志催生的规则扭曲，包括心有灵犀的羁绊、时间的魔法、不设限的家、心想事成的小幸运、瞬间移动的约定、温柔世界的庇护。
 - **家园网络**：取代兽盾公司的垂直压抑结构，由去中心化"家园"节点构成——磐石庄园（主基地）、宁谧海岸（疗愈独处之所）、林间栖地（活力冒险年轻家园）、旧城望台（连接过去与现世的观察点）。
 - **兽盾员工的转化**：各级员工不再是"经验包"或"赏金"，而是潜在的"家人"。救赎的契机源于职业生涯中的崩溃时刻。
 - **游戏机制重构**：性欲/精槽系统转向情感与生理的联结；成长通过倾听、照料家人、建设家园等互动获得；经济从掠夺-赏金模式转变为温和丰裕经济。
@@ -106,7 +106,7 @@ Beastshield Paradise 是 beastkin-shield-universe 多元世界集群中的一员
 - **[beastshield-reforged](../beastshield-reforged)**：黑暗强化版，与 Paradise 形成极端对比。
 - **[united-beasts-alliance](../united-beasts-alliance)**：政治对抗版，聚焦组织化势力对抗。
 
-Paradise 代表同一套初始代码因关键变量（模因奇点的选择）介入而演化的另一种"可能未来"。
+Paradise 代表同一套初始代码因关键变量（memeticsingularity的选择）介入而演化的另一种"可能未来"。
 
 ---
 

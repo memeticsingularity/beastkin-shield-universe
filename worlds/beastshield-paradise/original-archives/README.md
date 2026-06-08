@@ -7,7 +7,7 @@
 
 ## 一、简介 / Introduction
 
-Beastshield Paradise 原作存档区，存放基于兽盾世界观创作的温暖治愈向官方作品。所有作品均以"模因奇点"的心愿模组为核心，讲述绝境救赎与家园缔结的故事。
+Beastshield Paradise 原作存档区，存放基于兽盾世界观创作的温暖治愈向官方作品。所有作品均以"memeticsingularity"的心愿模组为核心，讲述绝境救赎与家园缔结的故事。
 
 ---
 

@@ -7,13 +7,13 @@
 
 ## 一、简介 / Introduction
 
-《帝国万岁》原作存档区，存放由虎涂创作的黑暗科幻军事题材长篇网络小说。作品构建了一个由皇帝陛下统治的星际帝国，核心武力为通过基因改造与纳米科技制造的基尅兵。
+《帝国万岁》原作存档区，存放由骸虎创作的黑暗科幻军事题材长篇网络小说。作品构建了一个由皇帝陛下统治的星际帝国，核心武力为通过基因改造与纳米科技制造的基尅兵。
 
 ---
 
 ## I. Introduction
 
-Original archives for *Long Live the Empire*, a dark sci-fi military web novel created by Hu Tu. The work builds an interstellar empire ruled by His Majesty the Emperor, whose core military force consists of Kiki Soldiers created through genetic modification and nanotechnology.
+Original archives for *Long Live the Empire*, a dark sci-fi military web novel created by 骸虎. The work builds an interstellar empire ruled by His Majesty the Emperor, whose core military force consists of Kiki Soldiers created through genetic modification and nanotechnology.
 
 ---
 

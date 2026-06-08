@@ -11,7 +11,7 @@
 > | 🧠 心理黑暗度 / Psychological Darkness | **Lv.3** | 深层绝望、自杀瞬间、身份撕裂（狙击手 vs 恋人）、兽盾体系的压迫与背叛，温暖存档提供治愈出口 |
 > | ⚡ 特殊触发 / Specific Triggers | — | 自杀/自残场景、狙击/枪械、制服/白袜 fetish、生日死亡机制、债务压迫、身份撕裂 |
 >
-> ⚠️ **世界观核心机制说明**：本世界存在"背板剧情"与"温暖存档"双重叙事层。背板剧情下，兽盾体系在角色生日当天执行处决；温暖存档中，玩家"模因奇点"以"心愿模组"（心有灵犀、时间的魔法等）介入，在最后一刻改写命运，以"家人契约"替代死亡。
+> ⚠️ **世界观核心机制说明**：本世界存在"背板剧情"与"温暖存档"双重叙事层。背板剧情下，兽盾体系在角色生日当天执行处决；温暖存档中，玩家"memeticsingularity"以"心愿模组"（心有灵犀、时间的魔法等）介入，在最后一刻改写命运，以"家人契约"替代死亡。
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
 > 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
@@ -27,7 +27,7 @@
 - **子类型 / Subtype**: 支线 / Side
 - **状态 / Status**: 已完成 / Completed
 - **位置 / Location**: original-archives
-- **作者 / Author**: memetic-singularity
+- **作者 / Author**: memeticsingularity
 - **世界观 / Universe**: Beastshield Paradise
 
 ---
@@ -71,10 +71,10 @@ This story takes place within the *Beastshield* worldview, featuring a dual narr
 
 - **背板剧情（Canon）**: 世界默认运行规则下的必然悲剧。代表作为《生日死亡编年史》系列。
 - **Canon (Backplate Plot)**: The inevitable tragedy under the world's default operating rules. Represented by the *Birthday Death Chronicles* series.
-- **温暖存档（Modded Playthrough）**: 玩家"模因奇点"以其独特的"心愿模组"介入后，所产生的局部命运改写。
+- **温暖存档（Modded Playthrough）**: 玩家"memeticsingularity"以其独特的"心愿模组"介入后，所产生的局部命运改写。
 - **Warm Archive (Modded Playthrough)**: The localized fate rewrite produced after the player "Memetic Singularity" intervenes with unique "wish modules."
 
-本归档聚焦于 **"温暖存档"** 下，以 **狼远志（R-217）** 为核心，辐射至 **熊大力（G级杂兵）**、**虎林啸（前警察）**，并由 **模因奇点（玩家）** 所串联与守护的完整故事脉络。这是一段关于 **绝境救赎、善意回响、伤痕愈合并最终缔结家园誓约** 的温暖史诗。
+本归档聚焦于 **"温暖存档"** 下，以 **狼远志（R-217）** 为核心，辐射至 **熊大力（G级杂兵）**、**虎林啸（前警察）**，并由 **memeticsingularity（玩家）** 所串联与守护的完整故事脉络。这是一段关于 **绝境救赎、善意回响、伤痕愈合并最终缔结家园誓约** 的温暖史诗。
 
 This archive focuses on the **"Warm Archive"** timeline, centered on **Wolf Yuanzhi (R-217)**, radiating to **Bear Dali (G-level grunt)** and **Tiger Linxiang (former police officer)**, connected and guarded by **Memetic Singularity (the player)**. This is a warm epic about **redemption from despair, echoes of kindness, wound healing, and ultimately forging an oath of home.**
 
@@ -89,7 +89,7 @@ This archive focuses on the **"Warm Archive"** timeline, centered on **Wolf Yuan
 - At the last moment before pulling the trigger, he deliberately misses. Then he turns the gun to his own temple and fires a second shot.
 
 ### 第二卷：变量的介入——石子的轨迹 / Vol. 2: Intervention of Variables — Trajectory of a Pebble
-- 玩家模因奇点感应到狼远志在自杀瞬间的巨大绝望，以一颗石子砸偏其枪口，将其救下。
+- 玩家memeticsingularity感应到狼远志在自杀瞬间的巨大绝望，以一颗石子砸偏其枪口，将其救下。
 - 在壁炉前倾听其过去，并以一枚木制家庭徽章发出郑重邀请："你愿意成为我的家人吗？"
 - The player Memetic Singularity senses Wolf Yuanzhi's immense despair at the moment of suicide, deflects his gun barrel with a pebble, and saves him.
 - Listening to his past by the fireplace, he extends a solemn invitation with a wooden family badge: "Would you like to become my family?"
@@ -105,7 +105,7 @@ This archive focuses on the **"Warm Archive"** timeline, centered on **Wolf Yuan
 - **狼远志 / Wolf Yuanzhi (R-217)**: 灰狼兽人，前警校优等生，因家庭债务被迫加入兽盾成为R级枪械兵（狙击手）。敏感、重情、隐忍。
 - **虎林啸 / Tiger Linxiang (P-334)**: 白虎兽人，前警察，因调查矿难与红色水晶得罪兽盾。刚毅、正直、责任感极强。
 - **熊大力 / Bear Dali**: 棕熊兽人，G级杂兵，出身贫寒的憨厚青年。未被玷污的纯粹善良。
-- **模因奇点 / Memetic Singularity**: 玩家，猿猴兽人。温柔的守护神与家园的编织者。
+- **memeticsingularity / Memetic Singularity**: 玩家，猿猴兽人。温柔的守护神与家园的编织者。
 
 ---
 

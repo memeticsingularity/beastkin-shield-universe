@@ -32,13 +32,13 @@ This world contains a significant amount of adult-oriented content, including vi
 
 ## 2. 关于本世界观 / About This World
 
-《帝国万岁》是一部由**虎涂**创作的黑暗科幻军事题材长篇网络小说，构建了一个由**皇帝陛下**统治的星际帝国。其核心武力是通过基因改造与纳米科技制造出的**基尅兵**——一群被生物芯片控制的兽人改造士兵。
+《帝国万岁》是一部由**骸虎**创作的黑暗科幻军事题材长篇网络小说，构建了一个由**皇帝陛下**统治的星际帝国。其核心武力是通过基因改造与纳米科技制造出的**基尅兵**——一群被生物芯片控制的兽人改造士兵。
 
 故事围绕多个关键角色与事件展开：从黑袜兵**虎猛**的晋升之路，到上古**勇者**与魔王的三十万年恩怨，再到帝国舰队的星际殖民与钥匙回收任务。作品融合了星际战争、基因改造、黑暗统治与上古秘辛，"撸杀"作为标志性设定，构成了独特的黑暗美学。
 
 ---
 
-*Long Live the Empire* is a dark sci-fi military web novel created by **Hu Tu**, building an interstellar empire ruled by **His Majesty the Emperor.** Its core military force consists of **Kiki Soldiers** created through genetic modification and nanotechnology—beastman modified soldiers controlled by biochips.
+*Long Live the Empire* is a dark sci-fi military web novel created by **骸虎**, building an interstellar empire ruled by **His Majesty the Emperor.** Its core military force consists of **Kiki Soldiers** created through genetic modification and nanotechnology—beastman modified soldiers controlled by biochips.
 
 The narrative revolves around several key threads: the rise of Black Sock soldier **Hu Meng**, the 300,000-year grudge between the ancient **Hero** and the Demon King, and the Imperial fleet's interstellar colonization and key retrieval missions. "Ejaculation kill" serves as a signature setting, forming a unique dark aesthetic.
 

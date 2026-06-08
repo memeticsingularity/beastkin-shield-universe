@@ -58,7 +58,7 @@ Tiger Beastkin, Wild Boar Beastkin, Black Bull Beastkin (mentioned) / 虎兽人�
 - **Subtype / 子类型**: Side / 支线
 - **Status / 状态**: Completed / 已完成
 - **Location / 位置**: original-archives
-- **Author / 作者**: memetic-singularity
+- **Author / 作者**: memeticsingularity
 - **Universe / 世界观**: Beastshield Paradise
 
 ---

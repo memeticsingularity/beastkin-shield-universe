@@ -58,7 +58,7 @@ Green Bull Beastkin (protagonist) / 青牛兽人（主角）
 - **Subtype / 子类型**: Side / 支线
 - **Status / 状态**: Completed / 已完成
 - **Location / 位置**: original-archives
-- **Author / 作者**: memetic-singularity
+- **Author / 作者**: memeticsingularity
 - **Start Date / 开始日期**: 2025-12-15
 - **Last Update / 最后更新**: 2025-12-15
 - **Universe / 世界观**: Beastshield Paradise

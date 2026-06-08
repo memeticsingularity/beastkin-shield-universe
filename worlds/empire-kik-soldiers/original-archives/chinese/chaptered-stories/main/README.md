@@ -53,7 +53,7 @@
 
 ## 📖 关于本作
 
-《帝国万岁》是一部由**虎涂**创作的**黑暗科幻军事题材长篇网络小说**，是"基尅兵宇宙"的核心作品。
+《帝国万岁》是一部由**骸虎**创作的**黑暗科幻军事题材长篇网络小说**，是"基尅兵宇宙"的核心作品。
 
 本作构建了一个由**皇帝陛下**统治的星际帝国，其核心武力是通过基因改造与纳米科技制造出的**基尅兵**
 。故事围绕多个关键角色与事件展开：
@@ -75,7 +75,7 @@
 
 ## 📖 About This Work
 
-*Long Live the Empire* is a **dark sci-fi military web novel** created by **Hu Tu**, serving as the
+*Long Live the Empire* is a **dark sci-fi military web novel** created by **骸虎**, serving as the
 cornerstone work of
 the "Kiki Soldier Universe".
 
@@ -128,7 +128,7 @@ forming a unique dark aesthetic.
 
 **中文标题**：帝国万岁
 **英文标题**：Long Live the Empire
-**作者**：虎涂
+**作者**：骸虎
 **当前版本**：v1.0.0 (完整修订版)
 **最后更新日期**：2024-06-01
 **语言**：简体中文 (附带关键术语英文翻译)
@@ -141,7 +141,7 @@ forming a unique dark aesthetic.
 
 **Chinese Title**: 帝国万岁
 **English Title**: Long Live the Empire
-**Author**: Hu Tu
+**Author**: 骸虎
 **Current Version**: v1.0.0 (Complete Revised Edition)
 **Last Updated**: 2024-06-01
 **Language**: Simplified Chinese (with key term translations in English)

@@ -11,7 +11,7 @@
 > | 🧠 Psychological Darkness / 心理黑暗度 | **Lv.3** | Deep despair, suicide moment, identity tear (sniper vs lover), Beastshield system oppression and betrayal, Warm Archive provides healing outlet. / 深层绝望、自杀瞬间、身份撕裂（狙击手 vs 恋人）、兽盾体系的压迫与背叛，温暖存档提供治愈出口 |
 > | ⚡ Specific Triggers / 特殊触发 | — | `Suicide/self-harm scenes` `Sniping/firearms` `Uniform/white sock fetish` `Birthday death mechanism` `Debt oppression` `Identity tear` / `自杀/自残场景` `狙击/枪械` `制服/白袜 fetish` `生日死亡机制` `债务压迫` `身份撕裂` |
 >
-> ⚠️ **World Mechanism Note / 世界观核心机制说明**: This world has a dual narrative layer of "Canon Plot" and "Warm Archive." Under canon plot, the Beastshield system executes characters on their birthdays; in Warm Archive, player "Memetic Singularity" intervenes with "Wish Modules" (Heart-to-Heart Bond, Magic of Time, etc.) to rewrite fate at the last moment, replacing death with a "Family Contract." / 本世界存在"背板剧情"与"温暖存档"双重叙事层。背板剧情下，兽盾体系在角色生日当天执行处决；温暖存档中，玩家"模因奇点"以"心愿模组"（心有灵犀、时间的魔法等）介入，在最后一刻改写命运，以"家人契约"替代死亡。
+> ⚠️ **World Mechanism Note / 世界观核心机制说明**: This world has a dual narrative layer of "Canon Plot" and "Warm Archive." Under canon plot, the Beastshield system executes characters on their birthdays; in Warm Archive, player "Memetic Singularity" intervenes with "Wish Modules" (Heart-to-Heart Bond, Magic of Time, etc.) to rewrite fate at the last moment, replacing death with a "Family Contract." / 本世界存在"背板剧情"与"温暖存档"双重叙事层。背板剧情下，兽盾体系在角色生日当天执行处决；温暖存档中，玩家"memeticsingularity"以"心愿模组"（心有灵犀、时间的魔法等）介入，在最后一刻改写命运，以"家人契约"替代死亡。
 >
 > **Please ensure you are at least 18 years old. / 请确保您已年满18周岁。**
 > If the content makes you uncomfortable, please stop reading immediately. / 如不适应当前内容，请立即停止阅读。
@@ -58,7 +58,7 @@ Gray Wolf Beastkin, White Tiger Beastkin, Brown Bear Beastkin, Ape Beastkin / �
 - **Subtype / 子类型**: Side / 支线
 - **Status / 状态**: Completed / 已完成
 - **Location / 位置**: original-archives
-- **Author / 作者**: memetic-singularity
+- **Author / 作者**: memeticsingularity
 - **Universe / 世界观**: Beastshield Paradise
 
 ---
@@ -70,11 +70,11 @@ This story takes place within the *Beastshield* worldview, featuring a dual narr
 本故事发生于《兽盾》世界观下，存在双重叙事层：
 
 - **Canon (Backplate Plot) / 背板剧情（Canon）**: The inevitable tragedy under the world's default operating rules. Represented by the *Birthday Death Chronicles* series. / 世界默认运行规则下的必然悲剧。代表作为《生日死亡编年史》系列。
-- **Warm Archive (Modded Playthrough) / 温暖存档（Modded Playthrough）**: The localized fate rewrite produced after the player "Memetic Singularity" intervenes with unique "wish modules." / 玩家"模因奇点"以其独特的"心愿模组"介入后，所产生的局部命运改写。
+- **Warm Archive (Modded Playthrough) / 温暖存档（Modded Playthrough）**: The localized fate rewrite produced after the player "Memetic Singularity" intervenes with unique "wish modules." / 玩家"memeticsingularity"以其独特的"心愿模组"介入后，所产生的局部命运改写。
 
 This archive focuses on the **"Warm Archive"** timeline, centered on **Wolf Yuanzhi (R-217)**, radiating to **Bear Dali (G-level grunt)** and **Tiger Linxiang (former police officer)**, connected and guarded by **Memetic Singularity (the player)**. This is a warm epic about **redemption from despair, echoes of kindness, wound healing, and ultimately forging an oath of home.**
 
-本归档聚焦于 **"温暖存档"** 下，以 **狼远志（R-217）** 为核心，辐射至 **熊大力（G级杂兵）**、**虎林啸（前警察）**，并由 **模因奇点（玩家）** 所串联与守护的完整故事脉络。这是一段关于 **绝境救赎、善意回响、伤痕愈合并最终缔结家园誓约** 的温暖史诗。
+本归档聚焦于 **"温暖存档"** 下，以 **狼远志（R-217）** 为核心，辐射至 **熊大力（G级杂兵）**、**虎林啸（前警察）**，并由 **memeticsingularity（玩家）** 所串联与守护的完整故事脉络。这是一段关于 **绝境救赎、善意回响、伤痕愈合并最终缔结家园誓约** 的温暖史诗。
 
 ---
 
@@ -89,7 +89,7 @@ This archive focuses on the **"Warm Archive"** timeline, centered on **Wolf Yuan
 ### Vol. 2: Intervention of Variables — Trajectory of a Pebble / 第二卷：变量的介入——石子的轨迹
 - The player Memetic Singularity senses Wolf Yuanzhi's immense despair at the moment of suicide, deflects his gun barrel with a pebble, and saves him.
 - Listening to his past by the fireplace, he extends a solemn invitation with a wooden family badge: "Would you like to become my family?"
-- 玩家模因奇点感应到狼远志在自杀瞬间的巨大绝望，以一颗石子砸偏其枪口，将其救下。
+- 玩家memeticsingularity感应到狼远志在自杀瞬间的巨大绝望，以一颗石子砸偏其枪口，将其救下。
 - 在壁炉前倾听其过去，并以一枚木制家庭徽章发出郑重邀请："你愿意成为我的家人吗？"
 
 ### Vol. 3–9 / 第三卷至第九卷
@@ -103,7 +103,7 @@ This archive focuses on the **"Warm Archive"** timeline, centered on **Wolf Yuan
 - **Wolf Yuanzhi / 狼远志 (R-217)**: Gray wolf beastkin, former police academy honors student, forced to join Beastshield as an R-level firearms soldier (sniper) due to family debt. Sensitive, deeply emotional, enduring. / 灰狼兽人，前警校优等生，因家庭债务被迫加入兽盾成为R级枪械兵（狙击手）。敏感、重情、隐忍。
 - **Tiger Linxiang / 虎林啸 (P-334)**: White tiger beastkin, former police officer, offended Beastshield by investigating mine disasters and red crystals. Resolute, upright, strongly responsible. / 白虎兽人，前警察，因调查矿难与红色水晶得罪兽盾。刚毅、正直、责任感极强。
 - **Bear Dali / 熊大力**: Brown bear beastkin, G-level grunt, humble young man from a poor background. Pure kindness untainted by the world. / 棕熊兽人，G级杂兵，出身贫寒的憨厚青年。未被玷污的纯粹善良。
-- **Memetic Singularity / 模因奇点**: The player, ape beastkin. A gentle guardian and weaver of homes. / 玩家，猿猴兽人。温柔的守护神与家园的编织者。
+- **Memetic Singularity / memeticsingularity**: The player, ape beastkin. A gentle guardian and weaver of homes. / 玩家，猿猴兽人。温柔的守护神与家园的编织者。
 
 ---
 

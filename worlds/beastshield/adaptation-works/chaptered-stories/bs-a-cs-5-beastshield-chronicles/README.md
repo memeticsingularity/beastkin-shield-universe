@@ -1,6 +1,6 @@
 # 兽盾编年史 / Beastshield Chronicles
 
-> 状态：updating · 编码：`bs-a-cs-5-beastshield-chronicles` · 作者：memeticsingularity · 最后更新：2026-05-16
+> 状态：updating · 编码：`bs-a-cs-5-beastshield-chronicles` · 作者：暮游 · 最后更新：2026-05-16
 
 ---
 
