@@ -46,7 +46,7 @@ internal chapters"**
 structure:
 
 - Each series (main story volume, side story series, character story) has its own folder
-- Chapter files within folders are uniformly named `ch-natural-number-chapter-title.md`
+- Chapter files within folders are uniformly named `ch-three-digit-number-chapter-title.md`
 - Chapter numbering starts from 1 and increments naturally
 
 ## 3. Work Coding System
@@ -67,7 +67,7 @@ bsp-o-c-1-g-277-green-bull-azhuang
 │     │ │ └─ Nature (a=adaptation, o=original, c=crossover)
 │     │ └─ World abbreviation
 │     └─ Chaptered story subtype (only for chaptered: main=main story, side=side story)
-└─ Chapter file naming (inside folder): ch-1-last-watch.md
+└─ Chapter file naming (inside folder): ch-001-last-watch.md
 ```
 
 ### 3.2. Field Descriptions
@@ -103,14 +103,14 @@ worlds/world/original-archives/
 │   │   │   └── work-code-folder/     # Independent folder for each main story volume
 │   │   │       ├── README.md
 │   │   │       ├── metadata.yaml
-│   │   │       ├── ch-1-chapter-title.md  # Unified chapter naming
-│   │   │       ├── ch-2-chapter-title.md
+│   │   │       ├── ch-001-chapter-title.md  # Unified chapter naming
+│   │   │       ├── ch-002-chapter-title.md
 │   │   │       └── ...
 │   │   └── side/                     # Side story area
 │   │       └── work-code-folder/     # Independent folder for each side story
 │   │           ├── README.md
 │   │           ├── metadata.yaml
-│   │           ├── ch-1-chapter-title.md
+│   │           ├── ch-001-chapter-title.md
 │   │           └── ...
 │   └── short-stories/                # Short stories
 │       ├── world-code-o-s-1-work-name.md  # Files placed directly
@@ -133,8 +133,8 @@ worlds/world/adaptation-works/
 │   └── full-work-code/               # Independent folder for each work
 │       ├── README.md
 │       ├── metadata.yaml
-│       ├── ch-1-chapter-title.md     # Identical format to original works
-│       ├── ch-2-chapter-title.md
+│       ├── ch-001-chapter-title.md     # Identical format to original works
+│       ├── ch-002-chapter-title.md
 │       ├── settings/
 │       │   └── story-setting.md
 │       └── images/
@@ -162,11 +162,11 @@ worlds/world/adaptation-works/
 
 | Type                    | Folder Name                          | Chapter File Name          |
 |-------------------------|--------------------------------------|----------------------------|
-| **Main Story Volume 1** | `bs-o-c-1-first-volume`              | `ch-1-prologue.md`         |
-| **Main Story Volume 2** | `bs-o-c-2-second-volume`             | `ch-1-new-beginnings.md`   |
-| **Side Character 1**    | `bsp-o-c-1-g-277-green-bull-azhuang` | `ch-1-last-watch.md`       |
-| **Side Character 2**    | `bsp-o-c-2-blue-wolf-dorian`         | `ch-1-desperate-choice.md` |
-| **Adaptation Work**     | `bs-a-c-1-a-new-gamer`               | `ch-1-infiltration.md`     |
+| **Main Story Volume 1** | `bs-o-c-1-first-volume`              | `ch-001-prologue.md`         |
+| **Main Story Volume 2** | `bs-o-c-2-second-volume`             | `ch-001-new-beginnings.md`   |
+| **Side Character 1**    | `bsp-o-c-1-g-277-green-bull-azhuang` | `ch-001-last-watch.md`       |
+| **Side Character 2**    | `bsp-o-c-2-blue-wolf-dorian`         | `ch-001-desperate-choice.md` |
+| **Adaptation Work**     | `bs-a-c-1-a-new-gamer`               | `ch-001-infiltration.md`     |
 
 ### 5.2. Short Story File Name Format
 
@@ -239,8 +239,8 @@ When an adaptation work meets the following conditions, it can apply to become a
 full-work-code-folder/
 ├── README.md                     # Work introduction
 ├── metadata.yaml                 # Metadata
-├── ch-1-chapter-title.md        # Chapter 1
-├── ch-2-chapter-title.md        # Chapter 2
+├── ch-001-chapter-title.md        # Chapter 1
+├── ch-002-chapter-title.md        # Chapter 2
 ├── settings/
 │   └── story-setting.md         # Story-specific settings
 └── images/                      # Image resource directory
@@ -301,8 +301,8 @@ Write story synopsis here...
 
 ## Chapter List
 
-- [Chapter 1: Last Watch](`ch-1-last-watch.md`)
-- [Chapter 2: Stranger in Folded Time](`ch-2-stranger-in-folded-time.md`)
+- [Chapter 1: Last Watch](`ch-001-last-watch.md`)
+- [Chapter 2: Stranger in Folded Time](`ch-002-stranger-in-folded-time.md`)
 
 ## Setting Notes
 
@@ -325,7 +325,7 @@ This story uses the following special settings:
 2. **Create Folder and Files**
     - Create folder at corresponding location:
       `original-archives/language/chaptered-stories/[main or side]/`
-    - Create chapter files inside folder: `ch-1-chapter-title.md`
+    - Create chapter files inside folder: `ch-001-chapter-title.md`
     - Create auxiliary files: `README.md`, `metadata.yaml`, `settings/story-setting.md`
 
 3. **Use Correct Naming Format**
@@ -357,7 +357,7 @@ This story uses the following special settings:
     - Create new folder using the full work code name
 
 3. **Copy Template Files**
-    - Copy corresponding template from `templates/adaption-work-template/`
+    - Copy corresponding template from `templates/adaptation-work-template/`
     - Modify folder name and internal file content
 
 4. **Modify File Content**
@@ -375,13 +375,13 @@ This story uses the following special settings:
 
 - Folder: `bs-o-c-1-first-volume/`
 - Location: `worlds/beastshield/original-archives/chinese/chaptered-stories/main/`
-- Internal files: `ch-1-prologue.md`, `ch-2-rising-action.md`...
+- Internal files: `ch-001-prologue.md`, `ch-002-rising-action.md`...
 
 **Side Character Story:**
 
 - Folder: `bsp-o-c-1-g-277-green-bull-azhuang/`
 - Location: `worlds/beastshield-paradise/original-archives/chinese/chaptered-stories/side/`
-- Internal files: `ch-1-last-watch.md`, `ch-2-stranger-in-folded-time.md`...
+- Internal files: `ch-001-last-watch.md`, `ch-002-stranger-in-folded-time.md`...
 
 **Short Story:**
 
@@ -395,7 +395,7 @@ This story uses the following special settings:
 - Work code: `bs-a-c-1-a-new-gamer`
 - Folder: `bs-a-c-1-a-new-gamer/`
 - Location: `worlds/beastshield/adaptation-works/chaptered-stories/`
-- Internal files: `ch-1-infiltration.md`, `ch-2-confrontation.md`...
+- Internal files: `ch-001-infiltration.md`, `ch-002-confrontation.md`...
 
 **Short Story:**
 
@@ -411,9 +411,9 @@ Check the following when creating files:
 - [ ] World code correct (bs/bsr/uba/bsp)
 - [ ] Work nature correct (o/a/c)
 - [ ] Work format correct (c/s)
-- [ ] Sequence number correct (natural number)
+- [ ] Sequence number correct (three-digit zero-padded)
 - [ ] Series name/work name correct (English kebab-case)
-- [ ] Chapter number correct (natural number, only for chaptered)
+- [ ] Chapter number correct (three-digit zero-padded, only for chaptered)
 - [ ] **Chapter title/work title included** (required)
 - [ ] Hyphen usage correct (especially `ch-`)
 - [ ] All file names lowercase
@@ -436,8 +436,8 @@ Check the following when creating files:
 
 The project provides standard templates at:
 
-- Chaptered story template: `templates/adaption-work-template/chaptered-story/`
-- Short story template: `templates/adaption-work-template/short-story/`
+- Chaptered story template: `templates/adaptation-work-template/chaptered-story/`
+- Short story template: `templates/adaptation-work-template/short-story/`
 
 Use these templates as starting points to ensure consistent structure across all works.
 
@@ -471,9 +471,9 @@ A: Each volume is an independent folder, numbered sequentially:
 
 Each volume contains a complete chapter series.
 
-### Q: Must chapter files start from ch-1?
+### Q: Must chapter files start from ch-001?
 
-A: Yes, for consistency, chapters within each folder start from `ch-1`. Even if this series is a
+A: Yes, for consistency, chapters within each folder start from `ch-001`. Even if this series is a
 continuation of a
 longer work, it re-starts numbering from 1 because the folder already indicates which volume this
 is.
@@ -507,12 +507,12 @@ A: Quickly identify from file names:
     - **Major Changes**:
         1. **Natural Number Sequencing**: All sequence numbers changed from three-digit to natural
            numbers (1, 2, 3...),
-           no zero padding needed.
+           three-digit zero padding required.
         2. **Unified Structure**: All chaptered stories (main, side, adaptation) use "folder +
            internal chapters"
            structure.
         3. **Unified Chapter Naming**: Chapter files within folders uniformly named
-           `ch-natural-number-chapter-title-abbreviation.md`.
+           `ch-three-digit-number-chapter-title-abbreviation.md`.
         4. **Main Story Volume Support**: Clear support for main stories using volume structure,
            each volume in its own
            folder.

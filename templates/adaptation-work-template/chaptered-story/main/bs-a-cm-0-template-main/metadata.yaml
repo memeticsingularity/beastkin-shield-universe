@@ -1,0 +1,77 @@
+# ============================================
+# Beastkin Universe Metadata v3.0
+# 兽盾宇宙元数据 v3.0
+# ============================================
+# Template for Adaptation Chaptered Main Story
+# 改编主线分章故事模板
+# Compatible with Project Structure Spec v3.0
+# 适配项目结构规范 v3.0
+
+work:
+  code: "bs-a-cm-0-template-main"
+  # MUST match folder name exactly / 必须与文件夹名完全一致
+
+  title:
+    chinese: "改编主线模板标题"
+    english: "Adaptation Main Story Template Title"
+
+  format: "chaptered-story"
+  form_type: "cm"  # cm = chaptered-main (主线分章)
+  status: "updating"  # updating | completed | abandoned
+  location: "adaptation-works"  # Fixed for adaptation works
+
+  subtype: "main"  # Automatically determined by form_type: cm → main
+
+  promotion_status: "not_eligible"  # not_eligible | eligible | under_review | promoted
+  work_type: "direct-adaptation"  # direct-adaptation | reimagined | theme-inversion | adapted-expansion
+
+  tags:
+    - "template"
+    - "adaptation"
+    - "main-story"
+    - "character-expansion"
+
+  content_warnings:
+    - "violence"
+    - "sexual-content"
+    - "dark-themes"
+
+  reading_time_estimate:
+    minutes: 0
+
+  target_audience: "mature"
+
+creation:
+  author: "Your Name"
+  start_date: "2026-01-01"
+
+  adaptation_info:
+    original_work: "bs-o-cm-1-original-work"
+    original_title: "原作标题"
+    original_author: "Original Author"
+    adaptation_approach: "direct-adaptation"
+    key_changes: |
+      1. First major change
+      2. Second major change
+      3. Third major change
+
+  last_update: "2026-01-01"
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "0.1"
+      date: "2026-01-01"
+      changes: "Initial concept creation"
+
+# Optional: chapter index / 可选：章节索引
+chapters:
+  - number: 1
+    code: "ch-001-template"
+    title_chinese: "第一章模板"
+    title_english: "Chapter One Template"
+    summary: "章节摘要"
+    status: "planning"  # planning | drafting | reviewing | completed

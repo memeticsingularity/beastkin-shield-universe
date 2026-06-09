@@ -1,0 +1,63 @@
+# ============================================
+# Beastkin Universe Metadata v3.0
+# 兽盾宇宙元数据 v3.0
+# ============================================
+# Template for Original Chaptered Side Story
+# 原创支线分章故事模板
+# Compatible with Project Structure Spec v3.0
+
+work:
+  code: "bs-o-cs-0-template-side"
+
+  title:
+    chinese: "原创支线模板标题"
+    english: "Original Side Story Template Title"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "updating"
+  location: "original-archives"
+
+  subtype: "side"
+
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+
+  tags:
+    - "template"
+    - "original"
+    - "side-story"
+    - "character-study"
+
+  content_warnings:
+    - "violence"
+    - "dark-themes"
+
+  reading_time_estimate:
+    minutes: 0
+
+  target_audience: "mature"
+
+creation:
+  author: "Your Name"
+  start_date: "2026-01-01"
+
+  last_update: "2026-01-01"
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "0.1"
+      date: "2026-01-01"
+      changes: "Initial concept creation"
+
+chapters:
+  - number: 1
+    code: "ch-001-template"
+    title_chinese: "第一章模板"
+    title_english: "Chapter One Template"
+    summary: "章节摘要"
+    status: "planning"

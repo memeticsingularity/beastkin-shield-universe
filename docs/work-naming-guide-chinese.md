@@ -33,7 +33,7 @@
 所有分章故事（无论主线、支线、角色故事）都采用 **"文件夹+内部章节"** 结构：
 
 - 每个系列（主线分卷、支线系列、角色故事）都有自己的文件夹
-- 文件夹内章节文件统一命名为 `ch-自然数-章节标题简写.md`
+- 文件夹内章节文件统一命名为 `ch-三位数字-章节标题简写.md`
 - 章节编号从1开始，自然递增
 
 ### 2.5. 明确的形式类型区分
@@ -61,7 +61,7 @@ bsp-o-cs-1-g-277-green-bull-azhuang
 │     │ │  │ └─ 形式类型 (cm/cs/s)
 │     │ │  └─ 性质 (a=改编作品, o=原作, c=联动)
 │     │ └─ 世界观缩写
-│     └─ 章节文件命名 (在文件夹内)：ch-1-last-watch.md
+│     └─ 章节文件命名 (在文件夹内)：ch-001-last-watch.md
 ```
 
 ### 3.2. 字段说明
@@ -105,14 +105,14 @@ worlds/世界观/original-archives/
 │   │   │   └── 作品编码文件夹/       # 每个主线分卷独立文件夹 (cm类型)
 │   │   │       ├── README.md
 │   │   │       ├── metadata.yaml
-│   │   │       ├── ch-1-章节标题.md  # 统一章节命名
-│   │   │       ├── ch-2-章节标题.md
+│   │   │       ├── ch-001-章节标题.md  # 统一章节命名
+│   │   │       ├── ch-002-章节标题.md
 │   │   │       └── ...
 │   │   └── side/                     # 支线故事区域
 │   │       └── 作品编码文件夹/       # 每个支线独立文件夹 (cs类型)
 │   │           ├── README.md
 │   │           ├── metadata.yaml
-│   │           ├── ch-1-章节标题.md
+│   │           ├── ch-001-章节标题.md
 │   │           └── ...
 │   └── short-stories/                # 短篇故事
 │       ├── 世界观编码-o-s-1-作品名.md  # 直接放文件 (s类型)
@@ -135,8 +135,8 @@ worlds/世界观/adaptation-works/
 │   └── 完整作品编码/                 # 每个作品独立文件夹
 │       ├── README.md
 │       ├── metadata.yaml
-│       ├── ch-1-章节标题.md         # 与原创格式完全一致
-│       ├── ch-2-章节标题.md
+│       ├── ch-001-章节标题.md         # 与原创格式完全一致
+│       ├── ch-002-章节标题.md
 │       ├── settings/
 │       │   └── story-setting.md
 │       └── images/
@@ -157,18 +157,18 @@ worlds/世界观/adaptation-works/
 #### **所有分章故事（主线、支线、改编）**
 
 - **文件夹命名**：`{世界观编码}-{性质}-{形式类型}-{自然数序号}-{系列名}`
-- **章节文件命名**（在文件夹内）：`ch-{自然数章节号}-{章节标题简写}.md`
+- **章节文件命名**（在文件夹内）：`ch-{三位数字章节号}-{章节标题简写}.md`
 
 #### **示例对比：**
 
 | 类型        | 文件夹名                                  | 形式类型 | 章节文件名                      |
 |-----------|---------------------------------------|------|----------------------------|
-| **主线分卷1** | `bs-o-cm-1-first-volume`              | `cm` | `ch-1-prologue.md`         |
-| **主线分卷2** | `bs-o-cm-2-second-volume`             | `cm` | `ch-1-new-beginnings.md`   |
-| **支线角色1** | `bsp-o-cs-1-g-277-green-bull-azhuang` | `cs` | `ch-1-last-watch.md`       |
-| **支线角色2** | `bsp-o-cs-2-blue-wolf-dorian`         | `cs` | `ch-1-desperate-choice.md` |
-| **改编分章**  | `bs-a-cs-1-a-new-gamer`               | `cs` | `ch-1-infiltration.md`     |
-| **改编主线**  | `bs-a-cm-1-main-adaptation`           | `cm` | `ch-1-introduction.md`     |
+| **主线分卷1** | `bs-o-cm-1-first-volume`              | `cm` | `ch-001-prologue.md`         |
+| **主线分卷2** | `bs-o-cm-2-second-volume`             | `cm` | `ch-001-new-beginnings.md`   |
+| **支线角色1** | `bsp-o-cs-1-g-277-green-bull-azhuang` | `cs` | `ch-001-last-watch.md`       |
+| **支线角色2** | `bsp-o-cs-2-blue-wolf-dorian`         | `cs` | `ch-001-desperate-choice.md` |
+| **改编分章**  | `bs-a-cs-1-a-new-gamer`               | `cs` | `ch-001-infiltration.md`     |
+| **改编主线**  | `bs-a-cm-1-main-adaptation`           | `cm` | `ch-001-introduction.md`     |
 
 ### 5.2. 短篇故事文件名格式
 
@@ -186,7 +186,7 @@ worlds/世界观/adaptation-works/
 
 ### 5.3. 特殊说明
 
-1. **自然数编号**：所有序号使用自然数（1, 2, 3...），无需补零，现代文件系统能正确排序 `-1-`、`-2-`、`-12-`
+1. **自然数编号**：所有序号使用自然数（1, 2, 3...），必须三位数补零，现代文件系统能正确排序 `-1-`、`-2-`、`-12-`
 2. **统一章节命名**：文件夹内章节文件统一以 `ch-` 开头，保持格式一致
 3. **标题简写规则**：
     - 英文小写，用连字符连接
@@ -236,8 +236,8 @@ worlds/世界观/adaptation-works/
 完整作品编码文件夹/
 ├── README.md                     # 作品介绍
 ├── metadata.yaml                 # 元数据
-├── ch-1-章节标题.md             # 第一章
-├── ch-2-章节标题.md             # 第二章
+├── ch-001-章节标题.md             # 第一章
+├── ch-002-章节标题.md             # 第二章
 ├── settings/
 │   └── story-setting.md         # 本故事特有设定
 └── images/                      # 图片资源目录
@@ -299,8 +299,8 @@ creation:
 
 ## 章节列表
 
-- [第一章: 最后一班岗](`ch-1-last-watch.md`)
-- [第二章: 时间褶皱里的陌生人](`ch-2-stranger-in-folded-time.md`)
+- [第一章: 最后一班岗](`ch-001-last-watch.md`)
+- [第二章: 时间褶皱里的陌生人](`ch-002-stranger-in-folded-time.md`)
 
 ## 设定说明
 
@@ -325,12 +325,12 @@ creation:
         - `cm`类型：`original-archives/语言/chaptered-stories/main/`
         - `cs`类型：`original-archives/语言/chaptered-stories/side/`
     - 创建文件夹：`{世界观}-o-{形式类型}-{序号}-{系列名}`
-    - 在文件夹内创建章节文件：`ch-1-章节标题.md`
+    - 在文件夹内创建章节文件：`ch-001-章节标题.md`
     - 创建辅助文件：`README.md`、`metadata.yaml`、`settings/story-setting.md`
 
 3. **使用正确命名格式**
     - 文件夹：`{世界观}-o-{形式类型}-{自然数}-{系列名}`
-    - 章节文件：`ch-{自然数}-{章节标题简写}.md`
+    - 章节文件：`ch-{三位数字}-{章节标题简写}.md`
 
 ### 8.2. 创建原创短篇故事
 
@@ -357,7 +357,7 @@ creation:
     - 对于分章故事，无需区分main/side目录，直接放在 `chaptered-stories/` 下
 
 3. **复制模板文件**
-    - 从 `templates/adaption-work-template/` 复制对应模板
+    - 从 `templates/adaptation-work-template/` 复制对应模板
     - 修改文件夹名称和内部文件内容
 
 4. **修改文件内容**
@@ -376,14 +376,14 @@ creation:
 - 文件夹：`bs-o-cm-1-first-volume/`
 - 形式类型：`cm` (主线分章)
 - 位置：`worlds/beastshield/original-archives/chinese/chaptered-stories/main/`
-- 内部文件：`ch-1-prologue.md`, `ch-2-rising-action.md`...
+- 内部文件：`ch-001-prologue.md`, `ch-002-rising-action.md`...
 
 **支线角色故事：**
 
 - 文件夹：`bsp-o-cs-1-g-277-green-bull-azhuang/`
 - 形式类型：`cs` (支线分章)
 - 位置：`worlds/beastshield-paradise/original-archives/chinese/chaptered-stories/side/`
-- 内部文件：`ch-1-last-watch.md`, `ch-2-stranger-in-folded-time.md`...
+- 内部文件：`ch-001-last-watch.md`, `ch-002-stranger-in-folded-time.md`...
 
 **短篇故事：**
 
@@ -399,7 +399,7 @@ creation:
 - 文件夹：`bs-a-cs-1-a-new-gamer/`
 - 形式类型：`cs` (支线分章)
 - 位置：`worlds/beastshield/adaptation-works/chaptered-stories/`
-- 内部文件：`ch-1-infiltration.md`, `ch-2-confrontation.md`...
+- 内部文件：`ch-001-infiltration.md`, `ch-002-confrontation.md`...
 
 **分章故事（主线改编）：**
 
@@ -422,9 +422,9 @@ creation:
 - [ ] 世界观编码正确（bs/bsr/uba/bsp）
 - [ ] 作品性质正确（o/a/c）
 - [ ] 形式类型正确（cm/cs/s）
-- [ ] 序号正确（自然数）
+- [ ] 序号正确（三位数补零）
 - [ ] 系列名/作品名正确（英文kebab-case）
-- [ ] 章节编号正确（自然数，仅分章需要）
+- [ ] 章节编号正确（三位数补零，仅分章需要）
 - [ ] **章节标题/作品标题已包含**（必填）
 - [ ] 连字符使用正确（特别是 `ch-`）
 - [ ] 文件名全部小写
@@ -449,8 +449,8 @@ creation:
 
 项目提供了标准模板，位于：
 
-- 分章故事模板：`templates/adaption-work-template/chaptered-story/`
-- 短篇故事模板：`templates/adaption-work-template/short-story/`
+- 分章故事模板：`templates/adaptation-work-template/chaptered-story/`
+- 短篇故事模板：`templates/adaptation-work-template/short-story/`
 
 请使用这些模板作为起点，确保所有作品结构一致。
 
@@ -485,11 +485,11 @@ A: 每个分卷都是一个独立的文件夹，按顺序编号：
 - 第二卷：`bs-o-cm-2-second-volume/`
 - 第三卷：`bs-o-cm-3-final-volume/`
 
-每个卷内都有完整的章节系列，从`ch-1`开始编号。
+每个卷内都有完整的章节系列，从`ch-001`开始编号。
 
 ### Q: 章节文件必须从ch-1开始吗？
 
-A: 是的，为了保持一致性，每个文件夹内的章节都从`ch-1`开始。即使这个系列是某个长篇的后续部分，也重新从1开始编号，因为文件夹已经表明了这是第几卷。
+A: 是的，为了保持一致性，每个文件夹内的章节都从`ch-001`开始。即使这个系列是某个长篇的后续部分，也重新从1开始编号，因为文件夹已经表明了这是第几卷。
 
 ### Q: 如果我的改编作品很受欢迎，可以成为官方作品吗？
 
@@ -522,9 +522,9 @@ A: 根据文件编码的第6-7位字符：
         6. **优化常见问题**：更新FAQ以反映新的形式类型系统
 
 - **2025-12-15 v2.2.0**: 简化编号系统，统一故事结构
-    - 自然数编号：所有序号从三位数改为自然数（1, 2, 3...），无需补零
+    - 三位数编号：所有序号使用三位数补零（001, 002, 003...），确保字典序排序正确
     - 统一结构：所有分章故事（主线、支线、改编）都采用"文件夹+内部章节"结构
-    - 章节命名统一：文件夹内章节文件统一命名为 `ch-自然数-章节标题简写.md`
+    - 章节命名统一：文件夹内章节文件统一命名为 `ch-三位数字-章节标题简写.md`
     - 主线分卷支持：明确主线可以采用分卷结构，每卷一个文件夹
     - 增加世界观：新增 `bsp` (Beastshield Paradise) 世界观支持
     - 优化示例：更新所有示例以符合新规范

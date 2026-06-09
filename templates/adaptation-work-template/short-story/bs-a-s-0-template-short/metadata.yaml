@@ -1,0 +1,62 @@
+# ============================================
+# Beastkin Universe Metadata v3.0
+# 兽盾宇宙元数据 v3.0
+# ============================================
+# Template for Adaptation Short Story
+# 改编短篇故事模板
+# Compatible with Project Structure Spec v3.0
+
+work:
+  code: "bs-a-s-0-template-short"
+
+  title:
+    chinese: "改编短篇模板标题"
+    english: "Adaptation Short Story Template Title"
+
+  format: "short-story"
+  form_type: "s"
+  status: "completed"
+  location: "adaptation-works"
+
+  promotion_status: "eligible"
+  work_type: "theme-inversion"
+
+  tags:
+    - "template"
+    - "adaptation"
+    - "short-story"
+    - "one-shot"
+
+  content_warnings:
+    - "dark-themes"
+    - "violence"
+
+  reading_time_estimate:
+    minutes: 30
+
+  target_audience: "mature"
+
+creation:
+  author: "Your Name"
+  start_date: "2026-01-01"
+
+  adaptation_info:
+    original_work: "bs-o-s-1-original-short"
+    original_title: "原作短篇标题"
+    original_author: "Original Author"
+    adaptation_approach: "theme-inversion"
+    key_changes: |
+      1. Changed perspective
+      2. Modified ending
+
+  last_update: "2026-01-01"
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-01-01"
+      changes: "Initial release"

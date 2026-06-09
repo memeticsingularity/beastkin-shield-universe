@@ -153,8 +153,8 @@ the [Story Format Spec](docs/spec/11-story-format.md).
 
 请使用我们提供的模板：
 
-- 分章故事模板：`templates/adaption-work-template/chaptered-story/`
-- 短篇故事模板：`templates/adaption-work-template/short-story/`
+- 分章故事模板：`templates/adaptation-work-template/chaptered-story/`
+- 短篇故事模板：`templates/adaptation-work-template/short-story/`
 
 **重要提示**：请使用最新版本的模板，确保包含 `form_type` 字段（v3.0 规范必填字段）。
 
@@ -162,8 +162,8 @@ the [Story Format Spec](docs/spec/11-story-format.md).
 
 Please use our provided templates:
 
-- Chaptered story template: `templates/adaption-work-template/chaptered-story/`
-- Short story template: `templates/adaption-work-template/short-story/`
+- Chaptered story template: `templates/adaptation-work-template/chaptered-story/`
+- Short story template: `templates/adaptation-work-template/short-story/`
 
 **Important**: Please use the latest version of templates, ensuring they include the `form_type`
 field (v3.0 spec required

@@ -1,0 +1,53 @@
+# ============================================
+# Beastkin Universe Metadata v3.0
+# 兽盾宇宙元数据 v3.0
+# ============================================
+# Template for Original Short Story
+# 原创短篇故事模板
+# Compatible with Project Structure Spec v3.0
+
+work:
+  code: "bs-o-s-0-template-short"
+
+  title:
+    chinese: "原创短篇模板标题"
+    english: "Original Short Story Template Title"
+
+  format: "short-story"
+  form_type: "s"
+  status: "completed"
+  location: "original-archives"
+
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+
+  tags:
+    - "template"
+    - "original"
+    - "short-story"
+    - "one-shot"
+
+  content_warnings:
+    - "dark-themes"
+    - "death"
+
+  reading_time_estimate:
+    minutes: 30
+
+  target_audience: "mature"
+
+creation:
+  author: "Your Name"
+  start_date: "2026-01-01"
+
+  last_update: "2026-01-01"
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-01-01"
+      changes: "Initial release"
