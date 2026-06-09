@@ -36,8 +36,8 @@
 
 | 角色 | 种族 | 身份 | 状态 | 首次登场 |
 |------|------|------|------|---------|
-| 牛杂 / Niu Za | 牛 | 玩家下属，M体质，诈死技能 | 存活 | 第一卷·第7章 |
-| 熊掌 / Xiong Zhang | 熊 | 玩家下属，憨厚老实，金钟罩 | 存活 | 第一卷·第7章 |
+| [牛杂 / Niu Za](player-subordinates/niu-za.md) | 牛 | 玩家下属，M体质，诈死技能 | 存活 | 第一卷·第7章 |
+| [熊掌 / Xiong Zhang](player-subordinates/xiong-zhang.md) | 熊 | 玩家下属，憨厚老实，金钟罩 | 存活 | 第一卷·第7章 |
 
 ### 1.4 十二神武传人 / Twelve Divine Weapons Inheritors
 
