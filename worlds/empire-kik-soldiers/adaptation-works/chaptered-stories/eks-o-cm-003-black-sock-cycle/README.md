@@ -8,13 +8,13 @@
 
 **一句话钩子**：从培养舱醒来的那一刻起，B-33021 就知道自己是一件武器——但他不知道的是，武器的宿命从来不是在战场上折断，而是在长官的脚边被拆解回收。
 
-编号 B-33021 的狼兽人基尅兵，从培养舱中苏醒，经历标准着装序列，被编入边境巡逻小队。他的日常由任务、休息与处决组成：目睹同伴因违规自慰被绿袜队长当场撸杀，自己被迫执行对叛逃者的处决，在雪山哨塔中从一名即将被调往"特殊任务"的老兵口中听说真相——那些被选中的人再也没有回来。最终，B-33021 自己也被选中执行"特殊任务"，抵达目的地后发现这不是任务，而是罐头兵改造的选拔现场。站在培养筒外审视他的，正是虎猛少主本人。
+编号 B-33021 的狼兽人基尅兵，从培养舱中苏醒，经历标准着装序列，被编入边境巡逻小队。他的日常由任务、休息与处决组成：目睹同伴因违规自慰被绿袜队长当场撸杀，自己被迫执行对叛逃者的处决，在雪山哨塔中与另一名黑袜兵分享最后一支烟。他不知道的是，那些最近被调走的同批次士兵去了哪里——黑袜兵不需要知道这些。最终，一份调令将 B-33021 编入虎猛少主的直属卫队，他经历了罐头兵改造，成为亲卫队的一员。某次随行的过程中，虎猛少主按惯例"验收"了他。
 
 ---
 
 **One-line Hook**: From the moment he awakens in the vat, B-33021 knows he is a weapon—but weapons don't break on the battlefield; they are disassembled at their commander's feet.
 
-B-33021, a wolf beastkin Kiki soldier, awakens from the vat, goes through the standard dressing sequence, and is assigned to a border patrol squad. His routine consists of missions, rest, and executions: witnessing a comrade's milking-kill for a physiological violation, carrying out executions on deserters himself, sharing a last cigarette with a veteran in a snowy watchtower who reveals the truth about "special missions"—those selected never return. Eventually, B-33021 himself is selected. He discovers not a mission but a canned soldier conversion facility, and the one examining him from outside the vat is none other than Heir Hu Meng.
+B-33021, a wolf beastkin Kiki soldier, awakens from the vat, goes through the standard dressing sequence, and is assigned to a border patrol squad. His routine consists of missions, rest, and executions: witnessing a comrade's milking-kill for a physiological violation, carrying out executions on deserters himself, sharing a last cigarette with another black-sock soldier in a snowy watchtower. He does not wonder where the recently transferred batchmates have gone—black-sock soldiers do not need to know such things. Eventually, a reassignment order transfers B-33021 to Heir Hu Meng's personal guard. He undergoes canned soldier conversion and becomes one of the guard. During a routine escort mission, Heir Hu Meng "inspects" him in the usual manner.
 
 ---
 
@@ -98,7 +98,7 @@ B-33021, a wolf beastkin Kiki soldier, awakens from the vat, goes through the st
 | Ch.1 | 觉醒 / Awakening | [阅读](chapters/ch-001-awakening.md) |
 | Ch.2 | 第一处决 / First Execution | [阅读](chapters/ch-002-first-execution.md) |
 | Ch.3 | 雪山哨塔 / Snowy Watchtower | [阅读](chapters/ch-003-snowy-watchtower.md) |
-| Ch.4 | 特殊任务 / Special Mission | [阅读](chapters/ch-004-special-mission.md) |
+| Ch.4 | 调令 / Reassignment | [阅读](chapters/ch-004-reassignment.md) |
 | Ch.5 | 罐头 / Canned | [阅读](chapters/ch-005-canned.md) |
 
 ---
@@ -110,7 +110,7 @@ B-33021, a wolf beastkin Kiki soldier, awakens from the vat, goes through the st
 | Ch.1 | Awakening | [Read](chapters/ch-001-awakening.md) |
 | Ch.2 | First Execution | [Read](chapters/ch-002-first-execution.md) |
 | Ch.3 | Snowy Watchtower | [Read](chapters/ch-003-snowy-watchtower.md) |
-| Ch.4 | Special Mission | [Read](chapters/ch-004-special-mission.md) |
+| Ch.4 | Reassignment | [Read](chapters/ch-004-reassignment.md) |
 | Ch.5 | Canned | [Read](chapters/ch-005-canned.md) |
 
 ---
