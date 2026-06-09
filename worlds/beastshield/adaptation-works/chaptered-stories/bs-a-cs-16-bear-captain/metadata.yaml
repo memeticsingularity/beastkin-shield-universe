@@ -1,0 +1,68 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章故事元数据
+# ============================================
+
+work:
+  code: "bs-a-cs-16-bear-captain"
+
+  title:
+    chinese: "熊组长"
+    english: "Bear Captain"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "planning"
+  location: "adaptation-works"
+
+  subtype: "side"
+
+  promotion_status: "not_eligible"
+
+  work_type: "original-adaptation"
+
+  tags:
+    - "original-echoes"
+    - "tragic-fate"
+    - "character-expansion"
+    - "xiong-zhang"
+    - "bear-captain"
+    - "vol-2-backstory"
+
+  content_warnings:
+    - "violence"
+    - "sexual-content"
+    - "dark-themes"
+    - "death"
+    - "execution"
+
+  reading_time_estimate:
+    minutes: 0
+
+  target_audience: "mature"
+
+creation:
+  author: "memeticsingularity"
+  start_date: "2026-06-09"
+
+  adaptation_info:
+    original_work: "bs-o-cm-1-main-story-1, bs-o-cm-1-main-story-2"
+    original_title: "兽盾主线故事 第一卷·兽游世界 / 第二卷·兽游世界"
+    original_author: "memeticsingularity"
+    adaptation_approach: "original-spinoff"
+    key_changes: |
+      1. Fills the gap between Vol.1 Ch.11 and Vol.2 Ch.7
+      2. Explores the character growth from timid rookie to responsible floor guardian
+      3. Details the cultivation of his Golden Bell罩 and the secret of his 罩门
+
+  last_update: "2026-06-09"
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "0.1"
+      date: "2026-06-09"
+      changes: "Initial project creation / 项目初始创建"
