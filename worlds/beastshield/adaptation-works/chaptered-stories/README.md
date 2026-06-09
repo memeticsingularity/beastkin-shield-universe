@@ -43,6 +43,7 @@
 | [**全杀**](bs-a-cs-3-all-clear/README.md) | 一个不剩。纯粹的清除任务，没有余地，没有怜悯。 | `清除任务` `全灭` |
 | [**兽盾流拍处决秀**](bs-a-cs-8-auction-show/README.md) | 流拍的兽人员工不会被浪费——他们会被摆上另一座舞台。 | `处决秀' `拍卖` `公开处刑` |
 | [**随意处决**](bs-a-cs-6-casual-massacre/README.md) | 死亡毫无价值，杀得顺手，死后像垃圾处理。v3.0 长篇化死亡美学。 | `死亡美学' `v3.0' `垃圾化处理` |
+| [**魔影（雨禾版）**](bs-a-cs-17-moying/README.md) | 雨禾执笔的魔影改编版。以黑暗为皮肤，潜入兽盾大楼层层狩猎。 | `潜入` `雨禾改编` `黑暗美学` |
 
 ### 日常与治愈 / Daily Life & Healing
 
@@ -82,7 +83,7 @@
 ### 按标签筛选 / Filter by Tags
 
 - `死亡游戏 / Death Game`: 血酬淘汰赛
-- `潜入 / Infiltration`: 魔影、炎魉
+- `潜入 / Infiltration`: 魔影、魔影（雨禾版）、炎魉
 - `日常 / Daily Life`: 兽盾日常切片、松果的领养日记、日常
 - `治愈 / Healing`: 松果的领养日记
 - `VR/降临者 / VR/Arrival`: 第一场游戏
