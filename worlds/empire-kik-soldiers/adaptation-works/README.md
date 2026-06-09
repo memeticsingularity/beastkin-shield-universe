@@ -25,6 +25,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 |------|---------|---------|------|------|
 | `eks-o-cm-001-recall-protocol` | 召回协议 | Recall Protocol | 原创,退役,虎兽人 | [目录](chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
 | `eks-o-cm-002-dog-soldier-dreams` | 犬兵梦忆 | Dog Soldier Dreams | 原创,退役,犬兽人 | [目录](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `eks-o-cm-003-black-sock-cycle` | 黑袜轮回 | Black Sock Cycle | 原创,罐头兵,狼兽人 | [目录](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
 
 ### 短篇 / Short Stories
 
@@ -42,6 +43,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 |------|-------|------|------|
 | `eks-o-cm-001-recall-protocol` | Recall Protocol | original,retired,tiger | [Directory](chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
 | `eks-o-cm-002-dog-soldier-dreams` | Dog Soldier Dreams | original,retired,dog | [Directory](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `eks-o-cm-003-black-sock-cycle` | Black Sock Cycle | original,canned-soldier,wolf | [Directory](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
 
 ### Short Stories
 
@@ -59,7 +61,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 |------|------|
 | `退役` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
 | `短篇` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
-| `原创` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `原创` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md)、[黑袜轮回](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
 
 ### 按兽人类型 / By Species
 
@@ -67,7 +69,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 |------|------|
 | `虎兽人` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
 | `犬兽人` | [犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
-| `狼兽人` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `狼兽人` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md)、[黑袜轮回](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
 
 ---
 
@@ -79,8 +81,8 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 |-----|-------|
 | `retired` | [Recall Protocol](chaptered-stories/eks-o-cm-001-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
 | `short` | [Snowy Watchtower](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
-| `original` | [Recall Protocol](chaptered-stories/eks-o-cm-001-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `original` | [Recall Protocol](chaptered-stories/eks-o-cm-001-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md), [Black Sock Cycle](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-06-09 · Last updated: 2026-06-09*

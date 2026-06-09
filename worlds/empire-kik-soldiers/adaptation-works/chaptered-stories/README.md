@@ -23,6 +23,7 @@ Chaptered stories adopt a multi-chapter serialized structure, where each chapter
 |------|---------|---------|------|------|------|
 | `eks-o-cm-001-recall-protocol` | 召回协议 | Recall Protocol | 已完成 | 原创,退役,虎兽人 | [目录](eks-o-cm-001-recall-protocol/README.md) |
 | `eks-o-cm-002-dog-soldier-dreams` | 犬兵梦忆 | Dog Soldier Dreams | 已完成 | 原创,退役,犬兽人 | [目录](eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `eks-o-cm-003-black-sock-cycle` | 黑袜轮回 | Black Sock Cycle | 更新中 | 原创,罐头兵,狼兽人 | [目录](eks-o-cm-003-black-sock-cycle/README.md) |
 
 ---
 
@@ -32,6 +33,7 @@ Chaptered stories adopt a multi-chapter serialized structure, where each chapter
 |------|-------|--------|------|------|
 | `eks-o-cm-001-recall-protocol` | Recall Protocol | Completed | original,retired,tiger | [Directory](eks-o-cm-001-recall-protocol/README.md) |
 | `eks-o-cm-002-dog-soldier-dreams` | Dog Soldier Dreams | Completed | original,retired,dog | [Directory](eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `eks-o-cm-003-black-sock-cycle` | Black Sock Cycle | Updating | original,canned-soldier,wolf | [Directory](eks-o-cm-003-black-sock-cycle/README.md) |
 
 ---
 
@@ -51,4 +53,4 @@ Chaptered stories adopt a multi-chapter serialized structure, where each chapter
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-06-09 · Last updated: 2026-06-09*
