@@ -30,7 +30,8 @@ The *Long Live the Empire* settings library stores core worldview settings, comp
 
 | 文档 | 说明 | 链接 |
 |------|------|------|
-| 帝国万岁完整设定集（推荐） | 涵盖1-113章主线+支线《潜伏》+番外extra-001~003的**总设定** | [📄 empire-kik-soldiers-setting-complete.md](1-complete-setting/empire-kik-soldiers-setting-complete.md) |
+| 帝国万岁设定集·精简版（推荐日常查阅） | 保留全部核心设定（服设/道具/场景/机制），去除剧情回顾与章节引用，用于快速创作 | [📄 empire-kik-soldiers-setting-lite.md](1-complete-setting/empire-kik-soldiers-setting-lite.md) |
+| 帝国万岁设定集·完整版 | 涵盖1-113章主线+支线《潜伏》+番外extra-001~003的**总设定**（含剧情线索与章节引用） | [📄 empire-kik-soldiers-setting-complete.md](1-complete-setting/empire-kik-soldiers-setting-complete.md) |
 | 潜伏支线设定集 | 支线《潜伏》26章独有设定的独立文档 | [📄 lurking-side-settings.md](2-supplemental-settings/lurking-side-settings.md) |
 | 番外 extra-001 设定集 | 番外1（9章）独有设定：虎猛少主日常、灰袜兵体制、新型处决方式、黑色高弹装备等 | [📄 extra-001-settings.md](2-supplemental-settings/extra-001-settings.md) |
 | 番外 extra-002 设定集 | 番外2（7章）独有设定：虎猛巡查、星舰炮台区、抵抗组织、白狼长官、独眼狩猎者等 | [📄 extra-002-settings.md](2-supplemental-settings/extra-002-settings.md) |
@@ -44,7 +45,8 @@ The *Long Live the Empire* settings library stores core worldview settings, comp
 
 | Document | Description | Link |
 |----------|-------------|------|
-| Long Live the Empire Complete Setting **(recommended)** | Complete worldview setting covering main story (ch.1-113) + side story *Lurking* + extras 001-003 | [📄 empire-kik-soldiers-setting-complete.md](1-complete-setting/empire-kik-soldiers-setting-complete.md) |
+| Long Live the Empire Setting **Lite (recommended for daily use)** | All core settings preserved (gear/items/scenes/mechanics), plot review and chapter citations removed for quick reference | [📄 empire-kik-soldiers-setting-lite.md](1-complete-setting/empire-kik-soldiers-setting-lite.md) |
+| Long Live the Empire Complete Setting | Complete worldview setting covering main story (ch.1-113) + side story *Lurking* + extras 001-003 (includes plot threads and chapter citations) | [📄 empire-kik-soldiers-setting-complete.md](1-complete-setting/empire-kik-soldiers-setting-complete.md) |
 | Lurking Side Setting | Standalone setting doc for *Lurking* (eks-o-cs-1) exclusive content | [📄 lurking-side-settings.md](2-supplemental-settings/lurking-side-settings.md) |
 | Extra-001 Side Setting | Extra-001 (9 ch.) exclusive settings: Humeng's daily life, grey-sock system, new execution methods, black high-elastic gear, etc. | [📄 extra-001-settings.md](2-supplemental-settings/extra-001-settings.md) |
 | Extra-002 Side Setting | Extra-002 (7 ch.) exclusive settings: Humeng inspection, spaceship turret zone, resistance, white-wolf officer, one-eyed hunter, etc. | [📄 extra-002-settings.md](2-supplemental-settings/extra-002-settings.md) |
