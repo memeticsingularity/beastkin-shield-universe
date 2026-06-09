@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- **作品编码**: eks-o-cm-2-dog-soldier-dreams
+- **作品编码**: eks-o-cm-002-dog-soldier-dreams
 - **故事标题**: 犬兵梦忆 (Dog Soldier's Dreams)
 - **世界观**: 帝国万岁 (Empire Kik Soldiers)
 - **性质**: 原创 (Original)

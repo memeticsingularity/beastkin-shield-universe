@@ -66,7 +66,7 @@ The `metadata.yaml` file must be placed in the root of each work directory.
 完整作品编码文件夹/
 ├── metadata.yaml      # 元数据文件
 ├── README.md          # 作品介绍
-├── ch-1-章节标题.md   # 章节内容
+├── ch-001-章节标题.md   # 章节内容
 └── ...
 ```
 
@@ -706,7 +706,7 @@ format:
 Changes needed / 需要做的更改：
 
 1. Replace `c` with `cm` or `cs` based on work type / 根据作品类型将 `c` 替换为 `cm` 或 `cs`
-2. Replace three-digit number with natural number / 将三位数替换为自然数
+2. Use three-digit zero padding for all sequence numbers / 所有序号使用三位数补零
 3. Add `form_type` field / 添加 `form_type` 字段
 
 ---

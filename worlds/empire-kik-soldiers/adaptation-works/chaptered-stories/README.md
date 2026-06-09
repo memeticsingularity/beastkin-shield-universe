@@ -21,8 +21,8 @@ Chaptered stories adopt a multi-chapter serialized structure, where each chapter
 
 | 编码 | 中文标题 | 英文标题 | 状态 | 标签 | 链接 |
 |------|---------|---------|------|------|------|
-| `eks-o-cm-1-recall-protocol` | 召回协议 | Recall Protocol | 已完成 | 原创,退役,虎兽人 | [目录](eks-o-cm-1-recall-protocol/README.md) |
-| `eks-o-cm-2-dog-soldier-dreams` | 犬兵梦忆 | Dog Soldier Dreams | 已完成 | 原创,退役,犬兽人 | [目录](eks-o-cm-2-dog-soldier-dreams/README.md) |
+| `eks-o-cm-001-recall-protocol` | 召回协议 | Recall Protocol | 已完成 | 原创,退役,虎兽人 | [目录](eks-o-cm-001-recall-protocol/README.md) |
+| `eks-o-cm-002-dog-soldier-dreams` | 犬兵梦忆 | Dog Soldier Dreams | 已完成 | 原创,退役,犬兽人 | [目录](eks-o-cm-002-dog-soldier-dreams/README.md) |
 
 ---
 
@@ -30,8 +30,8 @@ Chaptered stories adopt a multi-chapter serialized structure, where each chapter
 
 | Code | Title | Status | Tags | Link |
 |------|-------|--------|------|------|
-| `eks-o-cm-1-recall-protocol` | Recall Protocol | Completed | original,retired,tiger | [Directory](eks-o-cm-1-recall-protocol/README.md) |
-| `eks-o-cm-2-dog-soldier-dreams` | Dog Soldier Dreams | Completed | original,retired,dog | [Directory](eks-o-cm-2-dog-soldier-dreams/README.md) |
+| `eks-o-cm-001-recall-protocol` | Recall Protocol | Completed | original,retired,tiger | [Directory](eks-o-cm-001-recall-protocol/README.md) |
+| `eks-o-cm-002-dog-soldier-dreams` | Dog Soldier Dreams | Completed | original,retired,dog | [Directory](eks-o-cm-002-dog-soldier-dreams/README.md) |
 
 ---
 

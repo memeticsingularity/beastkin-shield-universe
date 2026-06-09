@@ -23,14 +23,14 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|---------|---------|------|------|
-| `eks-o-cm-1-recall-protocol` | 召回协议 | Recall Protocol | 原创,退役,虎兽人 | [目录](chaptered-stories/eks-o-cm-1-recall-protocol/README.md) |
-| `eks-o-cm-2-dog-soldier-dreams` | 犬兵梦忆 | Dog Soldier Dreams | 原创,退役,犬兽人 | [目录](chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
+| `eks-o-cm-001-recall-protocol` | 召回协议 | Recall Protocol | 原创,退役,虎兽人 | [目录](chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
+| `eks-o-cm-002-dog-soldier-dreams` | 犬兵梦忆 | Dog Soldier Dreams | 原创,退役,犬兽人 | [目录](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
 
 ### 短篇 / Short Stories
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|---------|---------|------|------|
-| `eks-o-s-1-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | 短篇,狼兽人,雪山 | [阅读](chaptered-stories/bs-a-c-1-short-stories/ch-1-snowy-watchtower.md) |
+| `eks-o-s-001-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | 短篇,狼兽人,雪山 | [阅读](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
 
 ---
 
@@ -40,14 +40,14 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `eks-o-cm-1-recall-protocol` | Recall Protocol | original,retired,tiger | [Directory](chaptered-stories/eks-o-cm-1-recall-protocol/README.md) |
-| `eks-o-cm-2-dog-soldier-dreams` | Dog Soldier Dreams | original,retired,dog | [Directory](chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
+| `eks-o-cm-001-recall-protocol` | Recall Protocol | original,retired,tiger | [Directory](chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
+| `eks-o-cm-002-dog-soldier-dreams` | Dog Soldier Dreams | original,retired,dog | [Directory](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
 
 ### Short Stories
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `eks-o-s-1-snowy-watchtower` | Snowy Watchtower | short,wolf,snow | [Read](chaptered-stories/bs-a-c-1-short-stories/ch-1-snowy-watchtower.md) |
+| `eks-o-s-001-snowy-watchtower` | Snowy Watchtower | short,wolf,snow | [Read](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
 
 ---
 
@@ -57,17 +57,17 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 
 | 标签 | 作品 |
 |------|------|
-| `退役` | [召回协议](chaptered-stories/eks-o-cm-1-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
-| `短篇` | [雪夜岗哨](chaptered-stories/bs-a-c-1-short-stories/ch-1-snowy-watchtower.md) |
-| `原创` | [召回协议](chaptered-stories/eks-o-cm-1-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
+| `退役` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `短篇` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `原创` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
 
 ### 按兽人类型 / By Species
 
 | 类型 | 作品 |
 |------|------|
-| `虎兽人` | [召回协议](chaptered-stories/eks-o-cm-1-recall-protocol/README.md) |
-| `犬兽人` | [犬兵梦忆](chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
-| `狼兽人` | [雪夜岗哨](chaptered-stories/bs-a-c-1-short-stories/ch-1-snowy-watchtower.md) |
+| `虎兽人` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
+| `犬兽人` | [犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `狼兽人` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
 
 ---
 
@@ -77,9 +77,9 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 
 | Tag | Works |
 |-----|-------|
-| `retired` | [Recall Protocol](chaptered-stories/eks-o-cm-1-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
-| `short` | [Snowy Watchtower](chaptered-stories/bs-a-c-1-short-stories/ch-1-snowy-watchtower.md) |
-| `original` | [Recall Protocol](chaptered-stories/eks-o-cm-1-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
+| `retired` | [Recall Protocol](chaptered-stories/eks-o-cm-001-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
+| `short` | [Snowy Watchtower](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `original` | [Recall Protocol](chaptered-stories/eks-o-cm-001-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
 
 ---
 

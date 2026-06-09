@@ -38,8 +38,8 @@ ch-{自然数}-{标题简写}.md
 ```
 
 - 标题简写：英文小写，kebab-case，2-5 个词
-- 禁止无标题简写：`ch-1-2.md` ❌ → `ch-1-prologue.md` ✅
-- 禁止过长标题：`ch-1-final-thirty-days-morning-scent.md` ❌ → `ch-1-morning-scent.md` ✅
+- 禁止无标题简写：`ch-001-2.md` ❌ → `ch-001-prologue.md` ✅
+- 禁止过长标题：`ch-001-final-thirty-days-morning-scent.md` ❌ → `ch-001-morning-scent.md` ✅
 
 ## 5. 短篇文件命名
 
@@ -55,7 +55,7 @@ ch-{自然数}-{标题简写}.md
 ^(bs|bso|bsp|bsr|eks|pks|uba|wi)-([oac])-(cm|cs|s)-\d+(-[a-z0-9-]+)?$
 ```
 
-- 禁止三位数补零：`001` ❌ → `1` ✅
+- 要求三位数补零：`1` ❌ → `001` ✅
 - 禁止下划线：`my_story` ❌ → `my-story` ✅
 - 禁止大写字母
 

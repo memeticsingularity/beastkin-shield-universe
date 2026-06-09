@@ -1,4 +1,4 @@
-# CHANGELOG — eks-o-cm-1-recall-protocol
+# CHANGELOG — eks-o-cm-001-recall-protocol
 
 ## 2026-05-07 — 目录规范化补充
 

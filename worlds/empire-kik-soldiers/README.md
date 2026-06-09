@@ -91,9 +91,9 @@ Extra-exclusive settings: [Extra-001](settings/2-supplemental-settings/extra-001
 
 | 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
 |------|--------|--------|:--:|:--:|:--:|:--:|------|
-| `eks-o-s-1-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | Lv.3 | Lv.3 | Lv.3 | `单元悲剧` `死亡` | [目录](adaptation-works/chaptered-stories/bs-a-c-1-short-stories/README.md) |
-| `eks-o-cm-1-recall-protocol` | 召回协议 | Recall Protocol | Lv.3 | Lv.3 | Lv.4 | `开放式` `反乌托邦` | [目录](adaptation-works/chaptered-stories/eks-o-cm-1-recall-protocol/README.md) |
-| `eks-o-cm-2-dog-soldier-dreams` | 狗兵梦想 | Dog Soldier Dreams | Lv.3 | Lv.3 | Lv.4 | `已完成` `记忆与现实的和解` | [目录](adaptation-works/chaptered-stories/eks-o-cm-2-dog-soldier-dreams/README.md) |
+| `eks-o-s-001-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | Lv.3 | Lv.3 | Lv.3 | `单元悲剧` `死亡` | [目录](adaptation-works/chaptered-stories/eks-o-s-001-snowy-watchtower/README.md) |
+| `eks-o-cm-001-recall-protocol` | 召回协议 | Recall Protocol | Lv.3 | Lv.3 | Lv.4 | `开放式` `反乌托邦` | [目录](adaptation-works/chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
+| `eks-o-cm-002-dog-soldier-dreams` | 狗兵梦想 | Dog Soldier Dreams | Lv.3 | Lv.3 | Lv.4 | `已完成` `记忆与现实的和解` | [目录](adaptation-works/chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
 
 ---
 

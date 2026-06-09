@@ -1,6 +1,6 @@
 # 召回协议 / Recall Protocol
 
-> 状态：completed · 编码：`eks-o-cm-1-recall-protocol` · 作者：DeepSeek · 最后更新：2026-05-16
+> 状态：completed · 编码：`eks-o-cm-001-recall-protocol` · 作者：DeepSeek · 最后更新：2026-05-16
 
 ---
 
@@ -114,14 +114,14 @@ B-71109, a retired black-sock soldier of thirteen years, lives a meager hermit's
 ## 五、关联作品 / Related Works
 
 - 原作/改编来源：`eks-o` — 帝国万岁（Empire Kik Soldiers）原作设定
-- 同一世界观：`eks-o-cm-2-dog-soldier-dreams` — 犬兵梦忆
+- 同一世界观：`eks-o-cm-002-dog-soldier-dreams` — 犬兵梦忆
 
 ---
 
 ## V. Related Works
 
 - Original / Source: `eks-o` — Empire Kik Soldiers (Original Setting)
-- Same Universe: `eks-o-cm-2-dog-soldier-dreams` — Dog Soldier's Dreams
+- Same Universe: `eks-o-cm-002-dog-soldier-dreams` — Dog Soldier's Dreams
 
 ---
 

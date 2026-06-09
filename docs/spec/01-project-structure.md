@@ -73,7 +73,7 @@ worlds/{world}/
 {完整作品编码}/
 ├── README.md
 ├── metadata.yaml
-├── ch-1-{标题简写}.md
+├── ch-001-{标题简写}.md
 ├── ch-2-{标题简写}.md
 └── .process/               # 创作过程隔离（详见 03-intermediate-documents.md）
 ```
@@ -100,11 +100,11 @@ worlds/{world}/
 bs-a-cs-1-shorts/
 ├── README.md
 ├── metadata.yaml
-├── ch-1-birthday-cake.md      # 中文
-├── ch-2-snoring-too-loud.md
+├── ch-001-birthday-cake.md      # 中文
+├── ch-002-snoring-too-loud.md
 └── en/
-    ├── ch-1-birthday-cake.md  # 英文
-    └── ch-2-snoring-too-loud.md
+    ├── ch-001-birthday-cake.md  # 英文
+    └── ch-002-snoring-too-loud.md
 ```
 
 ---

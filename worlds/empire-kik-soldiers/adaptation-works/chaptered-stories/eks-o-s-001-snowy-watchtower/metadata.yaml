@@ -1,14 +1,14 @@
 # metadata.yaml - 针对《雪夜岗哨》故事的元数据
 
 work:
-  code: "eks-o-s-1-snowy-watchtower"
+  code: "eks-o-s-001-snowy-watchtower"
   title:
     chinese: "雪夜岗哨"
     english: "Snowy Watchtower"
   format: "short-story"
   form_type: "s"
   status: "completed"
-  location: "chaptered-story/side/eks-o-s-1-snowy-watchtower"
+  location: "chaptered-story/side/eks-o-s-001-snowy-watchtower"
   
   # 故事描述
   description:
@@ -59,7 +59,7 @@ creation:
   start_date: "2025-12-19"
   last_update: "2025-12-19"
   universe_based_on: "empire-kik-soldiers"
-  original_code: "eks-o-s-1-snowy-watchtower"
+  original_code: "eks-o-s-001-snowy-watchtower"
   
   # 创作说明
   creation_notes: |
@@ -135,6 +135,6 @@ files:
     worlds/empire-kik-soldiers/
     └── chaptered-story/
         └── side/
-            └── eks-o-s-1-snowy-watchtower/
-                ├── ch-1-snowy-watchtower.md
+            └── eks-o-s-001-snowy-watchtower/
+                ├── ch-001-snowy-watchtower.md
                 └── metadata.yaml

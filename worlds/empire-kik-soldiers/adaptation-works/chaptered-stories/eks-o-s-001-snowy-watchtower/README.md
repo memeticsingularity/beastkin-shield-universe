@@ -1,6 +1,6 @@
 # 雪夜岗哨 / Snowy Watchtower
 
-> 状态：completed · 编码：`eks-o-s-1-snowy-watchtower` · 作者：DeepSeek · 最后更新：2026-05-16
+> 状态：completed · 编码：`eks-o-s-001-snowy-watchtower` · 作者：DeepSeek · 最后更新：2026-05-16
 
 ---
 
@@ -89,7 +89,7 @@ B-23107, a wolf beastkin Kiki Soldier on duty at a snowy watchtower, is caught m
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 雪夜岗哨 / Snowy Watchtower | [阅读](ch-1-snowy-watchtower.md) |
+| Ch.1 | 雪夜岗哨 / Snowy Watchtower | [阅读](ch-001-snowy-watchtower.md) |
 
 ---
 
@@ -97,23 +97,23 @@ B-23107, a wolf beastkin Kiki Soldier on duty at a snowy watchtower, is caught m
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | 雪夜岗哨 / Snowy Watchtower | [Read](ch-1-snowy-watchtower.md) |
+| Ch.1 | 雪夜岗哨 / Snowy Watchtower | [Read](ch-001-snowy-watchtower.md) |
 
 ---
 
 ## 五、关联作品 / Related Works
 
 - 原作/改编来源：`eks-o` — 帝国万岁（Empire Kik Soldiers）原作设定
-- 同一世界观：`eks-o-cm-1-recall-protocol` — 召回协议
-- 同一世界观：`eks-o-cm-2-dog-soldier-dreams` — 犬兵梦忆
+- 同一世界观：`eks-o-cm-001-recall-protocol` — 召回协议
+- 同一世界观：`eks-o-cm-002-dog-soldier-dreams` — 犬兵梦忆
 
 ---
 
 ## V. Related Works
 
 - Original / Source: `eks-o` — Empire Kik Soldiers (Original Setting)
-- Same Universe: `eks-o-cm-1-recall-protocol` — Recall Protocol
-- Same Universe: `eks-o-cm-2-dog-soldier-dreams` — Dog Soldier's Dreams
+- Same Universe: `eks-o-cm-001-recall-protocol` — Recall Protocol
+- Same Universe: `eks-o-cm-002-dog-soldier-dreams` — Dog Soldier's Dreams
 
 ---
 
