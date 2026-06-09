@@ -1,4 +1,4 @@
-# Chapter 16 Bear Body Takeover
+# Chapter 16 占据熊岩
 
 ---
 

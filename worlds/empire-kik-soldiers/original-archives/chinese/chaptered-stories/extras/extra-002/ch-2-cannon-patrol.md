@@ -1,4 +1,4 @@
-# Chapter 2 Cannon Patrol
+# Chapter 2 炮台区巡查
 
 ---
 

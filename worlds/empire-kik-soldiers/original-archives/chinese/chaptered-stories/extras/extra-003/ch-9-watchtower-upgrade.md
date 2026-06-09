@@ -1,4 +1,4 @@
-# Chapter 9 Watchtower Upgrade
+# Chapter 9 升级警戒塔
 
 ---
 

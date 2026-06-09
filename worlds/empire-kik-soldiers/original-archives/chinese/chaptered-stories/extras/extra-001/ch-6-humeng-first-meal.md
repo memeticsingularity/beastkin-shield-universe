@@ -1,4 +1,4 @@
-# Chapter 6 Humeng First Meal
+# Chapter 6 虎猛首次进食
 
 ---
 

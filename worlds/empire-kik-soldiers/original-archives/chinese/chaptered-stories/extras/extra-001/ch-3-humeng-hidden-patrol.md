@@ -1,4 +1,4 @@
-# Chapter 3 Humeng Hidden Patrol
+# Chapter 3 隐身巡查暗哨
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 3 Chip Extraction
+# Chapter 3 夺取芯片
 
 ---
 

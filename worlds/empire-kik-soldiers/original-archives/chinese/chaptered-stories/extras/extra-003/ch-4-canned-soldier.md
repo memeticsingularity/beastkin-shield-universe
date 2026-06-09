@@ -1,4 +1,4 @@
-# Chapter 4 Canned Soldier
+# Chapter 4 罐头兵
 
 ---
 

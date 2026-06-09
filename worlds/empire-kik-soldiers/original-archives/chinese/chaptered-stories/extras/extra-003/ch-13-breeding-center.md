@@ -1,4 +1,4 @@
-# Chapter 13 Breeding Center
+# Chapter 13 培养中心
 
 ---
 

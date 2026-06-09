@@ -1,4 +1,4 @@
-# Chapter 12 Green Patrol Kill
+# Chapter 12 绿袜巡逻兵之死
 
 ---
 

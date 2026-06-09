@@ -1,4 +1,4 @@
-# Chapter 5 One Eyed Hunter
+# Chapter 5 独眼狩猎者
 
 ---
 

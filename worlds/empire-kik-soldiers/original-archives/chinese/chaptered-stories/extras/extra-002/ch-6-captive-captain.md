@@ -1,4 +1,4 @@
-# Chapter 6 Captive Captain
+# Chapter 6 被俘的小队长
 
 ---
 

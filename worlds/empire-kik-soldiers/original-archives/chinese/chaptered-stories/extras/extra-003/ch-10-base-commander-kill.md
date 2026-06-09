@@ -1,4 +1,4 @@
-# Chapter 10 Base Commander Kill
+# Chapter 10 基地指挥官之死
 
 ---
 

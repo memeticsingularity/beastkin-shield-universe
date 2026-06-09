@@ -1,4 +1,4 @@
-# Chapter 6 Humeng Encounter
+# Chapter 6 虎猛的察觉
 
 ---
 

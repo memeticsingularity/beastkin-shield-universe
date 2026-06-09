@@ -1,4 +1,4 @@
-# Chapter 4 Reinforcement Check
+# Chapter 4 补员与新兵检查
 
 ---
 

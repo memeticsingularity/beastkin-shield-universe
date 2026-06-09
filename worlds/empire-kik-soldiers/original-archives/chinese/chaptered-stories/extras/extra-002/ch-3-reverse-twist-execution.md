@@ -1,4 +1,4 @@
-# Chapter 3 Reverse Twist Execution
+# Chapter 3 反向拧断处决
 
 ---
 

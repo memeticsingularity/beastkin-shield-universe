@@ -1,4 +1,4 @@
-# Chapter 18 Epilogue
+# Chapter 18 尾声
 
 ---
 

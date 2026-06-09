@@ -1,4 +1,4 @@
-# Chapter 2 Humeng Grey Witness
+# Chapter 2 灰袜兵见证处决
 
 ---
 

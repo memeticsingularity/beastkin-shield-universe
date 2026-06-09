@@ -1,4 +1,4 @@
-# Chapter 8 Old Planet Arrival
+# Chapter 8 重返旧星球
 
 ---
 

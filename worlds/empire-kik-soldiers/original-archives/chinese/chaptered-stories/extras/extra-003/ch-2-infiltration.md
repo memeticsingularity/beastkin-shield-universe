@@ -1,4 +1,4 @@
-# Chapter 2 Infiltration
+# Chapter 2 混入基尅兵
 
 ---
 

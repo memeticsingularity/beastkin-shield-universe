@@ -1,4 +1,4 @@
-# Chapter 1 Patus Awakening
+# Chapter 1 帕图斯觉醒
 
 ---
 

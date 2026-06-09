@@ -1,4 +1,4 @@
-# Chapter 7 Snow Leopard Justice
+# Chapter 7 雪豹小队长的正义
 
 ---
 

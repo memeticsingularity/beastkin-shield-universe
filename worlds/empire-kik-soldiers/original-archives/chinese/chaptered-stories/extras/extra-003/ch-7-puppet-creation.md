@@ -1,4 +1,4 @@
-# Chapter 7 Puppet Creation
+# Chapter 7 傀儡创造
 
 ---
 

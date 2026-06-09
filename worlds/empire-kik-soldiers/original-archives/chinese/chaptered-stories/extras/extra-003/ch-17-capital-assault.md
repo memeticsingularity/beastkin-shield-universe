@@ -1,4 +1,4 @@
-# Chapter 17 Capital Assault
+# Chapter 17 首都突袭
 
 ---
 

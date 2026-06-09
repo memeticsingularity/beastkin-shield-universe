@@ -1,4 +1,4 @@
-# Chapter 9 Grey Wolf Revenge Dream
+# Chapter 9 灰狼的复仇梦
 
 ---
 

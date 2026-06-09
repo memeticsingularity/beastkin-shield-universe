@@ -1,4 +1,4 @@
-# Chapter 15 Bear Yan Duty
+# Chapter 15 熊岩当值
 
 ---
 

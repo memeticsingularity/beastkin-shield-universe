@@ -1,4 +1,4 @@
-# Chapter 1 Humeng Lazy Execution
+# Chapter 1 虎猛处决偷懒黑袜兵
 
 ---
 
