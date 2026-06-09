@@ -109,13 +109,13 @@ chapters:
     code: "ch-003-snowy-watchtower"
     title_chinese: "雪山哨塔"
     title_english: "Snowy Watchtower"
-    summary: "边境巡逻任务中，B-33021与另一名黑袜兵在雪山哨塔中休整。分享最后一支烟时，对方透露芯片开始出现异常——能闻到不属于帝国的气味。"
+    summary: "边境巡逻任务中，B-33021与一名即将被调往\"特殊任务\"的老兵在雪山哨塔中休整。分享最后一支烟时，老兵透露那些被选中的人再也没有回来——他们不是战死，而是被送进了改造车间。"
     status: "planning"
   - number: 4
     code: "ch-004-special-mission"
     title_chinese: "特殊任务"
     title_english: "Special Mission"
-    summary: "B-33021被选中执行一项"特殊任务"，抵达目的地后发现这不是任务，而是罐头兵改造的选拔现场。他的芯片从未故障，那只是选拔测试的一部分。"
+    summary: "B-33021被选中执行一项\"特殊任务\"，抵达目的地后发现这不是任务，而是罐头兵改造的选拔现场。黑袜兵只是等待被挑选的产品，选拔标准从不公开。"
     status: "planning"
   - number: 5
     code: "ch-005-canned"
