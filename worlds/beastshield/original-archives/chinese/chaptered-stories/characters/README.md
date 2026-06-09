@@ -36,8 +36,8 @@
 
 | 角色 | 种族 | 身份 | 状态 | 首次登场 |
 |------|------|------|------|---------|
-| [牛杂 / Niu Za](player-subordinates/niu-za.md) | 牛 | 玩家下属，M体质，诈死技能 | 存活 | 第一卷·第7章 |
-| [熊掌 / Xiong Zhang](player-subordinates/xiong-zhang.md) | 熊 | 玩家下属，憨厚老实，金钟罩 | 存活 | 第一卷·第7章 |
+| [牛杂 → 冥府牛头 / Niu Za → Hell Bull](player-subordinates/niu-za.md) | 牛 | 玩家下属→十三层守护者，M体质，不死体质 | **已死亡**（被魔影耗尽） | 第一卷·第7章 |
+| [熊掌 → 熊组长 / Xiong Zhang → Bear Captain](player-subordinates/xiong-zhang.md) | 熊 | 玩家下属→十一层守护者，金钟罩 | **已死亡**（被魔影处决） | 第一卷·第7章 |
 
 ### 1.4 十二神武传人 / Twelve Divine Weapons Inheritors
 
@@ -63,8 +63,6 @@
 | 角色 | 种族 | 身份 | 状态 | 首次登场 |
 |------|------|------|------|---------|
 | 虎卫组组长 / Tiger Guard Captain | 虎 | 虎卫组首领 | 已死亡 | 第二卷·第4章 |
-| [熊组长 / Bear Captain](beastshield-middle-management/xiong-zu-zhang.md) | 熊 | 十一层守护者，金钟罩 | 已死亡（被魔影处决） | 第二卷·第8章 |
-| [牛组长"冥府牛头" / Hell Bull](beastshield-middle-management/ming-fu-niu-tou.md) | 牛 | 十三层守护者，不死体质 | 已死亡（被自动飞机杯耗尽） | 第二卷·第11章 |
 | 嗜精兽头目 / Semen-Eater Beast Leader | 未确认 | 蟒蛇岛头目 | 存活（刺杀失败） | 第二卷·第15章 |
 
 ### 1.7 回忆与支线角色 / Flashback & Minor Characters
