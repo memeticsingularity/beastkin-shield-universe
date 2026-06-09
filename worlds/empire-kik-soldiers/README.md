@@ -54,8 +54,13 @@ The narrative revolves around several key threads: the rise of Black Sock soldie
 - **殖民叙事**：帝国对新星球的征服遵循"接触→威慑→征服→改造"四步模板，灰袜兵与见习军袜为殖民扩张产物。
 - **勇者真相**：勇者实为"基兽001号"实验体，是魔王/皇帝30万年前的忠实部下，第六把钥匙即勇者本身。
 - **行星级战舰**：星球表面可被改造为银色镜面金属，分裂重组为战舰形态，吞噬恒星能量。
+- **实验型少主（基兽002号）**：虎猛与基兽融合后成为皇帝接班人，需以精液为食，背后金属圆环可吸收精液进化，获得飞行/念力/隐身等能力。【extra-003】
+- **金袜兵与伪皇帝**：系统bug产生的伪皇帝克隆体、金色军袜卫队（地位在白袜之上）、大规模精液采集金属柱系统。【extra-003】
+- **罐头兵**：系统bug改造的特殊黑袜兵，套着"撸杀黑袜"持续充血，是虎猛亲卫队专属兵种。【extra-003】
+- **灰袜兵与见习军袜**：灰袜兵为后勤兵种（灰色军袜，无撸杀权限），见习军袜为幼崽规训符号。【extra-001】
 
 详细设定请参阅：[settings/](settings/)
+番外专有设定参见：[extra-001设定集](settings/extra-001-settings.md) · [extra-002设定集](settings/extra-002-settings.md) · [extra-003设定集](settings/extra-003-settings.md)
 
 ---
 
@@ -64,8 +69,13 @@ The narrative revolves around several key threads: the rise of Black Sock soldie
 - **Chip Control**: All soldiers are implanted with biochips directly controlled by the Emperor; retired soldiers face activation of death programs within five years.
 - **Retirement and Recall**: The Empire can recall retired veterans for special missions; retirement is not freedom but another form of servitude.
 - **Key Retrieval**: The Demon King's power is sealed in six keys; their retrieval is the Empire's core strategic objective.
+- **Experimental Heir (Beast 002)**: Hu Meng, after beast fusion, becomes the Emperor's successor. Feeds on semen; a metal halo on his back evolves by absorbing semen, granting flight/telekinesis/invisibility. 【extra-003】
+- **Gold-Sock Guards & Pseudo-Emperor**: A system-bug cloned pseudo-emperor; gold-sock royal guards (rank above white-socks); mass semen extraction pillar system. 【extra-003】
+- **Canned Soldiers**: Bug-modified black-sock soldiers wearing permanent "ejaculation-kill socks," kept semi-erect at all times, exclusive to Hu Meng's personal guard. 【extra-003】
+- **Grey-Sock Soldiers & Apprentice Socks**: Grey-sock soldiers handle logistics (no execution authority); apprentice socks are cub discipline symbols. 【extra-001】
 
 For detailed settings, see: [settings/](settings/)
+Extra-exclusive settings: [Extra-001](settings/extra-001-settings.md) · [Extra-002](settings/extra-002-settings.md) · [Extra-003](settings/extra-003-settings.md)
 
 ---
 
