@@ -11,9 +11,10 @@
 | **种族** | 黄皮牛兽人 |
 | **等级/制服** | G级·军绿紧身短袖+短裤→O级·蓝色制服 |
 | **身份** | 主角（银）直属部下 |
-| **状态** | **存活**（随主角行动，活过第一卷） |
+| **状态** | **已死亡**——晋升牛组长后于vol-2-ch-10被魔影酷刑射精19次而死 |
 | **首次登场** | [vol-1-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-7-training-subordinates.md) |
-| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
+| **最后登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-11-hell-bull-battle.md)（尸体被嗜精兽头目吸收） |
+| **后续身份** | [冥府牛头→十三层守护者](../../../../chaptered-stories/characters/player-subordinates/niu-za.md)（详见player-subordinates档案） |
 
 ---
 
