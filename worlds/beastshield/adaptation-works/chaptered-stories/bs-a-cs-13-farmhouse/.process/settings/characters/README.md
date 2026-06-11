@@ -66,11 +66,10 @@
 
 | 档案 | 角色名 | 种族 | 身份 | 首次登场 |
 |------|--------|------|------|---------|
-| [`06-beastshield/001-investigators.md`](06-beastshield/001-investigators.md) | 未知×3 | 两只狼+棕熊 | 兽盾调查组 | vol1-ch18 |
-| [`06-beastshield/002-basement-trio.md`](06-beastshield/002-basement-trio.md) | 未知×3 | 多种族 | 顽固分子（被带走） | vol1-ch20 |
-| [`06-beastshield/003-chameleon.md`](06-beastshield/003-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
-| [`06-beastshield/004-scarred-black-wolf.md`](06-beastshield/004-scarred-black-wolf.md) | 未知 | 黑狼兽人 | 兽盾黑制服/Z市地头蛇 | vol3-ch2 |
-| [`06-beastshield/005-dr-gu.md`](06-beastshield/005-dr-gu.md) | 古博士 | 雪纳瑞狗兽人 | 生化学家/种子供应者 → 兽盾噬精兽研究员（已死亡） | vol1-ch1 |
+| [`06-beastshield/001-basement-trio.md`](06-beastshield/001-basement-trio.md) | 未知×3 | 多种族 | 顽固分子（被带走） | vol1-ch20 |
+| [`06-beastshield/002-chameleon.md`](06-beastshield/002-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
+| [`06-beastshield/003-scarred-black-wolf.md`](06-beastshield/003-scarred-black-wolf.md) | 未知 | 黑狼兽人 | 兽盾黑制服/Z市地头蛇 | vol3-ch2 |
+| [`06-beastshield/004-dr-gu.md`](06-beastshield/004-dr-gu.md) | 古博士 | 雪纳瑞狗兽人 | 生化学家/种子供应者 → 兽盾噬精兽研究员（已死亡） | vol1-ch1 |
 
 ---
 
