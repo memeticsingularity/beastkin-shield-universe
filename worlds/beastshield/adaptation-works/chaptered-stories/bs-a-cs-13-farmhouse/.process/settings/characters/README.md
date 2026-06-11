@@ -61,6 +61,7 @@
 | [`04-minor/007-xiao-yan.md`](04-minor/007-xiao-yan.md) | 小岩 | 棕熊兽人 | 山中孤儿/棕熊父亲之子 | vol3-ch7 |
 | [`04-minor/008-brown-bear-father.md`](04-minor/008-brown-bear-father.md) | 棕熊父亲 | 棕熊兽人 | 山中猎人/小岩之父（已故） | vol3-ch7 |
 | [`04-minor/009-a-mo.md`](04-minor/009-a-mo.md) | 阿莫 | 鹿兽人（前噬精兽） | 旁系噬精兽 → 普通兽人（暂住竹木狼玛峰事务所） | vol4-ch3 |
+| [`04-minor/010-a-zhuang.md`](04-minor/010-a-zhuang.md) | 阿壮 | 牛兽人 | Z市酒吧顾客/阿常的暧昧对象 | vol3-ch3 |
 
 ### 兽盾势力
 
@@ -70,6 +71,7 @@
 | [`06-beastshield/002-chameleon.md`](06-beastshield/002-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
 | [`06-beastshield/003-scarred-black-wolf.md`](06-beastshield/003-scarred-black-wolf.md) | 未知 | 黑狼兽人 | 兽盾黑制服/Z市地头蛇 | vol3-ch2 |
 | [`06-beastshield/004-dr-gu.md`](06-beastshield/004-dr-gu.md) | 古博士 | 雪纳瑞狗兽人 | 生化学家/种子供应者 → 兽盾噬精兽研究员（已死亡） | vol1-ch1 |
+| [`06-beastshield/005-shadow-fang-electric-pair.md`](06-beastshield/005-shadow-fang-electric-pair.md) | 未知×2 | 未明确 | 影牙小队刺客（被电网电晕送警局） | vol2-ch11 |
 
 ---
 
