@@ -11,10 +11,9 @@
 |------|------|------|
 | 主角 | [`01-protagonist/`](01-protagonist/) | 故事核心主角 |
 | 谷之家成员 | [`02-members/`](02-members/) | 谷之家的核心成员，包括被捕获后转正的、收编的、从敌人转为同伴的 |
-| 盟友 | [`03-allies/`](03-allies/) | 外部盟友与合作者（非谷之家常住成员） |
+| 盟友 | [`03-allies/`](03-allies/) | 外部盟友与合作者，包括竹木狼玛峰事务所众人和市警局北泽 |
 | 龙套/次要角色 | [`04-minor/`](04-minor/) | 仅短暂出现、已退场、或尚未深度融入故事主线的角色 |
-| 竹木狼玛峰事务所 | [`05-zhu-wolf-office/`](05-zhu-wolf-office/) | 大木、小竹、狼峰、狼玛共同经营的独立事务所 |
-| 兽盾势力 | [`06-beastshield/`](06-beastshield/) | 兽盾相关敌对/官方势力角色 |
+| 兽盾势力 | [`05-beastshield/`](05-beastshield/) | 兽盾相关敌对/官方势力角色 |
 
 ---
 
@@ -44,7 +43,10 @@
 
 | 档案 | 角色名 | 种族 | 身份 | 首次登场 |
 |------|--------|------|------|---------|
-| [`03-allies/001-bei-ze.md`](03-allies/001-bei-ze.md) | 北泽 | 白熊兽人 | 市警局特别行动组组长 | vol3-ch17 |
+| [`03-allies/001-da-mu.md`](03-allies/001-da-mu.md) | 大木 | 棕熊兽人 | 兽盾调查组前成员 → "竹木狼玛峰事务所"合伙人 | vol1-ch18 / vol2-ch6 |
+| [`03-allies/002-xiao-zhu.md`](03-allies/002-xiao-zhu.md) | 小竹 | 雪豹兽人 | 调查组新成员/刺客 → "竹木狼玛峰事务所"合伙人 | vol2-ch12 |
+| [`03-allies/003-wolf-brothers.md`](03-allies/003-wolf-brothers.md) | 狼峰、狼玛 | 灰狼兽人 | 大木的小弟/调查组队员 → "竹木狼玛峰事务所"合伙人 | vol2-ch8 |
+| [`03-allies/004-bei-ze.md`](03-allies/004-bei-ze.md) | 北泽 | 白熊兽人 | 市警局特别行动组组长 | vol3-ch17 |
 
 ### 龙套/次要角色
 
@@ -59,14 +61,6 @@
 | [`04-minor/007-xiao-yan.md`](04-minor/007-xiao-yan.md) | 小岩 | 棕熊兽人 | 山中孤儿/棕熊父亲之子 | vol3-ch7 |
 | [`04-minor/008-brown-bear-father.md`](04-minor/008-brown-bear-father.md) | 棕熊父亲 | 棕熊兽人 | 山中猎人/小岩之父（已故） | vol3-ch7 |
 | [`04-minor/009-a-mo.md`](04-minor/009-a-mo.md) | 阿莫 | 鹿兽人（前噬精兽） | 旁系噬精兽 → 普通兽人（暂住竹木狼玛峰事务所） | vol4-ch3 |
-
-### 竹木狼玛峰事务所
-
-| 档案 | 角色名 | 种族 | 身份 | 首次登场 |
-|------|--------|------|------|---------|
-| [`05-zhu-wolf-office/001-da-mu.md`](05-zhu-wolf-office/001-da-mu.md) | 大木 | 棕熊兽人 | 兽盾调查组前成员 → "竹木狼玛峰事务所"合伙人 | vol1-ch18 / vol2-ch6 |
-| [`05-zhu-wolf-office/002-xiao-zhu.md`](05-zhu-wolf-office/002-xiao-zhu.md) | 小竹 | 雪豹兽人 | 调查组新成员/刺客 → "竹木狼玛峰事务所"合伙人 | vol2-ch12 |
-| [`05-zhu-wolf-office/003-wolf-brothers.md`](05-zhu-wolf-office/003-wolf-brothers.md) | 狼峰、狼玛 | 灰狼兽人 | 大木的小弟/调查组队员 → "竹木狼玛峰事务所"合伙人 | vol2-ch8 |
 
 ### 兽盾势力
 
