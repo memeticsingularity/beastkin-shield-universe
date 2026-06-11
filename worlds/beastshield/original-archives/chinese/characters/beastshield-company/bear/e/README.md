@@ -13,3 +13,5 @@
 | [⭐ 熊武斗兵营无名阵亡者](bear-e-vol-1-ch-12-massacre-remainder.md) | 熊兽人（集体） | vol-1-ch-12 余下无名武斗兵 | 已死亡 |
 | [bear-e-vol-1-ch-13-001](bear-e-vol-1-ch-13-001.md) | 灰熊兽人 | vol-1-ch-13 最后活口 | 已死亡 |
 | [bear-e-vol-2-ch-08-squad-leader](bear-e-vol-2-ch-08-squad-leader.md) | 熊兽人 | vol-2-ch-08 十一层炼药房组长 | 已死亡 |
+| [bear-e-yan-liang-ch-2-001](bear-e-yan-liang-ch-2-001.md) | 熊兽人 | 炎魉篇 ch-2 门口换班被炎逼供后拇指刮系带引爆射精而死 | 已死亡 |
+| [bear-e-yan-liang-ch-3-001](bear-e-yan-liang-ch-3-001.md) | 熊兽人 | 炎魉篇 ch-3 楼梯支援被熊猫胸口一点即毙 | 已死亡 |

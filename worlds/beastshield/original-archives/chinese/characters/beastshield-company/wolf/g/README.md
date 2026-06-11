@@ -14,3 +14,4 @@
 | [wolf-g-vol-3-ch-04-002](wolf-g-vol-3-ch-04-002.md) | 狼兽人 | vol-3-ch-04 酒店偷听者·被小豪口交后入致死 | 已死亡 |
 | [wolf-g-vol-3-ch-06-001](wolf-g-vol-3-ch-06-001.md) | 狼兽人 | vol-3-ch-06 五竹峰·持枪被老雷后入插死 | 已死亡 |
 | [⭐ wolf-g-vol-3-ch-11-white-guards](wolf-g-vol-3-ch-11-white-guards.md) | 狼兽人（两只·白制服） | vol-3-ch-11 光照会·辉董护卫被银北斗泄阳针多米诺射精而死 | 已死亡 |
+| [wolf-g-yan-liang-ch-1-001](wolf-g-yan-liang-ch-1-001.md) | 狼兽人 | 炎魉篇 ch-1 办公室报告没打完就被勒住运功27秒射精而死 | 已死亡 |

@@ -41,3 +41,6 @@
 | [tiger-g-vol-3-ch-14-001](tiger-g-vol-3-ch-14-001.md) | 黑虎兽人 | vol-3-ch-14 翠绿遗迹·站岗被魔影摸哨撸射而死 | 已死亡 |
 | [tiger-g-vol-3-ch-16-001](tiger-g-vol-3-ch-16-001.md) | 虎兽人 | vol-3-ch-16 浮岛混战·挥铁锤被狼特工后穴捅刀+捏爆卵蛋 | 已死亡 |
 | [tiger-g-mo-quan-ch-2-001](tiger-g-mo-quan-ch-2-001.md) | 棕虎兽人 | s-1-ch2-1 墨犬·搜捕队员被寸止救下 | 存活 |
+| [tiger-g-yan-liang-ch-1-001](tiger-g-yan-liang-ch-1-001.md) | 虎兽人 | 炎魉篇 ch-1 墙边巡逻被炎勒颈运功不到10秒破精关射精而死 | 已死亡 |
+| [tiger-g-yan-liang-ch-1-002](tiger-g-yan-liang-ch-1-002.md) | 虎兽人（蓝毛） | 炎魉篇 ch-1 被炎运功25秒后射精扔在地上哭着射精 | 已死亡 |
+| [tiger-g-yan-liang-ch-3-001](tiger-g-yan-liang-ch-3-001.md) | 虎兽人 | 炎魉篇 ch-3 跑进关押室误以为炎是同事被反手掏裆运功揉搓不到20秒跪地射精而死 | 已死亡 |
