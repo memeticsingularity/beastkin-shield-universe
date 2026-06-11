@@ -1,6 +1,6 @@
 # 兽盾农家乐（续写）/ Beastshield Farmhouse (Continuation)
 
-> 状态：已完成 · 编码：`bs-a-cs-13-farmhouse` · 作者：雨禾 · 最后更新：2026-06-08
+> 状态：第四卷更新中 · 编码：`bs-a-cs-13-farmhouse` · 作者：雨禾 · 最后更新：2026-06-11
 
 ---
 
@@ -19,6 +19,18 @@
 >
 > **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
 > 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+
+---
+
+## 快速导航 / Quick Links
+
+| 内容 | 路径 |
+|------|------|
+| **角色档案** | [`.process/settings/characters/`](.process/settings/characters/README.md) |
+| **故事设定** | [`notes/setting/story-setting.md`](notes/setting/story-setting.md) |
+| **作者完整原文** | [`original-text/兽盾农家乐-完整版.txt`](original-text/兽盾农家乐-完整版.txt) |
+| **创作讨论** | [`.process/discuss/`](.process/discuss/) |
+| **创作计划** | [`.process/plans/`](.process/plans/) |
 
 ---
 
@@ -47,7 +59,7 @@ Yet beneath the surface warmth lies a deeper conspiracy. The true buyers of the 
 ## 二、内容标签与核心元素 / Content Tags & Core Elements
 
 ### 🐾 物种 / Species
-牛 `Bull` · 黑熊 `Black Bear` · 野猪 `Wild Boar` · 虎 `Tiger` · 灰狼 `Gray Wolf` · 德牧 `German Shepherd` · 雪纳瑞 `Schnauzer` · 棕熊 `Brown Bear` · 雪豹 `Snow Leopard`
+牛 `Bull` · 黑熊 `Black Bear` · 野猪 `Wild Boar` · 虎 `Tiger` · 灰狼 `Gray Wolf` · 德牧 `German Shepherd` · 雪纳瑞 `Schnauzer` · 棕熊 `Brown Bear` · 雪豹 `Snow Leopard` · 大白熊 `Polar Bear` · 鹿 `Deer` · 黑豹 `Black Panther` · 犀牛 `Rhinoceros`
 
 ### 🔞 情色与身体 / Erotic & Bodily
 `强制榨精` `精液肥料` `性器官详细描写` `自慰控精` `射精死亡/濒死` `体液描写` `勃起控制` `性器官喂食`
@@ -113,6 +125,7 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 | 第一卷 | 挣扎着的人们 | 25章 | 已完成 | [阅读](chapters/volume-1/README.md) |
 | 第二卷 | 一同着的生活 | 25章 | 已完成 | [阅读](chapters/volume-2/README.md) |
 | 第三卷 | 散开，相连着的人们 | 25章 | 已完成 | [阅读](chapters/volume-3/README.md) |
+| 第四卷 | 我和我们共同的未来（上） | 5章（更新中） | 更新中 | [阅读](chapters/volume-4/README.md) |
 
 ---
 
@@ -130,6 +143,8 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 | 大木 | 棕熊兽人 | 兽盾调查组前成员 | Vol.2 Ch.6落魄造访；Ch.8与狼峰狼玛重逢后离开；临走前警告雷克斯是监视者 |
 | 小竹 | 雪豹兽人 | 兽盾调查组前成员 → 农家乐成员 | Vol.2 Ch.12误以为队友被害前来报仇；得知真相后留下，Ch.16被大木接走 |
 | 刘昴 | 野猪兽人 | 影牙小队压轴成员 | Vol.2 Ch.15正面挑战老夯；被老夯崩溃打倒后；Ch.15夜被雷克斯带队逮捕 |
+| 北泽 | 大白熊兽人 | 市警局特别行动组组长 | Vol.4 Ch.1正式与谷之家达成合作，任命老周、雷克斯为特派警员 |
+| 阿莫 | 鹿兽人（前噬精兽） | 旁系噬精兽 → 普通兽人 | Vol.4 Ch.3被小谷追踪捕获，误认小谷为"纯血大人"；Ch.4服下终极作物成功转化 |
 
 ---
 
@@ -143,8 +158,9 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 ## 五、创作留痕 / Creation Trail
 
 - [故事设定档案](notes/setting/story-setting.md)
+- [角色档案总览](.process/settings/characters/README.md)
 - [作者完整原文（三卷全本）](original-text/兽盾农家乐-完整版.txt)
 
 ---
 
-*最后更新：2026-06-08 · Last updated: 2026-06-08*
+*最后更新：2026-06-11 · Last updated: 2026-06-11*
