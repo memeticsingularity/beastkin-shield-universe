@@ -10,9 +10,9 @@
 | 分类 | 目录 | 说明 |
 |------|------|------|
 | 主角 | [`01-protagonist/`](01-protagonist/) | 故事核心主角 |
-| 被捕获者 | [`02-captured/`](02-captured/) | 曾被小谷捕获，后转为农场成员的角色 |
-| 盟友 | [`03-allies/`](03-allies/) | 非被捕获的盟友与合作者 |
-| 龙套 | [`04-minor/`](04-minor/) | 仅短暂出现或仅被提及的次要角色 |
+| 谷之家成员 | [`02-members/`](02-members/) | 谷之家的核心成员，包括被捕获后转正的、收编的、从敌人转为同伴的 |
+| 盟友 | [`03-allies/`](03-allies/) | 外部盟友与合作者（非谷之家常住成员） |
+| 龙套/次要角色 | [`04-minor/`](04-minor/) | 仅短暂出现、已退场、或尚未深度融入故事主线的角色 |
 
 ---
 
@@ -24,14 +24,18 @@
 |------|--------|------|------|---------|
 | [`01-protagonist/001-xiao-gu.md`](01-protagonist/001-xiao-gu.md) | 小谷 | 牛兽人 | 农场主/餐厅老板 | vol1-ch1 |
 
-### 被捕获者（后转为成员）
+### 谷之家成员
 
 | 档案 | 角色名 | 种族 | 身份 | 首次登场 |
 |------|--------|------|------|---------|
-| [`02-captured/001-a-tie.md`](02-captured/001-a-tie.md) | 阿铁 | 黑熊兽人 | 第一个跟班 | vol1-ch1 |
-| [`02-captured/002-liu-hang.md`](02-captured/002-liu-hang.md) | 刘夯（老夯） | 野猪兽人 | 第二个跟班/后勤总管 | vol1-ch4 |
-| [`02-captured/003-hu-che.md`](02-captured/003-hu-che.md) | 虎彻 | 老虎兽人 | 前私有财产 → 谷之家核心成员 | vol1-ch3 |
-| [`02-captured/004-lao-zhou.md`](02-captured/004-lao-zhou.md) | 老周 | 灰狼兽人 | 兽盾前小队长 → 市警局特派警员（官复原职） | vol1-ch2 |
+| [`02-members/001-a-tie.md`](02-members/001-a-tie.md) | 阿铁 | 黑熊兽人 | 第一个跟班 | vol1-ch1 |
+| [`02-members/002-liu-hang.md`](02-members/002-liu-hang.md) | 刘夯（老夯） | 野猪兽人 | 第二个跟班/后勤总管 | vol1-ch4 |
+| [`02-members/003-hu-che.md`](02-members/003-hu-che.md) | 虎彻 | 老虎兽人 | 前私有财产 → 谷之家核心成员 | vol1-ch3 |
+| [`02-members/004-lao-zhou.md`](02-members/004-lao-zhou.md) | 老周 | 灰狼兽人 | 兽盾前小队长 → 市警局特派警员（官复原职） | vol1-ch2 |
+| [`02-members/005-a-hao.md`](02-members/005-a-hao.md) | 阿豪 | 黑豹兽人 | 肥料→遣散 → 重返谷之家 → 核心成员 | vol1-ch16 |
+| [`02-members/006-liu-mao.md`](02-members/006-liu-mao.md) | 刘昴 | 野猪兽人 | 前影牙小队压轴成员/老夯之弟 → 完全脱离兽盾 | vol2-ch15 |
+| [`02-members/007-tie-jiao.md`](02-members/007-tie-jiao.md) | 铁角 | 犀牛兽人 | 刘昴的犀牛副官（前）→ 已辞职，安心留在谷之家 | vol2-ch15 |
+| [`02-members/008-lao-he.md`](02-members/008-lao-he.md) | 老何 | 河马兽人 | 谷之家隔壁小吃摊主 / 编外成员 | vol3-ch4 |
 
 ### 盟友
 
@@ -43,28 +47,24 @@
 | [`03-allies/004-xiao-zhu.md`](03-allies/004-xiao-zhu.md) | 小竹 | 雪豹兽人 | 调查组新成员/刺客 → "竹木狼玛峰事务所"合伙人 | vol2-ch12 |
 | [`03-allies/005-bei-ze.md`](03-allies/005-bei-ze.md) | 北泽 | 白熊兽人 | 市警局特别行动组组长 | vol3-ch17 |
 
-### 龙套
+### 龙套/次要角色
 
 | 档案 | 角色名 | 种族 | 身份 | 首次登场 |
 |------|--------|------|------|---------|
 | [`04-minor/001-leopard-deceased.md`](04-minor/001-leopard-deceased.md) | 未知 | 豹兽人 | 肥料（已死亡） | vol1-ch7 |
 | [`04-minor/002-a-chang.md`](04-minor/002-a-chang.md) | 阿常 | 斑鬣狗兽人 | 肥料→转正→遣散 | vol1-ch5 |
 | [`04-minor/003-wolf-pair.md`](04-minor/003-wolf-pair.md) | 未知×2 | 狼兽人 | 肥料 | vol1-ch5 |
-| [`04-minor/004-a-hao.md`](04-minor/004-a-hao.md) | 阿豪 | 黑豹兽人 | 肥料→遣散 → 重返谷之家 → 核心成员 | vol1-ch16 |
-| [`04-minor/005-flower-leopard.md`](04-minor/005-flower-leopard.md) | 未知 | 花豹兽人 | 肥料（选择留下） | vol1-ch18 |
-| [`04-minor/006-basement-trio.md`](04-minor/006-basement-trio.md) | 未知×3 | 多种族 | 顽固分子（被带走） | vol1-ch20 |
-| [`04-minor/007-investigators.md`](04-minor/007-investigators.md) | 未知×3 | 两只狼+棕熊 | 兽盾调查组 | vol1-ch18 |
-| [`04-minor/008-others.md`](04-minor/008-others.md) | 未知若干 | 多种族 | 后棚其他无名肥料 | vol1-ch3 起 |
-| [`04-minor/009-wolf-brothers.md`](04-minor/009-wolf-brothers.md) | 狼峰、狼玛 | 灰狼兽人 | 大木的小弟/调查组队员 → "竹木狼玛峰事务所"合伙人 | vol2-ch8 |
-| [`04-minor/010-liu-mao.md`](04-minor/010-liu-mao.md) | 刘昴 | 野猪兽人 | 前影牙小队压轴成员/老夯之弟 → 完全脱离兽盾 | vol2-ch15 |
-| [`04-minor/011-chameleon.md`](04-minor/011-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
-| [`04-minor/012-scarred-black-wolf.md`](04-minor/012-scarred-black-wolf.md) | 未知 | 黑狼兽人 | 兽盾黑制服/Z市地头蛇 | vol3-ch2 |
-| [`04-minor/013-tie-jiao.md`](04-minor/013-tie-jiao.md) | 铁角 | 犀牛兽人 | 刘昴的犀牛副官（前）→ 已辞职，安心留在谷之家 | vol2-ch15 |
-| [`04-minor/014-lao-kan.md`](04-minor/014-lao-kan.md) | 老坎 | 野猪兽人 | 迷路的兽盾兵/小岩的临时父亲 | vol3-ch7 |
-| [`04-minor/015-xiao-yan.md`](04-minor/015-xiao-yan.md) | 小岩 | 棕熊兽人 | 山中孤儿/棕熊父亲之子 | vol3-ch7 |
-| [`04-minor/016-brown-bear-father.md`](04-minor/016-brown-bear-father.md) | 棕熊父亲 | 棕熊兽人 | 山中猎人/小岩之父（已故） | vol3-ch7 |
-| [`04-minor/017-lao-he.md`](04-minor/017-lao-he.md) | 老何 | 河马兽人 | 谷之家隔壁小吃摊主 / 编外成员 | vol3-ch4 |
-| [`04-minor/018-a-mo.md`](04-minor/018-a-mo.md) | 阿莫 | 鹿兽人（前噬精兽） | 旁系噬精兽 → 普通兽人 | vol4-ch3 |
+| [`04-minor/004-flower-leopard.md`](04-minor/004-flower-leopard.md) | 未知 | 花豹兽人 | 肥料（选择留下） | vol1-ch18 |
+| [`04-minor/005-basement-trio.md`](04-minor/005-basement-trio.md) | 未知×3 | 多种族 | 顽固分子（被带走） | vol1-ch20 |
+| [`04-minor/006-investigators.md`](04-minor/006-investigators.md) | 未知×3 | 两只狼+棕熊 | 兽盾调查组 | vol1-ch18 |
+| [`04-minor/007-others.md`](04-minor/007-others.md) | 未知若干 | 多种族 | 后棚其他无名肥料 | vol1-ch3 起 |
+| [`04-minor/008-wolf-brothers.md`](04-minor/008-wolf-brothers.md) | 狼峰、狼玛 | 灰狼兽人 | 大木的小弟/调查组队员 → "竹木狼玛峰事务所"合伙人 | vol2-ch8 |
+| [`04-minor/009-chameleon.md`](04-minor/009-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
+| [`04-minor/010-scarred-black-wolf.md`](04-minor/010-scarred-black-wolf.md) | 未知 | 黑狼兽人 | 兽盾黑制服/Z市地头蛇 | vol3-ch2 |
+| [`04-minor/011-lao-kan.md`](04-minor/011-lao-kan.md) | 老坎 | 野猪兽人 | 迷路的兽盾兵/小岩的临时父亲 | vol3-ch7 |
+| [`04-minor/012-xiao-yan.md`](04-minor/012-xiao-yan.md) | 小岩 | 棕熊兽人 | 山中孤儿/棕熊父亲之子 | vol3-ch7 |
+| [`04-minor/013-brown-bear-father.md`](04-minor/013-brown-bear-father.md) | 棕熊父亲 | 棕熊兽人 | 山中猎人/小岩之父（已故） | vol3-ch7 |
+| [`04-minor/014-a-mo.md`](04-minor/014-a-mo.md) | 阿莫 | 鹿兽人（前噬精兽） | 旁系噬精兽 → 普通兽人（暂住竹木狼玛峰事务所） | vol4-ch3 |
 
 ---
 
