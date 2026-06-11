@@ -6,6 +6,7 @@
 |------|------|---------|------|
 | [bull-g-vol-1-ch-02-001](bull-g-vol-1-ch-02-001.md) | 牛兽人 | vol-1-ch-02 仓库逃脱 | 已死亡 |
 | [bull-g-vol-1-ch-03-001](bull-g-vol-1-ch-03-001.md) | 红牛兽人 | vol-1-ch-03 卡车司机 | 已死亡 |
+| [bull-g-vol-1-ch-07-niuza](bull-g-vol-1-ch-07-niuza.md) | 黄皮牛兽人（牛杂） | vol-1-ch-07 主角部下·训练测试 | 存活 |
 | [bull-g-vol-1-ch-09-001](bull-g-vol-1-ch-09-001.md) | 黑皮牛兽人 | vol-1-ch-09 大厅最强壮 | 已死亡 |
 | [bull-g-vol-1-ch-09-002](bull-g-vol-1-ch-09-002.md) | 红牛兽人 | vol-1-ch-09 大厅被割喉 | 已死亡 |
 | [bull-g-vol-1-ch-09-003](bull-g-vol-1-ch-09-003.md) | 水牛兽人 | vol-1-ch-09 锁门偷袭者 | 已死亡 |

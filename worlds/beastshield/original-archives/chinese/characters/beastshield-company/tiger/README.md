@@ -59,8 +59,8 @@
 | [虎兽人（浮岛混战·挥铁锤被狼特工后穴捅刀捏爆卵蛋）](g/tiger-g-vol-3-ch-16-001.md) | G级 | 浮岛·混战中挥舞铁锤被狼特工绕后捅入后穴后捏爆卵蛋喷射虎精而死 | vol-3-ch-16 | 已死亡 |
 | [棕虎兽人（墨犬·搜捕队员被寸止救下）](g/tiger-g-mo-quan-ch-2-001.md) | G级 | 山间·搜捕黑狗时被握虎鞭拷问至射精后被寸止救下 | s-1-ch2-1 | 存活 |
 | [虎队长（武斗部队）](e/tiger-captain-combat.md) | E级 | 武斗部队队长 | vol-1-ch-06 ~ ch-10 | 已死亡 |
-| [虎组长（虎卫组组长）](e/tiger-e-vol-2-ch-04-squad-leader.md) | E级 | 虎卫组组长 | vol-2-ch-04 | 已死亡 |
 | [⭐ 虎武斗兵营全灭](e/tiger-e-vol-1-ch-12-massacre.md) | E级集体 | 熊猫屠营 | vol-1-ch-12 | 全员覆灭 |
+| [虎组长（虎卫组组长）](e/tiger-e-vol-2-ch-04-squad-leader.md) | E级 | 虎卫组组长 | vol-2-ch-04 | 已死亡 |
 | [仓库虎小队长](o/tiger-o-vol-1-ch-02-squad-leader.md) | O级 | 仓库小队长 | vol-1-ch-02 | 已死亡 |
 | [蓝制服虎兽人（提拔测试坚持最久）](o/tiger-o-vol-3-ch-01-001.md) | O级 | 保职考核·精液喷脸测试官 | vol-3-ch-01 | 已死亡 |
 | [虎队长（武馆屠杀·蓝制服红光眼）](o/tiger-o-vol-3-ch-02-squad-leader.md) | O级 | 武馆屠杀领队·双腿夹断熊馆长脖子 | vol-3-ch-02 | 存活 |

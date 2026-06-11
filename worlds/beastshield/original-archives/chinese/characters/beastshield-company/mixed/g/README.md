@@ -22,10 +22,10 @@
 | [⭐ mixed-g-vol-3-ch-09-burned-rescuers](mixed-g-vol-3-ch-09-burned-rescuers.md) | 多种（约3-4名） | vol-3-ch-09 浮岛·被邪火点燃烧死 | 已死亡 |
 | [⭐ mixed-g-vol-3-ch-13-formation-massacre](mixed-g-vol-3-ch-13-formation-massacre.md) | 多种（八名） | vol-3-ch-13 浮岛·被龙武神水滴串糖葫芦穿脑而死 | 已死亡 |
 | [⭐ mixed-g-vol-3-ch-15-burned-soldiers](mixed-g-vol-3-ch-15-burned-soldiers.md) | 多种（十余名） | vol-3-ch-15 龙神大战·被五行封禁反噬的纯阳烈火焚身 | 部分死亡·部分重伤 |
+| [⭐ 炎魉·第一章：办公室诱杀](mixed-g-yan-liang-ch-1.md) | 虎/狗/白熊/狼/熊/犀牛/牛/野猪（8+1） | 炎魉篇 ch-1 新兵基地办公室诱杀9守卫 | 已死亡 |
+| [⭐ 炎魉·第二章：办公室清剿](mixed-g-yan-liang-ch-2.md) | 熊/虎/狗/狮（E+R级） | 炎魉篇 ch-2 深入基地清剿4名武斗/枪械兵 | 已死亡 |
+| [⭐ 炎魉·第三章：基地激战](mixed-g-yan-liang-ch-3.md) | 大量（各等级混合） | 炎魉篇 ch-3 会议室屠杀+楼梯无双+牙董逼杀 | 已死亡 |
 | [⭐ mixed-g-ss-002-blackstone](mixed-g-ss-002-blackstone.md) | 熊/虎/牛/野猪/狗（7名） | s-02 黑石·旅馆猎杀 | 已死亡 |
 | [⭐ mixed-g-ss-004-captive-delivery](mixed-g-ss-004-captive-delivery.md) | 虎兽人·牛兽人（W级） | s-04 俘虏快递·木箱处决 | 已死亡 |
 | [⭐ mixed-g-ss-005-employee-diary](mixed-g-ss-005-employee-diary.md) | 野牛/野猪/水牛/白虎/棕熊/白熊/虎队长（6+E) | s-05 兽盾员工的一天·营地屠戮 | 已死亡 |
 | [⭐ mixed-g-ss-007-graduation-internship](mixed-g-ss-007-graduation-internship.md) | 牛/狗/熊/豹/虎（6名） | s-07 毕业实习·仓库屠杀 | 已死亡 |
-| [⭐ 炎魉·第一章：办公室诱杀](mixed-g-yan-liang-ch-1.md) | 虎/狗/白熊/狼/熊/犀牛/牛/野猪（8+1） | 炎魉篇 ch-1 新兵基地办公室诱杀9守卫 | 已死亡 |
-| [⭐ 炎魉·第二章：办公室清剿](mixed-g-yan-liang-ch-2.md) | 熊/虎/狗/狮（E+R级） | 炎魉篇 ch-2 深入基地清剿4名武斗/枪械兵 | 已死亡 |
-| [⭐ 炎魉·第三章：基地激战](mixed-g-yan-liang-ch-3.md) | 大量（各等级混合） | 炎魉篇 ch-3 会议室屠杀+楼梯无双+牙董逼杀 | 已死亡 |
