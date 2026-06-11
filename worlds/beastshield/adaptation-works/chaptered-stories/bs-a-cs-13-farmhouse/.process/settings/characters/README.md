@@ -22,7 +22,7 @@
 
 | 档案 | 角色名 | 种族 | 身份 | 首次登场 |
 |------|--------|------|------|---------|
-| [`01-protagonist/001-xiao-gu.md`](01-protagonist/001-xiao-gu.md) | 小谷 | 牛兽人 | 农场主/餐厅老板 | vol1-ch1 |
+| [`01-protagonist/001-gu-yao.md`](01-protagonist/001-gu-yao.md) | 谷遥（小谷） | 牛兽人 | 谷之家之主 | vol1-ch1 |
 
 ### 谷之家成员
 
@@ -31,7 +31,7 @@
 | [`02-members/001-a-tie.md`](02-members/001-a-tie.md) | 阿铁 | 黑熊兽人 | 第一个跟班 | vol1-ch1 |
 | [`02-members/002-liu-hang.md`](02-members/002-liu-hang.md) | 刘夯（老夯） | 野猪兽人 | 第二个跟班/后勤总管 | vol1-ch4 |
 | [`02-members/003-hu-che.md`](02-members/003-hu-che.md) | 虎彻 | 老虎兽人 | 前私有财产 → 谷之家核心成员 | vol1-ch3 |
-| [`02-members/004-lao-zhou.md`](02-members/004-lao-zhou.md) | 老周 | 灰狼兽人 | 兽盾前小队长 → 市警局特派警员（官复原职） | vol1-ch2 |
+| [`02-members/004-zhou-yu.md`](02-members/004-zhou-yu.md) | 周宇（老周） | 灰狼兽人 | 兽盾前小队长 → 市警局特派警员（官复原职） | vol1-ch2 |
 | [`02-members/005-a-hao.md`](02-members/005-a-hao.md) | 阿豪 | 黑豹兽人 | 肥料→遣散 → 重返谷之家 → 核心成员 | vol1-ch16 |
 | [`02-members/006-liu-mao.md`](02-members/006-liu-mao.md) | 刘昴 | 野猪兽人 | 前影牙小队压轴成员/老夯之弟 → 完全脱离兽盾 | vol2-ch15 |
 | [`02-members/007-tie-jiao.md`](02-members/007-tie-jiao.md) | 铁角 | 犀牛兽人 | 刘昴的犀牛副官（前）→ 已辞职，安心留在谷之家 | vol2-ch15 |
