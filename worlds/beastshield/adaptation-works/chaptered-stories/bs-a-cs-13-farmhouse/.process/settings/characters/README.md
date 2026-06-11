@@ -13,7 +13,7 @@
 | 谷之家成员 | [`02-members/`](02-members/) | 谷之家的核心成员，包括被捕获后转正的、收编的、从敌人转为同伴的 |
 | 盟友 | [`03-allies/`](03-allies/) | 外部盟友与合作者，包括竹木狼玛峰事务所众人和市警局北泽 |
 | 龙套/次要角色 | [`04-minor/`](04-minor/) | 仅短暂出现、已退场、或尚未深度融入故事主线的角色 |
-| 兽盾势力 | [`05-beastshield/`](05-beastshield/) | 兽盾相关敌对/官方势力角色 |
+| 兽盾势力 | [`06-beastshield/`](06-beastshield/) | 兽盾相关敌对/官方势力角色 |
 
 ---
 
@@ -72,6 +72,7 @@
 | [`06-beastshield/003-scarred-black-wolf.md`](06-beastshield/003-scarred-black-wolf.md) | 未知 | 黑狼兽人 | 兽盾黑制服/Z市地头蛇 | vol3-ch2 |
 | [`06-beastshield/004-dr-gu.md`](06-beastshield/004-dr-gu.md) | 古博士 | 雪纳瑞狗兽人 | 生化学家/种子供应者 → 兽盾噬精兽研究员（已死亡） | vol1-ch1 |
 | [`06-beastshield/005-shadow-fang-electric-pair.md`](06-beastshield/005-shadow-fang-electric-pair.md) | 未知×2 | 未明确 | 影牙小队刺客（被电网电晕送警局） | vol2-ch11 |
+| [`06-beastshield/006-white-wolf-bounty-hunter.md`](06-beastshield/006-white-wolf-bounty-hunter.md) | 未知 | 白狼兽人 | 雇佣赏金猎人（杀死老何，被雷克斯击毙） | vol3-ch16 |
 
 ---
 
