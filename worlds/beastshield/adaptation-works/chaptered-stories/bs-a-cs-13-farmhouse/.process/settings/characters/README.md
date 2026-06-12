@@ -63,7 +63,7 @@
 | [`04-minor/009-a-mo.md`](04-minor/009-a-mo.md) | 阿莫 | 鹿兽人（前噬精兽） | 旁系噬精兽 → 普通兽人（暂住竹木狼玛峰事务所） | vol4-ch3 |
 | [`04-minor/010-a-zhuang.md`](04-minor/010-a-zhuang.md) | 阿壮 | 牛兽人 | Z市酒吧顾客/阿常的暧昧对象 | vol3-ch3 |
 | [`04-minor/011-number-two.md`](04-minor/011-number-two.md) | 2号 | 牛兽人（红眼） | 古博士制造的复制体/"完美继承者"候选 | vol4-ch7 |
-| [`04-minor/012-a-lan.md`](04-minor/012-a-lan.md) | 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡/疑似小谷前身） | vol2-ch18 |
+| [`04-minor/012-a-lan.md`](04-minor/012-a-lan.md) | 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡，外貌与小谷几乎相同） | vol2-ch18 |
 
 ### 兽盾势力
 

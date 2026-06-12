@@ -42,7 +42,7 @@
 
 随着规模扩大，小谷逐渐从单纯的复仇快意转向经营野心，手下跟班之间复杂的忠诚与裂痕让这条黑暗道路愈发动荡不安。当一个又一个曾经的"敌人"变成"自己人"，当德牧警官雷克斯意外闯入这个畸形的大家庭，农家乐的性质也在悄然改变——从黑暗的复仇工具，逐渐变成一个温暖而离谱的奇特家庭。
 
-然而，表面的温馨之下隐藏着更深的黑幕。农家乐种植的特殊作物，真正的买家是兽盾精英贵族圈中的"噬精兽"——以兽人精液为食的隐秘阶层。小谷的爷爷毕生研究的是将噬精兽转化为普通兽人的解药，而古博士正是兽盾研究所的噬精兽研究员。当这一切被雷克斯揭露，当老周（前周警官）为复活死去的搭档阿岚——那个可能正是小谷本人的牛兽人——而扣下麻醉枪的扳机，这个畸形大家庭的裂痕终于撕裂到了最核心的地方。
+然而，表面的温馨之下隐藏着更深的黑幕。农家乐种植的特殊作物，真正的买家是兽盾精英贵族圈中的"噬精兽"——以兽人精液为食的隐秘阶层。小谷的爷爷毕生研究的是将噬精兽转化为普通兽人的解药，而古博士正是兽盾研究所的噬精兽研究员。当这一切被雷克斯揭露，当老周（前周警官）为复活死去的搭档阿岚——那个与小谷外貌几乎一模一样的牛兽人——而扣下麻醉枪的扳机，这个畸形大家庭的裂痕终于撕裂到了最核心的地方。
 
 ---
 
@@ -52,7 +52,7 @@
 
 As his operation grows, his motivations shift from pure revenge to genuine ambition, while the complex loyalties and fractures among his recruits make his dark path increasingly volatile. As one former "enemy" after another becomes "family," and when police officer Rex unexpectedly stumbles into this twisted household, the farmhouse begins to transform—from a tool of dark vengeance into a warm, absurd, and unconventional family.
 
-Yet beneath the surface warmth lies a deeper conspiracy. The true buyers of the farm's special crops are the "Semivores"—an elite circle within Beastshield that feeds on beastman semen. Xiao Gu's grandfather dedicated his life to developing a cure that could transform Semivores back into ordinary beastkin, while Dr. Gu is revealed to be a Semivore researcher working for Beastshield. When Rex exposes these truths, and when Lao Zhou—a former police officer—fires a tranquilizer gun to abduct Xiao Gu in a desperate attempt to resurrect his dead partner A Lan (who may be Xiao Gu himself), the fracture at the heart of this twisted family finally tears wide open.
+Yet beneath the surface warmth lies a deeper conspiracy. The true buyers of the farm's special crops are the "Semivores"—an elite circle within Beastshield that feeds on beastman semen. Xiao Gu's grandfather dedicated his life to developing a cure that could transform Semivores back into ordinary beastkin, while Dr. Gu is revealed to be a Semivore researcher working for Beastshield. When Rex exposes these truths, and when Lao Zhou—a former police officer—fires a tranquilizer gun to abduct Xiao Gu in a desperate attempt to resurrect his dead partner A Lan (a bull beastkin who looks almost exactly like Xiao Gu), the fracture at the heart of this twisted family finally tears wide open.
 
 ---
 
@@ -133,11 +133,11 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 
 | 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
 |--------|------|----------|---------------|
-| 小谷 | 牛兽人 | 农场主/餐厅老板 | 主角。Vol.1为社畜逆袭的黑暗农场主；Vol.2被揭露可能曾是老周死去的搭档"阿岚"（前周警官），食用过血精石终极造物而失忆 |
+| 小谷 | 牛兽人 | 农场主/餐厅老板 | 主角。Vol.1为社畜逆袭的黑暗农场主；Vol.2被卷入古博士的噬精兽研究，食用血精石终极造物后失忆并转化为噬精兽；Vol.3-Vol.4逐渐掌控力量，带领谷之家与警方合作 |
 | 阿铁 | 黑熊兽人 | 兽盾前巡逻队员 → 跟班 | Vol.1 Ch.1被捕获后成为第一个跟班；对虎彻有旧情；Vol.2成为农场核心战力 |
 | 刘夯（老夯） | 野猪兽人 | 兽盾前基层员工 → 跟班 | Vol.1 Ch.4被收编；老实憨厚，真心依赖小谷；Vol.2 Ch.15与失散多年的弟弟刘昴相认后崩溃 |
 | 虎彻 | 老虎兽人 | 兽盾前小队长 → 私有财产 → 核心成员 | Vol.1 Ch.3被捕获；Ch.9沦为最低等私有财产（戴项圈）；Vol.2逐渐融入大家庭，与阿铁保持关系 |
-| 老周 | 灰狼兽人 | 兽盾前小队长 → 市警局特派警员（官复原职）/ 谷之家成员 | Vol.1 Ch.6被遗忘在地下室；苏醒后爱上小谷；Vol.2 Ch.19揭露真实身份为前周警官，为复活搭档阿岚而背叛；Vol.4 官复原职，与雷克斯一同特派驻扎谷之家 |
+| 老周 | 灰狼兽人 | 兽盾前小队长 → 市警局特派警员（官复原职）/ 谷之家成员 | Vol.1 Ch.6被遗忘在地下室；苏醒后爱上小谷；Vol.2 Ch.19揭露真实身份为前周警官，因小谷外貌酷似已故搭档阿岚而被古博士诱导背叛；Vol.4 官复原职，与雷克斯一同特派驻扎谷之家 |
 | 雷克斯 | 德牧兽人 | 市警局特别行动组负责人（前）→ 市警局特派警员（官复原职）/ 谷之家核心成员 | Vol.1 Ch.21登场调查；Ch.25正式加入；Vol.2揭露其同时执行监视任务；Vol.4 官复原职，作为特派警员常驻谷之家 |
 | 古博士 | 雪纳瑞狗兽人 | 生化学家 → **兽盾噬精兽研究员**（已死亡） | Vol.1作为爷爷的同事提供种子；Vol.2 Ch.16被雷克斯揭露真实身份——兽盾研究所研究员，本身是噬精兽，将小谷的作物提供给兽盾精英圈；Vol.3 被雷克斯虐杀于谷之家田地 |
 | 白狼赏金猎人 | 白狼兽人 | 雇佣刺客（已死亡） | Vol.3 Ch.16趁乱偷袭老何摊位，将其虐杀致死；随即被崩溃的雷克斯一枪击毙，成为雷克斯跨过底线的导火索 |
@@ -147,7 +147,7 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 | 刘昴 | 野猪兽人 | 前影牙小队压轴成员/老夯之弟 → 完全脱离兽盾 | Vol.2 Ch.15正面挑战老夯；被老夯崩溃打倒后；Ch.15夜被雷克斯带队逮捕；Vol.4 已辞职脱离兽盾，安心留在谷之家 |
 | 阿莫 | 鹿兽人（前噬精兽） | 旁系噬精兽 → 普通兽人 | Vol.4 Ch.3被小谷追踪捕获，误认小谷为"纯血大人"；Ch.4服下终极作物成功转化 |
 | 2号 | 牛兽人（红眼） | 古博士制造的复制体/"完美继承者"候选 | Vol.4 Ch.7在废弃实验室隔离室登场，与小谷产生灵魂共鸣，称小谷为"弟弟" |
-| 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡/疑似小谷前身） | Vol.2 Ch.18被老周提及，Ch.19揭示其死亡真相与小谷身份疑云 |
+| 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡） | Vol.2 Ch.18被老周提及，Ch.19揭示其死亡真相；外貌与小谷几乎一模一样，但两人为独立个体 |
 | 北泽 | 大白熊兽人 | 市警局特别行动组组长 | Vol.4 Ch.1正式与谷之家达成合作，任命老周、雷克斯为特派警员 |
 
 ---
