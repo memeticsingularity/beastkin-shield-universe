@@ -47,3 +47,6 @@
 | [tiger-g-yan-liang-ch-1-001](tiger-g-yan-liang-ch-1-001.md) | 虎兽人 | 炎魉篇 ch-1 墙边巡逻被炎勒颈运功不到10秒破精关射精而死 | 已死亡 |
 | [tiger-g-yan-liang-ch-1-002](tiger-g-yan-liang-ch-1-002.md) | 虎兽人（蓝毛） | 炎魉篇 ch-1 被炎运功25秒后射精扔在地上哭着射精 | 已死亡 |
 | [tiger-g-yan-liang-ch-3-001](tiger-g-yan-liang-ch-3-001.md) | 虎兽人 | 炎魉篇 ch-3 跑进关押室误以为炎是同事被反手掏裆运功揉搓不到20秒跪地射精而死 | 已死亡 |
+| [tiger-g-ss-002-001](tiger-g-ss-002-001.md) | 虎兽人 | s-02 黑石·旅馆被黑石胸肌夹头窒息 | 已死亡 |
+| [tiger-g-ss-005-001](tiger-g-ss-005-001.md) | 白虎兽人 | s-05 员工的一天·最后一名被红虎干掉 | 已死亡 |
+| [tiger-g-ss-007-001](tiger-g-ss-007-001.md) | 黄虎兽人 | s-07 毕业实习·掏枪被雷炎寰扭断脖子 | 已死亡 |

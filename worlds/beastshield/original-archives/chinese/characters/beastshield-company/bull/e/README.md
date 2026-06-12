@@ -11,3 +11,4 @@
 | [bull-e-vol-2-ch-10-hell-bull](bull-e-vol-2-ch-10-hell-bull.md) | 异形种牛兽人（冥府牛头） | vol-2-ch-10 十三层刑房组长 | 已死亡 |
 | [bull-e-yan-liang-ch-3-001](bull-e-yan-liang-ch-3-001.md) | 牛兽人（棕皮） | 炎魉篇 ch-3 会议室门口站岗被银针封穴站着被撸射而死 | 已死亡 |
 | [bull-e-yan-liang-ch-3-002](bull-e-yan-liang-ch-3-002.md) | 牛兽人 | 炎魉篇 ch-3 基地失守被牙董逼令脱裤自撸射精而死 | 已死亡 |
+| [bull-e-ss-003-001](bull-e-ss-003-001.md) | 牛兽人（黑制服） | s-03 黑石2·深夜加练被黑石撸射二十发 | 已死亡 |

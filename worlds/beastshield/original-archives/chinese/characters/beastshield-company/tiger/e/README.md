@@ -12,3 +12,5 @@
 | [tiger-e-vol-2-ch-04-squad-leader](tiger-e-vol-2-ch-04-squad-leader.md) | 虎兽人 | vol-2-ch-04 虎卫组组长 | 已死亡 |
 | [tiger-e-yan-liang-ch-3-001](tiger-e-yan-liang-ch-3-001.md) | 虎兽人（白虎） | 炎魉篇 ch-3 会议室门口站岗被银针封穴站着被撸射而死 | 已死亡 |
 | [tiger-e-yan-liang-ch-3-002](tiger-e-yan-liang-ch-3-002.md) | 虎兽人（两只） | 炎魉篇 ch-3 持电击棒攻击熊猫被闪避后在腰背点穴射精而死 | 已死亡 |
+| [tiger-e-ss-002-001](tiger-e-ss-002-001.md) | 虎兽人（黑制服） | s-02 黑石·旅馆酒醉被黑石爆菊灌精 | 已死亡 |
+| [tiger-e-ss-005-001](tiger-e-ss-005-001.md) | 虎兽人（黑制服·队长） | s-05 员工的一天·被红虎一拳打死 | 已死亡 |

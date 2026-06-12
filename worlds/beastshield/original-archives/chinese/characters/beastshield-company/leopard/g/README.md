@@ -15,3 +15,4 @@
 | [leopard-g-vol-2-ch-14-001](leopard-g-vol-2-ch-14-001.md) | 豹兽人 | vol-2-ch-14 蟒蛇岛主营·精液喷脸自行射精 | 已死亡 |
 | [leopard-g-vol-3-ch-03-001](leopard-g-vol-3-ch-03-001.md) | 豹兽人 | vol-3-ch-03 仓储部·试图逃跑被碎喉 | 已死亡 |
 | [leopard-g-vol-3-ch-06-001](leopard-g-vol-3-ch-06-001.md) | 豹兽人 | vol-3-ch-06 五竹峰·被熊猫点穴定身 | 已死亡 |
+| [leopard-g-ss-007-001](leopard-g-ss-007-001.md) | 黑豹兽人 | s-07 毕业实习·仓库被当肉盾挡春药弹而死 | 已死亡 |
