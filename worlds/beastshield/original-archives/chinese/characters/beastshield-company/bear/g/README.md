@@ -1,39 +1,42 @@
 # 熊科兽盾兵 · G级杂兵
 
-> 军绿色制服，最底层员工
+> **制服**：军绿色短袖 + 短裤
+> **定位**：最底层员工/杂兵，批量出现，是兽盾公司数量最庞大的群体。
+> **叙事功能**：G 级杂兵是处决方式多样性的主要载体——勒杀、拧颈、割喉、射精、药杀等各类死法在此集中体现。单个 G 级杂兵通常只有数百字篇幅，但集体出现时可形成压迫感。
+> **死亡特征**：死法快速直接，多为 10-30 秒内的高效处决，少数角色因剧情需要而有更长的折磨过程。
 
-| 档案 | 种族 | 登场故事 | 状态 |
-|------|------|---------|------|
-| [bear-g-vol-1-ch-01-001](bear-g-vol-1-ch-01-001.md) | 棕皮熊兽人 | vol-1-ch-01 教程关卡 | 已死亡 |
-| [bear-g-vol-1-ch-06-001](bear-g-vol-1-ch-06-001.md) | 灰熊兽人 | vol-1-ch-06 潜入敌营 | 已死亡 |
-| [bear-g-vol-1-ch-09-001](bear-g-vol-1-ch-09-001.md) | 中年棕熊守卫 | vol-1-ch-09 二楼储物间 | 已死亡 |
-| [bear-g-vol-1-ch-09-002](bear-g-vol-1-ch-09-002.md) | 棕熊兽人 | vol-1-ch-09 大厅被割喉 | 已死亡 |
-| [bear-g-vol-1-ch-10-001](bear-g-vol-1-ch-10-001.md) | 熊兽人 | vol-1-ch-10 训练房逃跑被拧颈 | 已死亡 |
-| [bear-g-vol-2-ch-01-001](bear-g-vol-2-ch-01-001.md) | 熊兽人 | vol-2-ch-01 更衣室情报来源 | 已死亡 |
-| [bear-g-vol-2-ch-03-001](bear-g-vol-2-ch-03-001.md) | 棕熊兽人 | vol-2-ch-03 十楼露台抛尸 | 已死亡 |
-| [bear-g-vol-2-ch-04-001](bear-g-vol-2-ch-04-001.md) | 棕熊兽人 | vol-2-ch-04 虎组长登场前猎物 | 已死亡 |
-| [bear-g-vol-2-ch-05-001](bear-g-vol-2-ch-05-001.md) | 白熊兽人（厨师长） | vol-2-ch-05 厨房处决 | 已死亡 |
-| [bear-g-vol-2-ch-06-001](bear-g-vol-2-ch-06-001.md) | 熊兽人（蓝白领队） | vol-2-ch-06 三拳处决 | 已死亡 |
-| [bear-g-vol-2-ch-06-002](bear-g-vol-2-ch-06-002.md) | 熊兽人 | vol-2-ch-06 小便池拧颈 | 已死亡 |
-| [bear-g-vol-2-ch-07-001](bear-g-vol-2-ch-07-001.md) | 熊兽人 | vol-2-ch-07 入口三分钟赌约 | 已死亡 |
-| [bear-g-vol-2-ch-07-002](bear-g-vol-2-ch-07-002.md) | 熊兽人 | vol-2-ch-07 拐角巡逻被拷问 | 已死亡 |
-| [bear-g-vol-2-ch-07-003](bear-g-vol-2-ch-07-003.md) | 熊兽人 | vol-2-ch-07 宿舍·第一张床侧睡 | 已死亡 |
-| [bear-g-vol-2-ch-07-004](bear-g-vol-2-ch-07-004.md) | 熊兽人 | vol-2-ch-07 宿舍·第二张床鼾声最大 | 已死亡 |
-| [bear-g-vol-2-ch-07-005](bear-g-vol-2-ch-07-005.md) | 熊兽人 | vol-2-ch-07 宿舍·趴睡被抽屌 | 已死亡 |
-| [bear-g-vol-2-ch-07-006](bear-g-vol-2-ch-07-006.md) | 熊兽人 | vol-2-ch-07 宿舍·最后一张床年轻兽人 | 已死亡 |
+| 档案 | 种族 | 登场 | 状态 |
+|------|------|------|------|
+| [bear-g-vol-1-ch-01-001](bear-g-vol-1-ch-01-001.md) | 棕皮熊兽人 | vol-1-ch-01·教程关卡 | 已死亡 |
+| [bear-g-vol-1-ch-06-001](bear-g-vol-1-ch-06-001.md) | 灰熊兽人 | vol-1-ch-06·潜入敌营 | 已死亡 |
+| [bear-g-vol-1-ch-09-001](bear-g-vol-1-ch-09-001.md) | 中年棕熊守卫 | vol-1-ch-09·二楼储物间 | 已死亡 |
+| [bear-g-vol-1-ch-09-002](bear-g-vol-1-ch-09-002.md) | 棕熊兽人 | vol-1-ch-09·大厅 | 已死亡 |
+| [bear-g-vol-1-ch-10-001](bear-g-vol-1-ch-10-001.md) | 熊兽人 | vol-1-ch-10·训练房逃跑 | 已死亡 |
+| [bear-g-vol-2-ch-01-001](bear-g-vol-2-ch-01-001.md) | 熊兽人 | vol-2-ch-01·更衣室情报来源 | 已死亡 |
+| [bear-g-vol-2-ch-03-001](bear-g-vol-2-ch-03-001.md) | 棕熊兽人 | vol-2-ch-03·十楼露台 | 已死亡 |
+| [bear-g-vol-2-ch-04-001](bear-g-vol-2-ch-04-001.md) | 棕熊兽人 | vol-2-ch-04·虎组长登场前 | 已死亡 |
+| [bear-g-vol-2-ch-05-001](bear-g-vol-2-ch-05-001.md) | 白熊兽人（厨师长） | vol-2-ch-05·厨房 | 已死亡 |
+| [bear-g-vol-2-ch-06-001](bear-g-vol-2-ch-06-001.md) | 熊兽人（蓝白领队） | vol-2-ch-06·一层支援 | 已死亡 |
+| [bear-g-vol-2-ch-06-002](bear-g-vol-2-ch-06-002.md) | 熊兽人 | vol-2-ch-06·小便池 | 已死亡 |
+| [bear-g-vol-2-ch-07-001](bear-g-vol-2-ch-07-001.md) | 熊兽人 | vol-2-ch-07·入口三分钟赌约 | 已死亡 |
+| [bear-g-vol-2-ch-07-002](bear-g-vol-2-ch-07-002.md) | 熊兽人 | vol-2-ch-07·拐角巡逻 | 已死亡 |
+| [bear-g-vol-2-ch-07-003](bear-g-vol-2-ch-07-003.md) | 熊兽人 | vol-2-ch-07·宿舍·第一张床侧睡 | 已死亡 |
+| [bear-g-vol-2-ch-07-004](bear-g-vol-2-ch-07-004.md) | 熊兽人 | vol-2-ch-07·宿舍·第二张床鼾声最大 | 已死亡 |
+| [bear-g-vol-2-ch-07-005](bear-g-vol-2-ch-07-005.md) | 熊兽人 | vol-2-ch-07·宿舍·趴睡 | 已死亡 |
+| [bear-g-vol-2-ch-07-006](bear-g-vol-2-ch-07-006.md) | 熊兽人 | vol-2-ch-07·宿舍·最后一张床年轻兽人 | 已死亡 |
 | [bear-g-vol-2-ch-08-001](bear-g-vol-2-ch-08-001.md) | 熊兽人 | vol-2-ch-08 打盹守卫·第一具尸体 | 已死亡 |
 | [bear-g-vol-2-ch-08-002](bear-g-vol-2-ch-08-002.md) | 黑熊兽人 | vol-2-ch-08 落池·首推 | 已死亡 |
 | [bear-g-vol-2-ch-08-003](bear-g-vol-2-ch-08-003.md) | 白熊兽人 | vol-2-ch-08 落池·次推 | 已死亡 |
 | [⭐ bear-g-vol-2-ch-08-route-corpses](bear-g-vol-2-ch-08-route-corpses.md) | 熊兽人（集体） | vol-2-ch-08 沿途被发现的尸体群 | 已死亡 |
-| [⭐ bear-g-vol-2-ch-08-pool-victims](bear-g-vol-2-ch-08-pool-victims.md) | 熊兽人（集体） | vol-2-ch-08 炼药池群亡 | 已死亡 |
+| [⭐ bear-g-vol-2-ch-08-pool-victims](bear-g-vol-2-ch-08-pool-victims.md) | 熊兽人（集体） | vol-2-ch-08·炼药池 | 已死亡 |
 | [⭐ bear-g-vol-2-ch-08-guardroom-massacre](bear-g-vol-2-ch-08-guardroom-massacre.md) | 熊兽人（集体） | vol-2-ch-08 值班室守株待兔 | 已死亡 |
-| [bear-g-vol-2-ch-13-001](bear-g-vol-2-ch-13-001.md) | 熊兽人 | vol-2-ch-13 蟒蛇岛营地·尿尿被撸杀 | 已死亡 |
-| [bear-g-vol-2-ch-14-001](bear-g-vol-2-ch-14-001.md) | 白熊兽人 | vol-2-ch-14 蟒蛇岛主营·"肥猪仔"跳蛋后入 | 已死亡 |
-| [bear-g-vol-2-ch-14-002](bear-g-vol-2-ch-14-002.md) | 棕熊兽人 | vol-2-ch-14 蟒蛇岛主营·系带扣杀 | 已死亡 |
-| [bear-g-vol-2-ch-15-001](bear-g-vol-2-ch-15-001.md) | 熊兽人（蓝制服） | vol-2-ch-15 嗜精兽挡刀·毒血射精 | 已死亡 |
-| [bear-g-vol-3-ch-01-001](bear-g-vol-3-ch-01-001.md) | 熊兽人 | vol-3-ch-01 司机·处理尸体后被灭口 | 已死亡 |
-| [bear-g-vol-3-ch-04-001](bear-g-vol-3-ch-04-001.md) | 熊兽人 | vol-3-ch-04 测试嘲笑者·被控制狼吸精 | 已死亡 |
-| [bear-g-vol-3-ch-04-002](bear-g-vol-3-ch-04-002.md) | 黑熊兽人 | vol-3-ch-04 酒店守卫·被小豪先解决 | 已死亡 |
+| [bear-g-vol-2-ch-13-001](bear-g-vol-2-ch-13-001.md) | 熊兽人 | vol-2-ch-13·蟒蛇岛营地·尿尿 | 已死亡 |
+| [bear-g-vol-2-ch-14-001](bear-g-vol-2-ch-14-001.md) | 白熊兽人 | vol-2-ch-14·蟒蛇岛主营·肥猪仔 | 已死亡 |
+| [bear-g-vol-2-ch-14-002](bear-g-vol-2-ch-14-002.md) | 棕熊兽人 | vol-2-ch-14·蟒蛇岛主营·系带扣压 | 已死亡 |
+| [bear-g-vol-2-ch-15-001](bear-g-vol-2-ch-15-001.md) | 熊兽人（蓝制服） | vol-2-ch-15·嗜精兽挡刀 | 已死亡 |
+| [bear-g-vol-3-ch-01-001](bear-g-vol-3-ch-01-001.md) | 熊兽人 | vol-3-ch-01·司机·处理尸体后被灭口 | 已死亡 |
+| [bear-g-vol-3-ch-04-001](bear-g-vol-3-ch-04-001.md) | 熊兽人 | vol-3-ch-04·测试嘲笑者 | 已死亡 |
+| [bear-g-vol-3-ch-04-002](bear-g-vol-3-ch-04-002.md) | 黑熊兽人 | vol-3-ch-04·酒店守卫·被小豪先解决 | 已死亡 |
 | [bear-g-vol-3-ch-05-001](bear-g-vol-3-ch-05-001.md) | 灰熊兽人 | vol-3-ch-05 三楼被拖入床底·双枪爆菊而死 | 已死亡 |
 | [bear-g-vol-3-ch-05-002](bear-g-vol-3-ch-05-002.md) | 白熊兽人 | vol-3-ch-05 二楼偷酒·被塞瓶口窒息撸射而死 | 已死亡 |
 | [bear-g-vol-3-ch-06-001](bear-g-vol-3-ch-06-001.md) | 棕熊兽人 | vol-3-ch-06 五竹峰·等队友被老雷拧颈射精 | 已死亡 |
