@@ -67,6 +67,10 @@ An amnesiac black dog awakens in darkness, finding himself in a cave with a beas
 
 ---
 
+## 主要角色 / Main Characters
+
+- **[黑狗 / 墨犬](../characters/mo-quan.md)**: 失忆的黑色犬科兽人，身怀神秘内力，在追杀中觉醒金刚护体与烈火掌，后领悟寸止功法
+
 ## 章节列表 / Chapter List
 
 - [第一章: 洞穴醒来 / Chapter 1: Cave Awakening](ch-1-cave-awakening.md)
