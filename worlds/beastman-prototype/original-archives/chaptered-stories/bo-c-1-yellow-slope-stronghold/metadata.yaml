@@ -1,0 +1,56 @@
+# metadata.yaml — Beastkin Universe Metadata v3.0
+
+work:
+  code: "bo-c-1"
+
+  title:
+    chinese: "黄坡山寨"
+    english: "Yellow Slope Stronghold"
+
+  format: "chaptered-story"
+  form_type: "c"
+  status: "incomplete"
+  location: "original-archives"
+
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+
+  tags:
+    - "yellow-slope-stronghold"
+    - "orc"
+    - "prototype-universe"
+    - "mountain-stronghold"
+    - "ejaculation-execution"
+    - "lanse-earliest"
+
+  content_warnings:
+    - "death"
+    - "sexual-content"
+    - "ejaculation-to-death"
+
+  reading_time_estimate:
+    minutes: 60
+
+  target_audience: "mature"
+
+creation:
+  author: "lanse (笑天神犬)"
+  translator: null
+  start_date: "unknown"
+
+  last_update: "2026-06-15"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-06-15"
+      changes: "正式收录，完成 ch-1 转录"
+    - version: "1.1"
+      date: "2026-06-15"
+      changes: "新增 ch-6，完成原文校对"
+    - version: "1.2"
+      date: "2026-06-15"
+      changes: "新增 ch-7（最终章），更新元数据"
