@@ -1,6 +1,6 @@
 # 松果的领养日记 / Songguo's Adoption Diary
 
-> 状态：completed · 编码：`bs-a-cs-9-songguo-story` · 作者：改编作品 · 最后更新：2026-05-16
+> 状态：completed · 编码：`bs-a-cs-9-songguo-story` · 作者：改编作品 · 最后更新：2026-06-14
 
 ---
 
@@ -130,6 +130,11 @@ German Shepherd `German Shepherd` · Golden Retriever `Golden Retriever`
 | Ch.6 | 重逢 | [阅读](chapters/ch-06-reunion.md) |
 | Ch.7 | 归属 | [阅读](chapters/ch-07-belonging.md) |
 | Ch.8 | 学历与正义 | [阅读](chapters/ch-08-growth.md) |
+| Ch.9 | 长官来访 | [阅读](chapters/ch-09-the-inspector.md) |
+| Ch.10 | 日常与秘密 | [阅读](chapters/ch-10-secrets-and-tears.md) |
+| Ch.11 | 变小之后 | [阅读](chapters/ch-11-child-again.md) |
+| Ch.12 | 靠近与离别 | [阅读](chapters/ch-12-closeness-and-farewell.md) |
+| Ch.13 | 大鲁的伤痕 | [阅读](chapters/ch-13-dalus-scars.md) |
 
 ### 分支版本（恋爱向改编）
 
@@ -142,6 +147,12 @@ German Shepherd `German Shepherd` · Golden Retriever `Golden Retriever`
 | Ch.5-L | 离别（恋爱版） | [阅读](chapters/love/ch-05-departure-love.md) |
 | Ch.6-L | 重逢（恋爱版） | [阅读](chapters/love/ch-06-reunion-love.md) |
 | Ch.7-L | 归属（恋爱版） | [阅读](chapters/love/ch-07-belonging-love.md) |
+| Ch.8-L | 学历与正义（恋爱版） | [阅读](chapters/love/ch-08-growth-love.md) |
+| Ch.9-L | 长官来访（恋爱版） | [阅读](chapters/love/ch-09-the-inspector-love.md) |
+| Ch.10-L | 日常与秘密（恋爱版） | [阅读](chapters/love/ch-10-secrets-and-tears-love.md) |
+| Ch.11-L | 变小之后（恋爱版） | [阅读](chapters/love/ch-11-child-again-love.md) |
+| Ch.12-L | 靠近与离别（恋爱版） | [阅读](chapters/love/ch-12-closeness-and-farewell-love.md) |
+| Ch.13-L | 大鲁的伤痕（恋爱版） | [阅读](chapters/love/ch-13-dalus-scars-love.md) |
 
 ---
 
@@ -159,6 +170,11 @@ German Shepherd `German Shepherd` · Golden Retriever `Golden Retriever`
 | Ch.6 | Reunion | [Read](chapters/ch-06-reunion.md) |
 | Ch.7 | Belonging | [Read](chapters/ch-07-belonging.md) |
 | Ch.8 | Education and Justice | [Read](chapters/ch-08-growth.md) |
+| Ch.9 | The Inspector | [Read](chapters/ch-09-the-inspector.md) |
+| Ch.10 | Secrets and Tears | [Read](chapters/ch-10-secrets-and-tears.md) |
+| Ch.11 | Child Again | [Read](chapters/ch-11-child-again.md) |
+| Ch.12 | Closeness and Farewell | [Read](chapters/ch-12-closeness-and-farewell.md) |
+| Ch.13 | Dalu's Scars | [Read](chapters/ch-13-dalus-scars.md) |
 
 ### Branch Version (Romance Adaptation)
 
@@ -171,6 +187,12 @@ German Shepherd `German Shepherd` · Golden Retriever `Golden Retriever`
 | Ch.5-L | Departure (Romance) | [Read](chapters/love/ch-05-departure-love.md) |
 | Ch.6-L | Reunion (Romance) | [Read](chapters/love/ch-06-reunion-love.md) |
 | Ch.7-L | Belonging (Romance) | [Read](chapters/love/ch-07-belonging-love.md) |
+| Ch.8-L | Education and Justice (Romance) | [Read](chapters/love/ch-08-growth-love.md) |
+| Ch.9-L | The Inspector (Romance) | [Read](chapters/love/ch-09-the-inspector-love.md) |
+| Ch.10-L | Secrets and Tears (Romance) | [Read](chapters/love/ch-10-secrets-and-tears-love.md) |
+| Ch.11-L | Child Again (Romance) | [Read](chapters/love/ch-11-child-again-love.md) |
+| Ch.12-L | Closeness and Farewell (Romance) | [Read](chapters/love/ch-12-closeness-and-farewell-love.md) |
+| Ch.13-L | Dalu's Scars (Romance) | [Read](chapters/love/ch-13-dalus-scars-love.md) |
 
 ---
 
@@ -204,4 +226,4 @@ German Shepherd `German Shepherd` · Golden Retriever `Golden Retriever`
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-06-14 · Last updated: 2026-06-14*
