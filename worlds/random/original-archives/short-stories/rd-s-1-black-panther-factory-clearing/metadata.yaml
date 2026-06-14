@@ -1,0 +1,50 @@
+# metadata.yaml — Beastkin Universe Metadata v3.0
+
+work:
+  code: "rd-s-1"
+
+  title:
+    chinese: "黑豹工厂清剿"
+    english: "Black Panther Factory Clearing"
+
+  format: "short-story"
+  form_type: "s"
+  status: "completed"
+  location: "original-archives"
+
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+
+  tags:
+    - "black-panther"
+    - "orc"
+    - "infiltration"
+    - "ejaculation-execution"
+    - "one-shot"
+
+  content_warnings:
+    - "death"
+    - "sexual-content"
+    - "ejaculation-to-death"
+
+  reading_time_estimate:
+    minutes: 15
+
+  target_audience: "mature"
+
+creation:
+  author: "lanse (笑天神犬)"
+  translator: "Indigo (@Indigotetsu)"
+  start_date: "2021-12-13"
+
+  last_update: "2026-06-14"
+  universe_based_on: "beastshield (alternate universe experiment)"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-06-14"
+      changes: "Initial transcription from source screenshots"
