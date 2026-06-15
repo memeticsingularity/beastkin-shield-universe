@@ -13,7 +13,6 @@
 | **种族** | 狮子兽人（棕发） |
 | **别名** | — |
 | **隶属** | 银斧竞技场 |
-| **前恋人** | 归玲（人类药剂师，因误会而分离） |
 | **状态** | **已死亡**——被白虎与鹏鹏前后夹击肛交致死（[ch-7](../../../../chapters/ch-7.md)） |
 | **首次登场** | [ch-5](../../../../chapters/ch-5.md)（野性赛颁奖） |
 | **最后登场** | [ch-7](../../../../chapters/ch-7.md)（被白虎击杀） |
@@ -87,7 +86,7 @@
 
 奔雷年轻时误入魔兽洞穴，被一只触手怪抓住三天三夜。触手怪每次将他玩弄到接近高潮便放开，欣赏他自慰挣扎。奔雷逃出后练就了诡异的闪躲身法，凭借此身法从竞技场底层一路连胜，最终成为银斧竞技场的主人（[ch-7](../../../../chapters/ch-7.md)）。
 
-曾与人类女性归玲相恋，差一点成亲。因赛程出差归来后发现归玲已怀了别人的孩子并离去，由此对白岩怀恨在心（误以为白岩是归玲的新欢）（[ch-5](../../../../chapters/ch-5.md)）。
+因白岩与人类私通生下半兽人混血（白虎）而对白岩怀恨在心，认为这是对兽人血统的玷污与侮辱（[ch-5](../../../../chapters/ch-5.md)）。
 
 ### 5.1 Chapter 5：野性赛（[ch-5](../../../../chapters/ch-5.md)）
 
@@ -117,10 +116,6 @@
 ---
 
 ## 七、关键人际关系
-
-### 归玲（前恋人）
-
-人类药剂师，曾与奔雷相恋并差一点成亲。奔雷出差染病归来后发现归玲已怀了别人的孩子并离去。奔雷由此对"夺走"归玲的白岩怀恨在心，这也是他委托杀害白岩的动机。（[ch-5](../../../../chapters/ch-5.md)）
 
 ### 白虎（仇人→击杀者）
 
@@ -194,7 +189,7 @@
 
 ## 十一、档案索引
 
-- 关联角色：[白虎](../bounty-related/bai-hu.md)（击杀者）、[鹏小雄](../silver-axe-residents/peng-xiao-xiong.md)（同归于尽者）、[归玲](../silver-axe-residents/gui-ling.md)（前恋人）、[德牧警长](../law-enforcement/de-mu-jing-zhang.md)（对手）、[红虎寨主](../yellow-slope-stronghold/hong-hu-zhai-zhu.md)（被委托人）、[局长](../law-enforcement/ju-chang.md)（勾结者）
+- 关联角色：[白虎](../bounty-related/bai-hu.md)（击杀者）、[鹏小雄](../silver-axe-residents/peng-xiao-xiong.md)（同归于尽者）、[德牧警长](../law-enforcement/de-mu-jing-zhang.md)（对手）、[红虎寨主](../yellow-slope-stronghold/hong-hu-zhai-zhu.md)（被委托人）、[局长](../law-enforcement/ju-chang.md)（勾结者）
 
 ---
 
