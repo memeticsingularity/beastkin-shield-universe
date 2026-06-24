@@ -61,9 +61,11 @@
 | [`04-minor/007-xiao-yan.md`](04-minor/007-xiao-yan.md) | 小岩 | 棕熊兽人 | 山中孤儿/棕熊父亲之子 | vol3-ch7 |
 | [`04-minor/008-brown-bear-father.md`](04-minor/008-brown-bear-father.md) | 棕熊父亲 | 棕熊兽人 | 山中猎人/小岩之父（已故） | vol3-ch7 |
 | [`04-minor/009-a-mo.md`](04-minor/009-a-mo.md) | 阿莫 | 鹿兽人（前噬精兽） | 旁系噬精兽 → 普通兽人（暂住竹木狼玛峰事务所） | vol4-ch3 |
-| [`04-minor/010-a-zhuang.md`](04-minor/010-a-zhuang.md) | 阿壮 | 牛兽人 | Z市酒吧顾客/阿常的暧昧对象 | vol3-ch3 |
-| [`04-minor/011-number-two.md`](04-minor/011-number-two.md) | 2号 | 牛兽人（红眼） | 古博士制造的复制体/"完美继承者"候选 | vol4-ch7 |
-| [`04-minor/012-a-lan.md`](04-minor/012-a-lan.md) | 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡，外貌与小谷几乎相同） | vol2-ch18 |
+| [`04-minor/010-a-zhuang.md`](04-minor/010-a-zhuang.md) | 阿壮 | 牛兽人 | 阿常的男友/地下拳赛选手之弟 | vol3-ch3 |
+| [`04-minor/011-number-two.md`](04-minor/011-number-two.md) | 2号 | 牛兽人（红眼） | 古博士制造的复制体/"完美继承者"候选（已故） | vol4-ch7 |
+| [`04-minor/012-sheng-ge.md`](04-minor/012-sheng-ge.md) | 晟哥 | 棕熊兽人 | 前Y市分部黑制服组长/地下拳赛选手 | vol4-ch14 |
+| [`04-minor/013-dun-ge.md`](04-minor/013-dun-ge.md) | 顿哥 | 牛兽人 | 前兽盾黑制服/地下拳赛选手 | vol4-ch14 |
+| [`04-minor/014-a-lan.md`](04-minor/014-a-lan.md) | 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡，外貌与小谷几乎相同） | vol2-ch18 |
 
 ### 兽盾势力
 
@@ -71,10 +73,11 @@
 |------|--------|------|------|---------|
 | [`06-beastshield/001-basement-trio.md`](06-beastshield/001-basement-trio.md) | 未知×3 | 多种族 | 顽固分子（被带走） | vol1-ch20 |
 | [`06-beastshield/002-chameleon.md`](06-beastshield/002-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
-| [`06-beastshield/003-scarred-black-wolf.md`](06-beastshield/003-scarred-black-wolf.md) | 未知 | 黑狼兽人 | 兽盾黑制服/Z市地头蛇 | vol3-ch2 |
+| [`06-beastshield/003-scarred-black-wolf.md`](06-beastshield/003-scarred-black-wolf.md) | 黑石（黑石部长） | 黑狼兽人 | 兽盾黑制服/Z市地头蛇/噬精兽 | vol3-ch2 |
 | [`06-beastshield/004-dr-gu.md`](06-beastshield/004-dr-gu.md) | 古博士 | 雪纳瑞狗兽人 | 生化学家/种子供应者 → 兽盾噬精兽研究员（已死亡） | vol1-ch1 |
 | [`06-beastshield/005-shadow-fang-electric-pair.md`](06-beastshield/005-shadow-fang-electric-pair.md) | 未知×2 | 未明确 | 影牙小队刺客（被电网电晕送警局） | vol2-ch11 |
 | [`06-beastshield/006-white-wolf-bounty-hunter.md`](06-beastshield/006-white-wolf-bounty-hunter.md) | 未知 | 白狼兽人 | 雇佣赏金猎人（杀死老何，被雷克斯击毙） | vol3-ch16 |
+| [`06-beastshield/007-assistant-wei.md`](06-beastshield/007-assistant-wei.md) | 维助理 | 灰犬兽人 | 黑石部长的助理 | vol4-ch15 |
 
 ---
 
@@ -85,4 +88,4 @@
 
 ---
 
-*最后更新：2026-06-12（新增阿岚档案 04-minor/012-a-lan.md）*
+*最后更新：2026-06-24（新增晟哥/顿哥/维助理档案，更新2号/阿常/阿壮/刀疤黑狼状态）*
