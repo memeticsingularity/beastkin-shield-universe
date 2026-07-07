@@ -44,6 +44,7 @@
 | `bs-a-s-3-massacre-cleanup` | 屠杀与善后 | Massacre & Cleanup | `改编` `短篇` `屠杀` `死亡美学` | [目录](short-stories/series-3-massacre-cleanup/README.md) |
 | `series-1-sentry-elimination` | 哨兵清除系列 | Sentry Elimination | `改编` `系列` `哨兵` `清除` | [目录](short-stories/series-1-sentry-elimination/README.md) |
 | `series-2-daily-hunt` | 日常猎杀系列 | Daily Hunt | `改编` `系列` `日常` `开放世界` | [目录](short-stories/series-2-daily-hunt/README.md) |
+| `series-4-fetish-sessions` | 癖好游玩记录 | Fetish Sessions | `改编` `系列` `玩家视角` `R18G` `fetish` | [目录](short-stories/series-4-fetish-sessions/README.md) |
 
 ---
 
@@ -58,7 +59,7 @@
 - `死亡游戏 / Death Game`: 血酬淘汰赛
 - `特工局 / Agent Bureau`: 潜入者之焰
 - `武侠 / Martial Arts`: 墨犬（续写）
-- `系列作品 / Series`: 哨兵清除系列、日常猎杀系列、屠杀与善后
+- `系列作品 / Series`: 哨兵清除系列、日常猎杀系列、屠杀与善后、癖好游玩记录
 
 ### 按创作类型 / By Creation Type
 
@@ -66,6 +67,7 @@
 - `角色扩展 / Character Expansion`: 松果的领养日记
 - `续写 / Sequel`: 墨犬（续写）
 - `前传关联 / Prequel Related`: 第一场游戏
+- `玩家视角 / Player Perspective`: 癖好游玩记录
 
 ---
 
@@ -79,4 +81,4 @@
 
 [返回上级 / Return Up](../README.md)
 
-*最后更新 / Last Updated: 2026-05-16*
+*最后更新 / Last Updated: 2026-07-07*
