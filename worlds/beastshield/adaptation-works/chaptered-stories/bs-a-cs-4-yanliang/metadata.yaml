@@ -1,21 +1,105 @@
+# ============================================
+# Beastkin Universe Metadata v3.0
+# 兽盾宇宙元数据 v3.0
+# ============================================
+
 work:
   code: "bs-a-cs-4-yanliang"
+
   title:
     chinese: "炎魉"
     english: "Yanliang"
+
   format: "chaptered-story"
-  form_type: "cs"
+  form_type: "cs"  # cs = chaptered-side (支线分章)
   status: "updating"
   location: "adaptation-works"
+
   subtype: "side"
+
   author: "memeticsingularity"
   start_date: "2025-01-01"
+
+  promotion_status: "eligible"
+  work_type: "adapted-expansion"
+
+  tags:
+    - "adaptation"
+    - "side-story"
+    - "grimdark"
+    - "bounty-hunter"
+    - "stealth"
+    - "sensory-rewrite"
+
+  content_warnings:
+    - "sexual-violence"
+    - "death"
+    - "corporate-oppression"
+    - "forced-suicide"
+
+  reading_time_estimate:
+    minutes: 0
+
+  target_audience: "mature"
+
   universe_based_on: "beastshield"
 
 creation:
   author: "memeticsingularity"
   start_date: "2025-01-01"
-  last_update: "2025-01-01"
+
+  adaptation_info:
+    original_work: "bs-o-cs-1-yan-liang"
+    original_title: "炎魉外传：新兵基地的幽灵"
+    original_author: "lanse（笑天神犬）"
+    adaptation_approach: "adapted-expansion"
+    key_changes: |
+      1. v1-20ch：将原作三章扩写为 20 章，大幅延展情节与角色。
+      2. v2-expanded：基于原作三章结构重写为 5 章，强化感官细节、慢节奏、人物互动与 lanse 原作者风格。
+
+  last_update: "2026-07-07"
   universe_based_on: "beastshield"
 
-# 填写说明见 docs/spec/04-metadata.md
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "1.0"
+      date: "2026-05-07"
+      changes: "v1-20ch 扩写版建立"
+    - version: "2.0"
+      date: "2026-07-07"
+      changes: "拆分 v1 与 v2 目录，启动 v2-expanded 重写"
+
+chapters:
+  - number: 1
+    code: "ch-001-infiltration"
+    title_chinese: "潜入基地"
+    title_english: "Infiltration"
+    summary: "炎与魉潜入新兵基地，从墙角虎兵到办公室白熊组长，开启名单屠宰。"
+    status: "drafting"
+  - number: 2
+    code: "ch-002-names-on-the-list"
+    title_chinese: "名单上的名字"
+    title_english: "Names on the List"
+    summary: "按名单逐个诱杀新兵，狼、熊、虎、犀牛、牛、野猪依次倒下。"
+    status: "drafting"
+  - number: 3
+    code: "ch-003-black-and-white-uniforms"
+    title_chinese: "黑与白的制服"
+    title_english: "Black and White Uniforms"
+    summary: "深入基地中心，遭遇新制服制度下的黑熊与白老虎，发现竞争者痕迹。"
+    status: "drafting"
+  - number: 4
+    code: "ch-004-silver-needles-and-dark-force"
+    title_chinese: "银针与暗劲"
+    title_english: "Silver Needles and Dark Force"
+    summary: "会议室八官尽殁，濒死犀牛老兵获最后高潮，熊猫被神秘银狼救出。"
+    status: "drafting"
+  - number: 5
+    code: "ch-005-stairs-and-headquarters"
+    title_chinese: "楼梯与总部"
+    title_english: "Stairs and Headquarters"
+    summary: "熊猫楼梯屠杀，炎魉逃出；兽盾总部牙董逼牛高官失职自尽。"
+    status: "drafting"
