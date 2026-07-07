@@ -87,7 +87,7 @@ The bounty hunters Yan and Liang infiltrate a Beastshield recruit training base�
 
 | 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
 |--------|------|----------|---------------|
-| 炎 | 人类（？） | 赏金猎人 | 修炼灼流暗劲的冷酷杀手，以操控欲望为处决手段 |
+| 炎 | 橙毛虎兽人 | 赏金猎人 | 修炼灼流暗劲的冷酷杀手，以操控欲望为处决手段 |
 | 魉 | 人类（？） | 赏金猎人 / 善后专员 | 拥有隐身能力的清道夫，负责记录编号与处理尸体 |
 | 雷爪 | 虎兽人 | 兽盾新兵 G-147 | 来自南方丛林的年轻守卫，梦想开武馆保护弱小 |
 | 阿黄 | 狗兽人 | 兽盾新兵 G-208 | 城里平民区的长子，只想做好工作养家 |
@@ -101,7 +101,7 @@ The bounty hunters Yan and Liang infiltrate a Beastshield recruit training base�
 
 | Name | Species | Role | Brief Description |
 |------|---------|------|-------------------|
-| Yan | Human (?) | Bounty Hunter | A cold killer who practices the "Scorching Dark Force," executing targets by manipulating desire |
+| Yan | Orange-furred Tiger Beastman | Bounty Hunter | A cold killer who practices the "Scorching Dark Force," executing targets by manipulating desire |
 | Liang | Human (?) | Bounty Hunter / Cleanup Specialist | An invisible undertaker who records numbers and disposes of bodies |
 | Lei Zhao | Tiger | Beastshield Recruit G-147 | A young guard from the southern jungles who dreams of opening a martial arts school |
 | A Huang | Dog | Beastshield Recruit G-208 | The eldest son of a working-class family, just trying to do his job and support his family |
