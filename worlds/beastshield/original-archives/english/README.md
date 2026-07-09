@@ -43,7 +43,7 @@
 | `bs-o-s-4-captive-delivery` | Captive Delivery | `psychological` `thriller` `captive` | [Read](short-stories/bs-o-s-4-captive-delivery.md) |
 | `bs-o-s-5-employee-diary` | Beast Shield Employee's Day | `diary` `thriller` `survival` | [Read](short-stories/bs-o-s-5-employee-diary.md) |
 | `bs-o-s-6-night-raid` | Night Raid | `thriller` `infiltration` `night-raid` | [Read](short-stories/bs-o-s-6-night-raid.md) |
-| `bs-o-s-8-the-night-watch` | The Night Watch | `tragedy` `grunt-perspective` `bounty-hunter` | [Index](short-stories/bs-o-s-8-the-night-watch/README.md) |
+| `bs-o-s-8-babysitter-lei` | Babysitter Lei | `action` `family` `night-raid` `protection` | [Read](short-stories/bs-o-s-8-babysitter-lei.md) |
 
 ---
 
@@ -53,21 +53,21 @@
 
 - `main / 主线`: Beast Game World, Moying, White Capital
 - `side / 支线`: Yanliang, Ink Hound
-- `bounty-hunter / 赏金猎人`: Blackstone, Blackstone 2, The Night Watch
-- `action / 动作`: Blackstone, Blackstone 2
-- `thriller / 惊悚`: Blackstone, Blackstone 2, Captive Delivery, Beast Shield Employee's Day, Night Raid, The Night Watch
+- `bounty-hunter / 赏金猎人`: Blackstone, Blackstone 2
+- `action / 动作`: Blackstone, Blackstone 2, Babysitter Lei
+- `thriller / 惊悚`: Blackstone, Blackstone 2, Captive Delivery, Beast Shield Employee's Day, Night Raid
 - `psychological / 心理`: Captive Delivery
 - `diary / 日记`: Beast Shield Employee's Day
+- `family / 家庭`: Babysitter Lei
 - `farm / 农场`: Beast Shield Farmhouse
-- `night-raid / 夜袭`: Blackstone 2, Night Raid, The Night Watch
-- `grunt-perspective / G级杂兵视角`: The Night Watch
+- `night-raid / 夜袭`: Blackstone 2, Night Raid, Babysitter Lei
+- `protection / 守护`: Babysitter Lei
 
 ### By Beastkin Race / 按兽人种族
 
-- Bovine / 牛兽人: Beast Shield Farmhouse
-- Wild Boar / 野猪兽人: The Night Watch
-- Bear / 熊兽人: Beast Shield Employee's Day
-- Tiger / 虎兽人: Beast Shield Employee's Day (Red Tiger)
+- Bovine / 牛兽人: Beast Shield Farmhouse, Babysitter Lei
+- Bear / 熊兽人: Beast Shield Employee's Day, Babysitter Lei
+- Tiger / 虎兽人: Beast Shield Employee's Day (Red Tiger), Babysitter Lei (White Tiger)
 
 ---
 
@@ -80,4 +80,4 @@
 
 [Return Up / 返回上级](../README.md)
 
-*Last Updated / 最后更新: 2026-05-16*
+*Last Updated / 最后更新: 2026-07-09*

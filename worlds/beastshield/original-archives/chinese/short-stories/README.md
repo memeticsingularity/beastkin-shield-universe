@@ -19,7 +19,7 @@
 | `bs-o-s-5-employee-diary` | 兽盾员工的一天 | Beast Shield Employee's Day | `日记` `惊悚` `生存` `屠杀` | [阅读](bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
 | `bs-o-s-6-night-raid` | 夜袭 | Night Raid | `惊悚` `潜入` `夜袭` `羞辱处决` | [阅读](bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
 | `bs-o-s-7-graduation-internship` | 毕业实习 | Graduation Internship | `实习` `成长` | [阅读](bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
-| `bs-o-s-8-the-night-watch` | 守夜人 | The Night Watch | `悲剧` `G级杂兵视角` `赏金猎人` `情感深度` | [目录](bs-o-s-8-the-night-watch/README.md) |
+| `bs-o-s-8-babysitter-lei` | 带娃的老雷 | Babysitter Lei | `动作` `家庭` `夜袭` `守护` | [阅读](bs-o-s-8-babysitter-lei/bs-o-s-8-babysitter-lei.md) |
 
 ---
 
@@ -28,23 +28,23 @@
 ### 按标签筛选 / Filter by Tags
 
 - **按主题 / By Theme**:
-    - `赏金猎人 / Bounty Hunter`: 黑石、黑石2、守夜人
+    - `赏金猎人 / Bounty Hunter`: 黑石、黑石2
     - `俘虏/控制 / Captive/Control`: 俘虏快递
     - `日记/生存 / Diary/Survival`: 兽盾员工的一天
     - `农场/实验 / Farm/Experiment`: 兽盾农家乐
-    - `夜袭/潜入 / Night Raid/Infiltration`: 黑石2、夜袭、守夜人
+    - `家庭/守护 / Family/Protection`: 带娃的老雷
+    - `夜袭/潜入 / Night Raid/Infiltration`: 黑石2、夜袭、带娃的老雷
 
 - **按风格 / By Tone**:
-    - `惊悚 / Thriller`: 黑石、黑石2、俘虏快递、兽盾员工的一天、夜袭、守夜人
+    - `惊悚 / Thriller`: 黑石、黑石2、俘虏快递、兽盾员工的一天、夜袭
     - `黑暗 / Dark`: 兽盾农家乐、俘虏快递
-    - `动作 / Action`: 黑石、黑石2
+    - `动作 / Action`: 黑石、黑石2、带娃的老雷
 
 ### 按兽人种族 / By Beastkin Race
 
-- 牛兽人 / Bovine: 兽盾农家乐
-- 野猪兽人 / Wild Boar: 守夜人
-- 熊兽人 / Bear: 兽盾员工的一天
-- 虎兽人 / Tiger: 兽盾员工的一天（红虎）
+- 牛兽人 / Bovine: 兽盾农家乐、带娃的老雷
+- 熊兽人 / Bear: 兽盾员工的一天、带娃的老雷
+- 虎兽人 / Tiger: 兽盾员工的一天（红虎）、带娃的老雷（白虎）
 
 ---
 
@@ -68,4 +68,4 @@
 
 [返回上级 / Return Up](../README.md)
 
-*最后更新 / Last Updated: 2026-05-16*
+*最后更新 / Last Updated: 2026-07-09*

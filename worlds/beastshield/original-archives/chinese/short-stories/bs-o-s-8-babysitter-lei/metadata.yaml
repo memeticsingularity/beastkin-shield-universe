@@ -1,0 +1,28 @@
+work:
+  code: "bs-o-s-8-babysitter-lei"
+  title:
+    chinese: "带娃的老雷"
+    english: "Babysitter Lei"
+  format: "short-story"
+  form_type: "s"
+  status: "completed"
+  location: "original-archives"
+  subtype: ""
+  promotion_status: "not_eligible"
+  work_type: "full-original"
+  tags:
+    - "动作"
+    - "家庭"
+    - "夜袭"
+    - "守护"
+  content_warnings:
+    - "暴力"
+    - "性内容"
+    - "死亡"
+    - "尸体处理"
+
+creation:
+  author: "memeticsingularity"
+  start_date: "2026-07-09"
+  last_update: "2026-07-09"
+  universe_based_on: "beastshield"

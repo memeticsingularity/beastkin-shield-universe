@@ -749,7 +749,7 @@
 | bs-o-s-5-employee-diary | 兽盾员工的一天 | 日记/惊悚 |
 | bs-o-s-6-night-raid | 夜袭 | 惊悚/潜入 |
 | bs-o-s-7-graduation-internship | 毕业实习 | 实习/成长 |
-| bs-o-s-8-the-night-watch | 守夜人 | 悲剧/G级杂兵视角 |
+| bs-o-s-8-babysitter-lei | 带娃的老雷 | 动作/家庭/守护 |
 
 ### 引用格式建议
 

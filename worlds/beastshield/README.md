@@ -86,7 +86,7 @@ For detailed settings, see: [settings/](settings/)
 | `bs-o-s-5-employee-diary` | 兽盾员工的一天 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
 | `bs-o-s-6-night-raid` | 夜袭 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
 | `bs-o-s-7-graduation-internship` | 毕业实习 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
-| `bs-o-s-8-the-night-watch` | 守夜人 | Lv.3 | Lv.3 | Lv.2 | `开放式` | [目录](original-archives/chinese/short-stories/bs-o-s-8-the-night-watch/README.md) |
+| `bs-o-s-8-babysitter-lei` | 带娃的老雷 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-8-babysitter-lei/bs-o-s-8-babysitter-lei.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 
