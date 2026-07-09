@@ -1,5 +1,7 @@
 # 兽盾世界观设定
 
+> **Note**: This file primarily covers BeastShield corporate structure. For agent characters (Lao Lei, Xiaolei) and updated ejaculation-death mechanics from SS-008 *Babysitter Lei*, see the Chinese consolidated setting and `world-setting.md`.
+
 ## 1 兽盾公司：组织与员工
 
 ### 1.1 公司概况与文化
@@ -38,6 +40,7 @@
 - 高级兵种（如虎队长）对催眠瓦斯的抵抗力比低级杂兵高。【9】
 - 兽盾员工（如中年熊兽人）在面对储物间失守的责任时，可能认为难逃一死而选择反抗。【9】
 - 兽盾公司可能派遣包括武斗部队队长和杂兵在内的小队，执行诸如“前往酒店掳走被警察保护的证人”之类的任务。【6】
+- 兽盾公司亦会对特工局相关人员（如特工老雷）的民用住所发起夜袭，派遣E级武斗兵执行绑架或暗杀。【s-8】
 - 在任务中，兽盾员工（如灰熊兽人）可能熟练掌握制服并审讯敌人的技巧（如勒颈逼问）。【6】
 - 兽盾员工在处决警察时，认为这是理所当然的事情。【6】
 - 一场战斗结束后，环境可能溅满强者（如虎队长）全身。【6】
