@@ -1,4 +1,8 @@
-# Series 4: Fetish Sessions - 癖好游玩记录
+# 竹子的变态之旅
+
+> 系列归档名：`Series 4: Fetish Sessions` / `bs-a-s-4-fetish-sessions`
+> 
+> 玩家昵称：竹子。正文叙述仍统一使用第一人称「我」，不使用第三人称或化名。
 
 > **⚠️ 内容分级与警告 / Content Rating & Warnings**
 >
