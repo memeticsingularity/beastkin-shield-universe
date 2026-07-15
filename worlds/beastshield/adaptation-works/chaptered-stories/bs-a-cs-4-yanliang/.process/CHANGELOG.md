@@ -1,5 +1,16 @@
 # 变更日志
 
+## 2026-07-15 — v1-refined Ch.02：打破公式化结构，双场景差异化
+- **变更类型**: feat
+- **影响范围**: chapters/v1-refined/ch-02.md、.process/CURRENT_STATUS.md
+- **原因**: ch-02 是质量低谷（P0），原版狼+熊两个场景遵循完全相同"对讲机→抓裆→运功→射精"模式
+- **具体内容**:
+  - 去名：灰刃→灰狼兽人，墩山→棕熊兽人
+  - 灰狼场景：强化警觉反抗（狼更敏捷），拉伸临界阶段，肉棒在掌心的触觉递进式描写
+  - 棕熊场景：利用体型差异创造不同节奏，强调"量大"的视觉/触觉冲击
+  - 引入毛色体系（灰狼/棕熊），匹配 lanse 风格
+  - 恢复魉的在场感（隐身的叹息）
+
 ## 2026-07-15 — 启动 v1-refined 版本，完成 Ch.01 优化
 - **变更类型**: feat
 - **影响范围**: chapters/v1-refined/、.process/plans/ch-01-optimization.md、.process/plans/quality-optimization-v3.md、.process/CURRENT_STATUS.md
