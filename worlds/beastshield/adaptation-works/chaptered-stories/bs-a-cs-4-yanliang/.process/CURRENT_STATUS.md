@@ -18,8 +18,8 @@
 | 项目 | 状态 |
 |------|------|
 | 当前主推版本 | v1-refined |
-| 当前章节 | Ch.09 — 已完成优化 |
-| 本章进度 | ch-09 优化完成，待继续 ch-10 |
+| 当前章节 | Ch.10 — 已完成优化 |
+| 本章进度 | ch-10 优化完成，待继续 ch-11 |
 | 总章节规划 | v1-refined 共 20 章；v1-20ch 已归档；v2-expanded 暂停 |
 | 最后更新 | 2026-07-15 |
 
@@ -30,9 +30,9 @@
 - [x] v1-refined 启动：创建目录结构
 - [x] v1-refined Ch.01：优化完成（去名/强感官/强情色）
 - [x] v1-refined Ch.02：优化完成（打破公式、双场景差异化）
-- [x] v1-refined Ch.09：优化完成（黑豹无声崩溃+野猪肛入冲锋）
-- [ ] v1-refined Ch.10：待优化
-- [ ] v1-refined Ch.11~20：待优化
+- [x] v1-refined Ch.10：优化完成（马鹿平静赴死+路人獒犬误入）
+- [ ] v1-refined Ch.11：待优化
+- [ ] v1-refined Ch.12~20：待优化
 - [x] 创建 ch-01-optimization.md 方案文件
 - [x] 更新全篇质量优化方案 quality-optimization-v3.md
 
