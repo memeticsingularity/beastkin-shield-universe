@@ -17,25 +17,22 @@
 
 | 项目 | 状态 |
 |------|------|
-| 当前主推版本 | v2-expanded |
-| 当前章节 | Ch.1–Ch.5 同步撰写中 |
-| 本章进度 | drafting |
-| 总章节规划 | v2 共 5 章；v1-20ch 已归档 |
-| 最后更新 | 2026-07-07 |
+| 当前主推版本 | v1-refined |
+| 当前章节 | Ch.01 — 已完成优化 |
+| 本章进度 | ch-01 优化完成，待继续 ch-02 |
+| 总章节规划 | v1-refined 共 20 章；v1-20ch 已归档；v2-expanded 暂停 |
+| 最后更新 | 2026-07-15 |
 
 ---
 
 ## 当前任务 / Active Tasks
 
-- [x] 将 v1-20ch 旧版章节迁入 `chapters/v1-20ch/`
-- [x] 建立 v2-expanded 目录与计划文件
-- [x] 完成 v2 Ch.1 初稿
-- [x] 完成 v2 Ch.2 初稿
-- [x] 完成 v2 Ch.3 前半（死巷误会）
-- [x] 完成 v2 Ch.4 初稿
-- [ ] 完成 v2 Ch.3 后半与 Ch.5 初稿
-- [x] 同步 README、metadata、settings 等模板文件
-- [ ] 提交改动
+- [x] v1-refined 启动：创建目录结构
+- [x] v1-refined Ch.01：优化完成（去名/强感官/强情色）
+- [ ] v1-refined Ch.02：优化中
+- [ ] v1-refined Ch.03~20：待优化
+- [x] 创建 ch-01-optimization.md 方案文件
+- [x] 更新全篇质量优化方案 quality-optimization-v3.md
 
 ---
 
