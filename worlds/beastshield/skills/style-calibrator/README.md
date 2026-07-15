@@ -1,6 +1,6 @@
 # Style Calibrator — Tone & Rhythm Guide
 
-> Current version: [v0.2](v0.2-tone-and-rhythm-guide.md)
+> Current version: [v0.3](v0.3-tone-and-rhythm-guide.md)
 > Changelog: [changelog.md](changelog.md)
 
 ---
@@ -15,4 +15,4 @@ This skill addresses the gap between "writing that checks all the boxes" and "wr
 
 ## Quick Start
 
-If you only have 30 seconds: read the [Core Principles](v0.2-tone-and-rhythm-guide.md#三校准框架自然-vs-机械) section. That's the essence.
+If you only have 30 seconds: read the [Core Principles](v0.3-tone-and-rhythm-guide.md#三校准框架自然-vs-机械) section. That's the essence.

@@ -10,7 +10,7 @@
 
 | 状态 | 技能 | 当前版本 | 解决的问题 |
 |------|------|----------|-----------|
-| ✅ 活跃 | [style-calibrator](style-calibrator/) | [v0.2](style-calibrator/v0.2-tone-and-rhythm-guide.md) | AI 写作语感生硬、设定交代机械 |
+| ✅ 活跃 | [style-calibrator](style-calibrator/) | [v0.3](style-calibrator/v0.3-tone-and-rhythm-guide.md) | AI 写作语感生硬、设定交代机械 |
 | 🚧 预留 | [anti-checklist-review](anti-checklist-review/) | — | 写完后逐项排查"是不是在应付检查点" |
 | — | 更多待定 | — | — |
 

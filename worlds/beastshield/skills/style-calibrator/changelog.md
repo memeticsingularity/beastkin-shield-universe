@@ -1,5 +1,13 @@
 # Changelog — style-calibrator
 
+## v0.3 (2026-07-15)
+
+- **New positive creation mode (§7)**: Five mechanisms for building great scenes — sensory sequencing, ritual step variation, emotional arc differentiation, spatial anchoring, dual-perspective tension
+- Based on comparative analysis of yanliang ch-01/ch-20 vs middle chapters
+- Full analysis: `_discussions/002-yanliang-quality-gap-analysis.md`
+- Updated AI prompt template to include positive mechanisms
+- Added "创作时" usage direction
+
 ## v0.2 (2026-07-15)
 
 - **Core reframing**: Replaced "fast=good, slow=bad" premise with "natural vs mechanical" framework
