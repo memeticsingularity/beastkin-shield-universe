@@ -18,8 +18,8 @@
 | 项目 | 状态 |
 |------|------|
 | 当前主推版本 | v1-refined |
-| 当前章节 | Ch.10 — 已完成优化 |
-| 本章进度 | ch-10 优化完成，待继续 ch-11 |
+| 当前章节 | Ch.11 — 已完成优化 |
+| 本章进度 | ch-11 优化完成，待继续 ch-12 |
 | 总章节规划 | v1-refined 共 20 章；v1-20ch 已归档；v2-expanded 暂停 |
 | 最后更新 | 2026-07-15 |
 
@@ -27,12 +27,19 @@
 
 ## 当前任务 / Active Tasks
 
-- [x] v1-refined 启动：创建目录结构
 - [x] v1-refined Ch.01：优化完成（去名/强感官/强情色）
-- [x] v1-refined Ch.02：优化完成（打破公式、双场景差异化）
-- [x] v1-refined Ch.10：优化完成（马鹿平静赴死+路人獒犬误入）
-- [ ] v1-refined Ch.11：待优化
-- [ ] v1-refined Ch.12~20：待优化
+- [x] v1-refined Ch.02：优化完成（灰狼警觉+棕熊憨厚）
+- [x] v1-refined Ch.03：优化完成（德牧搏斗+犀牛巨量）
+- [x] v1-refined Ch.04：优化完成（金毛天真+红牛暴力+垃圾处置）
+- [x] v1-refined Ch.05：优化完成（雪豹冰火反差+雄狮王权亵渎）
+- [x] v1-refined Ch.06：优化完成（水牛半吨地基+黑熊宿醉）
+- [x] v1-refined Ch.07：优化完成（蓝虎蓝制服+鬣狗狞笑）
+- [x] v1-refined Ch.08：优化完成（白狼冷水温差+黄牛少年泪）
+- [x] v1-refined Ch.09：优化完成（黑豹无声+野猪肛入）
+- [x] v1-refined Ch.10：优化完成（马鹿平静赴死+路人獒犬）
+- [x] v1-refined Ch.11：优化完成（通风管猞猁垂直坠落）
+- [ ] v1-refined Ch.12：待优化
+- [ ] v1-refined Ch.13~20：待优化
 - [x] 创建 ch-01-optimization.md 方案文件
 - [x] 更新全篇质量优化方案 quality-optimization-v3.md
 
