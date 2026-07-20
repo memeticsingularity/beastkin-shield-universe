@@ -1,5 +1,19 @@
 # CHANGELOG — bs-a-s-1-sentry-elimination
 
+## 2026-07-20 — Lanse 射精描写专项优化
+
+- **变更类型**: tune
+- **影响范围**: series-1 全系列主射精死亡段落（`1-g-77-lion.md` ~ `8-w-tiger.md`）
+- **原因**: 对齐 `author/001-lanse/write-skills/lanse-ejaculation-expert.md` v1.1 三条铁律
+- **具体内容**:
+  - 统一 G 级杂兵主射精股数至 **10–15 股** 基准
+  - 删除“五六股”“七八股”“随后几股力道渐弱”等不达标表述
+  - 全部改为增量结构（“一股未落一股又起”“一股接一股”）
+  - 主射精阶段动词统一为“喷/喷射/飙射/喷涌而出”
+  - 保留挤残精阶段“稀薄/透明”例外（符合 patterns.md 7.6 节）
+  - 未改动故事前后文、角色设定或世界观机制
+- **计划文档**: `.process/plans/2026-07-20-lanse-ejaculation-tuning.md`
+
 ## 2026-05-07 — 规范重构迁移
 - **变更类型**: adjust
 - **影响范围**: .process/ 目录结构
