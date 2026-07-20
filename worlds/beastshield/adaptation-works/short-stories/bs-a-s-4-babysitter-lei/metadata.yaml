@@ -76,6 +76,12 @@ tags:
 expansion_notes:
   original_story: "bs-o-s-8-babysitter-lei"
   original_author: "memeticsingularity"
-  expanded_scene: "楼下双牛兽人对决（原文第107-115行→扩写版第108-196行）"
-  expansion_length: "原2行摘要 → 现约85行详写"
-  expansion_style: "基于lanse笔风：高级兵人设→灼流入体机制→生理失控细节→一脸困惑收尾"
+  expansions:
+    - scene: "楼下双牛兽人对决（原文第107-115行）"
+      original_length: "原文2行摘要"
+      expanded_length: "约85行详写"
+      style: "基于lanse笔风：高级兵人设→灼流入体机制→生理失控细节→一脸困惑收尾"
+    - scene: "虎兽人司机灭口（原文第230-234行）"
+      original_length: "原文5行略写"
+      expanded_length: "约50行详写"
+      style: "车中座杀→灼流透颈秒杀（无射精）→塞桶弃尸→死亡无价值美学收束"
