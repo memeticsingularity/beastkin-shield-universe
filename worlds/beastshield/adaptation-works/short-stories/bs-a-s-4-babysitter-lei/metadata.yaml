@@ -1,0 +1,81 @@
+title: 带娃的老雷（扩写版）
+title_en: Babysitter Lei (Expanded Edition)
+
+series:
+  name: 兽盾宇宙改编短篇集
+  name_en: Beast Shield Universe - Adaptation Short Stories
+
+story_info:
+  type: short_story
+  chapters: 1
+  word_count: ~8300
+  status: completed
+  creation_date: "2026-07-21"
+  last_update: "2026-07-21"
+  based_on: "bs-o-s-8-babysitter-lei"
+
+world_setting:
+  universe: beastshield
+  timeline: 主线时间线（兽盾夜袭事件）
+  location:
+    - 老雷别墅
+
+factions:
+  - name: 武林隐士
+    side: protagonist
+  - name: 兽盾公司
+    side: antagonist
+
+characters:
+  alive:
+    - id: old-lei
+      name: 老雷
+      name_en: Old Lei
+      race: 白虎兽人
+      role: 退役武林高手 / 父亲
+      special_skill: 灼流暗劲
+
+  alive_minor:
+    - id: xiao-lei
+      name: 小雷
+      name_en: Xiao Lei
+      race: 白虎兽人
+      role: 老雷之子（8岁）
+
+  deceased:
+    - name: 黑熊兽人 ×1
+      race: 黑熊
+      cause_of_death: 灼流暗劲-背脊灌入（浴室处决）
+    - name: 棕熊兽人 ×1
+      race: 棕熊
+      cause_of_death: 灼流暗劲-拧断脖颈
+    - name: 牛兽人 ×2
+      race: 牛
+      role: 高级兽盾兵
+      cause_of_death: 灼流暗劲-一拳打射（楼下一招制敌）
+    - name: 虎兽人 ×1
+      race: 虎
+      role: G级司机
+      cause_of_death: 灭口（知晓家庭住址）
+
+themes:
+  - 父亲守护
+  - 暴力与童真的错位
+  - 武林高手的日常生活
+  - 死亡无价值美学
+
+tags:
+  - 夜袭
+  - 家庭守护
+  - 灼流暗劲
+  - 父子
+  - 黑色幽默
+  - 扩写版
+  - 战斗扩写
+
+expansion_notes:
+  original_story: "bs-o-s-8-babysitter-lei"
+  original_author: "memeticsingularity"
+  expanded_scene: "楼下双牛兽人对决（原文第107-115行→扩写版第108-196行）"
+  expansion_length: "原2行摘要 → 现约85行详写"
+  expansion_style: "基于lanse笔风：高级兵人设→灼流入体机制→生理失控细节→一脸困惑收尾"
