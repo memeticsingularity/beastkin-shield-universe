@@ -1,8 +1,8 @@
-# lanse 审阅：SS-008 带娃的老雷
+# lanse 审阅：bs-o-cs-3 带娃的老雷
 
 > **审阅时间**：2026-07-16
 > **审阅框架**：lanse 审阅眼 v1.0
-> **原始故事**：[bs-o-s-8-babysitter-lei](../original-archives/chinese/short-stories/bs-o-s-8-babysitter-lei/bs-o-s-8-babysitter-lei.md)
+> **原始故事**：[bs-o-cs-3-babysitter-lei](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md)
 
 ---
 
@@ -192,7 +192,7 @@
 
 ## 与其他短篇的交叉关系
 
-- 白熊（SS-005）的暗杀者在故事中提到了"老雷也真是粗心"——这与SS-008形成了时间线上的连接。白熊的营地屠杀和老雷的别墅夜袭是同一天发生的？老雷和红虎（雷炎寰？）有合作关系？
+- 白熊（SS-005）的暗杀者在故事中提到了"老雷也真是粗心"——这与 bs-o-cs-3 形成了时间线上的连接。白熊的营地屠杀和老雷的别墅夜袭是同一天发生的？老雷和红虎（雷炎寰？）有合作关系？
 - 这种角色之间的交叉连接是兽盾宇宙系列的一大看点，值得在后续创作中进一步强化。
 
 ---

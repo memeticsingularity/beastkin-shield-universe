@@ -18,7 +18,7 @@
 ## 分析：原作 vs AI 改编的差异
 
 基于对以下三组文本的对比阅读：
-- **原作**：`bs-o-s-1-farm-inn`（兽盾农家乐）、`bs-o-s-8-babysitter-lei`（带娃的老雷）
+- **原作**：`bs-o-s-1-farm-inn`（兽盾农家乐）、`bs-o-cs-3-babysitter-lei`（带娃的老雷）
 - **AI 改编**：`bs-a-s-5/4-g-tiger-driver.md`（主线）、`bs-a-s-5/4-g-tiger-driver-h.md`（幸存者分支）
 - **现有指南**：`writing-style-guide-v2.md`、`CLAUDE.md`
 

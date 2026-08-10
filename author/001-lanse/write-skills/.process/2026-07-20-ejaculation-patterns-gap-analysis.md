@@ -27,7 +27,7 @@
 | 2 | 缺少「憋精」临界点描写专题分析 | **P0** | 7+ | 新写作模式 |
 | 3 | 缺少「射精触发机制」系统分类 | **P0** | 全部 | 新分析维度 |
 | 4 | 缺少「余精处理/挤残精」描写规范 | P2 | 2 | 细节补充 |
-| 5 | 「稀精」例外情况需标注（bs-o-s-8） | P2 | 1 | 规则修正 |
+| 5 | 「稀精」例外情况需标注（bs-o-cs-3） | P2 | 1 | 规则修正 |
 | 6 | 缺少「自主视角射精」范例 | P3 | 1 | 范例补充 |
 | 7 | 缺少「计数式处决」叙事手法分析 | P3 | 1 | 手法补充 |
 | 8 | 缺少「裤内射精 vs 外射」区分 | P3 | 3+ | 感官维度补充 |
@@ -47,7 +47,7 @@
 | bs-o-s-3-blackstone-2 | 牛兽人 | **19+1残精=20** | 黑石扭乳头引爆+挤残精 |
 | bs-o-s-5-employee-diary | 主角（白熊自述） | **16发** | 被虎队长黑袜套撸射（自射POV） |
 | mo-quan ch-1 | 熊兽人 | **16发** | 烈火掌震射 |
-| bs-o-s-8-babysitter-lei | 熊兽人 | **十几发** | 老雷灼流暗劲+挤残精 |
+| bs-o-cs-3-babysitter-lei | 熊兽人 | **十几发** | 老雷灼流暗劲+挤残精 |
 
 ### 缺口2：憋精——临界点描写（P0）
 
@@ -89,14 +89,14 @@ lanse 作品中至少有8种截然不同的射精触发机制：
 
 两个故事明确描写杀手在目标射精后挤出残精防止假死：
 
-- bs-o-s-8-babysitter-lei-54: "再次射出一小股稀精，这样，肉棒管道内的所有残精被尽数挤了出来，这是为了防止精液倒流"
+- bs-o-cs-3-babysitter-lei-54: "再次射出一小股稀精，这样，肉棒管道内的所有残精被尽数挤了出来，这是为了防止精液倒流"
 - bs-o-s-3-blackstone-2-167: "用手在牛鞭的根部往上一挤，只见牛兽人的大腿肌肉抖动了一下，又喷出了一小股残精"
 
 这是区分老练杀手和菜鸟的细节特征。
 
 ### 缺口5：「稀精」例外
 
-现有文档说"lanse从不写稀了"，但 bs-o-s-8-babysitter-lei-54 明确写了"稀精"。
+现有文档说"lanse从不写稀了"，但 bs-o-cs-3-babysitter-lei-54 明确写了"稀精"。
 上下文是挤残精环节——与主射精序列的语境不同。主射精阶段确实不写稀精，此规则依然成立。
 
 ### 缺口6：自主视角射精
@@ -161,6 +161,6 @@ bs-o-s-3-blackstone-2-160-165: "1、2、3……黑石也帮他记录着喷射次
 - `worlds/beastshield/original-archives/chinese/short-stories/bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md`
 - `worlds/beastshield/original-archives/chinese/short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md`
 - `worlds/beastshield/original-archives/chinese/short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md`
-- `worlds/beastshield/original-archives/chinese/short-stories/bs-o-s-8-babysitter-lei/bs-o-s-8-babysitter-lei.md`
+- `worlds/beastshield/original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md`
 - `worlds/beastshield/original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md`
 - `worlds/beastshield/original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md`

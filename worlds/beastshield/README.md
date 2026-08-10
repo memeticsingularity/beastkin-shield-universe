@@ -74,6 +74,7 @@ For detailed settings, see: [settings/](settings/)
 |:--|:--|:--:|:--:|:--:|:--:|:--|
 | `bs-o-cs-1-yan-liang` | 炎魉 | Lv.4 | Lv.5 | Lv.3 | `任务完成` `赏金获取` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) |
 | `bs-o-cs-2-mo-quan` | 墨犬 | Lv.4 | Lv.4 | Lv.3 | `未完待续` `力量觉醒` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md) |
+| `bs-o-cs-3-babysitter-lei` | 带娃的老雷 | Lv.4 | Lv.4 | Lv.3 | `连载中` `未完待续` `主动出击` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md) |
 
 #### 短篇 / Short Stories
 
@@ -86,7 +87,6 @@ For detailed settings, see: [settings/](settings/)
 | `bs-o-s-5-employee-diary` | 兽盾员工的一天 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
 | `bs-o-s-6-night-raid` | 夜袭 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
 | `bs-o-s-7-graduation-internship` | 毕业实习 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
-| `bs-o-s-8-babysitter-lei` | 带娃的老雷 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-8-babysitter-lei/bs-o-s-8-babysitter-lei.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 

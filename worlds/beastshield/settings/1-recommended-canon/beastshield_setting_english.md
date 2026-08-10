@@ -1,6 +1,6 @@
 # 兽盾世界观设定
 
-> **Note**: This file primarily covers BeastShield corporate structure. For agent characters (Lao Lei, Xiaolei) and updated ejaculation-death mechanics from SS-008 *Babysitter Lei*, see the Chinese consolidated setting and `world-setting.md`.
+> **Note**: This file primarily covers BeastShield corporate structure. For agent characters (Lao Lei, Xiaolei) and updated ejaculation-death mechanics from bs-o-cs-3 *Babysitter Lei*, see the Chinese consolidated setting and `world-setting.md`.
 
 ## 1 兽盾公司：组织与员工
 

@@ -12,7 +12,7 @@ story_info:
   status: completed
   creation_date: "2026-07-21"
   last_update: "2026-07-21"
-  based_on: "bs-o-s-8-babysitter-lei"
+  based_on: "bs-o-cs-3-babysitter-lei"
 
 world_setting:
   universe: beastshield
@@ -74,8 +74,8 @@ tags:
   - 战斗扩写
 
 expansion_notes:
-  original_story: "bs-o-s-8-babysitter-lei"
-  original_author: "memeticsingularity"
+  original_story: "bs-o-cs-3-babysitter-lei"
+  original_author: "lanse"
   expansions:
     - scene: "楼下双牛兽人对决（原文第107-115行）"
       original_length: "原文2行摘要"

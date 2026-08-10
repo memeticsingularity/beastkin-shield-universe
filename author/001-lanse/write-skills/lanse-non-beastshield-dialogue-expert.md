@@ -2,7 +2,7 @@
 
 > 基于 `worlds/beastshield/original-archives/chinese/` 下的原作：
 > - 支线 `bs-o-cs-1-yan-liang`（炎魉三章）
-> - 短篇 `bs-o-s-1` 至 `bs-o-s-8`（8 篇短篇）
+> - 短篇 `bs-o-s-1` 至 `bs-o-s-7`（7 篇短篇）+ 支线 `bs-o-cs-3`《带娃的老雷》
 > - 主线第一卷 `bs-o-cm-1-main-story-1`（游戏入门至解锁封印）
 > 调用方式：将此文件作为 system prompt 喂给 AI，或引用其中规则逐条对照
 > 注意：本技能所有例句均来自原作正文，不包含故事评述/角色背景补充
@@ -385,7 +385,7 @@
 
 ### 儿童角色
 
-**来源：** `bs-o-s-8-babysitter-lei` 小雷
+**来源：** `bs-o-cs-3-babysitter-lei` 小雷
 
 **默认状态：** 天真、直接、不懂死亡与暴力的含义。
 
@@ -524,7 +524,7 @@
 
 **目标：** 杀手/父亲在非战斗状态下与儿童互动，用日常语言包裹暴力。
 
-**来源：** `bs-o-s-8-babysitter-lei`（老雷与小雷）
+**来源：** `bs-o-cs-3-babysitter-lei`（老雷与小雷）
 
 **经典互动：**
 
