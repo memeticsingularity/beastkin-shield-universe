@@ -5,6 +5,38 @@
 
 ---
 
+## [2.0.0] — 2026-08-12
+
+### Changed
+- **type**: major
+- **scope**: full-story / 完全重写
+- **reason**: 用户指出 v1 三个致命问题——(1)灼流暗劲照搬老雷招牌技、(2)泡面场景复刻 lanse Ch.2、(3)叙事节奏与 lanse 完全不同。对照 `author/001-lanse/style-analysis/` 全套文件及原作 Ch.1-2 逐行分析后全面重构。
+- **details**:
+  - **处决机制替换**：删除所有"灼流暗劲"，改为精准解剖打击（掌根/指节/拳峰→冲击力→钝痛→变质→酥麻热潮→射精）。这是"疼→爽"的感官签名，完全不同于灼流暗劲的"热流直灌"。16种触发机制目录证实灼流暗劲=老雷/炎专属；魔影vs老雷镜像模型证实处决方式=性格延伸。
+  - **白虎场景重写**：泡面+擦桌子（老雷"家务化暴力"签名）→擦军靴（全新视觉画面：虎掌捏布打磨靴头、举到灯下检查反光、手机屏幕摩托车图片）
+  - **伸缩策略应用**（`lanse-positive-creation-supplement.md` §3）：6场不再等长——短(门岗展示型)/短(机修工执行型)/中(清洁工压抑型)/长(巡逻兵反转型)/中短(白虎展示型)/最长(黄狗延宕型)
+  - **射精描写改革**：删除逐股单独成行（被标记为"AI指纹"），改为多股并段增量结构。6场量级梯度：7-8/8-9/10-11/12-13/9-10/15+。每场射向和着陆面全部不同（裤内→白袜/车底横梁/湿地/护裆边缘→黑袜/椅面/天花板→桌沿→文件夹→胸口→大腿→白袜）
+  - **删除所有公式化句式**："灼流暗劲灌入"×5→消失、"灼热感"×5→消失、"从X看像Y"×3→消失、结尾"都像睡着了一样"→纯客观列举
+  - **主角签名动作**：灰狼每杀一人→两指搭颈侧→三秒→松手（检查脉搏确认死亡）。非老雷的挤残精+清洁。
+  - **对话最小化**：灰狼全文仅4句台词（三个问题+"射吧"），全部在高潮场景。
+  - **配套更新**：metadata.yaml（处决机制/标签/角色描述）、settings/story-setting.md（主角能力/受害者死法/世界观机制/风格注意事项）、风格参考文档（`2026-08-12-lanse-style-reference.md`）
+- **参考文件**:
+  - `author/001-lanse/style-analysis/lanse-style-variants.md`（避免同质化/四轴变化/伸缩策略）
+  - `author/001-lanse/style-analysis/lanse-positive-creation-supplement.md`（伸缩策略/情感弧线设计）
+  - `author/001-lanse/style-analysis/lanse-ejaculation-patterns.md`（增量结构/16种机制/AI错误标志）
+  - `author/001-lanse/style-analysis/lanse-writing-process-notes.md`（写射就停/兴奋单元/场景诱饵）
+  - `author/001-lanse/write-skills/lanse-ejaculation-expert.md`（三条铁律/16种机制/挤残精）
+  - `author/001-lanse/style-analysis/sources/02-main-story-2.md`（魔影vs老雷镜像模型）
+  - 原作：`bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md` + `ch-2-intelligence-sweep.md`（15具尸体逐行分析）
+- **files**:
+  - `bs-a-s-5-night-hunt-motor-pool.md` — 正文完全重写（~280行）
+  - `metadata.yaml` — 处决机制/标签/角色描述更新
+  - `settings/story-setting.md` — 主角能力/受害者死法/世界观机制/风格注意事项更新
+  - `.process/2026-08-12-lanse-style-reference.md` — 新增：11节完整风格参考（段落节奏/16种机制/伸缩策略/写射就停/AI错误清单等）
+  - `.process/CHANGELOG.md` — 本条目
+
+---
+
 ## [1.0.0] — 2026-08-12
 
 ### Added

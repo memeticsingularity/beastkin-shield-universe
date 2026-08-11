@@ -11,8 +11,8 @@ status: completed
 author: AI (Claude)
 created: 2026-08-12
 last_updated: 2026-08-12
-version: 1.0.2
-changelog: ".process/CHANGELOG.md#102--2026-08-12"
+version: 2.0.0
+changelog: ".process/CHANGELOG.md#200--2026-08-12"
 
 story_info:
   type: 短篇改编 / Adaptation Short Story
@@ -21,7 +21,7 @@ story_info:
     - 中文 / Chinese
   based_on:
     world: beastshield
-    mechanics: 灼流暗劲 / 性欲值系统 / 射尽而亡
+    mechanics: 精准解剖打击 / 性欲值系统 / 射尽而亡
 
 world_setting:
   name: 兽盾 / Beastshield
@@ -38,7 +38,7 @@ characters:
     - name: 灰狼猎人（无名）
       species: 灰狼兽人
       role: 自由赏金猎人
-      description: 精壮体型，灰毛灰皮，受雇窃取兽盾调度记录。灼流暗劲中等水准。冷静专业，动作优先于言语。
+      description: 精壮体型，灰毛灰皮，受雇窃取兽盾调度记录。靠落点精度触发伤害→性欲值转化，不修内功。冷静专业，几乎不开口。杀后检查脉搏为签名动作。
 
   alive_at_start:
     - name: 棕熊门岗
@@ -67,7 +67,7 @@ characters:
       rank: G-1004
       uniform: 军绿短袖短裤，白袜
       role: 杂兵
-      description: 精壮体型。在休息室泡夜宵泡面。存钱想买摩托车。
+      description: 精壮体型。在休息室擦军靴。存钱想买摩托车。
 
     - name: 野猪清洁工
       species: 野猪兽人
@@ -93,11 +93,11 @@ themes:
 
 tags:
   species: [熊, 牛, 虎, 野猪, 犬科, 狼]
-  erotic: [灼流暗劲, 性欲值系统, 射精死亡, 强制高潮, 憋精, 紧身制服, 白袜, 黑袜, 袜底编号]
-  death: [背后偷袭, 车底击杀, 黑暗搏斗, 泡面碗窒息, 审讯处决, 尸体摆设]
+  erotic: [精准解剖打击, 性欲值系统, 射精死亡, 强制高潮, 憋精, 紧身制服, 白袜, 黑袜, 疼→爽感官转换]
+  death: [精准脊椎打击, 车底腹击, 腰眼指刺, 护裆格斗, 侧腰拳击, 阴茎骨审讯处决, 检查脉搏确认死亡]
   power: [赏金猎人, 兽盾等级制, 办公室政治]
   themes: [专业杀手的日常, 底层士兵的人类瞬间, 死亡即日常]
   narrative: [第三人称, 短段落快节奏, 物理细节, 冷面无心理]
   setting: [车辆调配场, 门岗, 维修车间, 休息室, 走廊, 调度办公室]
-  mechanics: [灼流暗劲, 性欲值系统, 射尽而亡, 憋精]
+  mechanics: [精准解剖打击, 性欲值系统, 射尽而亡, 憋精]
   ending: [任务完成, 干净收尾]
