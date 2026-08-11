@@ -20,6 +20,7 @@ style-analysis/
 ├── lanse-style-checklist.md               ← 写作检查清单（落地自检）
 ├── lanse-style-prompt.md                  ← AI 标准化提示词
 ├── lanse-positive-creation-supplement.md  ← 正面创作补充（5 个新机制）
+├── lanse-writing-process-notes.md         ← 创作过程笔记（自嗨机制与断章规律）
 └── sources/                               ← 原始分析素材与摘抄数据
     ├── 01-main-story-1.md                 # 主线第一部风格分析
     ├── 02-main-story-2.md                 # 主线第二部风格分析
@@ -198,6 +199,19 @@ style-analysis/
 
 ---
 
+#### `lanse-writing-process-notes.md` — 创作过程笔记（自嗨机制与断章规律）
+
+**定位**：与以上所有文档性质不同——不是文本分析，而是**合作者提供的创作背景信息** + 基于文本的推断。
+
+**核心内容**：
+1. **确认事实**——lanse 的部分作品以"自嗨"方式创作，写作以本人性兴奋为驱动；"写射就停"：写到临近本人射精即停笔；**断章点 = 作者本人射精点**。
+2. **文本推断**（标注待验证）——章节 = 兴奋单元而非情节单元、章间无承接义务；断章通常落在"处理完/排出去"之后而非性描写最密处；场景诱饵多样性是维持刺激的生产需要。
+3. **协作含义**——不要用连载逻辑要求 lanse 的章；续写从断章后自然接起；跨章衔接靠主题元素。
+
+**阅读提示**：模仿 lanse 的写法看其他文档；理解"作品为何长这样"看本文件。
+
+---
+
 ### 原始素材（sources/）
 
 `source/` 目录是上述所有分析的原始数据来源，包含两类文档：
@@ -227,6 +241,7 @@ lanse-writing-style-analysis.md       ← 综合提炼，10 大维度全景分�
 lanse-first-person-guide.md           ← 第一人称专题深挖
      ↓
 lanse-positive-creation-supplement.md ← 补充 5 个新机制，提升场景质量
+lanse-writing-process-notes.md        ← 创作背景补充（自嗨机制与断章规律，非文本分析）
 lanse-style-variants.md              ← 在像 lanse 的基础上避免同质化
      ↓
 lanse-master-anthology.md            ← 按技法分类的摘抄库
