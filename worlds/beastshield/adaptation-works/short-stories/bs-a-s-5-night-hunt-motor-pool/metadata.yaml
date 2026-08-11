@@ -1,0 +1,101 @@
+# bs-a-s-5-night-hunt-motor-pool
+# 车场夜狩 / Night Hunt at the Motor Pool
+
+title:
+  zh: 车场夜狩
+  en: Night Hunt at the Motor Pool
+
+code: bs-a-s-5-night-hunt-motor-pool
+series: standalone
+status: completed
+author: AI (Claude)
+created: 2026-08-12
+last_updated: 2026-08-12
+
+story_info:
+  type: 短篇改编 / Adaptation Short Story
+  word_count_zh: ~4000
+  language:
+    - 中文 / Chinese
+  based_on:
+    world: beastshield
+    mechanics: 灼流暗劲 / 性欲值系统 / 射尽而亡
+
+world_setting:
+  name: 兽盾 / Beastshield
+  location: 兽盾车辆调配场（夜间）
+  time_period: 当代 / Contemporary
+
+factions:
+  - name: 兽盾公司 / BeastShield Corporation
+    role: 受害者所属组织
+    description: 黑暗企业帝国，掌控兽人社会的军事化公司
+
+characters:
+  protagonist:
+    - name: 灰狼猎人（无名）
+      species: 灰狼兽人
+      role: 自由赏金猎人
+      description: 精壮体型，灰毛灰皮，受雇窃取兽盾调度记录。灼流暗劲中等水准。冷静专业，动作优先于言语。
+
+  alive_at_start:
+    - name: 棕熊门岗
+      species: 棕熊兽人
+      rank: G-847
+      uniform: 军绿短袖短裤，白袜
+      role: 门卫
+      description: 三百多斤肉壮体型。值夜班刷交友软件，想找个伴侣。
+
+    - name: 水牛机修工
+      species: 水牛兽人
+      rank: G-921
+      uniform: 军绿制服满身机油，白袜被机油染黑
+      role: 车辆维修
+      description: 粗壮体型。钻在运输车底做保养，哼老调子。只想下班回家。
+
+    - name: 黑熊巡逻兵
+      species: 黑熊兽人
+      rank: E-312
+      uniform: 黑制服黑袜军靴，金属护裆
+      role: 巡逻武斗兵
+      description: 壮硕体型。快退休的老兵，最后一次夜巡。唯一有战斗力的目标。
+
+    - name: 白虎休息兵
+      species: 白虎兽人
+      rank: G-1004
+      uniform: 军绿短袖短裤，白袜
+      role: 杂兵
+      description: 精壮体型。在休息室泡夜宵泡面。存钱想买摩托车。
+
+    - name: 野猪清洁工
+      species: 野猪兽人
+      rank: G-1567
+      uniform: 军绿制服，白袜
+      role: 清洁工
+      description: 粗壮体型。第一份工作，刚从监狱出来。哼小曲拖地。
+
+    - name: 黄狗调度员
+      species: 黄狗兽人
+      rank: O-087
+      uniform: 蓝制服蓝条纹白袜
+      role: 调度办公室文员
+      description: 精壮体型。办公桌整齐到病态，以档案系统为傲。刚整理完所有文件。
+
+  deceased: []
+
+themes:
+  - 赏金猎人的专业冷血
+  - 兽盾底层士兵的日常与死亡
+  - 写射就停的节奏美学
+  - 尸体摆设与善后
+
+tags:
+  species: [熊, 牛, 虎, 野猪, 犬科, 狼]
+  erotic: [灼流暗劲, 性欲值系统, 射精死亡, 强制高潮, 憋精, 紧身制服, 白袜, 黑袜, 袜底编号]
+  death: [背后偷袭, 车底击杀, 黑暗搏斗, 泡面碗窒息, 审讯处决, 尸体摆设]
+  power: [赏金猎人, 兽盾等级制, 办公室政治]
+  themes: [专业杀手的日常, 底层士兵的人类瞬间, 死亡即日常]
+  narrative: [第三人称, 短段落快节奏, 物理细节, 冷面无心理]
+  setting: [车辆调配场, 门岗, 维修车间, 休息室, 走廊, 调度办公室]
+  mechanics: [灼流暗劲, 性欲值系统, 射尽而亡, 憋精]
+  ending: [任务完成, 干净收尾]
