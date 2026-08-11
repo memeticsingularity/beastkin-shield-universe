@@ -84,6 +84,10 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 
 - 老雷为主线第二卷《魔影》登场角色（特工局精英特工、魔影搭档），本篇聚焦其家庭线与隐居生活，为主线未展开的支线。
 
+## AI 讨论 / AI Discussions
+
+- [2026-08-12 阅读印象](ai-discuss/2026-08-12-reading-impressions.md) — Ch.1-2 初次阅读感受：暴力与日常的荒诞并置、灼流暗劲变体、父子叙事情感张力
+
 ## 续写与改编 / Adaptation
 
 如需续写或改编本故事，请在 `worlds/beastshield/adaptation-works/chaptered-stories/` 路径下新建项目。
