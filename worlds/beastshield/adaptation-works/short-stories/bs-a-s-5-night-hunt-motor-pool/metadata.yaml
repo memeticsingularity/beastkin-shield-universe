@@ -11,6 +11,8 @@ status: completed
 author: AI (Claude)
 created: 2026-08-12
 last_updated: 2026-08-12
+version: 1.0.1
+changelog: ".process/CHANGELOG.md#101--2026-08-12"
 
 story_info:
   type: 短篇改编 / Adaptation Short Story
