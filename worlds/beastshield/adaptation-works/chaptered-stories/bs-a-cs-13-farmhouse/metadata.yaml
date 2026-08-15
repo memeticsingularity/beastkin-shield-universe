@@ -78,7 +78,7 @@ creation:
       12. Dr. Gu's true identity revealed as a Semivore and Beastshield researcher
       13. Expanded to two volumes with 44 chapters total, shifting from dark revenge to conspiracy thriller
 
-  last_update: "2026-05-23"
+  last_update: "2026-08-15"
   universe_based_on: "beastshield"
 
   original_code: "bs-o-s-farmhouse"
@@ -94,3 +94,6 @@ creation:
     - version: "1.1"
       date: "2026-05-23"
       changes: "Expanded to 44 chapters across two volumes; revealed Semivore conspiracy, Blood Essence Stone, and Lao Zhou's betrayal; updated all character profiles and story settings"
+    - version: "1.2"
+      date: "2026-08-15"
+      changes: "Added Volume 4 Ch.16-25 (Z-City rescue, death of Black Stone, Black Lion Yuan's faction, night raid on Gu Home); created 5 new Beastshield elite character files; updated character profiles and all READMEs"

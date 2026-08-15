@@ -1,6 +1,6 @@
 # 兽盾农家乐（续写）/ Beastshield Farmhouse (Continuation)
 
-> 状态：第四卷更新中 · 编码：`bs-a-cs-13-farmhouse` · 作者：雨禾 · 最后更新：2026-06-24
+> 状态：第四卷更新中 · 编码：`bs-a-cs-13-farmhouse` · 作者：雨禾 · 最后更新：2026-08-15
 
 ---
 
@@ -125,7 +125,7 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 | 第一卷 | 挣扎着的人们 | 25章 | 已完成 | [阅读](chapters/volume-1/README.md) |
 | 第二卷 | 一同着的生活 | 25章 | 已完成 | [阅读](chapters/volume-2/README.md) |
 | 第三卷 | 散开，相连着的人们 | 25章 | 已完成 | [阅读](chapters/volume-3/README.md) |
-| 第四卷 | 我和我们共同的未来（上） | 15章（更新中） | 更新中 | [阅读](chapters/volume-4/README.md) |
+| 第四卷 | 我和我们共同的未来（上） | 25章（更新中） | 更新中 | [阅读](chapters/volume-4/README.md) |
 
 ---
 
@@ -149,6 +149,11 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 | 2号 | 牛兽人（红眼） | 古博士制造的复制体/"完美继承者"候选（已故） | Vol.4 Ch.7在废弃实验室隔离室登场，与小谷产生灵魂共鸣，称小谷为"弟弟"；Ch.9-10因得知古博士死讯精神崩塌，启动自毁程序后含笑离世 |
 | 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡） | Vol.2 Ch.18被老周提及，Ch.19揭示其死亡真相；外貌与小谷几乎一模一样，但两人为独立个体 |
 | 北泽 | 大白熊兽人 | 市警局特别行动组组长 | Vol.4 Ch.1正式与谷之家达成合作，任命老周、雷克斯为特派警员 |
+| 黑狮渊 | 黑狮兽人 | 兽盾高层/Z市分部幕后掌控者 | Vol.4 Ch.21登场，携烈睚、老貊、藏獒、巨蜥进驻分部，暗中布局针对谷之家，图谋血君王精石 |
+| 烈睚 | 剑齿虎兽人 | 兽盾高层 | Vol.4 Ch.21登场，性情轻蔑嗜杀，参与夜袭谷之家 |
+| 老貊 | 猛犸兽人 | 兽盾高层 | Vol.4 Ch.21登场，以黑红血火焚烧谷之家 |
+| 藏獒 | 藏獒兽人 | 兽盾高层 | Vol.4 Ch.21登场，以血火药重创拼死断后的刘昴 |
+| 巨蜥 | 巨蜥兽人 | 兽盾高层 | Vol.4 Ch.21登场，与小岩树下结缘，夜袭时认出小岩侧身放行，立场成谜 |
 
 ---
 
@@ -167,4 +172,4 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 
 ---
 
-*最后更新：2026-06-24 · Last updated: 2026-06-24*
+*最后更新：2026-08-15 · Last updated: 2026-08-15*

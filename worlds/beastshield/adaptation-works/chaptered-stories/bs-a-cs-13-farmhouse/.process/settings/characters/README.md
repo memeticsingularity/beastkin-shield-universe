@@ -73,11 +73,16 @@
 |------|--------|------|------|---------|
 | [`06-beastshield/001-basement-trio.md`](06-beastshield/001-basement-trio.md) | 未知×3 | 多种族 | 顽固分子（被带走） | vol1-ch20 |
 | [`06-beastshield/002-chameleon.md`](06-beastshield/002-chameleon.md) | 未知 | 变色龙兽人 | 影牙小队拟态刺客 | vol2-ch14 |
-| [`06-beastshield/003-scarred-black-wolf.md`](06-beastshield/003-scarred-black-wolf.md) | 黑石（黑石部长） | 黑狼兽人 | 兽盾黑制服/Z市地头蛇/噬精兽 | vol3-ch2 |
+| [`06-beastshield/003-scarred-black-wolf.md`](06-beastshield/003-scarred-black-wolf.md) | 黑石（黑石部长） | 黑狼兽人 | 兽盾黑制服/Z市地头蛇/噬精兽（已死亡，被铁角射杀） | vol3-ch2 |
 | [`06-beastshield/004-dr-gu.md`](06-beastshield/004-dr-gu.md) | 古博士 | 雪纳瑞狗兽人 | 生化学家/种子供应者 → 兽盾噬精兽研究员（已死亡） | vol1-ch1 |
 | [`06-beastshield/005-shadow-fang-electric-pair.md`](06-beastshield/005-shadow-fang-electric-pair.md) | 未知×2 | 未明确 | 影牙小队刺客（被电网电晕送警局） | vol2-ch11 |
 | [`06-beastshield/006-white-wolf-bounty-hunter.md`](06-beastshield/006-white-wolf-bounty-hunter.md) | 未知 | 白狼兽人 | 雇佣赏金猎人（杀死老何，被雷克斯击毙） | vol3-ch16 |
-| [`06-beastshield/007-assistant-wei.md`](06-beastshield/007-assistant-wei.md) | 维助理 | 灰犬兽人 | 黑石部长的助理 | vol4-ch15 |
+| [`06-beastshield/006-assistant-wei.md`](06-beastshield/006-assistant-wei.md) | 维助理 | 灰犬兽人 | 黑石部长的助理（表面）→ 黑狮渊的棋子 | vol4-ch15 |
+| [`06-beastshield/008-black-lion-yuan.md`](06-beastshield/008-black-lion-yuan.md) | 黑狮渊（渊总） | 黑狮兽人 | 兽盾高层 / Z市分部幕后掌控者 | vol4-ch21 |
+| [`06-beastshield/009-lieya-saber-tiger.md`](06-beastshield/009-lieya-saber-tiger.md) | 烈睚 | 剑齿虎兽人 | 兽盾高层（夜袭谷之家，解决外围守卫） | vol4-ch21 |
+| [`06-beastshield/010-laomo-mammoth.md`](06-beastshield/010-laomo-mammoth.md) | 老貊 | 猛犸兽人 | 兽盾高层（以血火焚毁谷之家） | vol4-ch21 |
+| [`06-beastshield/011-tibetan-mastiff.md`](06-beastshield/011-tibetan-mastiff.md) | 藏獒 | 藏獒兽人 | 兽盾高层（以血火药重创刘昴） | vol4-ch21 |
+| [`06-beastshield/012-giant-lizard.md`](06-beastshield/012-giant-lizard.md) | 巨蜥 | 巨蜥兽人 | 兽盾高层（与小岩结缘，夜袭时侧身放行） | vol4-ch21 |
 
 ---
 
@@ -88,4 +93,4 @@
 
 ---
 
-*最后更新：2026-06-24（新增晟哥/顿哥/维助理档案，更新2号/阿常/阿壮/刀疤黑狼状态）*
+*最后更新：2026-08-15（新增黑狮渊/烈睚/老貊/藏獒/巨蜥档案，更新小谷/老夯/刘昴/老坎/小岩/阿壮/晟哥/顿哥/铁角/老周/雷克斯/北泽/阿常/维助理/黑石等档案至 vol4-ch25）*
