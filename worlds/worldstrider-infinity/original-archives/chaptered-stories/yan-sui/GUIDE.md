@@ -45,12 +45,15 @@ yan-sui/
 │   └── (当前版本的故事章节)
 │
 ├── branches/                   # 分支故事线
-│   └── yan-can-canon-death/    # 岩参原作死亡线改编
-│       ├── 7-chapters-v2/      # 《无归》7章重写（Claude）
-│       ├── claude-synth-v2/    # 《雪停之前》重写（Claude）
-│       ├── snow-night-v2/      # 《雪夜》重写（DeepSeek）
-│       ├── before-dawn-v2/     # 《天亮之前》重写（DeepSeek）
-│       └── CURRENT_STATUS.md   # v2 进度追踪
+│   ├── yan-can-canon-death/    # 岩参原作死亡线改编
+│   │   ├── 7-chapters-v2/      # 《无归》7章重写（Claude）
+│   │   ├── claude-synth-v2/    # 《雪停之前》重写（Claude）
+│   │   ├── snow-night-v2/      # 《雪夜》重写（DeepSeek）
+│   │   ├── before-dawn-v2/     # 《天亮之前》重写（DeepSeek）
+│   │   └── CURRENT_STATUS.md   # v2 进度追踪
+│   └── valentine-special/      # 情人节特辑备选稿《暖雪情长》
+│       ├── README.md           # 分岔说明与版本对照
+│       └── ch-6.md             # 第六章：暖雪情长（备选版）
 │
 ├── ai-discuss/                 # AI 辅助创作讨论记录
 ├── chat/                       # 角色对话/聊天模拟
@@ -77,8 +80,9 @@ yan-sui/
 - **版本分析**：`discussions/version-comparison-yi-an.md`
 
 ### 4.2 救赎线（trunk/）
-- **当前版本**：V1 已完成，归档至 `history/`
-- **下一版本**：V2（连续叙事，慢节奏，万字以上长章），大纲规划中
+- **当前版本**：V2 前七章已完成（`trunk/ch-1.md` 至 `trunk/ch-7.md`）
+- **ch-6 / ch-7**：情人节特辑《融雪初温》与除夕特辑《岁末围炉》（连续叙事，由作者 txt 稿落库）
+- **备选分支**：`branches/valentine-special/` 存情人节特辑另一稿《暖雪情长》
 
 ---
 

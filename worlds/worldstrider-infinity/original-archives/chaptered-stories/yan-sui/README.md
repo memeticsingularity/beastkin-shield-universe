@@ -81,7 +81,8 @@ yan-sui/
 ├── trunk/                    # 主线故事（当前默认版本）/ Main story (current default version)
 │
 ├── branches/                 # 分支故事线 / Branch storylines
-│   └── yan-can-canon-death/  # 岩参原作死亡线改编（含 v1/v2）/ Yan Can canon death line adaptation (v1/v2)
+│   ├── yan-can-canon-death/  # 岩参原作死亡线改编（含 v1/v2）/ Yan Can canon death line adaptation (v1/v2)
+│   └── valentine-special/    # 情人节特辑备选稿《暖雪情长》（主线 ch-6 用《融雪初温》）/ Valentine's special alt draft
 │
 ├── ai-discuss/               # AI 辅助创作讨论记录 / AI-assisted creation discussion records
 ├── chat/                     # 角色对话/聊天模拟记录 / Character dialogue/chat simulation records
@@ -123,7 +124,7 @@ yan-sui/
 ### 主线（trunk/）—— 救赎线 / Main Story (trunk/) — Redemption Line
 
 - **当前版本 / Current Version**: V2（连续叙事，慢节奏，万字以上长章）/ V2 (continuous narrative, slow pace, 10k+ word chapters)
-- **状态 / Status**: V2 前五章已完成（`latest/ch-1.md` 至 `latest/ch-5.md`），第六章规划中 / V2 first five chapters completed (`latest/ch-1.md` to `latest/ch-5.md`), Chapter 6 in planning
+- **状态 / Status**: V2 前七章已完成（`trunk/ch-1.md` 至 `trunk/ch-7.md`），第六章为情人节特辑、第七章为除夕特辑 / V2 first seven chapters completed (`trunk/ch-1.md` to `trunk/ch-7.md`); Ch. 6 & 7 are the Valentine's & New Year's specials
 - **V1 已归档 / V1 Archived**至 `history/`
 
 **V2 已完成章节 / V2 Completed Chapters**:
@@ -132,9 +133,12 @@ yan-sui/
 - ch-3：夜宵与礼物悬念（约 16000 字）/ Late Night Snack and Gift Suspense (~16,000 words)
 - ch-4：救岩参（约 13500 字）/ Saving Yan Can (~13,500 words)
 - ch-5：岩参苏醒与清洁（约 11000 字，P0 问题已修复）/ Yan Can Awakens and Cleaning (~11,000 words, P0 issue fixed)
+- ch-6：融雪初温（情人节特辑，约 7,300 字）/ Thawing Warmth (Valentine's special, ~7,300 chars)
+- ch-7：岁末围炉（除夕特辑，约 7,500 字）/ New Year's Eve by the Fire (Year's End special, ~7,500 chars)
 
 ### 分支（branches/yan-can-canon-death/）—— 岩参原作死亡线 / Branch (branches/yan-can-canon-death/) — Yan Can Canon Death Line
 
+- **主线对照分支 / Branch**: [`branches/valentine-special/`](./branches/valentine-special/) —— 情人节特辑备选稿《暖雪情长》，主线 ch-6 采用《融雪初温》，本分支保留另一稿供对照
 - **当前活跃设定 / Current Active Setting**: v2（壹安设定：伯恩山犬，46岁，岩参后辈，蓝制服）/ v2 (Yi An setting: Bernese Mountain Dog, 46, Yan Can's junior, blue uniform)
 - **已完成版本 / Completed Versions**:
   - `7-chapters-v2/` —— 《无归》七章完整版 / *No Return* — 7-chapter complete version
@@ -153,7 +157,7 @@ yan-sui/
 | 项目 / Item | 版本 / Version | 特点 / Features | 状态 / Status |
 |---|---|---|---|
 | **主线 / Main Story** | V1 | 分幕结构，详细外貌描写 / Act structure, detailed appearance descriptions | 已完成，归档 / Completed, archived |
-| **主线 / Main Story** | V2 | 连续叙事，慢节奏，感官体验 / Continuous narrative, slow pace, sensory experience | 前五章完成，第六章规划中 / First 5 chapters completed, Ch. 6 in planning |
+| **主线 / Main Story** | V2 | 连续叙事，慢节奏，感官体验 / Continuous narrative, slow pace, sensory experience | 前七章完成（含情人节/除夕特辑）/ First 7 chapters completed (incl. Valentine's & NYE specials) |
 | **死亡线 / Death Line** | v1 | 老赵设定（平辈战友）/ Lao Zhao setting (peer comrade) | 已完成，归档参考 / Completed, archived for reference |
 | **死亡线 / Death Line** | v2 | 壹安设定（后辈，蓝制服）/ Yi An setting (junior, blue uniform) | **当前活跃，全部版本已完成 / Currently active, all versions completed** |
 
@@ -178,7 +182,7 @@ According to the latest requirements, V2 version will follow:
 
 ---
 
-*最后更新 / Last Updated: 2026-05-08*
+*最后更新 / Last Updated: 2026-08-16*
 
 ---
 
