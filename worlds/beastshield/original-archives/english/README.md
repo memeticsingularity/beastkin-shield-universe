@@ -30,7 +30,7 @@
 |------|-------|------|------|
 | `bs-o-cs-1-yan-liang` | Yanliang | `side` `yanliang` | [Index](chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) |
 | `bs-o-cs-2-mo-quan` | Ink Hound | `side` `ink-hound` `martial-arts` | [Index](chaptered-stories/side/bs-o-cs-2-mo-quan/README.md) |
-| `bs-o-cs-3-babysitter-lei` | Babysitter Lei | `side` `lao-lei` `martial-arts` `scorching-flow` | [Index](chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md) |
+| `bs-o-cs-3-babysitter-lei` | Lao Lei Raids the Intelligence Department | `side` `lao-lei` `martial-arts` `scorching-flow` | [Index](chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md) |
 
 ---
 
@@ -52,7 +52,7 @@
 ### Filter by Tags / 按标签筛选
 
 - `main / 主线`: Beast Game World, Moying, White Capital
-- `side / 支线`: Yanliang, Ink Hound, Babysitter Lei
+- `side / 支线`: Yanliang, Ink Hound, Lao Lei Raids the Intelligence Department
 - `bounty-hunter / 赏金猎人`: Blackstone, Blackstone 2
 - `action / 动作`: Blackstone, Blackstone 2
 - `thriller / 惊悚`: Blackstone, Blackstone 2, Captive Delivery, Beast Shield Employee's Day, Night Raid

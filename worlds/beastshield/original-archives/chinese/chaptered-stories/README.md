@@ -31,7 +31,7 @@
 |------|------|------|------|
 | `bs-o-cs-1-yan-liang` | 炎魉 | `支线` `炎魉` | [目录](side/bs-o-cs-1-yan-liang/README.md) |
 | `bs-o-cs-2-mo-quan` | 墨犬 | `支线` `墨犬` `武侠` | [目录](side/bs-o-cs-2-mo-quan/README.md) |
-| `bs-o-cs-3-babysitter-lei` | 带娃的老雷 | `支线` `老雷` `武侠` `灼流暗劲` | [目录](side/bs-o-cs-3-babysitter-lei/README.md) |
+| `bs-o-cs-3-babysitter-lei` | 老雷突袭情报局 | `支线` `老雷` `武侠` `灼流暗劲` | [目录](side/bs-o-cs-3-babysitter-lei/README.md) |
 
 ---
 
@@ -40,21 +40,21 @@
 ### 按标签筛选 / Filter by Tags
 
 - `主线 / Main`: 兽游世界、魔影、白之都
-- `支线 / Side`: 炎魉、墨犬、带娃的老雷
+- `支线 / Side`: 炎魉、墨犬、老雷突袭情报局
 - `VR/游戏机制 / VR/Game Mechanics`: 兽游世界
 - `特工局 / Agent Bureau`: 魔影、白之都
 - `十二神武 / Twelve Divine Weapons`: 白之都
-- `武侠 / Martial Arts`: 墨犬、带娃的老雷
+- `武侠 / Martial Arts`: 墨犬、老雷突袭情报局
 
 ### 按阅读顺序 / By Reading Order
 
 1. **入门 / Beginner**: 兽游世界（建立世界观基础）
 2. **深入 / Intermediate**: 魔影（特工局与魔影背景）
 3. **高潮 / Climax**: 白之都（最终决战与世界观收束）
-4. **支线探索 / Side Exploration**: 炎魉、墨犬、带娃的老雷
+4. **支线探索 / Side Exploration**: 炎魉、墨犬、老雷突袭情报局
 
 ---
 
 [返回上级 / Return Up](../README.md)
 
-*最后更新 / Last Updated: 2026-08-11*
+*最后更新 / Last Updated: 2026-08-20*

@@ -11,7 +11,7 @@
 |------|------|------|------|------|
 | `bs-o-cs-1-yan-liang` | 炎魉 | `支线` `炎魉` | 已完成 | [目录](bs-o-cs-1-yan-liang/README.md) |
 | `bs-o-cs-2-mo-quan` | 墨犬 | `支线` `墨犬` `武侠` | 已完成 | [目录](bs-o-cs-2-mo-quan/README.md) |
-| `bs-o-cs-3-babysitter-lei` | 带娃的老雷 | `支线` `老雷` `武侠` `灼流暗劲` | 连载中 | [目录](bs-o-cs-3-babysitter-lei/README.md) |
+| `bs-o-cs-3-babysitter-lei` | 老雷突袭情报局 | `支线` `老雷` `武侠` `灼流暗劲` | 连载中 | [目录](bs-o-cs-3-babysitter-lei/README.md) |
 
 ---
 
@@ -21,8 +21,8 @@
 
 - `炎魉 / Yanliang`: 炎魉
 - `墨犬 / Ink Hound`: 墨犬
-- `武侠 / Martial Arts`: 墨犬、带娃的老雷
-- `角色外传 / Character Spin-off`: 炎魉、墨犬、带娃的老雷
+- `武侠 / Martial Arts`: 墨犬、老雷突袭情报局
+- `角色外传 / Character Spin-off`: 炎魉、墨犬、老雷突袭情报局
 
 ### 按故事风格 / By Story Style
 
@@ -37,7 +37,7 @@
 
 - **炎魉 / Yanliang**: 探索炎魉角色的背景与故事。
 - **墨犬 / Ink Hound**: 黑狗的身世之谜与兽盾公司的追捕阴谋，保持原作武侠风格。
-- **带娃的老雷 / Babysitter Lei**: 特工局精英特工老雷的家庭线与主动出击，主线角色支线。
+- **老雷突袭情报局 / Lao Lei Raids the Intelligence Department**: 特工局精英特工老雷的家庭线与主动出击，主线角色支线。
 
 ---
 
@@ -50,4 +50,4 @@
 
 [返回上级 / Return Up](../README.md)
 
-*最后更新 / Last Updated: 2026-08-11*
+*最后更新 / Last Updated: 2026-08-20*

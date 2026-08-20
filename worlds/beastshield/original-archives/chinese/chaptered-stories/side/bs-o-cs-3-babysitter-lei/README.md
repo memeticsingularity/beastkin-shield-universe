@@ -1,4 +1,4 @@
-# 带娃的老雷 / Babysitter Lei
+# 老雷突袭情报局 / Lao Lei Raids the Intelligence Department
 
 > **⚠️ 内容分级与警告 / Content Rating & Warnings**
 >
@@ -20,36 +20,37 @@
 ## 基本信息 / Basic Information
 
 - **编码 / Code**: `bs-o-cs-3-babysitter-lei`
+- **曾用名 / Former Title**: 带娃的老雷 / Babysitter Lei
 - **状态 / Status**: 连载中 / Ongoing
 - **位置 / Location**: original-archives (原创作品 / Original work)
 - **类型 / Type**: 支线分章故事 (cs) / Side chaptered story
 - **作者 / Author**: lanse（笑天神犬）
 - **开始日期 / Start Date**: 2026-07-09
-- **最近更新 / Last Update**: 2026-08-11
+- **最近更新 / Last Update**: 2026-08-20
 
 ---
 
 ## 故事简介 / Synopsis
 
-隐居的武林高手老雷在别墅中抚养八岁的白虎小雷。深夜，兽盾武装士兵潜入家中试图绑走小雷，老雷不得不在家中展开一场血腥清理。事后他顺着幸存司机留下的线索主动出击，端掉兽盾情报部门窝点。
+隐居的武林高手老雷在别墅中抚养八岁的白虎小雷。深夜，兽盾武装士兵潜入家中试图绑走小雷，老雷不得不在家中展开一场血腥清理。事后他顺着幸存司机留下的线索主动出击，端掉兽盾情报部门窝点，一路潜入顶层数据中心夺走机密硬盘。而外出归来的情报部长颜某发现窝点被抄，将怒火倾泻在当夜值守的兽盾兵身上。
 
-A low-key martial arts master, Old Lei, raises his eight-year-old white tiger son Xiaolei in a villa. One night, BeastShield armed soldiers infiltrate the home to abduct Xiaolei, forcing Old Lei to turn his house into a battlefield. Later, following clues left by the surviving driver, he takes the offensive and cleans out a BeastShield intelligence department outpost.
+A low-key martial arts master, Old Lei, raises his eight-year-old white tiger son Xiaolei in a villa. One night, BeastShield armed soldiers infiltrate the home to abduct Xiaolei, forcing Old Lei to turn his house into a battlefield. Later, following clues left by the surviving driver, he takes the offensive and cleans out a BeastShield intelligence department outpost, raiding the top-floor data center for classified data. When Minister Yan, the intelligence chief, returns to find the outpost destroyed, he vents his fury on the guards who were on duty.
 
 ---
 
 ## 内容标签与核心元素 / Content Tags & Core Elements
 
 ### 🐾 物种 / Species
-虎（老雷/红虎主角、小雷/白虎、兽盾虎兵）、熊（黑熊/棕熊/白熊）、牛（黑牛/水牛/门卫）
+虎（老雷/红虎主角、小雷/白虎、兽盾虎兵）、熊（黑熊/灰熊/棕熊/白熊）、牛（黑牛/水牛/牛兵）、狐狸（颜部长）、野猪
 
 ### 🔞 情色与身体 / Erotic & Bodily
-`灼流暗劲` `性欲值系统` `射精死亡` `强制高潮` `憋精` `紧身制服` `白袜/黑袜` `袜底编号`
+`灼流暗劲` `性欲值系统` `射精死亡` `强制高潮` `憋精` `一次性射空` `紧身制服` `白袜/黑袜` `袜底编号`
 
 ### ⚔️ 死亡与暴力 / Death & Violence
-`夜袭反杀` `暗劲处决` `捏蛋` `掐颈` `暗劲灌刀` `掷刀` `尸体处理` `洁癖善后`
+`夜袭反杀` `暗劲处决` `捏蛋` `掐颈` `暗劲灌刀` `掷刀` `手指处决` `尸体处理` `尸体堆砌` `洁癖善后`
 
 ### 🏛️ 权力与关系 / Power & Relations
-`特工局精英` `兽盾情报部门` `家庭守护` `父子关系` `制服等级制（军绿/E级黑/白）`
+`特工局精英` `兽盾情报部门` `部长威压` `家庭守护` `父子关系` `制服等级制（军绿/E级黑/白）`
 
 ### 🎭 主题与情感 / Themes & Emotions
 `日常秩序覆盖暴力` `儿童视角的纯真与残酷` `守护与杀戮的共存` `洁癖美学`
@@ -58,10 +59,10 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 `第三人称叙事` `短段落快节奏` `黑色幽默` `直白露骨` `武林高手主角`
 
 ### 🗺️ 核心场景 / Key Settings
-`老雷别墅（夜间）` `兽盾情报部门` `体训室` `走廊/洗手间`
+`老雷别墅（夜间）` `兽盾情报部门` `体训室` `走廊/洗手间` `顶层数据中心` `楼梯间`
 
 ### 🧩 世界观机制 / World Mechanics
-`兽盾公司等级制` `制服编码系统` `性欲值/Libido系统` `灼流暗劲` `射尽而亡`
+`兽盾公司等级制` `制服编码系统` `性欲值/Libido系统` `灼流暗劲` `暗劲灌器` `射尽而亡`
 
 ### 🎯 结局指向 / Ending Tendency
 `连载中` `未完待续` `主动出击`
@@ -72,11 +73,13 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 
 - **[老雷 / Lao Lei](../characters/agent-bureau/lao-lei.md)**: 特工局精英特工，虎兽人，灼流暗劲高手，隐居带娃
 - **小雷 / Xiaolei**: 老雷之子，八岁白虎，把处决当成"放烟花"
+- **[颜部长 / Minister Yan](../characters/minister-yan.md)**: 兽盾情报部长，狐狸兽人，以手指功法处决值守兵
 
 ## 章节列表 / Chapter List
 
 - [第一章: 别墅夜袭 / Chapter 1: Villa Night Raid](ch-1-villa-night-raid.md)
 - [第二章: 情报部门 / Chapter 2: Intelligence Department](ch-2-intelligence-sweep.md)
+- [第三章: 颜部长的清算 / Chapter 3: Minister Yan's Reckoning](ch-3-minister-yan-reckoning.md)
 
 ---
 

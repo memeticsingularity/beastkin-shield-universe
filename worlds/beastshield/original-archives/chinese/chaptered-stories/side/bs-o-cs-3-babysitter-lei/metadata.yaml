@@ -1,8 +1,8 @@
 work:
   code: "bs-o-cs-3-babysitter-lei"
   title:
-    chinese: "带娃的老雷"
-    english: "Babysitter Lei"
+    chinese: "老雷突袭情报局"
+    english: "Lao Lei Raids the Intelligence Department"
   format: "chaptered-story"
   form_type: "cs"
   status: "ongoing"
@@ -14,6 +14,8 @@ work:
     - "动作"
     - "家庭"
     - "夜袭"
+    - "突袭"
+    - "情报"
     - "守护"
     - "武侠"
     - "灼流暗劲"
@@ -26,5 +28,5 @@ work:
 creation:
   author: "lanse"
   start_date: "2026-07-09"
-  last_update: "2026-08-11"
+  last_update: "2026-08-20"
   universe_based_on: "beastshield"

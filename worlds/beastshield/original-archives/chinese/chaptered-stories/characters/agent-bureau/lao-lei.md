@@ -45,7 +45,7 @@
 **支线**
 | 作品 | 文件 |
 |:----:|:-----|
-| 《带娃的老雷》 | [`bs-o-cs-3`](../../side/bs-o-cs-3-babysitter-lei/README.md)（隐居家庭线，含儿子小雷） |
+| 《老雷突袭情报局》 | [`bs-o-cs-3`](../../side/bs-o-cs-3-babysitter-lei/README.md)（隐居家庭线，含儿子小雷） |
 
 **第三卷《白之都》**（`main/bs-o-cm-1-main-story-3/`）
 | 章节 | 文件 | 章节 | 文件 |
@@ -293,7 +293,7 @@
 
 ### 小雷 / Xiaolei（儿子）
 
-- 老雷之子，八岁白虎（[《带娃的老雷》](../../side/bs-o-cs-3-babysitter-lei/README.md)）
+- 老雷之子，八岁白虎（[《老雷突袭情报局》](../../side/bs-o-cs-3-babysitter-lei/README.md)）
 - 老雷将处决包装成"放烟花"哄儿子，护崽心切；小雷以"进门要脱鞋"的家教帮尸体脱靴，纯真与残酷错位
 
 ### 曲先生 / Mr. Qu
@@ -350,7 +350,7 @@
 5. **获得神武焚阳破城炮**——参加浮岛决战（[vol-3-ch-15](../../main/bs-o-cm-1-main-story-3/ch-15-final-battle.md)）
 6. **浮岛大战嗜精兽**——单手击杀灰熊，拳毙水牛，与阿宝部长激战（[vol-3-ch-16](../../main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md)）
 7. **浮岛终战**——精疲力尽仍护在曲先生身前，最终被血君王邪火烧死（[vol-3-ch-21](../../main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md)）
-8. **别墅守护（支线）**——深夜兽盾兵潜入欲绑走小雷，老雷逐一射杀，并顺着司机线索端掉兽盾情报部门（[《带娃的老雷》](../../side/bs-o-cs-3-babysitter-lei/README.md)）
+8. **别墅守护（支线）**——深夜兽盾兵潜入欲绑走小雷，老雷逐一射杀，并顺着司机线索端掉兽盾情报部门（[《老雷突袭情报局》](../../side/bs-o-cs-3-babysitter-lei/README.md)）
 
 ---
 
@@ -384,18 +384,18 @@
 
 > "你想干什么？你快回来！"——曲先生迎战血君王前，老雷语气中的恐惧（[vol-3-ch-21](../../main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md)）
 
-> "惩罚……惩罚喷烟花！"——哄小雷时胡诌（[《带娃的老雷》](../../side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)）
+> "惩罚……惩罚喷烟花！"——哄小雷时胡诌（[《老雷突袭情报局》](../../side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)）
 
 ---
 
 ## 十一、档案索引
 
-- 关联角色：[魔影](mo-ying.md)、[曲先生](qu-xian-sheng.md)、[总司令](commander.md)、[墩常](dunchang.md)、小雷（儿子，[《带娃的老雷》](../../side/bs-o-cs-3-babysitter-lei/README.md)）
+- 关联角色：[魔影](mo-ying.md)、[曲先生](qu-xian-sheng.md)、[总司令](commander.md)、[墩常](dunchang.md)、小雷（儿子，[《老雷突袭情报局》](../../side/bs-o-cs-3-babysitter-lei/README.md)）
 - 老雷在改编侧的展开：暂未独立展开
-- 支线故事：《带娃的老雷》（[bs-o-cs-3](../../side/bs-o-cs-3-babysitter-lei/README.md)）——隐居家庭生活线
+- 支线故事：《老雷突袭情报局》（[bs-o-cs-3](../../side/bs-o-cs-3-babysitter-lei/README.md)）——隐居家庭生活线与主动清剿兽盾情报部门
 
 ---
 
 *档案创建：2026-06-09*  
-*档案补充：2026-08-11（收录支线《带娃的老雷》与小雷）*  
+*档案补充：2026-08-11（收录支线《带娃的老雷》与小雷）；2026-08-20（支线更名《老雷突袭情报局》，补全第二章、新增第三章）*  
 *数据来源：兽盾主线第二卷《魔影》第5、6、9、10、11、12章 + 第三卷《白之都》第12、15、16、21章*

@@ -32,7 +32,7 @@
 |------|----------|----------|------|------|
 | `bs-o-cs-1-yan-liang` | 炎魉 | Yanliang | `支线` `炎魉` | [目录](chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) |
 | `bs-o-cs-2-mo-quan` | 墨犬 | Ink Hound | `支线` `墨犬` `武侠` | [目录](chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md) |
-| `bs-o-cs-3-babysitter-lei` | 带娃的老雷 | Babysitter Lei | `支线` `老雷` `武侠` `灼流暗劲` | [目录](chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md) |
+| `bs-o-cs-3-babysitter-lei` | 老雷突袭情报局 | Lao Lei Raids the Intelligence Department | `支线` `老雷` `武侠` `灼流暗劲` | [目录](chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md) |
 
 ### 短篇故事 / Short Stories
 
@@ -53,7 +53,7 @@
 ### 按标签筛选 / Filter by Tags
 
 - `主线 / Main`: 兽游世界、魔影、白之都
-- `支线 / Side`: 炎魉、墨犬、带娃的老雷
+- `支线 / Side`: 炎魉、墨犬、老雷突袭情报局
 - `赏金猎人 / Bounty Hunter`: 黑石、黑石2
 - `动作 / Action`: 黑石、黑石2
 - `惊悚 / Thriller`: 黑石、黑石2、俘虏快递、兽盾员工的一天、夜袭

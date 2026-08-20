@@ -74,7 +74,7 @@ For detailed settings, see: [settings/](settings/)
 |:--|:--|:--:|:--:|:--:|:--:|:--|
 | `bs-o-cs-1-yan-liang` | 炎魉 | Lv.4 | Lv.5 | Lv.3 | `任务完成` `赏金获取` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) |
 | `bs-o-cs-2-mo-quan` | 墨犬 | Lv.4 | Lv.4 | Lv.3 | `未完待续` `力量觉醒` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md) |
-| `bs-o-cs-3-babysitter-lei` | 带娃的老雷 | Lv.4 | Lv.4 | Lv.3 | `连载中` `未完待续` `主动出击` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md) |
+| `bs-o-cs-3-babysitter-lei` | 老雷突袭情报局 | Lv.4 | Lv.4 | Lv.3 | `连载中` `未完待续` `主动出击` | [目录](original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md) |
 
 #### 短篇 / Short Stories
 

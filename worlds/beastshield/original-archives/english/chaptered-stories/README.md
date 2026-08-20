@@ -30,7 +30,7 @@
 |------|-------|------|------|
 | `bs-o-cs-1-yan-liang` | Yanliang | `side` `yanliang` | [Index](side/bs-o-cs-1-yan-liang/README.md) |
 | `bs-o-cs-2-mo-quan` | Ink Hound | `side` `ink-hound` `martial-arts` | [Index](side/bs-o-cs-2-mo-quan/README.md) |
-| `bs-o-cs-3-babysitter-lei` | Babysitter Lei | `side` `lao-lei` `martial-arts` `scorching-flow` | [Index](side/bs-o-cs-3-babysitter-lei/README.md) |
+| `bs-o-cs-3-babysitter-lei` | Lao Lei Raids the Intelligence Department | `side` `lao-lei` `martial-arts` `scorching-flow` | [Index](side/bs-o-cs-3-babysitter-lei/README.md) |
 
 ---
 
@@ -39,18 +39,18 @@
 ### Filter by Tags / 按标签筛选
 
 - `main / 主线`: Beast Game World, Moying, White Capital
-- `side / 支线`: Yanliang, Ink Hound, Babysitter Lei
+- `side / 支线`: Yanliang, Ink Hound, Lao Lei Raids the Intelligence Department
 - `VR/game-mechanics / VR/游戏机制`: Beast Game World
 - `agent-bureau / 特工局`: Moying, White Capital
 - `twelve-divine-weapons / 十二神武`: White Capital
-- `martial-arts / 武侠`: Ink Hound, Babysitter Lei
+- `martial-arts / 武侠`: Ink Hound, Lao Lei Raids the Intelligence Department
 
 ### By Reading Order / 按阅读顺序
 
 1. **Beginner / 入门**: Beast Game World (establish worldview foundation)
 2. **Intermediate / 深入**: Moying (Agent Bureau and Shadow Demon background)
 3. **Climax / 高潮**: White Capital (final battle and worldview conclusion)
-4. **Side Exploration / 支线探索**: Yanliang, Ink Hound, Babysitter Lei
+4. **Side Exploration / 支线探索**: Yanliang, Ink Hound, Lao Lei Raids the Intelligence Department
 
 ---
 
