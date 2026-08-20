@@ -10,3 +10,4 @@
 | [tiger-o-vol-3-ch-01-001](tiger-o-vol-3-ch-01-001.md) | 虎兽人 | vol-3-ch-01 提拔测试坚持最久 | 已死亡 |
 | [虎队长（武馆屠杀·蓝制服红光眼）](tiger-o-vol-3-ch-02-squad-leader.md) | 黄虎兽人 | vol-3-ch-02 武馆屠杀领队 | 存活 |
 | [阿正（仓储部蓝制服组长）](tiger-o-vol-3-ch-03-azheng.md) | 黄虎兽人 | vol-3-ch-03 仓储部组长·被熊部长后入插死 | 已死亡 |
+| [蓝制服虎兽人（警报后·抹脖子·老雷篇）](tiger-o-babysitter-lei-ch-2-001.md) | 虎兽人 | 老雷篇 ch-2 警报·被抹脖子喷精倒血泊 | 已死亡 |
