@@ -16,6 +16,7 @@
 | **隶属** | 暗室（杀手组织） |
 | **状态** | **存活**——为夺取兽盾情报局资料与老雷对峙，交易未成，老雷跳窗逃脱 |
 | **首次登场** | 《老雷突袭情报局》第四章（[ch-4](../bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)） |
+| **跨作品登场** | 《兽盾新纪元》[ch-15 绿洲镇相遇](../../../../../../beastshield-reforged/original-archives/chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-15-encounter-at-oasis-town.md)（同一角色，亦有唐刀/慵懒形象） |
 
 ---
 
@@ -23,7 +24,8 @@
 
 | 章节 | 文件 |
 |:----:|:-----|
-| Ch.4 | [`暗室三座浪青平`](../bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
+| 老雷篇 Ch.4 | [`暗室三座浪青平`](../bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
+| 兽盾新纪元 Ch.15 | [`绿洲镇相遇`](../../../../../../beastshield-reforged/original-archives/chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-15-encounter-at-oasis-town.md)（唐刀狼兽人救牛崽[配图](../../../../../../beastshield-reforged/original-archives/images/main-story/ch-15-sword.png)） |
 
 ---
 
