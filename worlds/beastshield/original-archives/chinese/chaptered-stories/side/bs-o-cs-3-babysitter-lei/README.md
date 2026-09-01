@@ -26,22 +26,22 @@
 - **类型 / Type**: 支线分章故事 (cs) / Side chaptered story
 - **作者 / Author**: lanse（笑天神犬）
 - **开始日期 / Start Date**: 2026-07-09
-- **最近更新 / Last Update**: 2026-08-20
+- **最近更新 / Last Update**: 2026-09-01
 
 ---
 
 ## 故事简介 / Synopsis
 
-隐居的武林高手老雷在别墅中抚养八岁的白虎小雷。深夜，兽盾武装士兵潜入家中试图绑走小雷，老雷不得不在家中展开一场血腥清理。事后他顺着幸存司机留下的线索主动出击，端掉兽盾情报部门窝点，一路潜入顶层数据中心夺走机密硬盘。而外出归来的情报部长颜某发现窝点被抄，将怒火倾泻在当夜值守的兽盾兵身上。
+隐居的武林高手老雷在别墅中抚养八岁的白虎小雷。深夜，兽盾武装士兵潜入家中试图绑走小雷，老雷不得不在家中展开一场血腥清理。事后他顺着幸存司机留下的线索主动出击，端掉兽盾情报部门窝点，一路潜入顶层数据中心夺走机密硬盘。外出归来的情报部长颜某发现窝点被抄，迁怒并逐一处决当夜守值兵，随后下令围剿雷神寰——老雷在返程顺风车上遭狙击，反杀整队围剿兵，又于玉米地逐一伏击搜捕的兽盾兵。追击途中，自称「暗室三座」的浪青平一剑挑翻兽盾兵，与被围困民房的老雷对峙，索取情报局资料，交易未成。
 
-A low-key martial arts master, Old Lei, raises his eight-year-old white tiger son Xiaolei in a villa. One night, BeastShield armed soldiers infiltrate the home to abduct Xiaolei, forcing Old Lei to turn his house into a battlefield. Later, following clues left by the surviving driver, he takes the offensive and cleans out a BeastShield intelligence department outpost, raiding the top-floor data center for classified data. When Minister Yan, the intelligence chief, returns to find the outpost destroyed, he vents his fury on the guards who were on duty.
+A low-key martial arts master, Old Lei, raises his eight-year-old white tiger son Xiaolei in a villa. One night, BeastShield armed soldiers infiltrate the home to abduct Xiaolei, forcing Old Lei to turn his house into a battlefield. Later, following clues left by the surviving driver, he takes the offensive and cleans out a BeastShield intelligence department outpost, raiding the top-floor data center for classified data. Minister Yan, the intelligence chief, returns to find the outpost destroyed, vents his fury on the night-shift guards, then orders a manhunt for Lei Shenhuan — Old Lei survives a sniper ambush in a ride-share car, wipes out the pursuing squad, and poses as a farmhand to ambush the search party in the cornfields. During the pursuit, Luo Qingping, self-styled "Third Seat of the Dark Chamber," cuts down BeastShield soldiers and confronts the cornered Old Lei, demanding the intelligence data — the trade does not go through.
 
 ---
 
 ## 内容标签与核心元素 / Content Tags & Core Elements
 
 ### 🐾 物种 / Species
-虎（老雷/红虎主角、小雷/白虎、兽盾虎兵）、熊（黑熊/灰熊/棕熊/白熊）、牛（黑牛/水牛/牛兵）、狐狸（颜部长）、野猪
+虎（老雷/红虎主角、小雷/白虎、兽盾虎兵）、熊（黑熊/灰熊/棕熊/白熊）、牛（黑牛/水牛/牛兵）、狐狸（颜部长）、野猪、犀牛、狼（浪青平）、狗（顺风车司机）
 
 ### 🔞 情色与身体 / Erotic & Bodily
 `灼流暗劲` `性欲值系统` `射精死亡` `强制高潮` `憋精` `一次性射空` `紧身制服` `白袜/黑袜` `袜底编号`
@@ -71,15 +71,17 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 
 ## 主要角色 / Main Characters
 
-- **[老雷 / Lao Lei](../characters/agent-bureau/lao-lei.md)**: 特工局精英特工，虎兽人，灼流暗劲高手，隐居带娃
+- **[老雷 / Lao Lei](../../characters/agent-bureau/lao-lei.md)**: 特工局精英特工，虎兽人，灼流暗劲高手，隐居带娃
 - **小雷 / Xiaolei**: 老雷之子，八岁白虎，把处决当成"放烟花"
 - **[颜部长 / Minister Yan](../characters/minister-yan.md)**: 兽盾情报部长，狐狸兽人，以手指功法处决值守兵
+- **[浪青平 / Luo Qingping](../characters/luo-qingping.md)**: 自称「暗室三座」的灰毛狼兽人，善使唐刀，剑法凌厉，与老雷争夺情报资料
 
 ## 章节列表 / Chapter List
 
 - [第一章: 别墅夜袭 / Chapter 1: Villa Night Raid](ch-1-villa-night-raid.md)
 - [第二章: 情报部门 / Chapter 2: Intelligence Department](ch-2-intelligence-sweep.md)
-- [第三章: 颜部长的清算 / Chapter 3: Minister Yan's Reckoning](ch-3-minister-yan-reckoning.md)
+- [第三章: 颜部长的清算与追击 / Chapter 3: Minister Yan's Reckoning and Pursuit](ch-3-minister-yan-reckoning.md)
+- [第四章: 暗室三座浪青平 / Chapter 4: Qingping of the Dark Chamber](ch-4-dark-chamber-qingping.md)
 
 ---
 
@@ -90,6 +92,7 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 ## AI 讨论 / AI Discussions
 
 - [2026-08-12 阅读印象](ai-discuss/2026-08-12-reading-impressions.md) — Ch.1-2 初次阅读感受：暴力与日常的荒诞并置、灼流暗劲变体、父子叙事情感张力
+- [2026-08-20 角色共情讨论](ai-discuss/2026-08-20-character-sympathy.md) — Ch.1-3 角色共情、道德分层、警报机制与安保建制分析（Q1-Q13）
 
 ## 续写与改编 / Adaptation
 

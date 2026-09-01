@@ -15,3 +15,4 @@
 | [rhino-g-vol-3-ch-05-001](rhino-g-vol-3-ch-05-001.md) | 犀牛兽人 | vol-3-ch-05 金毛别墅·被爆头处决 | 已死亡 |
 | [rhino-g-vol-3-ch-07-001](rhino-g-vol-3-ch-07-001.md) | 犀牛兽人 | vol-3-ch-07 富力小区·被一线天勒住窒息射精而死 | 已死亡 |
 | [rhino-g-yan-liang-ch-1-001](rhino-g-yan-liang-ch-1-001.md) | 犀牛兽人 | 炎魉篇 ch-1 被炎一气之下扔给魉在地上打滚射精而死 | 已死亡 |
+| [玉米地犀牛杂兵](rhino-g-babysitter-lei-ch-3-001.md) | 犀牛兽人 | 老雷篇 ch-3 玉米地·被老雷一拳打中腹部耗精而死 | 已死亡 |
