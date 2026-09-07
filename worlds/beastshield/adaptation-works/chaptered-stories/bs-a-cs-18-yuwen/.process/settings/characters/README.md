@@ -39,11 +39,11 @@
 
 | 档案 | 角色名 | 种族 | 身份 | 首次登场 |
 |------|--------|------|------|---------|
-| [`03-survivor-unit/001-black-bull.md`](03-survivor-unit/001-black-bull.md) | 黑牛 | 牛兽人 | 武斗组幸存者 / 编队司机 | ch7（宿主）/ ch11（角色） |
-| [`03-survivor-unit/002-tiger.md`](03-survivor-unit/002-tiger.md) | 老虎 | 虎兽人 | 枪械组幸存者（白制服） | ch3（宿主）/ ch11（角色） |
-| [`03-survivor-unit/003-black-bear.md`](03-survivor-unit/003-black-bear.md) | 黑熊 | 熊兽人 | 武斗组幸存者（黑制服） | ch11 |
-| [`03-survivor-unit/004-da-ban.md`](03-survivor-unit/004-da-ban.md) | 大坂 | 犬兽人 | 武斗组幸存者 | ch11 |
-| [`03-survivor-unit/005-yu-chen.md`](03-survivor-unit/005-yu-chen.md) | 煜辰 | 狮子兽人 | 幸存者（黄毛狮） | ch4（宿主）/ ch11（角色） |
+| [`03-survivor-unit/001-black-bull.md`](03-survivor-unit/001-black-bull.md) | 黑牛 | 牛兽人 | 武斗组幸存者 / 编队司机 | ch7（遇害，无名）/ ch11（编队成员） |
+| [`03-survivor-unit/002-tiger.md`](03-survivor-unit/002-tiger.md) | 老虎 | 虎兽人 | 枪械组幸存者（白制服） | ch3（遇害，无名）/ ch11（编队成员） |
+| [`03-survivor-unit/003-black-bear.md`](03-survivor-unit/003-black-bear.md) | 黑熊 | 熊兽人 | 武斗组幸存者（黑制服） | ch11（编队成员） |
+| [`03-survivor-unit/004-da-ban.md`](03-survivor-unit/004-da-ban.md) | 大坂 | 犬兽人 | 武斗组幸存者 | ch11（编队成员） |
+| [`03-survivor-unit/005-yu-chen.md`](03-survivor-unit/005-yu-chen.md) | 煜辰 | 狮子兽人 | 幸存者（黄毛狮） | ch4（遇害，无名）/ ch11（编队成员） |
 
 ### 神秘高手
 
@@ -69,7 +69,10 @@
 ## 来源标注说明
 
 - **【正文】**：仅指故事正文（`chapters/ch-NN-*.md` 中的正文内容）
-- **【宿主】**：该角色以"濒死躯壳"形式于前段出现（如 ch9/ch10 的急救与意识回望），其后以独立身份登场
+- **【遇害，无名】**：该角色在夜袭段（ch1–ch8）以无名受害者的身份出现，被处决或重伤——此时尚无角色名。
+- **【编队成员】**：该角色在 ch11 起以"特殊适应性编队"成员身份登场，此时才作为独立角色被记录。
+
+> 例：老虎在 ch3 只是"正门被处决的白制服虎守卫"（遇害，无名），三个月后 ch11 才作为编队成员"老虎"独立登场。
 
 ---
 
