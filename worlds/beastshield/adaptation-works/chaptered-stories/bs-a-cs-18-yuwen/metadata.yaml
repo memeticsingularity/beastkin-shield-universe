@@ -1,0 +1,90 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章故事元数据
+# ============================================
+
+work:
+  code: "bs-a-cs-18-yuwen"
+
+  title:
+    chinese: "余温（炎魉·雨禾版）"
+    english: "Residual Warmth (Yanliang, Yuhe Edition)"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "updating"
+  location: "adaptation-works"
+
+  subtype: "side"
+
+  promotion_status: "eligible"
+
+  work_type: "original-adaptation"
+
+  tags:
+    - "original-adaptation"
+    - "yanliang"
+    - "yuhe-adaptation"
+    - "aftermath"
+    - "bounty-hunters"
+    - "infiltration"
+    - "survivor-unit"
+    - "near-death"
+    - "consciousness-flashback"
+    - "post-trauma"
+
+  content_warnings:
+    - "violence"
+    - "sexual-content"
+    - "dark-themes"
+    - "death"
+    - "execution"
+    - "necrophilia-adjacent"
+    - "survival"
+
+  reading_time_estimate:
+    minutes: 0
+
+  target_audience: "mature"
+
+  chapters:
+    count: 12
+    list:
+      - "ch-01-list-of-names: 名单上的名字"
+      - "ch-02-intel-and-wardrobe: 情报与换装"
+      - "ch-03-white-uniform: 正门的白飞虎"
+      - "ch-04-janitors-closet: 杂物间"
+      - "ch-05-meeting-room: 会议室・银针"
+      - "ch-06-corpse-corridor: 尸骸走廊"
+      - "ch-07-holding-cell: 关押室・熊猫"
+      - "ch-08-hq-accountability: 总部问责"
+      - "ch-09-rescue: 余温・救援"
+      - "ch-10-operating-table: 余温・手术台"
+      - "ch-11-three-months-later: 三月后・新编队"
+      - "ch-12-abandoned-plant: 行动・废弃厂房"
+
+creation:
+  author: "yuhe"
+  start_date: "2026-09-07"
+
+  adaptation_info:
+    original_work: "bs-o-cs-1-yan-liang"
+    original_title: "炎魉"
+    original_author: "memeticsingularity"
+    adaptation_approach: "original-adaptation"
+    key_changes: |
+      1. 基于原作炎魉角色进行改编创作，由雨禾执笔的独立改编版本
+      2. 在完整前段基础上，新增"余温"（濒死急救与意识回望）与"三个月后新编队"两大延长线
+      3. 同一原作的不同改编版本，与 bs-a-cs-4-yanliang（memeticsingularity 版）并列
+
+  last_update: "2026-09-07"
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "0.1"
+      date: "2026-09-07"
+      changes: "Initial ingestion from standby / 自余温.txt 首次入库"

@@ -92,6 +92,13 @@
 
 ---
 
+## 关联改编 / Related Adaptations
+
+- [余温（雨禾版）](../../../../../adaptation-works/chaptered-stories/bs-a-cs-18-yuwen/README.md) — `bs-a-cs-18-yuwen` 本作改编的新章
+- [炎魉（memeticsingularity 版）](../../../../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/README.md) — `bs-a-cs-4-yanliang` 本作改编的扩写版
+
+---
+
 ## 版权与使用说明 / Copyright & Usage Guidelines
 
 本作品为Beastkin Universe世界观下的原创官方作品，版权归世界观原作者及核心团队所有。

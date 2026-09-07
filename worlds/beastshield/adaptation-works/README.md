@@ -32,6 +32,12 @@
 | `bs-a-cs-10-leishan-resurrection` | 雷山复活 | Leishan Resurrection | `改编` `支线` | [目录](chaptered-stories/bs-a-cs-10-leishan-resurrection/README.md) |
 | `bs-a-cs-11-daily` | 日常 | Daily | `改编` `支线` `日常` | [目录](chaptered-stories/bs-a-cs-11-daily/README.md) |
 | `bs-a-cs-12-mo-quan` | 墨犬（续写） | Ink Hound (Sequel) | `改编` `续写` `墨犬` `武侠` | [目录](chaptered-stories/bs-a-cs-12-mo-quan/README.md) |
+| `bs-a-cs-13-farmhouse` | 兽盾农家乐（续写） | Beastshield Farmhouse (Continuation) | `改编` `续写` `农家乐` `雨禾版` | [目录](chaptered-stories/bs-a-cs-13-farmhouse/README.md) |
+| `bs-a-cs-14-save-us` | Save Us Then Load World | Save Us Then Load World | `改编` `存档重读` `乌托邦` `时间循环` | [目录](chaptered-stories/bs-a-cs-14-save-us/README.md) |
+| `bs-a-cs-15-hell-bull` | 冥府牛头 | Hell Bull | `改编` `原作回响` `不死体质` `憋精功` | [目录](chaptered-stories/bs-a-cs-15-hell-bull/README.md) |
+| `bs-a-cs-16-bear-captain` | 熊组长 | Bear Captain | `改编` `原作回响` `金钟罩` `成长责任` | [目录](chaptered-stories/bs-a-cs-16-bear-captain/README.md) |
+| `bs-a-cs-17-moying` | 魔影（雨禾版） | Moying (Yuhe Edition) | `改编` `支线` `魔影` `雨禾版` | [目录](chaptered-stories/bs-a-cs-17-moying/README.md) |
+| `bs-a-cs-18-yuwen` | 余温（炎魉·雨禾版） | Residual Warmth (Yanliang, Yuhe Edition) | `改编` `支线` `炎魉` `雨禾版` `战后余烬` | [目录](chaptered-stories/bs-a-cs-18-yuwen/README.md) |
 
 ---
 
@@ -53,19 +59,21 @@
 ### 按标签筛选 / Filter by Tags
 
 - `主线改编 / Main Adaptation`: 魔影
-- `支线改编 / Side Adaptation`: 炎魉、兽盾编年史、随意处决、全杀、制服生日死亡、兽盾流拍处决秀、雷山复活、日常、墨犬（续写）
+- `支线改编 / Side Adaptation`: 炎魉、余温（雨禾版）、兽盾编年史、随意处决、全杀、制服生日死亡、兽盾流拍处决秀、雷山复活、日常、墨犬（续写）
 - `VR/降临者 / VR/Arrival`: 第一场游戏、第一场游戏（短篇版）
 - `日常/治愈 / Slice-of-life/Healing`: 兽盾日常切片、松果的领养日记、日常
 - `死亡游戏 / Death Game`: 血酬淘汰赛
 - `特工局 / Agent Bureau`: 潜入者之焰
 - `武侠 / Martial Arts`: 墨犬（续写）
 - `系列作品 / Series`: 哨兵清除系列、日常猎杀系列、屠杀与善后、癖好游玩记录
+- `原作回响 / Original Echoes`: 冥府牛头、熊组长
+- `雨禾版 / Yuhe Edition`: 兽盾农家乐（续写）、魔影（雨禾版）、余温
 
 ### 按创作类型 / By Creation Type
 
 - `世界观扩展 / World Expansion`: 兽盾日常切片
 - `角色扩展 / Character Expansion`: 松果的领养日记
-- `续写 / Sequel`: 墨犬（续写）
+- `续写 / Sequel`: 墨犬（续写）、兽盾农家乐（续写）
 - `前传关联 / Prequel Related`: 第一场游戏
 - `玩家视角 / Player Perspective`: 癖好游玩记录
 

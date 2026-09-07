@@ -143,6 +143,7 @@ Two adaptation versions are maintained:
 ## 五、关联作品 / Related Works
 
 - 原作/改编来源：[bs-o-cs-1-yan-liang](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) — 炎魉原版
+- 同一原作的其他改编：[bs-a-cs-18-yuwen](../bs-a-cs-18-yuwen/README.md) — 余温（雨禾版）
 - 同一世界观：[bsp-o-cs-7-yanliang](../../../../beastshield-paradise/original-archives/chinese/chaptered-stories/side/bsp-o-cs-7-yanliang/README.md) — 兽盾天堂 炎魉（HE线版本）
 
 ---
@@ -150,6 +151,7 @@ Two adaptation versions are maintained:
 ## V. Related Works
 
 - Original / Source: [bs-o-cs-1-yan-liang](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) — Yanliang Original
+- Other Adaptation of Same Original: [bs-a-cs-18-yuwen](../bs-a-cs-18-yuwen/README.md) — Residual Warmth (Yuhe Edition)
 - Same Universe: [bsp-o-cs-7-yanliang](../../../../beastshield-paradise/original-archives/chinese/chaptered-stories/side/bsp-o-cs-7-yanliang/README.md) — Beastshield Paradise: Yanliang (HE Route)
 
 ---
