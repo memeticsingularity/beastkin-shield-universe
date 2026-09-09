@@ -1,0 +1,89 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章故事元数据
+# ============================================
+
+work:
+  code: "bs-a-cs-19-lao-lei-pov"
+
+  title:
+    chinese: "这一夜（老雷主视角扩写）"
+    english: "One Night (Lao Lei POV Expansion)"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "updating"
+  location: "adaptation-works"
+
+  subtype: "side"
+
+  promotion_status: "eligible"
+
+  work_type: "original-adaptation"
+
+  tags:
+    - "original-adaptation"
+    - "lao-lei"
+    - "pov-limited-third-person"
+    - "slow-pace"
+    - "sensory-prose"
+    - "infiltration"
+    - "home-defense"
+    - "intelligence-department"
+    - "martial-arts"
+    - "beastshield"
+
+  content_warnings:
+    - "violence"
+    - "sexual-content"
+    - "dark-themes"
+    - "death"
+    - "execution"
+    - "ejaculation-death"
+    - "non-consensual"
+    - "child-witnesses-violence"
+
+  reading_time_estimate:
+    minutes: 0
+
+  target_audience: "mature"
+
+  # —— 分章扩写企划 · 规划骨架（随写作进度更新）——
+  # 全程第三人称限知于老雷、主视角连贯、无时间跳切。
+  # 本卷"这一夜"= 别墅夜袭 → 情报局清剿夺盘。
+  chapters:
+    count: 5
+    list:
+      - "ch-01-villa-night-raid: 别墅夜袭"
+      - "ch-02-the-driver: 司机"
+      - "ch-03-outskirt-gate: 外勤哨位"
+      - "ch-04-wardrobe-and-gym: 换装与体训室"
+      - "ch-05-data-center: 数据中心"
+
+creation:
+  author: "memeticsingularity + AI 协作"
+
+  adaptation_info:
+    original_work: "bs-o-cs-3-babysitter-lei"
+    original_title: "老雷突袭情报局（原：带娃的老雷）"
+    original_author: "lanse（笑天神犬）"
+    adaptation_approach: "original-adaptation"
+    key_changes: |
+      1. 主视角企划：全篇第三人称限知于老雷，镜头全程钉在他肩上，不使用全知视角
+      2. 叙事手法：慢节奏推进，极致五感细节（触觉/温度/毛发/衣料/肌肉群/嗅觉/味觉/听觉/视觉）
+      3. 连续性铁律：补齐原作所有"两分钟后/几天后/下一秒"式跳切与断片，叙事从哄睡到夺盘无缝顺下来
+      4. 不参考 bs-a-s-4 独立重写（楼下双牛、虎司机段落在本企划中按主视角重新成稿）
+      5. 虎司机灭口前先问出地址、再挪尸——挪尸是去情报局前的一步，本章之后的时间暂不展开
+
+  last_update: "2026-09-01"
+
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "0.1"
+      date: "2026-09-01"
+      changes: "立项：主视角连续扩写企划，规划五章骨架"
